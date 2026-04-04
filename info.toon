@@ -1,4 +1,4 @@
-books[10]{id,name,total_hadiths}:
+books[25]{id,name,total_hadiths}:
 abudawud,Sunan Abu Dawud,5274
 bukhari,Sahih al Bukhari,7563
 ibnmajah,Sunan Ibn Majah,4341
@@ -9,6 +9,21 @@ tirmidhi,Jami At Tirmidhi,3956
 nawawi,Forty Hadith of an-Nawawi,42
 qudsi,Forty Hadith Qudsi,40
 dehlawi,Forty Hadith of Shah Waliullah Dehlawi,40
+musnad-ahmed,Musnad Ahmed,329
+silsila-sahih,Silsila Sahiha,52
+mishkat,Mishkat al-Masabih,494
+fatah-alrabani,Fatah Al-Rabani,193
+bayhaqi,Sunan Al Kubra Bayhaqi,125
+shamail-tirmazi,Shamail-e-Tirmazi,147
+aladab-almufrad,Al-Adab Al-Mufrad,49
+mustadrak,Al Mustadrak,668
+sunan-darmi,Sunan Darmi,245
+muajam-tabarani-saghir,Muajam Saghir Tabarani,26
+musannaf-ibn-abi-shaybah,Musannaf Ibn Abi Shaybah,264
+sahih-ibn-khuzaymah,Sahih Ibn Khuzaymah,50
+sunan-al-daraqutni,Sunan al-Daraqutni,219
+bulugh-al-maram,Bulugh al-Maram,196
+lulu-wal-marjan,Al-Lu'lu wal-Marjan,47
 
 sections_abudawud[44]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
 0,,0,0,0,0
@@ -434,5 +449,58 @@ sections_qudsi[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
 1,Forty Hadith Qudsi,1,40,1,40
 
 sections_dehlawi[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_musnad-ahmed[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_silsila-sahih[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_mishkat[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_fatah-alrabani[3]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_bayhaqi[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_shamail-tirmazi[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_aladab-almufrad[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_mustadrak[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_sunan-darmi[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_muajam-tabarani-saghir[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_musannaf-ibn-abi-shaybah[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_sahih-ibn-khuzaymah[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_sunan-al-daraqutni[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_bulugh-al-maram[3]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+
+sections_lulu-wal-marjan[3]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+3,کتاب: ایمان کا بیان,5,46,,
+2,,1,4,,
+1,کتاب: فضائل و مناقب کا بیان,0,0,,
+3,کتاب: نماز سے متعلق احکام و مسائل,129,195,,
+2,کتاب: طہارت سے متعلق احکام ومسائل,1,128,,
+1,,0,0,,
+1,,1,232,,
+1,,0,318,,
+1,,1,263,,
+1,,1,25,,
+1,,1,244,,
+2,باغیوں کے ساتھ جہاد کے متعلق کتاب اور یہ جہاد کی آخری کتاب ہے,2644,2671,,
+1,,1,2858,,
+1,,1,48,,
+1,,1,146,,
+1,,1,124,,
+3,ایمان اور اسلام کی کتاب,51,103,,
+2,کتاب کی قسمِ اوّل … توحید اور دین کے اصولوں کا حصہ,1,50,,
+1,,104,192,,
+2,کتاب ایمان کا بیان,1,169,,
+1,,300,688,,
+1,,1,51,,
+1,,1,1717,,
 0,,0,0,0,0
 1,Forty Hadith of Shah Waliullah Dehlawi,1,40,1,40

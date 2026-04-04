@@ -41,7 +41,7 @@ The original [hadith-api](https://github.com/fawazahmed0/hadith-api) by [@fawaza
 ## URL Structure
 
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@master/{endpoint}
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/{endpoint}
 ```
 
 Supports HTTP GET. Files are served directly from the CDN with automatic Gzip/Brotli compression.
@@ -66,7 +66,7 @@ Supports HTTP GET. Files are served directly from the CDN with automatic Gzip/Br
 
 **Example — Get Sahih Bukhari, Section 1 (Revelation):**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@master/editions/eng-bukhari/sections/1.toon
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/eng-bukhari/sections/1.toon
 ```
 
 ### Chapter Translations
@@ -77,7 +77,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@master/editions/eng-bukhar
 
 **Example — Get Bukhari chapter names in all languages:**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@master/editions/bukhari/chapter_translations.toon
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/chapter_translations.toon
 ```
 
 ---

@@ -98,7 +98,7 @@ def convert_info_to_toon(info_path: str, output_dir: str):
 if __name__ == "__main__":
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     info_path = os.path.join(base_dir, "hadith-api-1", "info.json")
-    output_dir = os.path.join(base_dir, "output")
+    output_dir = base_dir
 
     if len(sys.argv) > 1:
         info_path = sys.argv[1]

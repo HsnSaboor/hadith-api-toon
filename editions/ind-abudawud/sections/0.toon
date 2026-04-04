@@ -1,7 +1,3 @@
 metadata:
-  section_id: 0
-  section_name: 
-  hadith_first: 0
-  hadith_last: 0
 
-hadiths[0]{hadithnumber,text,reference_book,reference_hadith}:
+hadiths[0]{hadithnumber,text,reference_book,reference_hadith,grades,reference,international_number,narrator_chain,chapter_intro}:

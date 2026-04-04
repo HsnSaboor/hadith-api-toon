@@ -72,7 +72,7 @@ def convert_chapter_translations(src_path: str, output_dir: str):
 if __name__ == "__main__":
     base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     src = os.path.join(os.path.expanduser("~"), "Downloads", "chapterTranslations.json")
-    out = os.path.join(base, "output", "editions")
+    out = os.path.join(base, "editions")
 
     if len(sys.argv) > 1:
         src = sys.argv[1]

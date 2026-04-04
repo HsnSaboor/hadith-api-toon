@@ -160,7 +160,7 @@ def validate_all(output_dir, info_toon_path):
 
     # Parse editions.toon for edition->book mapping
     edition_to_book = {}
-    editions_path = os.path.join(os.path.dirname(info_toon_path), "editions.toon")
+    editions_path = os.path.join(os.path.dirname(info_toon), "editions.toon")
     with open(editions_path, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
@@ -277,7 +277,7 @@ def validate_all(output_dir, info_toon_path):
 
 if __name__ == "__main__":
     base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    output_dir = os.path.join(base, "output")
-    info_toon = os.path.join(output_dir, "info.toon")
+    output_dir = base
+    info_toon = os.path.join(base, "info.toon")
 
     validate_all(output_dir, info_toon)

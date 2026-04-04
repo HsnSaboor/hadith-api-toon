@@ -150,8 +150,8 @@ def convert_all_sections(base_dir: str, editions_path: str, output_dir: str):
 if __name__ == "__main__":
     base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     hadith_api_dir = os.path.join(base, "hadith-api-1")
-    editions_toon = os.path.join(base, "output", "editions.toon")
-    output_dir = os.path.join(base, "output", "editions")
+    editions_toon = os.path.join(base, "editions.toon")
+    output_dir = os.path.join(base, "editions")
 
     if len(sys.argv) > 1:
         hadith_api_dir = sys.argv[1]

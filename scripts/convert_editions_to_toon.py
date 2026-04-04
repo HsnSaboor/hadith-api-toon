@@ -63,7 +63,7 @@ def convert_editions_to_toon(editions_path: str, output_dir: str):
 if __name__ == "__main__":
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     editions_path = os.path.join(base_dir, "hadith-api-1", "editions.json")
-    output_dir = os.path.join(base_dir, "output")
+    output_dir = base_dir
 
     if len(sys.argv) > 1:
         editions_path = sys.argv[1]

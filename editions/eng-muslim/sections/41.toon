@@ -1,19 +1,13 @@
 metadata:
-  section_id: 41
-  section_name: The Book of Poetry
-  hadith_first: 5887
-  hadith_last: 5896
-  arabic_first: 2255.03
-  arabic_last: 2260
 
-hadiths[10]{hadithnumber,arabicnumber,text,reference_book,reference_hadith}:
-5887,2255.03,"Amr b. Sharid reported on the authority of his father that Allah's Messenger (ﷺ) asked him to recite poetry, the rest of the hadith is the same, but with this addition:""He (that is Umayya b. Abu Salt) was about to become a Muslim"", and in the hadith transmitted on the authority of Ibn Mahdi (the words are) ""He was almost a Muslim in his poetry",41,2
-5888,2256.01,"Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest word spoken by an Arab (pre-Islamic) in poetry is this verse of Labid: ""Behold! apart from Allah everything is vain",41,3
-5889,2256.02,"Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest word uttered by a poet is this verse of Labid: ""Behold! apart from Allah everything is vain,"" and Umayya b. Abu Salt was almost a Muslim",41,4
-5890,2256.03,"Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest verse recited by a poet is: ""Behold! apart from Allah everything is vain,"" and Ibn Abu Salt was almost a Muslim",41,5
-5891,2256.04,"Abu Huraira reported Allah's Apostle (ﷺ) as saying:The truest couplet recited by a poet is: ""Behold! apart from Allah everything is vain,"" and he made no addition to it",41,6
-5892,2256.05,"Abu Huraira reported:I heard Allah's Messenger (ﷺ) as saying: The truest word which the poet stated is the word of Labid: ""Behold! apart from Allah everything is vain",41,7
-5893,2257,"Abu Huraira reported Allah's Messenger (ﷺ) as saying:It is better for a man's belly to be stuffed with pus which corrodes it than to stuff (one's mind) with frivolous poetry. Abu Bakr has reported it with a slight variation of wording",41,8
-5894,2258,"Sa`d reported Allah's Apostle (ﷺ) as saying:It is better for the belly of any one of you to be stuffed with pus rather than to stuff (one's mind) with poetry",41,9
-5895,2259,"Abu Sa`id Al-Khudri reported:We were going with Allah's Messenger (ﷺ). As we reached the place (known as) `Arj there met (us) a poet who had been reciting poetry. Thereupon Allah's Messenger (ﷺ) said: Catch the satan or detain the satan, for filling the belly of a man with pus is better than stuffing his brain with poetry",41,10
-5896,2260,"Buraida reported on the authority of his father that Allah's Apostle (ﷺ) said:He who played Nardashir (a game similar to backgammon) is like one who dyed his hand with the flesh and blood of swine",41,11
+hadiths[10]{hadithnumber,arabicnumber,text,reference_book,reference_hadith,grades,reference,international_number,narrator_chain,chapter_intro}:
+5887,2255.03,"Amr b. Sharid reported on the authority of his father that Allah's Messenger (ﷺ) asked him to recite poetry, the rest of the hadith is the same, but with this addition:""He (that is Umayya b. Abu Salt) was about to become a Muslim"", and in the hadith transmitted on the authority of Ibn Mahdi (the words are) ""He was almost a Muslim in his poetry",41,2,,,,,
+5888,2256.01,"Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest word spoken by an Arab (pre-Islamic) in poetry is this verse of Labid: ""Behold! apart from Allah everything is vain",41,3,,,,,
+5889,2256.02,"Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest word uttered by a poet is this verse of Labid: ""Behold! apart from Allah everything is vain,"" and Umayya b. Abu Salt was almost a Muslim",41,4,,,,,
+5890,2256.03,"Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest verse recited by a poet is: ""Behold! apart from Allah everything is vain,"" and Ibn Abu Salt was almost a Muslim",41,5,,,,,
+5891,2256.04,"Abu Huraira reported Allah's Apostle (ﷺ) as saying:The truest couplet recited by a poet is: ""Behold! apart from Allah everything is vain,"" and he made no addition to it",41,6,,,,,
+5892,2256.05,"Abu Huraira reported:I heard Allah's Messenger (ﷺ) as saying: The truest word which the poet stated is the word of Labid: ""Behold! apart from Allah everything is vain",41,7,,,,,
+5893,2257,"Abu Huraira reported Allah's Messenger (ﷺ) as saying:It is better for a man's belly to be stuffed with pus which corrodes it than to stuff (one's mind) with frivolous poetry. Abu Bakr has reported it with a slight variation of wording",41,8,,,,,
+5894,2258,"Sa`d reported Allah's Apostle (ﷺ) as saying:It is better for the belly of any one of you to be stuffed with pus rather than to stuff (one's mind) with poetry",41,9,,,,,
+5895,2259,"Abu Sa`id Al-Khudri reported:We were going with Allah's Messenger (ﷺ). As we reached the place (known as) `Arj there met (us) a poet who had been reciting poetry. Thereupon Allah's Messenger (ﷺ) said: Catch the satan or detain the satan, for filling the belly of a man with pus is better than stuffing his brain with poetry",41,10,,,,,
+5896,2260,"Buraida reported on the authority of his father that Allah's Apostle (ﷺ) said:He who played Nardashir (a game similar to backgammon) is like one who dyed his hand with the flesh and blood of swine",41,11,,,,,

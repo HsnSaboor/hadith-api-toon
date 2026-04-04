@@ -5,3 +5,9 @@ output/
 sandbox/
 node_modules/
 sunnah_dataset.json
+
+# Scraped data and logs
+scraped_data/
+*.log
+.venv/
+__pycache__/

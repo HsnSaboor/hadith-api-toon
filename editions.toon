@@ -1,4 +1,4 @@
-editions[104]{id,book,author,language,has_sections,dir,comments,path}:
+editions[109]{id,book,author,language,has_sections,dir,comments,path}:
 ara-abudawud,abudawud,Unknown,Arabic,true,rtl,,editions/ara-abudawud
 ara-abudawud1,abudawud,Unknown,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-abudawud1
 ben-abudawud,abudawud,Unknown,Bengali,true,ltr,,editions/ben-abudawud
@@ -103,3 +103,8 @@ urd-shamail-tirmazi,shamail-tirmazi,Imam At-Tirmidhi,Urdu,true,rtl,,editions/urd
 urd-silsila-sahih,silsila-sahih,Al-Albani,Urdu,true,rtl,,editions/urd-silsila-sahih
 urd-sunan-al-daraqutni,sunan-al-daraqutni,Imam Ad-Daraqutni,Urdu,true,rtl,,editions/urd-sunan-al-daraqutni
 urd-sunan-darmi,sunan-darmi,Imam Ad-Darimi,Urdu,true,rtl,,editions/urd-sunan-darmi
+eng-musnad-ahmed,musnad-ahmed,Unknown,English,true,ltr,,editions/eng-musnad-ahmed
+eng-aladab-almufrad,aladab-almufrad,Unknown,English,true,ltr,,editions/eng-aladab-almufrad
+eng-shamail-tirmazi,shamail-tirmazi,Unknown,English,true,ltr,,editions/eng-shamail-tirmazi
+eng-mishkat,mishkat,Unknown,English,true,ltr,,editions/eng-mishkat
+eng-bulugh-al-maram,bulugh-al-maram,Unknown,English,true,ltr,,editions/eng-bulugh-al-maram

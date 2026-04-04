@@ -1,0 +1,7 @@
+hadith-api-1/
+output/
+*.gz
+*.br
+sandbox/
+node_modules/
+sunnah_dataset.json

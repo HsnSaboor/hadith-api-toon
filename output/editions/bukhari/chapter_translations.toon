@@ -1,0 +1,777 @@
+chapter_translations[776]{lang,chapter_id,name}:
+ar,1,كِتَابُ بَدْءِ الوَحْيِ
+ar,2,كِتَابُ الإِيمَانِ
+ar,3,كِتَابُ العِلْمِ
+ar,4,كِتَابُ الوُضُوءِ
+ar,5,كِتَابُ الغُسْلِ
+ar,6,كِتَابُ الحَيْضِ
+ar,7,كِتَابُ التَّيَمُّمِ
+ar,8,كِتَابُ الصَّلَاةِ
+ar,9,كِتَابُ مَوَاقِيتِ الصَّلَاةِ
+ar,10,كِتَابُ الأَذَانِ
+ar,11,كِتَابُ الجُمُعَةِ
+ar,12,كِتَابُ خَوْفِ الصَّلَاةِ
+ar,13,كِتَابُ العِيدَيْنِ
+ar,14,كِتَابُ الوِتْرِ
+ar,15,كِتَابُ الِاسْتِسْقَاءِ
+ar,16,كِتَابُ الكُسُوفِ
+ar,17,كِتَابُ سُجُودِ القُرْآنِ
+ar,18,كِتَابُ تَقْصِيرِ الصَّلَاةِ
+ar,19,كِتَابُ التَّهَجُّدِ
+ar,20,كِتَابُ فَضْلِ الصَّلَاةِ فِي مَسْجِدِ مَكَّةَ وَالمَدِينَةِ
+ar,21,كِتَابُ العَمَلِ فِي الصَّلَاةِ
+ar,22,كِتَابُ السَّهْوِ
+ar,23,كِتَابُ الجَنَائِزِ
+ar,24,كِتَابُ الزَّكَاةِ
+ar,25,كِتَابُ الحَجِّ
+ar,26,كِتَابُ العُمْرَةِ
+ar,27,كِتَابُ المُحْصَرِ
+ar,28,كِتَابُ جَزَاءِ الصَّيْدِ
+ar,29,كِتَابُ فَضَائِلِ المَدِينَةِ
+ar,30,كِتَابُ الصَّوْمِ
+ar,31,كِتَابُ صَلَاةِ التَّرَاوِيحِ
+ar,32,كِتَابُ فَضْلِ لَيْلَةِ القَدْرِ
+ar,33,كِتَابُ الِاعْتِكَافِ
+ar,34,كِتَابُ بُيُوعِ
+ar,35,كِتَابُ السَّلَمِ
+ar,36,كِتَابُ الشُّفْعَةِ
+ar,37,كِتَابُ الإِجَارَةِ
+ar,38,كِتَابُ الحِوَالَةِ
+ar,39,كِتَابُ الكَفَالَةِ
+ar,40,كِتَابُ الوَكَالَةِ
+ar,41,كِتَابُ المَزَارَعَةِ
+ar,42,كِتَابُ المُسَاقَاةِ
+ar,43,كِتَابُ فِي الِاسْتِقْرَاضِ وَأَدَاءِ الدُّيُونِ وَالحَجْرِ وَالتَّفْلِيسِ
+ar,44,كِتَابُ الخُصُومَاتِ
+ar,45,كِتَابُ اللُّقَطَةِ
+ar,46,كِتَابُ المَظَالِمِ
+ar,47,كِتَابُ الشَّرِكَةِ
+ar,48,كِتَابُ الرَّهْنِ
+ar,49,كِتَابُ العِتْقِ
+ar,50,كِتَابُ المُكَاتَبِ
+ar,51,كِتَابُ الهِبَةِ وَفَضْلِهَا
+ar,52,كِتَابُ الشَّهَادَاتِ
+ar,53,كِتَابُ الصُّلْحِ
+ar,54,كِتَابُ الشُّرُوطِ
+ar,55,كِتَابُ الوَصَايَا
+ar,56,كِتَابُ الجِهَادِ وَالسِّيَرِ
+ar,57,كِتَابُ فَرْضِ الخُمُسِ
+ar,58,كِتَابُ الجِزْيَةِ وَالمُوَادَعَةِ
+ar,59,كِتَابُ بَدْءِ الخَلْقِ
+ar,60,كِتَابُ أَحَادِيثِ الأَنْبِيَاءِ
+ar,61,كِتَابُ المَنَاقِبِ
+ar,62,كِتَابُ فَضَائِلِ أَصْحَابِ النَّبِيِّ ﷺ
+ar,63,كِتَابُ مَنَاقِبِ الأَنْصَارِ
+ar,64,كِتَابُ المَغَازِي
+ar,65,كِتَابُ التَّفْسِيرِ
+ar,66,كِتَابُ فَضَائِلِ القُرْآنِ
+ar,67,كِتَابُ النِّكَاحِ
+ar,68,كِتَابُ الطَّلَاقِ
+ar,69,كِتَابُ النَّفَقَاتِ
+ar,70,كِتَابُ الأَطْعِمَةِ
+ar,71,كِتَابُ العَقِيقَةِ
+ar,72,كِتَابُ الذَّبَائِحِ وَالصَّيْدِ
+ar,73,كِتَابُ الأَضَاحِي
+ar,74,كِتَابُ الأَشْرِبَةِ
+ar,75,كِتَابُ المَرْضَى
+ar,76,كِتَابُ الطِّبِّ
+ar,77,كِتَابُ اللِّبَاسِ
+ar,78,كِتَابُ الأَدَبِ
+ar,79,كِتَابُ الِاسْتِئْذَانِ
+ar,80,كِتَابُ الدَّعَوَاتِ
+ar,81,كِتَابُ الرِّقَاقِ
+ar,82,كِتَابُ القَدَرِ
+ar,83,كِتَابُ الأَيْمَانِ وَالنُّذُورِ
+ar,84,كِتَابُ كَفَّارَاتِ الأَيْمَانِ
+ar,85,كِتَابُ الفَرَائِضِ
+ar,86,كِتَابُ الحُدُودِ
+ar,87,كِتَابُ الدِّيَاتِ
+ar,88,كِتَابُ اسْتِتَابَةِ المُرْتَدِّينَ
+ar,89,كِتَابُ الإِكْرَاهِ
+ar,90,كِتَابُ الحِيَلِ
+ar,91,كِتَابُ التَّعْبِيرِ
+ar,92,كِتَابُ الفِتَنِ
+ar,93,كِتَابُ الأَحْكَامِ
+ar,94,كِتَابُ التَّمَنِّي
+ar,95,كِتَابُ أَخْبَارِ الآحَادِ
+ar,96,كِتَابُ الِاعْتِصَامِ بِالكِتَابِ وَالسُّنَّةِ
+ar,97,كِتَابُ التَّوْحِيدِ
+bn,1,অহি-র সূচনা
+bn,2,ঈমান
+bn,3,ইলম (জ্ঞান)
+bn,4,ওজু
+bn,5,গোসল
+bn,6,হায়েজ (ঋতুস্রাব)
+bn,7,তায়াম্মুম
+bn,8,সালাত (নামাজ)
+bn,9,সালাতের ওয়াক্ত
+bn,10,আজান
+bn,11,জুমা
+bn,12,খওফ (ভীতি) সালাত
+bn,13,দুই ঈদ
+bn,14,বিতর সালাত
+bn,15,ইসতিসকা (বৃষ্টির দোয়া)
+bn,16,কুসূফ (সূর্যগ্রহণ)
+bn,17,কুরআনের সিজদা
+bn,18,সালাত কসর (সংক্ষিপ্তকরণ)
+bn,19,তাহাজ্জুদ
+bn,20,মক্কা ও মদিনার মসজিদের ফজিলত
+bn,21,সালাতের ভেতর আমল
+bn,22,সাহু সিজদা
+bn,23,জানাজা
+bn,24,জাকাত
+bn,25,হজ
+bn,26,উমরা
+bn,27,মুহসার (হজে বাধাপ্রাপ্ত)
+bn,28,শিকারের বিনিময়
+bn,29,মদিনার ফজিলত
+bn,30,সওম (রোজা)
+bn,31,তারাবিহ
+bn,32,লাইলাতুল কদর
+bn,33,ইতিকাফ
+bn,34,ক্রয়-বিক্রয় (ব্যবসা)
+bn,35,সালাম (অগ্রিম ক্রয়-বিক্রয়)
+bn,36,শুফআ (অগ্রক্রয়)
+bn,37,ইজারা (ভাড়া বা মজুরি)
+bn,38,হওয়ালা (ঋণ স্থানান্তর)
+bn,39,কাফালাত (জামিনদার)
+bn,40,ওকালত (প্রতিনিধিত্ব)
+bn,41,কৃষি ও চাষাবাদ
+bn,42,পানি বণ্টন
+bn,43,ঋণ গ্রহণ ও দেউলিয়া
+bn,44,ঝগড়া-বিবাদ
+bn,45,লুকতাহ (কুড়িয়ে পাওয়া বস্তু)
+bn,46,মজলাম (জুলুম ও নিপীড়ন)
+bn,47,শিরকত (অংশীদারিত্ব)
+bn,48,রহিন (বন্ধক)
+bn,49,দাস মুক্তি
+bn,50,মুকাতাব (চুক্তিবদ্ধ দাস)
+bn,51,হিবা (দান)
+bn,52,সাক্ষ্য
+bn,53,সন্ধি
+bn,54,শর্তসমূহ
+bn,55,ওসিয়ত
+bn,56,জিহাদ
+bn,57,খুমুস (গণিমতের এক-পঞ্চমাংশ)
+bn,58,জিজিয়া ও সন্ধি
+bn,59,সৃষ্টির সূচনা
+bn,60,নবীগণের হাদিস
+bn,61,মর্যাদা ও বৈশিষ্ট্য (মানাকিব)
+bn,62,সাহাবায়ে কেরামের ফজিলত
+bn,63,আনসারদের মর্যাদা
+bn,64,মাগাজি (যুদ্ধাভিযান)
+bn,65,তাফসির
+bn,66,কুরআনের ফজিলত
+bn,67,নিকাহ (বিয়ে)
+bn,68,তালাক
+bn,69,ভরণ-পোষণ
+bn,70,খাদ্যদ্রব্য (আতিমাহ)
+bn,71,আকিকা
+bn,72,যবেহ ও শিকার
+bn,73,কোরবানি
+bn,74,পানীয়
+bn,75,রোগী
+bn,76,চিকিৎসা
+bn,77,পোশাক-পরিচ্ছদ
+bn,78,আদব (শিষ্টাচার)
+bn,79,অনুমতি প্রার্থনা
+bn,80,দোয়া
+bn,81,রিকাক (পরকাল বিষয়ক)
+bn,82,তকদির
+bn,83,কসম ও মান্নত
+bn,84,কসমের কাফফারা
+bn,85,ফরায়েজ (উত্তরাধিকার)
+bn,86,হুদুদ (শাস্তি)
+bn,87,দিয়াত (রক্তপণ)
+bn,88,মুরতাদদের তওবা করানো
+bn,89,জবরদস্তি (ইকরাম)
+bn,90,হিলা (কৌশল)
+bn,91,স্বপ্ন বা তাবীর
+bn,92,ফিতনা
+bn,93,আহকাম (বিধান)
+bn,94,আকাঙ্ক্ষা
+bn,95,খবরে ওয়াহিদ
+bn,96,কুরআন ও সুন্নাহকে আঁকড়ে ধরা
+bn,97,তাওহিদ
+fr,1,Le début de la Révélation
+fr,2,La Foi (L'Imân)
+fr,3,La Science
+fr,4,Les Ablutions
+fr,5,Le Lavage Rituel (Ghusl)
+fr,6,Les Menstrues
+fr,7,L'Ablution Sèche (Tayammum)
+fr,8,La Prière
+fr,9,Les Horaires de la Prière
+fr,10,L'Appel à la Prière (Adhân)
+fr,11,La Prière du Vendredi
+fr,12,La Prière de la Peur
+fr,13,Les Deux Fêtes ('Id)
+fr,14,La Prière du Witr
+fr,15,La Demande de Pluie (Istisqâ)
+fr,16,Les Éclipses
+fr,17,La Prostration de la Lecture
+fr,18,L'Abrègement de la Prière (Qasr)
+fr,19,La Prière de Nuit (Tahajjud)
+fr,20,Les Mérites des Mosquées de La Mecque et Médine
+fr,21,Les Gestes durant la Prière
+fr,22,L'Oubli dans la Prière
+fr,23,Les Funérailles
+fr,24,L'Aumône Légale (Zakât)
+fr,25,Le Pèlerinage (Hajj)
+fr,26,Le Petit Pèlerinage ('Umra)
+fr,27,L'Empêchement durant le Pèlerinage
+fr,28,La Compensation de la Chasse
+fr,29,Les Mérites de Médine
+fr,30,Le Jeûne (Siyam)
+fr,31,La Prière de Tarâwîh
+fr,32,Les Mérites de la Nuit du Destin
+fr,33,La Retraite Spirituelle (I'tikâf)
+fr,34,Les Ventes et le Commerce
+fr,35,Le Paiement Anticipé (Salam)
+fr,36,Le Droit de Préemption
+fr,37,Le Louage (Location/Emploi)
+fr,38,Le Transfert de Dette (Hawâla)
+fr,39,Le Cautionnement (Kafâla)
+fr,40,Le Mandat (Wakâla)
+fr,41,L'Agriculture
+fr,42,L'Irrigation
+fr,43,Les Emprunts et l'Insolvabilité
+fr,44,Les Litiges
+fr,45,Les Objets Trouvés
+fr,46,Les Injustices
+fr,47,L'Association (Shirka)
+fr,48,Le Gage
+fr,49,L'Affranchissement des Esclaves
+fr,50,L'Émancipation Contractuelle
+fr,51,Les Dons et Cadeaux
+fr,52,Les Témoignages
+fr,53,La Réconciliation
+fr,54,Les Conditions
+fr,55,Les Testaments
+fr,56,Le Combat Sacré (Jihâd)
+fr,57,Le Cinquième du Butin
+fr,58,La Capitation (Jizya)
+fr,59,Le Début de la Création
+fr,60,Les Récits des Prophètes
+fr,61,Les Vertus Élogieuses
+fr,62,Les Mérites des Compagnons
+fr,63,Les Mérites des Ansârs
+fr,64,Les Expéditions Militaires (Maghâzî)
+fr,65,L'Exégèse (Tafsîr)
+fr,66,Les Mérites du Coran
+fr,67,Le Mariage (Nikâh)
+fr,68,Le Divorce
+fr,69,Les Dépenses Familiales
+fr,70,Les Aliments
+fr,71,Le Sacrifice à la Naissance ('Aqîqa)
+fr,72,La Chasse et l'Abattage
+fr,73,Les Sacrifices de l'Aïd
+fr,74,Les Boissons
+fr,75,Les Malades
+fr,76,La Médecine
+fr,77,Les Vêtements
+fr,78,L'Éducation et les Convenances (Adab)
+fr,79,La Demande d'Autorisation
+fr,80,Les Invocations
+fr,81,L'Adoucissement des Cœurs
+fr,82,La Prédestination (Qadar)
+fr,83,Les Serments et les Vœux
+fr,84,L'Expiation des Serments
+fr,85,Les Successions (Farâ'id)
+fr,86,Les Peines Légales (Hudûd)
+fr,87,Le Prix du Sang (Diyât)
+fr,88,Le Repentir des Apostats
+fr,89,La Contrainte
+fr,90,Les Ruses
+fr,91,L'Interprétation des Rêves
+fr,92,Les Troubles (Fitan)
+fr,93,Les Jugements
+fr,94,Les Souhaits
+fr,95,Les Informations de source unique
+fr,96,L'Attachement au Livre et à la Sunna
+fr,97,L'Unicité de Dieu (Tawhîd)
+id,1,Permulaan Wahyu
+id,2,Iman
+id,3,Ilmu
+id,4,Wudhu
+id,5,Mandi (Janabah)
+id,6,Haid
+id,7,Tayamum
+id,8,Shalat
+id,9,Waktu-Waktu Shalat
+id,10,Adzan
+id,11,Jumat
+id,12,Shalat Khauf (Saat Takut/Perang)
+id,13,Dua Hari Raya (Idul Fitri & Adha)
+id,14,Witir
+id,15,Istisqa (Meminta Hujan)
+id,16,Gerhana (Kusuf)
+id,17,Sujud Tilawah (Sujud Al-Qur'an)
+id,18,Mengqashar Shalat
+id,19,Tahajjud (Shalat Malam)
+id,20,Keutamaan Masjid Makkah & Madinah
+id,21,Tindakan dalam Shalat
+id,22,Sujud Sahwi (Lupa dalam Shalat)
+id,23,Jenazah
+id,24,Zakat
+id,25,Haji
+id,26,Umrah
+id,27,Al-Muhshar (Terhalang Haji)
+id,28,Denda Berburu saat Ihram
+id,29,Keutamaan Kota Madinah
+id,30,Puasa
+id,31,Shalat Tarawih
+id,32,Keutamaan Lailatul Qadar
+id,33,I'tikaf
+id,34,Jual Beli
+id,35,Salam (Pesan Barang)
+id,36,Syuf'ah (Hak Membeli Dahulu)
+id,37,Ijarah (Sewa & Upah)
+id,38,Hawalah (Pengalihan Utang)
+id,39,Kafalah (Jaminan/Tanggungan)
+id,40,Wakala (Perwakilan)
+id,41,Bercocok Tanam
+id,42,Pengairan
+id,43,Pinjaman & Kebangkrutan
+id,44,Pertikaian (Perselisihan)
+id,45,Luqathah (Barang Temuan)
+id,46,Kezaliman
+id,47,Syirkah (Perserikatan)
+id,48,Gadai
+id,49,Memerdekakan Budak
+id,50,Mukatab (Budak Perjanjian)
+id,51,Hibah (Pemberian)
+id,52,Persaksian
+id,53,Perdamaian (Sulh)
+id,54,Syarat-Syarat
+id,55,Wasiat
+id,56,Jihad
+id,57,Khumus (Seperlima Ganimah)
+id,58,Jizyah (Pajak Perlindungan)
+id,59,Permulaan Makhluk
+id,60,Kisah Para Nabi
+id,61,Keistimewaan (Manakib)
+id,62,Keutamaan Sahabat Nabi
+id,63,Keutamaan Kaum Anshar
+id,64,Al-Maghazi (Peperangan)
+id,65,Tafsir Al-Qur'an
+id,66,Keutamaan Al-Qur'an
+id,67,Nikah
+id,68,Thalak (Perceraian)
+id,69,Nafkah
+id,70,Makanan
+id,71,Aqiqah
+id,72,Sembelihan & Berburu
+id,73,Kurban
+id,74,Minuman
+id,75,Orang Sakit
+id,76,Thib (Pengobatan)
+id,77,Pakaian
+id,78,Adab (Etika)
+id,79,Izin (Meminta Izin)
+id,80,Doa-Doa
+id,81,Ar-Riqaq (Pelunak Hati)
+id,82,Takdir
+id,83,Sumpah & Nazar
+id,84,Kafarat (Denda Sumpah)
+id,85,Faraidh (Hukum Waris)
+id,86,Hudud (Hukum Pidana)
+id,87,Diyat (Denda Darah)
+id,88,Menyuruh Tobat Orang Murtad
+id,89,Ikrah (Paksaan)
+id,90,Hiyal (Tipu Muslihat)
+id,91,Takbir Mimpi
+id,92,Fitnah (Huru-Hara)
+id,93,Hukum-Hukum (Ahkam)
+id,94,Cita-Cita (Harapan)
+id,95,Khabar Ahad
+id,96,Berpegang Teguh pada Al-Qur'an & Sunnah
+id,97,Tauhid
+ru,1,Начало откровений
+ru,2,Вера (Иман)
+ru,3,Знание
+ru,4,Омовение (Вуду)
+ru,5,Полное омовение (Гусль)
+ru,6,Менструация (Хайд)
+ru,7,Очищение песком (Тайаммум)
+ru,8,Молитва (Намаз)
+ru,9,Времена молитв
+ru,10,Азан (Призыв к молитве)
+ru,11,Пятничная молитва (Джума)
+ru,12,Молитва в страхе
+ru,13,Два праздника (Ид)
+ru,14,Витра-намаз
+ru,15,Молитва о ниспослании дождя
+ru,16,Затмения
+ru,17,Земной поклон при чтении Корана
+ru,18,Сокращение молитв в пути
+ru,19,Ночные молитвы (Тахаджуд)
+ru,20,Достоинства мечетей Мекки и Медины
+ru,21,Действия во время молитвы
+ru,22,Ошибки (забывчивость) в молитве
+ru,23,Похороны (Джаназа)
+ru,24,Закят (Обязательная милостыня)
+ru,25,Хадж (Паломничество)
+ru,26,Умра (Малое паломничество)
+ru,27,Препятствия в паломничестве
+ru,28,Возмещение за охоту в ихраме
+ru,29,Достоинства Медины
+ru,30,Пост (Саум)
+ru,31,Молитва Таравих
+ru,32,Достоинства Ночи Предопределения
+ru,33,Уединение в мечети (Итикаф)
+ru,34,Торговля
+ru,35,Предоплата (Салам)
+ru,36,Право преимущественной покупки
+ru,37,Наем (Аренда)
+ru,38,Перевод долга (Хаваля)
+ru,39,Поручительство (Кафаля)
+ru,40,Представительство (Вакаля)
+ru,41,Земледелие
+ru,42,Орошение и распределение воды
+ru,43,Займы и банкротство
+ru,44,Тяжбы (Споры)
+ru,45,Находки
+ru,46,Притеснения (Зульм)
+ru,47,Товарищество (Ширка)
+ru,48,Залог
+ru,49,Освобождение рабов
+ru,50,Договор об освобождении раба
+ru,51,Подарки
+ru,52,Свидетельства
+ru,53,Примирение
+ru,54,Условия
+ru,55,Завещания
+ru,56,Джихад (Борьба на пути Аллаха)
+ru,57,Пятая часть трофеев
+ru,58,Джизья (Подушный налог)
+ru,59,Начало творения
+ru,60,Пророки
+ru,61,Достоинства (Манакиб)
+ru,62,Достоинства сподвижников Пророка
+ru,63,Достоинства ансаров
+ru,64,Военные походы (Магази)
+ru,65,Толкование Корана (Тафсир)
+ru,66,Достоинства Корана
+ru,67,Брак (Никах)
+ru,68,Развод (Таляк)
+ru,69,Расходы на содержание семьи
+ru,70,Еда и пища
+ru,71,Жертвоприношение по случаю рождения ребенка
+ru,72,Охота и заклание
+ru,73,Праздничные жертвоприношения
+ru,74,Напитки
+ru,75,Больные
+ru,76,Медицина
+ru,77,Одежда
+ru,78,Воспитание и этикет (Адаб)
+ru,79,Испрашивание разрешения
+ru,80,Мольбы (Дуа)
+ru,81,Смягчение сердец
+ru,82,Предопределение
+ru,83,Клятвы и обеты
+ru,84,Искупление клятв
+ru,85,Наследование (Фараид)
+ru,86,Наказания (Худуд)
+ru,87,Вира (Дийат — выкуп за кровь)
+ru,88,О вероотступниках
+ru,89,Принуждение
+ru,90,Уловки (Хияль)
+ru,91,Толкование снов
+ru,92,Смуты (Фитны)
+ru,93,Постановления (Ахкаам)
+ru,94,Желания
+ru,95,Единичные сообщения
+ru,96,Следование Корану и Сунне
+ru,97,Единобожие (Таухид)
+ta,1,வஹீ தொடக்கம்
+ta,2,ஈமான் (நம்பிக்கை)
+ta,3,ஞானம்
+ta,4,தூய்மை (வுளூ)
+ta,5,குளியல் (குஸ்ல்)
+ta,6,மாதவிடாய்
+ta,7,தயம்மும் (மண்ணால் தூய்மை)
+ta,8,தொழுகை (ஸலாத்)
+ta,9,தொழுகை நேரங்கள்
+ta,10,அழைப்பு (அதான்)
+ta,11,வெள்ளி தொழுகை
+ta,12,பய தொழுகை
+ta,13,இரு ஈத் தொழுகைகள்
+ta,14,வித் தொழுகை
+ta,15,மழை வேண்டுதல் (இஸ்திஸ்கா)
+ta,16,கிரகணத் தொழுகை
+ta,17,குர்ஆன் ஓதும்போது சுஜூத்
+ta,18,பயணத்தில் தொழுகையை குறுக்குதல்
+ta,19,இரவுத் தொழுகை (தஹஜ்ஜுத்)
+ta,20,மக்கா மற்றும் மதீனா மஸ்ஜித்களின் சிறப்பு
+ta,21,தொழுகையின் செயல்கள்
+ta,22,தொழுகையில் மறதி (சஹ்வ்)
+ta,23,ஜனாஸா (இறுதிச் சடங்குகள்)
+ta,24,ஜகாத் (கடமையான தர்மம்)
+ta,25,ஹஜ் (புனிதப் பயணம்)
+ta,26,உம்ரா (சிறிய புனிதப் பயணம்)
+ta,27,இஹ்ராம் அணிந்தவரின் தடைகள்
+ta,28,இஹ்ராமில் வேட்டையின் ஈடு
+ta,29,மதீனாவின் சிறப்புகள்
+ta,30,நோன்பு (ஸௌம்)
+ta,31,தராவீஹ் தொழுகை
+ta,32,லைலத்துல் கத்ரின் சிறப்புகள்
+ta,33,மஸ்ஜிதில் தங்குதல் (இஃதிகாஃப்)
+ta,34,வியாபாரம்
+ta,35,முன்பண வியாபாரம் (சலம்)
+ta,36,முன்னுரிமை உரிமை (ஷுஃபா)
+ta,37,வாடகை
+ta,38,கடன் மாற்றம் (ஹவாலா)
+ta,39,ஜாமீன் (பிணை)
+ta,40,வகாலத் (பிரதிநிதித்துவம்)
+ta,41,விவசாயம்
+ta,42,நீர்ப்பாசனம் மற்றும் நீர் பங்கீடு
+ta,43,கடன்கள் மற்றும் திவால்
+ta,44,வழக்குகள் மற்றும் சர்ச்சைகள்
+ta,45,தொலைந்த பொருட்கள் (லுக்தா)
+ta,46,அநியாயம் (ஜுல்ம்)
+ta,47,கூட்டாளி (ஷிரக்கத்)
+ta,48,அடமானம் (ரஹ்ன்)
+ta,49,அடிமை விடுதலை
+ta,50,அடிமை விடுதலை ஒப்பந்தம் (கிதாபத்)
+ta,51,பரிசுகள் மற்றும் கொடைகள்
+ta,52,சாட்சியம்
+ta,53,சமாதானம்
+ta,54,நிபந்தனைகள்
+ta,55,உயில் (வஸிய்யத்)
+ta,56,ஜிஹாத் (அல்லாஹ்வின் பாதையில் போராட்டம்)
+ta,57,போர்ச் செல்வத்தில் ஐந்தில் ஒரு பங்கு
+ta,58,ஜிஸ்யா (வரி)
+ta,59,படைப்புகளின் தொடக்கம்
+ta,60,நபிமார்கள்
+ta,61,சிறப்புகள் (மனாகிப்)
+ta,62,நபித்தோழர்களின் சிறப்புகள்
+ta,63,அன்சார்களின் சிறப்புகள்
+ta,64,படை எடுப்புகள் (மகாஸி)
+ta,65,குர்ஆன் விளக்கம் (தஃப்ஸீர்)
+ta,66,குர்ஆனின் சிறப்புகள்
+ta,67,திருமணம் ( நிகாஹ்)
+ta,68,விவாகரத்து (தலாக்)
+ta,69,குடும்பச் செலவினங்கள்
+ta,70,உணவு மற்றும் பானங்கள்
+ta,71,குழந்தை பிறப்பில் பலி (அகீகா)
+ta,72,வேட்டை மற்றும் பலியிடுதல்
+ta,73,ஈத் பலியிடுதல்
+ta,74,பானங்கள்
+ta,75,நோயாளிகள்
+ta,76,மருத்துவம்
+ta,77,ஆடை மற்றும் அலங்காரம்
+ta,78,நல்லொழுக்கம் மற்றும் நாகரிகம்
+ta,79,அனுமதி கேட்டல் (இஸ்தித்ஆன்)
+ta,80,துஆக்கள் (மன்றாடுதல்)
+ta,81,இருதயத்தை மென்மையாக்குதல்
+ta,82,விதி (கதர்)
+ta,83,சத்தியங்கள் மற்றும் நேர்ச்சைகள்
+ta,84,சத்தியத்தின் பிராயச்சித்தம்
+ta,85,வாரிசுரிமை (ஃபராஇத்)
+ta,86,தண்டனைகள் (ஹுதூத்)
+ta,87,இரத்தப் பழி (தியாத்)
+ta,88,சமயம் துறந்தவர்கள்
+ta,89,கட்டாயப்படுத்துதல்
+ta,90,சூழ்ச்சிகள்
+ta,91,கனவுகளின் விளக்கம்
+ta,92,சோதனைகள் (ஃபித்தன்கள்)
+ta,93,தீர்ப்புகள் (அஹ்காம்)
+ta,94,ஆசைகள்
+ta,95,ஒற்றை அறிவிப்புகள்
+ta,96,குர்ஆன் மற்றும் சுன்னாவைப் பின்பற்றுதல்
+ta,97,ஒருமைப்பாடு (தவ்ஹீத்)
+tr,1,Vahyin Başlangıcı
+tr,2,İman
+tr,3,İlim
+tr,4,Abdest
+tr,5,Gusül
+tr,6,Hayız
+tr,7,Teyemmüm
+tr,8,Namaz
+tr,9,Namaz Vakitleri
+tr,10,Ezan
+tr,11,Cuma
+tr,12,Korku Namazı
+tr,13,Bayramlar
+tr,14,Vitir Namazı
+tr,15,İstiska (Yağmur Duası)
+tr,16,Güneş Tutulması (Küsuf)
+tr,17,Kur'an Secdesi
+tr,18,Namazın Kısaltılması (Kasr)
+tr,19,Teheccüd
+tr,20,Mekke ve Medine Mescidlerinin Fazileti
+tr,21,Namazda Yapılacak İşler
+tr,22,Sehiv (Yanılma) Secdesi
+tr,23,Cenazeler
+tr,24,Zekât
+tr,25,Hac
+tr,26,Umre
+tr,27,Muhsar (Engellenen Hacı Adayı)
+tr,28,Av Cezası
+tr,29,Medine'nin Fazileti
+tr,30,Oruç
+tr,31,Teravih Namazı
+tr,32,Kadir Gecesinin Fazileti
+tr,33,İtikâf
+tr,34,Ticaret (Büyû')
+tr,35,Selem (Peşin Para Veresiye Mal)
+tr,36,Şüf'a (Ön Alım)
+tr,37,İcare (Kiralama)
+tr,38,Havâle
+tr,39,Kefalet
+tr,40,Vekâlet
+tr,41,Ziraat ve Çiftçilik
+tr,42,Sulama (Müsâkât)
+tr,43,Borçlanma ve İflas
+tr,44,Husumetler (Davalardaki Tartışmalar)
+tr,45,Buluntu Eşya (Lükata)
+tr,46,Mezalim (Haksızlıklar)
+tr,47,Şirket (Ortaklık)
+tr,48,Rehin
+tr,49,Köle Azat Etmek
+tr,50,Mükâtebe (Sözleşmeli Kölelik)
+tr,51,Hibe
+tr,52,Şahitlikler
+tr,53,Sulh
+tr,54,Şartlar
+tr,55,Vasiyetler
+tr,56,Cihat
+tr,57,Humus (Ganimetin Beşte Biri)
+tr,58,Cizye ve Barış
+tr,59,Yaradılışın Başlangıcı
+tr,60,Peygamberler
+tr,61,Menkıbeler (Faziletler)
+tr,62,Sahabelerin Fazileti
+tr,63,Ensar'ın Menkıbeleri
+tr,64,Meğazî (Savaşlar)
+tr,65,Tefsir
+tr,66,Kur'an-ı Kerim'in Faziletleri
+tr,67,Nikâh
+tr,68,Talâk (Boşanma)
+tr,69,Nafaka
+tr,70,Yemekler
+tr,71,Akîka Kurbanı
+tr,72,Avlanma ve Kesimler
+tr,73,Kurbanlar
+tr,74,İçecekler
+tr,75,Hastalar
+tr,76,Tıp
+tr,77,Giyim (Libas)
+tr,78,Edeb
+tr,79,İzin İsteme
+tr,80,Dualar
+tr,81,Rikâk (Kalbi İncelten Şeyler)
+tr,82,Kader
+tr,83,Yeminler ve Adaklar
+tr,84,Yemin Kefaretleri
+tr,85,Miras Hukuku (Ferâiz)
+tr,86,Hadler (Cezalar)
+tr,87,Diyetler
+tr,88,Mürtetler
+tr,89,Zorlama (İkrah)
+tr,90,Hileler
+tr,91,Rüya Tabiri
+tr,92,Fitneler
+tr,93,Hükümler
+tr,94,Temennî
+tr,95,Âhad Haberler
+tr,96,Kur'an ve Sünnete Sarılmak
+tr,97,Tevhid
+ur,1,کتاب الوحی
+ur,2,کتاب الایمان
+ur,3,کتاب العلم
+ur,4,کتاب الوضوء
+ur,5,کتاب الغسل
+ur,6,کتاب الحیض
+ur,7,کتاب التیمم
+ur,8,کتاب الصلوٰۃ
+ur,9,کتاب مواقیت الصلوٰۃ
+ur,10,کتاب الاذان
+ur,11,کتاب الجمعہ
+ur,12,کتاب صلوٰۃ الخوف
+ur,13,کتاب العیدین
+ur,14,کتاب الوتر
+ur,15,کتاب الاستسقاء
+ur,16,کتاب الکسوف
+ur,17,کتاب سجود القرآن
+ur,18,کتاب تقصیر الصلوٰۃ (قصر نماز)
+ur,19,کتاب التہجد
+ur,20,کتاب فضل الصلوٰۃ فی مسجد مکہ والمدینہ
+ur,21,کتاب العمل فی الصلوٰۃ
+ur,22,کتاب السہو
+ur,23,کتاب الجنائز
+ur,24,کتاب الزکوٰۃ
+ur,25,کتاب الحج
+ur,26,کتاب العمرہ
+ur,27,کتاب المحصر
+ur,28,کتاب جزا⁠ء الصید
+ur,29,کتاب فضائل المدینہ
+ur,30,کتاب الصوم
+ur,31,کتاب صلوٰۃ التراویح
+ur,32,کتاب فضل لیلۃ القدر
+ur,33,کتاب الاعتکاف
+ur,34,کتاب البیوع (خرید و فروخت)
+ur,35,کتاب السلم
+ur,36,کتاب الشفعہ
+ur,37,کتاب الاجارہ (اجرت/مزدوری)
+ur,38,کتاب الحوالہ
+ur,39,کتاب الکفالہ
+ur,40,کتاب الوکالہ
+ur,41,کتاب المزارعہ
+ur,42,کتاب المساقاۃ
+ur,43,کتاب فی الاستقراض واداء الدیون والحجر والتفلیس
+ur,44,کتاب الخصومات (جھگڑوں کا بیان)
+ur,45,کتاب اللقطہ
+ur,46,کتاب المظالم
+ur,47,کتاب الشرکہ
+ur,48,کتاب الرہن
+ur,49,کتاب العتق (غلاموں کی آزادی)
+ur,50,کتاب المکاتب
+ur,51,کتاب الہبہ
+ur,52,کتاب الشہادات
+ur,53,کتاب الصلح
+ur,54,کتاب الشروط
+ur,55,کتاب الوصایا
+ur,56,کتاب الجہاد
+ur,57,کتاب الخمس
+ur,58,کتاب الجزیہ والموادعہ
+ur,59,کتاب بدء الخلق
+ur,60,کتاب احادیث الانبیاء
+ur,61,کتاب المناقب
+ur,62,کتاب فضائل اصحاب النبی ﷺ
+ur,63,کتاب مناقب الانصار
+ur,64,کتاب المغازی
+ur,65,کتاب التفسیر
+ur,66,کتاب فضائل القرآن
+ur,67,کتاب النکاح
+ur,68,کتاب الطلاق
+ur,69,کتاب النفقات
+ur,70,کتاب الاطعمہ
+ur,71,کتاب العقیقہ
+ur,72,کتاب الذبائح والصید
+ur,73,کتاب الاضاحی
+ur,74,کتاب الاشربہ
+ur,75,کتاب المرضی
+ur,76,کتاب الطب
+ur,77,کتاب اللباس
+ur,78,کتاب الادب
+ur,79,کتاب الاستئذان
+ur,80,کتاب الدعوات
+ur,81,کتاب الرقاق
+ur,82,کتاب القدر
+ur,83,کتاب الایمان والنذور
+ur,84,کتاب کفارات الایمان
+ur,85,کتاب الفرائض
+ur,86,کتاب الحدود
+ur,87,کتاب الدیات
+ur,88,کتاب استتابۃ المرتدین
+ur,89,کتاب الاکراہ
+ur,90,کتاب الحیل
+ur,91,کتاب التعبیر
+ur,92,کتاب الفتن
+ur,93,کتاب الاحکام
+ur,94,کتاب التمنی
+ur,95,کتاب اخبار الآحاد
+ur,96,کتاب الاعتصام بالکتاب والسنہ
+ur,97,کتاب التوحید

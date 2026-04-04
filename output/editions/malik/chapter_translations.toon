@@ -1,0 +1,367 @@
+chapter_translations[366]{lang,chapter_id,name}:
+ar,1,وُقُوتِ الصَّلَاةِ
+ar,2,الطَّهَارَةِ
+ar,3,الصَّلَاةِ
+ar,4,السَّهْوِ فِي الصَّلَاةِ
+ar,5,الْجُمُعَةِ
+ar,6,الصَّلَاةِ فِي رَمَضَانَ
+ar,7,صَلَاةِ اللَّيْلِ
+ar,8,صَلَاةِ الْجَمَاعَةِ
+ar,9,قَصْرِ الصَّلَاةِ فِي السَّفَرِ
+ar,10,الْعِيدَيْنِ
+ar,11,صَلَاةِ الْخَوْفِ
+ar,12,الْكُسُوفِ
+ar,13,الِاسْتِسْقَاءِ
+ar,14,الْقِبْلَةِ
+ar,15,الْقُرْآنِ
+ar,16,الْجَنَائِزِ
+ar,17,الزَّكَاةِ
+ar,18,الصِّيَامِ
+ar,19,الِاعْتِكَافِ
+ar,20,الْحَجِّ
+ar,21,الْجِهَادِ
+ar,22,النُّذُورِ وَالْأَيْمَانِ
+ar,23,الضَّحَايَا
+ar,24,الذَّبَائِحِ
+ar,25,الصَّيْدِ
+ar,26,الْعَقِيقَةِ
+ar,27,الْفَرَائِضِ
+ar,28,النِّكَاحِ
+ar,29,الطَّلَاقِ
+ar,30,الرَّضَاعِ
+ar,31,الْبُيُوعِ
+ar,32,الْقِرَاضِ
+ar,33,الْمُسَاقَاةِ
+ar,34,كِرَاءِ الْأَرْضِ
+ar,35,الشُّفْعَةِ
+ar,36,الْأَقْضِيَةِ
+ar,37,الْوَصَايَا
+ar,38,الْعِتْقِ وَالْوَلَاءِ
+ar,39,الْمُكَاتَبِ
+ar,40,الْمُدَبَّرِ
+ar,41,الْحُدُودِ
+ar,42,الْأَشْرِبَةِ
+ar,43,الْعُقُولِ (الدِّيَاتِ)
+ar,44,الْقَسَامَةِ
+ar,45,الْمَدِينَةِ
+ar,46,الْقَدَرِ
+ar,47,حُسْنِ الْخُلُقِ
+ar,48,اللِّبَاسِ
+ar,49,صِفَةِ النَّبِيِّ ﷺ
+ar,50,الْعَيْنِ
+ar,51,الشَّعَرِ
+ar,52,الرُّؤْيَا
+ar,53,السَّلَامِ
+ar,54,الِاسْتِئْذَانِ (الْجَامِعُ)
+ar,55,الْبَيْعَةِ
+ar,56,الْكَلَامِ
+ar,57,جَهَنَّمَ
+ar,58,الصَّدَقَةِ
+ar,59,الْعِلْمِ
+ar,60,دَعْوَةِ الْمَظْلُومِ
+ar,61,أَسْمَاءِ النَّبِيِّ ﷺ
+bn,1,সালাতের ওয়াক্ত
+bn,2,পবিত্রতা
+bn,3,সালাত
+bn,4,সালাতে ভুল
+bn,5,জুমা
+bn,6,রমজানে সালাত
+bn,7,তাহাজ্জুদ
+bn,8,জামাতে সালাত
+bn,9,সালাত কসর করা
+bn,10,দুই ঈদ
+bn,11,খওফ (ভীতি) সালাত
+bn,12,কুসূফ (গ্রহণ)
+bn,13,বৃষ্টির দোয়া
+bn,14,কিবলা
+bn,15,কুরআন
+bn,16,জানাজা
+bn,17,জাকাত
+bn,18,সওম (রোজা)
+bn,19,ইতিকাফ
+bn,20,হজ
+bn,21,জিহাদ
+bn,22,মান্নত ও কসম
+bn,23,কোরবানি
+bn,24,জবেহ
+bn,25,শিকার
+bn,26,আকিকা
+bn,27,ফরায়েজ
+bn,28,নিকাহ (বিয়ে)
+bn,29,তালাক
+bn,30,দুধপান
+bn,31,ক্রয়-বিক্রয়
+bn,32,কিরাদ (মুদারাবা)
+bn,33,মুসাকাত
+bn,34,জমি ভাড়া দেওয়া
+bn,35,শুফআ
+bn,36,বিচার ও ফয়সালা
+bn,37,ওসিয়ত
+bn,38,দাস মুক্তি ও ওয়ালা
+bn,39,মুকাতাব
+bn,40,মুদাব্বার
+bn,41,হুদুদ (দণ্ডবিধি)
+bn,42,পানীয়
+bn,43,দিয়াত (রক্তপণ)
+bn,44,কাসামাহ (শপথ)
+bn,45,মদিনা
+bn,46,তকদির
+bn,47,উত্তম চরিত্র
+bn,48,পোশাক
+bn,49,নবীর (সা.) হুলিয়া ও গুণাবলী
+bn,50,কুদৃষ্টি (নজর লাগা)
+bn,51,চুল
+bn,52,স্বপ্ন
+bn,53,সালাম
+bn,54,বিবিধ বিষয়
+bn,55,বায়আত
+bn,56,কথা বা বাক্য
+bn,57,জাহান্নাম
+bn,58,সদকা
+bn,59,ইলম (জ্ঞান)
+bn,60,মাযলুমের দোয়া
+bn,61,নবীর (সা.) নামসমূহ
+fr,1,Les temps de la prière
+fr,2,La pureté
+fr,3,La prière
+fr,4,L'oubli dans la prière
+fr,5,Le Vendredi
+fr,6,Prière pendant Ramadan
+fr,7,Le Tahajjud
+fr,8,Prière en congrégation
+fr,9,Raccourcir la prière
+fr,10,Les deux Eids
+fr,11,Prière de la peur
+fr,12,Prière de l'éclipse
+fr,13,Demande de pluie
+fr,14,La Qibla
+fr,15,Le Coran
+fr,16,Les funérailles
+fr,17,La Zakat
+fr,18,Le Jeûne
+fr,19,L'I'tikaf
+fr,20,Le Hajj
+fr,21,Le Jihad
+fr,22,Vœux et serments
+fr,23,Animaux de sacrifice
+fr,24,L'abattage
+fr,25,Le gibier (Chasse)
+fr,26,L'Aqiqa
+fr,27,L'héritage (Fara'id)
+fr,28,Le mariage
+fr,29,Le divorce
+fr,30,L'allaitement
+fr,31,Transactions commerciales
+fr,32,Le Qirad (Moudaraba)
+fr,33,Le métayage (Musaqat)
+fr,34,Location de terres
+fr,35,La préemption
+fr,36,Les jugements
+fr,37,Les testaments
+fr,38,L'affranchissement
+fr,39,Le Mukatab
+fr,40,Le Mudabbar
+fr,41,Les peines (Hudud)
+fr,42,Les boissons
+fr,43,Le prix du sang (Diyat)
+fr,44,Le serment de Qasama
+fr,45,Médine
+fr,46,Le Décret (Qadar)
+fr,47,Le bon caractère
+fr,48,Les vêtements
+fr,49,Description du Prophète
+fr,50,Le mauvais œil
+fr,51,Les cheveux
+fr,52,Les visions (Rêves)
+fr,53,Les salutations
+fr,54,Sujets divers
+fr,55,Le serment d'allégeance
+fr,56,La parole
+fr,57,L'Enfer (Jahannam)
+fr,58,La Sadaqa
+fr,59,La science
+fr,60,Invocation de l'opprimé
+fr,61,Noms du Prophète
+id,1,Waktu-waktu Shalat
+id,2,Thaharah (Bersuci)
+id,3,Shalat
+id,4,Lupa dalam Shalat
+id,5,Jumat
+id,6,Shalat di bulan Ramadhan
+id,7,Tahajjud
+id,8,Shalat Berjamaah
+id,9,Mengqashar Shalat
+id,10,Dua Hari Raya
+id,11,Shalat Khauf
+id,12,Shalat Gerhana
+id,13,Minta Hujan
+id,14,Kiblat
+id,15,Al-Qur'an
+id,16,Jenazah
+id,17,Zakat
+id,18,Puasa
+id,19,I'tikaf
+id,20,Haji
+id,21,Jihad
+id,22,Nazar dan Sumpah
+id,23,Hewan Kurban
+id,24,Sembelihan
+id,25,Berburu
+id,26,Aqiqah
+id,27,Faraidh (Waris)
+id,28,Nikah
+id,29,Thalak
+id,30,Persusuan
+id,31,Jual Beli
+id,32,Qiradh (Mudharabah)
+id,33,Musaqat
+id,34,Sewa Lahan
+id,35,Syuf'ah
+id,36,Peradilan
+id,37,Wasiat
+id,38,Pembebasan Budak
+id,39,Mukatab
+id,40,Mudabbar
+id,41,Hudud
+id,42,Minuman
+id,43,Diyat
+id,44,Sumpah Qasama
+id,45,Madinah
+id,46,Takdir
+id,47,Akhlak Mulia
+id,48,Pakaian
+id,49,Sifat Nabi ﷺ
+id,50,Mata Jahat (Ain)
+id,51,Rambut
+id,52,Mimpi
+id,53,Salam
+id,54,Masalah Umum
+id,55,Bai'at
+id,56,Ucapan
+id,57,Jahanam
+id,58,Sedekah
+id,59,Ilmu
+id,60,Doa Orang Terzalimi
+id,61,Nama-nama Nabi ﷺ
+tr,1,Namaz Vakitleri
+tr,2,Taharet
+tr,3,Namaz
+tr,4,Namazda Sehiv
+tr,5,Cuma
+tr,6,Ramazanda Namaz
+tr,7,Teheccüd
+tr,8,Cemaatle Namaz
+tr,9,Seferde Namazı Kısaltma
+tr,10,Bayramlar
+tr,11,Korku Namazı
+tr,12,Küsûf (Güneş Tutulması)
+tr,13,İstiskâ (Yağmur Duası)
+tr,14,Kıble
+tr,15,Kur'an
+tr,16,Cenazeler
+tr,17,Zekât
+tr,18,Oruç
+tr,19,İtikâf
+tr,20,Hac
+tr,21,Cihat
+tr,22,Adak ve Yeminler
+tr,23,Kurbanlıklar
+tr,24,Zebaih (Kesimler)
+tr,25,Av
+tr,26,Akîka
+tr,27,Ferâiz (Miras)
+tr,28,Nikâh
+tr,29,Talâk
+tr,30,Süt Emme
+tr,31,Alım-Satım
+tr,32,Karz (Mudarabe)
+tr,33,Musâkat
+tr,34,Arazi Kiralama
+tr,35,Şüf'a
+tr,36,Yargı ve Hükümler
+tr,37,Vasiyetler
+tr,38,Azad Etme ve Vela
+tr,39,Mükâteb
+tr,40,Müdebber
+tr,41,Hadler
+tr,42,İçecekler
+tr,43,Diyetler
+tr,44,Kasâme Yemini
+tr,45,Medine
+tr,46,Kader
+tr,47,Güzel Ahlak
+tr,48,Elbiseler
+tr,49,Peygamber Efendimiz'in Sıfatı
+tr,50,Nazar
+tr,51,Saç
+tr,52,Rüyalar
+tr,53,Selam
+tr,54,Genel Mevzular
+tr,55,Biat
+tr,56,Kelâm (Söz)
+tr,57,Cehennem
+tr,58,Sadaka
+tr,59,İlim
+tr,60,Mazlumun Duası
+tr,61,Peygamber Efendimiz'in İsimleri
+ur,1,اوقاتِ نماز کا بیان
+ur,2,طہارت (پاکیزگی)
+ur,3,نماز کا بیان
+ur,4,نماز میں بھول چوک
+ur,5,نمازِ جمعہ
+ur,6,رمضان میں نماز (تراویح)
+ur,7,تہجد (رات کی نماز)
+ur,8,نمازِ باجماعت
+ur,9,سفر میں نماز قصر کرنا
+ur,10,عیدین کا بیان
+ur,11,نمازِ خوف
+ur,12,نمازِ کسوف (سورج گرہن)
+ur,13,استسقاء (بارش کی دعا)
+ur,14,قبلہ کا بیان
+ur,15,قرآن کریم کا بیان
+ur,16,جنائز (موت و تدفین)
+ur,17,زکوٰۃ کا بیان
+ur,18,روزہ کا بیان
+ur,19,اعتکاف کا بیان
+ur,20,حج کا بیان
+ur,21,جہاد کا بیان
+ur,22,نذر اور قسمیں
+ur,23,قربانی کے جانور
+ur,24,ذبیحہ (جانور ذبح کرنا)
+ur,25,شکار کا بیان
+ur,26,عقیقہ کا بیان
+ur,27,فرائض (وراثت)
+ur,28,نکاح کا بیان
+ur,29,طلاق کا بیان
+ur,30,رضاعت (دودھ پلانا)
+ur,31,تجارت و لین دین
+ur,32,قراض (مضاربت)
+ur,33,مساقات (سینچائی پر شراکت)
+ur,34,زمین کا کرایہ
+ur,35,شفعہ کا بیان
+ur,36,فیصلوں کا بیان
+ur,37,وصیتوں کا بیان
+ur,38,آزادی اور ولاء
+ur,39,مکاتب (معاہدہ یافتہ غلام)
+ur,40,مدبر غلام کا بیان
+ur,41,حدود (شرعی سزائیں)
+ur,42,مشروبات کا بیان
+ur,43,دیت (خون بہا)
+ur,44,قسامت (قسم کا بیان)
+ur,45,مدینہ منورہ کا بیان
+ur,46,تقدیر کا بیان
+ur,47,حسنِ اخلاق
+ur,48,لباس کا بیان
+ur,49,نبی کریم ﷺ کا حلیہ/وصف
+ur,50,نظرِ بد کا بیان
+ur,51,بالوں کا بیان
+ur,52,خوابوں کا بیان
+ur,53,سلام کا بیان
+ur,54,متفرق موضوعات
+ur,55,بیعت کا بیان
+ur,56,گفتگو کا بیان
+ur,57,جہنم کا بیان
+ur,58,صدقہ کا بیان
+ur,59,علم کا بیان
+ur,60,مظلوم کی پکار
+ur,61,نبی کریم ﷺ کے اسماء گرامی

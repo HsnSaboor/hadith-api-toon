@@ -1,0 +1,11 @@
+metadata:
+  section_id: 33
+  section_name: Sharecropping
+  hadith_first: 1388
+  hadith_last: 1389
+  arabic_first: 1388
+  arabic_last: 1389
+
+hadiths[2]{hadithnumber,text,reference_book,reference_hadith}:
+1388,,33,1
+1389,,33,2

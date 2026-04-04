@@ -41,7 +41,7 @@ The original [hadith-api](https://github.com/fawazahmed0/hadith-api) by [@fawaza
 ## URL Structure
 
 ```
-https://cdn.jsdelivr.net/gh/{username}/hadith-api-toon@main/{endpoint}
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@master/{endpoint}
 ```
 
 Supports HTTP GET. Files are served directly from the CDN with automatic Gzip/Brotli compression.
@@ -54,9 +54,9 @@ Supports HTTP GET. Files are served directly from the CDN with automatic Gzip/Br
 
 | File | Description | Example URL |
 |------|-------------|-------------|
-| `info.toon` | Books list + per-book section metadata | `/output/info.toon` |
-| `grades.toon` | All hadith grades (67,716 entries) | `/output/grades.toon` |
-| `editions.toon` | Edition registry (74 editions) | `/output/editions.toon` |
+| `info.toon` | Books list + per-book section metadata | `/info.toon` |
+| `grades.toon` | All hadith grades (67,716 entries) | `/grades.toon` |
+| `editions.toon` | Edition registry (74 editions) | `/editions.toon` |
 
 ### Edition Section Files
 
@@ -66,7 +66,7 @@ Supports HTTP GET. Files are served directly from the CDN with automatic Gzip/Br
 
 **Example — Get Sahih Bukhari, Section 1 (Revelation):**
 ```
-https://cdn.jsdelivr.net/gh/{username}/hadith-api-toon@main/output/editions/eng-bukhari/sections/1.toon
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@master/editions/eng-bukhari/sections/1.toon
 ```
 
 ### Chapter Translations
@@ -77,7 +77,7 @@ https://cdn.jsdelivr.net/gh/{username}/hadith-api-toon@main/output/editions/eng-
 
 **Example — Get Bukhari chapter names in all languages:**
 ```
-https://cdn.jsdelivr.net/gh/{username}/hadith-api-toon@main/output/editions/bukhari/chapter_translations.toon
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@master/editions/bukhari/chapter_translations.toon
 ```
 
 ---
@@ -144,6 +144,8 @@ grades[67716]{book,hadithnumber,grader,grade}:
 | Muwatta Malik | Arabic (×2), Bengali, English, French, Indonesian, Turkish, Urdu |
 | Forty Hadith of an-Nawawi | Arabic (×2), Bengali, English, French, Indonesian, Turkish |
 | Forty Hadith Qudsi | Arabic (×2), Bengali, English, French, Indonesian, Turkish, Russian, Tamil |
+
+> **Note on Arabic editions:** Each book has two Arabic editions. The one without a suffix (e.g., `ara-bukhari`) contains full diacritics (Tashkeel). The one with a `1` suffix (e.g., `ara-bukhari1`) has diacritics removed for easier text searching.
 
 ---
 

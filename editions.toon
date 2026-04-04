@@ -73,33 +73,33 @@ eng-tirmidhi,tirmidhi,Unknown,English,true,ltr,,editions/eng-tirmidhi
 ind-tirmidhi,tirmidhi,Unknown,Indonesian,true,ltr,,editions/ind-tirmidhi
 tur-tirmidhi,tirmidhi,Unknown,Turkish,true,ltr,,editions/tur-tirmidhi
 urd-tirmidhi,tirmidhi,Unknown,Urdu,true,rtl,,editions/urd-tirmidhi
-ara-aladab-almufrad,aladab-almufrad,Unknown,Arabic,true,rtl,,editions/ara-aladab-almufrad
-ara-bayhaqi,bayhaqi,Unknown,Arabic,true,rtl,,editions/ara-bayhaqi
-ara-bulugh-al-maram,bulugh-al-maram,Unknown,Arabic,true,rtl,,editions/ara-bulugh-al-maram
-ara-fatah-alrabani,fatah-alrabani,Unknown,Arabic,true,rtl,,editions/ara-fatah-alrabani
-ara-lulu-wal-marjan,lulu-wal-marjan,Unknown,Arabic,true,rtl,,editions/ara-lulu-wal-marjan
-ara-mishkat,mishkat,Unknown,Arabic,true,rtl,,editions/ara-mishkat
-ara-muajam-tabarani-saghir,muajam-tabarani-saghir,Unknown,Arabic,true,rtl,,editions/ara-muajam-tabarani-saghir
-ara-musannaf-ibn-abi-shaybah,musannaf-ibn-abi-shaybah,Unknown,Arabic,true,rtl,,editions/ara-musannaf-ibn-abi-shaybah
-ara-musnad-ahmed,musnad-ahmed,Unknown,Arabic,true,rtl,,editions/ara-musnad-ahmed
-ara-mustadrak,mustadrak,Unknown,Arabic,true,rtl,,editions/ara-mustadrak
-ara-sahih-ibn-khuzaymah,sahih-ibn-khuzaymah,Unknown,Arabic,true,rtl,,editions/ara-sahih-ibn-khuzaymah
-ara-shamail-tirmazi,shamail-tirmazi,Unknown,Arabic,true,rtl,,editions/ara-shamail-tirmazi
-ara-silsila-sahih,silsila-sahih,Unknown,Arabic,true,rtl,,editions/ara-silsila-sahih
-ara-sunan-al-daraqutni,sunan-al-daraqutni,Unknown,Arabic,true,rtl,,editions/ara-sunan-al-daraqutni
-ara-sunan-darmi,sunan-darmi,Unknown,Arabic,true,rtl,,editions/ara-sunan-darmi
-urd-aladab-almufrad,aladab-almufrad,Unknown,Urdu,true,rtl,,editions/urd-aladab-almufrad
-urd-bayhaqi,bayhaqi,Unknown,Urdu,true,rtl,,editions/urd-bayhaqi
-urd-bulugh-al-maram,bulugh-al-maram,Unknown,Urdu,true,rtl,,editions/urd-bulugh-al-maram
-urd-fatah-alrabani,fatah-alrabani,Unknown,Urdu,true,rtl,,editions/urd-fatah-alrabani
-urd-lulu-wal-marjan,lulu-wal-marjan,Unknown,Urdu,true,rtl,,editions/urd-lulu-wal-marjan
-urd-mishkat,mishkat,Unknown,Urdu,true,rtl,,editions/urd-mishkat
-urd-muajam-tabarani-saghir,muajam-tabarani-saghir,Unknown,Urdu,true,rtl,,editions/urd-muajam-tabarani-saghir
-urd-musannaf-ibn-abi-shaybah,musannaf-ibn-abi-shaybah,Unknown,Urdu,true,rtl,,editions/urd-musannaf-ibn-abi-shaybah
-urd-musnad-ahmed,musnad-ahmed,Unknown,Urdu,true,rtl,,editions/urd-musnad-ahmed
-urd-mustadrak,mustadrak,Unknown,Urdu,true,rtl,,editions/urd-mustadrak
-urd-sahih-ibn-khuzaymah,sahih-ibn-khuzaymah,Unknown,Urdu,true,rtl,,editions/urd-sahih-ibn-khuzaymah
-urd-shamail-tirmazi,shamail-tirmazi,Unknown,Urdu,true,rtl,,editions/urd-shamail-tirmazi
-urd-silsila-sahih,silsila-sahih,Unknown,Urdu,true,rtl,,editions/urd-silsila-sahih
-urd-sunan-al-daraqutni,sunan-al-daraqutni,Unknown,Urdu,true,rtl,,editions/urd-sunan-al-daraqutni
-urd-sunan-darmi,sunan-darmi,Unknown,Urdu,true,rtl,,editions/urd-sunan-darmi
+ara-aladab-almufrad,aladab-almufrad,Imam Al-Bukhari,Arabic,true,rtl,,editions/ara-aladab-almufrad
+ara-bayhaqi,bayhaqi,Imam Al-Bayhaqi,Arabic,true,rtl,,editions/ara-bayhaqi
+ara-bulugh-al-maram,bulugh-al-maram,Ibn Hajar Al-Asqalani,Arabic,true,rtl,,editions/ara-bulugh-al-maram
+ara-fatah-alrabani,fatah-alrabani,Abdul-Qadir al-Jilani,Arabic,true,rtl,,editions/ara-fatah-alrabani
+ara-lulu-wal-marjan,lulu-wal-marjan,Muhammad Fuad Abdul Baqi,Arabic,true,rtl,,editions/ara-lulu-wal-marjan
+ara-mishkat,mishkat,Al-Baghawi / Al-Tabrizi,Arabic,true,rtl,,editions/ara-mishkat
+ara-muajam-tabarani-saghir,muajam-tabarani-saghir,Imam At-Tabarani,Arabic,true,rtl,,editions/ara-muajam-tabarani-saghir
+ara-musannaf-ibn-abi-shaybah,musannaf-ibn-abi-shaybah,Ibn Abi Shaybah,Arabic,true,rtl,,editions/ara-musannaf-ibn-abi-shaybah
+ara-musnad-ahmed,musnad-ahmed,Imam Ahmad bin Hanbal,Arabic,true,rtl,,editions/ara-musnad-ahmed
+ara-mustadrak,mustadrak,Imam Al-Hakim,Arabic,true,rtl,,editions/ara-mustadrak
+ara-sahih-ibn-khuzaymah,sahih-ibn-khuzaymah,Ibn Khuzaymah,Arabic,true,rtl,,editions/ara-sahih-ibn-khuzaymah
+ara-shamail-tirmazi,shamail-tirmazi,Imam At-Tirmidhi,Arabic,true,rtl,,editions/ara-shamail-tirmazi
+ara-silsila-sahih,silsila-sahih,Al-Albani,Arabic,true,rtl,,editions/ara-silsila-sahih
+ara-sunan-al-daraqutni,sunan-al-daraqutni,Imam Ad-Daraqutni,Arabic,true,rtl,,editions/ara-sunan-al-daraqutni
+ara-sunan-darmi,sunan-darmi,Imam Ad-Darimi,Arabic,true,rtl,,editions/ara-sunan-darmi
+urd-aladab-almufrad,aladab-almufrad,Imam Al-Bukhari,Urdu,true,rtl,,editions/urd-aladab-almufrad
+urd-bayhaqi,bayhaqi,Imam Al-Bayhaqi,Urdu,true,rtl,,editions/urd-bayhaqi
+urd-bulugh-al-maram,bulugh-al-maram,Ibn Hajar Al-Asqalani,Urdu,true,rtl,,editions/urd-bulugh-al-maram
+urd-fatah-alrabani,fatah-alrabani,Abdul-Qadir al-Jilani,Urdu,true,rtl,,editions/urd-fatah-alrabani
+urd-lulu-wal-marjan,lulu-wal-marjan,Muhammad Fuad Abdul Baqi,Urdu,true,rtl,,editions/urd-lulu-wal-marjan
+urd-mishkat,mishkat,Al-Baghawi / Al-Tabrizi,Urdu,true,rtl,,editions/urd-mishkat
+urd-muajam-tabarani-saghir,muajam-tabarani-saghir,Imam At-Tabarani,Urdu,true,rtl,,editions/urd-muajam-tabarani-saghir
+urd-musannaf-ibn-abi-shaybah,musannaf-ibn-abi-shaybah,Ibn Abi Shaybah,Urdu,true,rtl,,editions/urd-musannaf-ibn-abi-shaybah
+urd-musnad-ahmed,musnad-ahmed,Imam Ahmad bin Hanbal,Urdu,true,rtl,,editions/urd-musnad-ahmed
+urd-mustadrak,mustadrak,Imam Al-Hakim,Urdu,true,rtl,,editions/urd-mustadrak
+urd-sahih-ibn-khuzaymah,sahih-ibn-khuzaymah,Ibn Khuzaymah,Urdu,true,rtl,,editions/urd-sahih-ibn-khuzaymah
+urd-shamail-tirmazi,shamail-tirmazi,Imam At-Tirmidhi,Urdu,true,rtl,,editions/urd-shamail-tirmazi
+urd-silsila-sahih,silsila-sahih,Al-Albani,Urdu,true,rtl,,editions/urd-silsila-sahih
+urd-sunan-al-daraqutni,sunan-al-daraqutni,Imam Ad-Daraqutni,Urdu,true,rtl,,editions/urd-sunan-al-daraqutni
+urd-sunan-darmi,sunan-darmi,Imam Ad-Darimi,Urdu,true,rtl,,editions/urd-sunan-darmi

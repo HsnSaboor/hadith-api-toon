@@ -97,11 +97,9 @@ def scrape_hadith(book_slug, hadith_id):
     chapter_title = ""
     alert = soup.select_one("section.alert-secondary")
     if alert:
-        for h2 in alert.find_all("h2"):
-            text = h2.get_text(strip=True)
-            if "کتاب" in text or "باب" in text:
-                chapter_title = text
-                break
+        h2 = alert.select_one("h2.text-center.font-arabic2")
+        if h2:
+            chapter_title = h2.get_text(strip=True)
 
     return hadith_id, {
         "arabic": arabic,

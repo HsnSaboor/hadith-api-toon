@@ -1,16 +1,10 @@
 metadata:
-  section_id: 39
-  section_name: The Mukatab
-  hadith_first: 1489
-  hadith_last: 1496
-  arabic_first: 1489
-  arabic_last: 1496
 
-hadiths[7]{hadithnumber,text,reference_book,reference_hadith}:
-1489,"Telah menceritakan kepadaku Malik dari [Nafi'] bahwa [Abdullah bin Umar] berkata; ""Al Mukatab adalah tetap seorang budak, selama masih ada sisa tanggungan pembebasan yang harus dia bayarkan",39,1
-1490,,39,2
-1491,"Telah menceritakan kepadaku Malik dari [Humaid bin Qais Al Makki] berkata, ""Seorang budak mukatab milik Ibnu Mutawakkil meninggal di Makkah, ia meninggalkan beberapa sisa pembayaran untuk pembebasan dirinya, hutang ke beberapa orang serta seorang anak wanita. Pegawai pemerintahan yang ada di Makkah mengalami kesulitan dalam menyelesaikan urusan tersebut. Maka ia menulis surat kepada Abdul Malik bin Marwan untuk menanyakan perihal tersebut. [Abdul Malik bin Marwan] kemudian menjawab; ""Selesaikanlah dahulu urusan hutang-hutangnya kepada orang-orang, kemudian selesaikan urusan yang tersisa dari pembebasan dirinya dan setelah itu bagilah harta miliknya yang tersisa untuk diberikan kepada anak perempuannya dan majikannya",39,3
-1493,,39,1
-1494,,39,2
-1495,"Telah menceritakan kepadaku Malik bahwa dia mendengar [Rabi'ah bin Abu Abdurrahman] dan [Selainnya] mereka menyebutkan bahwa mukatab milik Furafishah bin 'Umair Al Hanafi, menawarkan dirinya untuk membayar lunas apa yang menjadi beban pembebasannya, namun Furafishah menolaknya. Lalu budak mukatab tersebut menemui [Marwan bin Hakam], gubernur Madinah, guna menyampaikan hal itu. Marwan lantas memanggil Furafishah dan menyampaikan persoalan tersebut kepadanya, namun ia tetap menolaknya. Akhirnya Marwan memerintahkan agar harta milik budak Mukatab tersebut dimasukkan ke dalam baitul mal, dan kepada budak tersebut Marwan berkata, ""Pergilah, engkau telah bebas."" Ketika Furafishah melihat hal itu, dia mengambil harta tersebut",39,3
-1496,,39,4
+hadiths[7]{hadithnumber,text,reference_book,reference_hadith,urdu,international_number,chapter_title_arabic}:
+1489,"Telah menceritakan kepadaku Malik dari [Nafi'] bahwa [Abdullah bin Umar] berkata; ""Al Mukatab adalah tetap seorang budak, selama masih ada sisa tanggungan pembebasan yang harus dia bayarkan",39,1,اسماعیل بن ابی حکیم رحمہ اللہ سے روایت ہے کہ بیشک ایک عیسائی شخص جسے حضرت عمر بن عبدالعزیز رحمہ اللہ,1489,
+1490,,39,2,سعید بن مسیب رحمہ اللہ سے روایت ہے ، وہ کہتے ہیں کہ حضرت عمر بن خطاب رضی اللہ عنہ نے اس بات کا انکار,1490,
+1491,"Telah menceritakan kepadaku Malik dari [Humaid bin Qais Al Makki] berkata, ""Seorang budak mukatab milik Ibnu Mutawakkil meninggal di Makkah, ia meninggalkan beberapa sisa pembayaran untuk pembebasan dirinya, hutang ke beberapa orang serta seorang anak wanita. Pegawai pemerintahan yang ada di Makkah mengalami kesulitan dalam menyelesaikan urusan tersebut. Maka ia menulis surat kepada Abdul Malik bin Marwan untuk menanyakan perihal tersebut. [Abdul Malik bin Marwan] kemudian menjawab; ""Selesaikanlah dahulu urusan hutang-hutangnya kepada orang-orang, kemudian selesaikan urusan yang tersisa dari pembebasan dirinya dan setelah itu bagilah harta miliknya yang tersisa untuk diberikan kepada anak perempuannya dan majikannya",39,3,ربیعہ بن ابی عبدالرحمن رحمہ اللہ سے روایت ہے ، وہ اپنے بہت سے علمائے کرام سے بیان کرتے ہیں کہ بلاشبہ,1491,
+1493,,39,1,امام مالک رحمہ اللہ نے فرمایا کہ مجھے سلیمان بن یسا رحمہ اللہ سے بھی اسی جیسی خبر پہنچی ہے ۔ امام ما,1493,
+1494,,39,2,عبداللہ بن ابی بکر بن محمد بن عمرو بن حزم رحمہ اللہ اپنے والد ( ابوبکر بن محمد ) سے روایت کرتے ہیں ک,1494,
+1495,"Telah menceritakan kepadaku Malik bahwa dia mendengar [Rabi'ah bin Abu Abdurrahman] dan [Selainnya] mereka menyebutkan bahwa mukatab milik Furafishah bin 'Umair Al Hanafi, menawarkan dirinya untuk membayar lunas apa yang menjadi beban pembebasannya, namun Furafishah menolaknya. Lalu budak mukatab tersebut menemui [Marwan bin Hakam], gubernur Madinah, guna menyampaikan hal itu. Marwan lantas memanggil Furafishah dan menyampaikan persoalan tersebut kepadanya, namun ia tetap menolaknya. Akhirnya Marwan memerintahkan agar harta milik budak Mukatab tersebut dimasukkan ke dalam baitul mal, dan kepada budak tersebut Marwan berkata, ""Pergilah, engkau telah bebas."" Ketika Furafishah melihat hal itu, dia mengambil harta tersebut",39,3,امام مالک رحمہ اللہ کو یہ خبر پہنچی کہ بے شک حضرت عمر بن خطاب رضی اللہ عنہ نے بستیوں والوں پر دیت کی,1495,
+1496,,39,4,ابن شہاب رحمہ اللہ سے روایت ہے ، وہ قتل عمد کی دیت ، جب کہ اسے ( ادا کیا جانا ) قبول کر لیا جائے ، ک,1496,

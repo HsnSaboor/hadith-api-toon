@@ -1,12 +1,6 @@
 metadata:
-  section_id: 4
-  section_name: Forgetfulness in Prayer
-  hadith_first: 222
-  hadith_last: 224
-  arabic_first: 222
-  arabic_last: 224
 
-hadiths[3]{hadithnumber,text,reference_book,reference_hadith}:
-222,"Telah menceritakan kepadaku Yahya dari Malik dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman bin Auf] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Jika salah seorang dari kalian berdiri shalat, setan datang kepadanya, menggodanya hingga dia tidak tahu berapa rakaat yang telah dia kerjakan. Jika kalian mendapatkan hal itu, maka sujudlah dua kali saat masih duduk",4,1
-223,,4,2
-224,,4,3
+hadiths[3]{hadithnumber,text,reference_book,reference_hadith,urdu,international_number,chapter_title_arabic}:
+222,"Telah menceritakan kepadaku Yahya dari Malik dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman bin Auf] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Jika salah seorang dari kalian berdiri shalat, setan datang kepadanya, menggodanya hingga dia tidak tahu berapa rakaat yang telah dia kerjakan. Jika kalian mendapatkan hal itu, maka sujudlah dua kali saat masih duduk",4,1,"امام مالک رحمہ اللہ کو یہ خبر پہنچی کہ رسول اللہ ﷺ نے فرمایا :’’ بے شک میں بھولتا ہوں یا ( فرمایا کہ",222,
+223,,4,2,امام مالک رحمہ اللہ کو یہ خبر پہنچی کہ ایک آدمی نے قاسم بن محمد بن ابی بکر صدیق رحمہ اللہ سے کہا کہ ,223,
+224,,4,3,"حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا :’’ جس شخص نے جمعہ کے دن غسل ِجنابت ",224,

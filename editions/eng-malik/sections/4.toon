@@ -1,12 +1,6 @@
 metadata:
-  section_id: 4
-  section_name: Forgetfulness in Prayer
-  hadith_first: 222
-  hadith_last: 224
-  arabic_first: 222
-  arabic_last: 224
 
-hadiths[3]{hadithnumber,text,reference_book,reference_hadith}:
-222,"Yahya related to me from Malik from Ibn Shihab from Abu Salama ibn Abdar-Rahman ibn Awf from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, ""When you stand in prayer, Shaytan comes to you and confuses you until you do not know how much you have prayed. If you find that happening do two sajdas from the sitting position",4,1
-223,"Yahya related to me from Malik that he had heard that the Messenger of Allah, may Allah bless him and grant him peace, said, ""I forget or I am made to forget so that I may establish the sunna",4,2
-224,"Yahya related to me from Malik that he had heard that a man questioned al-Qasim ibn Muhammad saying, ""My imagination works in the prayer, and it happens to me a lot."" Al-Qasim ibn Muhammad said, ""Go on with your prayer, for it will not go away from you until you go away saying, 'I have not completed my prayer",4,3
+hadiths[3]{hadithnumber,text,reference_book,reference_hadith,urdu,international_number,chapter_title_arabic}:
+222,"Yahya related to me from Malik from Ibn Shihab from Abu Salama ibn Abdar-Rahman ibn Awf from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, ""When you stand in prayer, Shaytan comes to you and confuses you until you do not know how much you have prayed. If you find that happening do two sajdas from the sitting position",4,1,"امام مالک رحمہ اللہ کو یہ خبر پہنچی کہ رسول اللہ ﷺ نے فرمایا :’’ بے شک میں بھولتا ہوں یا ( فرمایا کہ",222,
+223,"Yahya related to me from Malik that he had heard that the Messenger of Allah, may Allah bless him and grant him peace, said, ""I forget or I am made to forget so that I may establish the sunna",4,2,امام مالک رحمہ اللہ کو یہ خبر پہنچی کہ ایک آدمی نے قاسم بن محمد بن ابی بکر صدیق رحمہ اللہ سے کہا کہ ,223,
+224,"Yahya related to me from Malik that he had heard that a man questioned al-Qasim ibn Muhammad saying, ""My imagination works in the prayer, and it happens to me a lot."" Al-Qasim ibn Muhammad said, ""Go on with your prayer, for it will not go away from you until you go away saying, 'I have not completed my prayer",4,3,"حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا :’’ جس شخص نے جمعہ کے دن غسل ِجنابت ",224,

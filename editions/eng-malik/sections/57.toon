@@ -1,11 +1,5 @@
 metadata:
-  section_id: 57
-  section_name: Jahannam
-  hadith_first: 1839
-  hadith_last: 1840
-  arabic_first: 1839
-  arabic_last: 1840
 
-hadiths[2]{hadithnumber,text,reference_book,reference_hadith}:
-1839,"Malik related to me from Abu'z-Zinad from al-Araj from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, ""The fire of the children of Adam which they kindle is a seventieth part of the fire of Jahannam."" They said, ""Messenger of Allah, this fire is certainly enough."" He said, ""That fire is sixty- nine times greater",57,1
-1840,"Malik related to me from his paternal uncle Abu Suhayl ibn Malik from his father that Abu Hurayra said, ""Do you think that it is red like this fire of yours? It is blacker than tar",57,2
+hadiths[2]{hadithnumber,text,reference_book,reference_hadith,urdu,international_number,chapter_title_arabic}:
+1839,"Malik related to me from Abu'z-Zinad from al-Araj from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, ""The fire of the children of Adam which they kindle is a seventieth part of the fire of Jahannam."" They said, ""Messenger of Allah, this fire is certainly enough."" He said, ""That fire is sixty- nine times greater",57,1,امام مالک رحمہ اللہ کو سیدہ عائشہ رضی اللہ عنہا زوجہ پیغمبر ﷺ کے متعلق یہ خبر پہنچی کہ بیشک ایک مسکی,1839,
+1840,"Malik related to me from his paternal uncle Abu Suhayl ibn Malik from his father that Abu Hurayra said, ""Do you think that it is red like this fire of yours? It is blacker than tar",57,2,امام مالک رحمہ اللہ کو یہ خبر پہنچی کہ بے شک ایک مسکین نے سیدہ عائشہ رضی اللہ عنہا زوجہ پیغمبر ﷺ سے ,1840,

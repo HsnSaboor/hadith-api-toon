@@ -1,10 +1,4 @@
 metadata:
-  section_id: 61
-  section_name: "The Names of the Prophet, may Allah Bless Him and Grant Him Peace"
-  hadith_first: 1858
-  hadith_last: 1858
-  arabic_first: 1858
-  arabic_last: 1858
 
-hadiths[1]{hadithnumber,text,reference_book,reference_hadith}:
-1858,"Malik related to me from Ibn Shihab from Muhammad ibn Jubayr ibn Mutim that the Prophet, may Allah bless him and grant him peace, said, ""I have five names. I am Muhammad. I am Ahmad. I am al-Mahi (the effacer), by whom Allah effaces kufr. I am al-Hashir (the gatherer), before whom people are gathered. I am al-Aqib (the last)",61,1
+hadiths[1]{hadithnumber,text,reference_book,reference_hadith,urdu,international_number,chapter_title_arabic}:
+1858,"Malik related to me from Ibn Shihab from Muhammad ibn Jubayr ibn Mutim that the Prophet, may Allah bless him and grant him peace, said, ""I have five names. I am Muhammad. I am Ahmad. I am al-Mahi (the effacer), by whom Allah effaces kufr. I am al-Hashir (the gatherer), before whom people are gathered. I am al-Aqib (the last)",61,1,,,

@@ -1,13 +1,13 @@
 metadata:
 
-hadiths[10]{hadithnumber,text,reference_book,reference_hadith,grades,reference,international_number,narrator_chain,chapter_intro}:
-2492,"Rapporté par Jabir : Le Messager d'Allah (ﷺ) a dit : ""Celui qui possède un palmier ou un terrain ne doit pas le vendre sans l'avoir d'abord proposé à son associé",17,1,,,,,
-2493,"Rapporté par Ibn Abbas : Le Prophète (ﷺ) a dit : ""Celui qui possède un terrain et veut le vendre, qu'il le propose à son voisin",17,2,,,,,
-2494,"Rapporté par Jabir : Le Messager d'Allah (ﷺ) a dit : ""Le voisin a plus de droit à la préemption de son voisin, alors qu'il attende même s'il est absent, s'ils partagent un chemin",17,3,,,,,
-2495,"Rapporté par Abu Rafi' : Le Prophète (ﷺ) a dit : ""Le voisin a plus de droit sur la propriété qui est proche",17,4,,,,,
-2496,"Rapporté par Sharid bin Suwaid : J'ai dit : ""Ô Messager d'Allah, que penses-tu d'un terrain possédé par une seule personne mais qui a des voisins ?"" Il a dit : ""Le voisin a plus de droit sur la propriété qui est proche",17,5,,,,,
-2497,,17,6,,,,,
-2498,"Rapporté par Abu Rafi' : Le Messager d'Allah (ﷺ) a dit : ""L'associé a plus de droit sur ce qui est proche de lui, tant qu'il est encore associé",17,8,,,,,
-2499,"Rapporté par Jabir bin Abdullah : Le Messager d'Allah (ﷺ) a statué que la préemption s'applique dans tous les cas où le terrain n'a pas été divisé. Mais si les limites ont été fixées et les chemins tracés, alors il n'y a pas de préemption",17,9,,,,,
-2500,"Rapporté par Ibn 'Umar : Le Messager d'Allah (ﷺ) a dit : ""La préemption est comme défaire le `Iqal",17,10,,,,,
-2501,"Rapporté par Ibn 'Umar : Le Messager d'Allah (ﷺ) a dit : ""Il n'y a pas de préemption pour un associé si son co-associé l'a précédé (dans une autre affaire avant), ni pour un mineur ni pour un absent",17,11,,,,,
+hadiths[10]{hadithnumber,text,reference_book,reference_hadith,grades,reference,international_number,narrator_chain,chapter_intro,urdu,chapter_title_arabic}:
+2492,"Rapporté par Jabir : Le Messager d'Allah (ﷺ) a dit : ""Celui qui possède un palmier ou un terrain ne doit pas le vendre sans l'avoir d'abord proposé à son associé",17,1,,,,,,"جابر رضی اللہ عنہ کہتے ہیں کہ  رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  جس کے پاس کھجور کے درخت ہوں ",2492,
+2493,"Rapporté par Ibn Abbas : Le Prophète (ﷺ) a dit : ""Celui qui possède un terrain et veut le vendre, qu'il le propose à son voisin",17,2,,,,,,"عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ  نبی اکرم صلی اللہ علیہ وسلم نے فرمایا:  جس کے پاس زمین ہ",2493,
+2494,"Rapporté par Jabir : Le Messager d'Allah (ﷺ) a dit : ""Le voisin a plus de droit à la préemption de son voisin, alors qu'il attende même s'il est absent, s'ils partagent un chemin",17,3,,,,,,"جابر رضی اللہ عنہ کہتے ہیں کہ  رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  پڑوسی اپنے پڑوسی کے شفعہ کا ",2494,
+2495,"Rapporté par Abu Rafi' : Le Prophète (ﷺ) a dit : ""Le voisin a plus de droit sur la propriété qui est proche",17,4,,,,,,"ابورافع رضی اللہ عنہ سے روایت ہے کہ  نبی اکرم صلی اللہ علیہ وسلم نے فرمایا:  پڑوسی اپنے نزدیکی مکان ",2495,
+2496,"Rapporté par Sharid bin Suwaid : J'ai dit : ""Ô Messager d'Allah, que penses-tu d'un terrain possédé par une seule personne mais qui a des voisins ?"" Il a dit : ""Le voisin a plus de droit sur la propriété qui est proche",17,5,,,,,,"شرید بن سوید رضی اللہ عنہ کہتے ہیں کہ  میں نے عرض کیا: اللہ کے رسول! ایک زمین ہے جس میں کسی کا حصہ ن",2496,
+2497,,17,6,,,,,,ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ  رسول اللہ صلی اللہ علیہ وسلم نے ایسی جائیداد میں شفعہ کا حکم د,2497,
+2498,"Rapporté par Abu Rafi' : Le Messager d'Allah (ﷺ) a dit : ""L'associé a plus de droit sur ce qui est proche de lui, tant qu'il est encore associé",17,8,,,,,,"ابورافع رضی اللہ عنہ کہتے ہیں کہ  رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  شریک  ( ساجھی دار )  اپنی",2498,
+2499,"Rapporté par Jabir bin Abdullah : Le Messager d'Allah (ﷺ) a statué que la préemption s'applique dans tous les cas où le terrain n'a pas été divisé. Mais si les limites ont été fixées et les chemins tracés, alors il n'y a pas de préemption",17,9,,,,,,جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ  رسول اللہ صلی اللہ علیہ وسلم نے شفعہ ہر اس جائیداد میں ٹ,2499,
+2500,"Rapporté par Ibn 'Umar : Le Messager d'Allah (ﷺ) a dit : ""La préemption est comme défaire le `Iqal",17,10,,,,,,"عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ  رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  شفعہ اونٹ کی رسی",2500,
+2501,"Rapporté par Ibn 'Umar : Le Messager d'Allah (ﷺ) a dit : ""Il n'y a pas de préemption pour un associé si son co-associé l'a précédé (dans une autre affaire avant), ni pour un mineur ni pour un absent",17,11,,,,,,"عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ  رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  شریک کو شریک پر ",2501,

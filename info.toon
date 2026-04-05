@@ -1,506 +1,703 @@
-books[25]{id,name,total_hadiths}:
-abudawud,Sunan Abu Dawud,5274
-bukhari,Sahih al Bukhari,7563
-ibnmajah,Sunan Ibn Majah,4341
-malik,Muwatta Malik,1858
-muslim,Sahih Muslim,7563
-nasai,Sunan an Nasai,5758
-tirmidhi,Jami At Tirmidhi,3956
-nawawi,Forty Hadith of an-Nawawi,42
-qudsi,Forty Hadith Qudsi,40
-dehlawi,Forty Hadith of Shah Waliullah Dehlawi,40
-musnad-ahmed,Musnad Ahmed,329
-silsila-sahih,Silsila Sahiha,52
-mishkat,Mishkat al-Masabih,494
-fatah-alrabani,Fatah Al-Rabani,193
-bayhaqi,Sunan Al Kubra Bayhaqi,125
-shamail-tirmazi,Shamail-e-Tirmazi,147
-aladab-almufrad,Al-Adab Al-Mufrad,49
-mustadrak,Al Mustadrak,668
-sunan-darmi,Sunan Darmi,245
-muajam-tabarani-saghir,Muajam Saghir Tabarani,26
-musannaf-ibn-abi-shaybah,Musannaf Ibn Abi Shaybah,264
-sahih-ibn-khuzaymah,Sahih Ibn Khuzaymah,50
-sunan-al-daraqutni,Sunan al-Daraqutni,219
-bulugh-al-maram,Bulugh al-Maram,196
-lulu-wal-marjan,Al-Lu'lu wal-Marjan,47
+books[25]{id,name,total_hadiths,max_file_mb,minority_langs}:
+abudawud,Abudawud,5274,3.5,
+aladab-almufrad,Aladab Almufrad,1326,0.2,urdu
+bayhaqi,Bayhaqi,124,0.3,
+bukhari,Bukhari,7557,3.8,
+bulugh-al-maram,Bulugh Al Maram,1767,0.4,urdu
+dehlawi,Dehlawi,40,0.0,
+fatah-alrabani,Fatah Alrabani,192,0.4,
+ibnmajah,Ibnmajah,4822,1.9,
+lulu-wal-marjan,Lulu Wal Marjan,129,0.1,
+malik,Malik,1856,0.9,
+mishkat,Mishkat,4428,1.0,urdu
+muajam-tabarani-saghir,Muajam Tabarani Saghir,25,0.0,
+musannaf-ibn-abi-shaybah,Musannaf Ibn Abi Shaybah,263,0.2,
+muslim,Muslim,16133,12.1,
+musnad-ahmed,Musnad Ahmed,1374,1.0,urdu
+mustadrak,Mustadrak,667,1.6,
+nasai,Nasai,5676,1.5,
+nawawi,Nawawi,42,0.2,
+qudsi,Qudsi,40,0.1,
+sahih-ibn-khuzaymah,Sahih Ibn Khuzaymah,49,0.1,
+shamail-tirmazi,Shamail Tirmazi,402,0.0,urdu
+silsila-sahih,Silsila Sahih,51,0.1,
+sunan-al-daraqutni,Sunan Al Daraqutni,218,0.3,
+sunan-darmi,Sunan Darmi,3406,0.6,urdu
+tirmidhi,Tirmidhi,4803,4.0,
 
-sections_abudawud[44]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-0,,0,0,0,0
-1,Purification (Kitab Al-Taharah),1,390,1,390
-2,Prayer (Kitab Al-Salat),391,1160,391,1160
-3,The Book Of The Prayer For Rain (Kitab al-Istisqa'),1161,1197,1161,1197
-4,"Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey",1198,1249,1198,1249
-5,"Prayer (Kitab Al-Salat): Voluntary Prayers",1250,1370,1250,1370
-6,"Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan",1371,1400,1371,1400
-7,"Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",1401,1415,1401,1415
-8,"Prayer (Kitab Al-Salat): Detailed Injunctions about Witr",1416,1555,1416,1555
-9,Zakat (Kitab Al-Zakat),1556,1700,1556,1700
-10,The Book of Lost and Found Items,1701,1720,1701,1720
-11,The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj),1721,2045,1721,2045
-12,Marriage (Kitab Al-Nikah),2046,2174,2046,2174
-13,Divorce (Kitab Al-Talaq),2175,2312,2175,2312
-14,Fasting (Kitab Al-Siyam),2313,2476,2313,2476
-15,Jihad (Kitab Al-Jihad),2477,2787,2477,2787
-16,Sacrifice (Kitab Al-Dahaya),2788,2843,2788,2843
-17,Game (Kitab Al-Said),2844,2861,2844,2861
-18,Wills (Kitab Al-Wasaya),2862,2884,2862,2884
-19,Shares of Inheritance (Kitab Al-Fara'id),2885,2927,2885,2927
-20,"Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)",2928,3088,2928,3088
-21,Funerals (Kitab Al-Jana'iz),3089,3241,3089,3241
-22,Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur),3242,3325,3242,3325
-23,Commercial Transactions (Kitab Al-Buyu),3326,3415,3326,3415
-24,Wages (Kitab Al-Ijarah),3416,3570,3416,3570
-25,The Office of the Judge (Kitab Al-Aqdiyah),3571,3640,3571,3640
-26,Knowledge (Kitab Al-Ilm),3641,3668,3641,3668
-27,Drinks (Kitab Al-Ashribah),3669,3735,3669,3735
-28,Foods (Kitab Al-At'imah),3736,3854,3736,3854
-29,Medicine (Kitab Al-Tibb),3855,3903,3855,3903
-30,Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur),3904,3925,3904,3925
-31,The Book of Manumission of Slaves,3926,3968,3926,3968
-32,Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at),3969,4008,3969,4008
-33,Hot Baths (Kitab Al-Hammam),4009,4019,4009,4019
-34,Clothing (Kitab Al-Libas),4020,4158,4020,4158
-35,Combing the Hair (Kitab Al-Tarajjul),4159,4213,4159,4213
-36,Signet-Rings (Kitab Al-Khatam),4214,4239,4214,4239
-37,Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim),4240,4278,4240,4278
-38,The Promised Deliverer (Kitab Al-Mahdi),4279,4290,4279,4290
-39,Battles (Kitab Al-Malahim),4291,4350,4291,4350
-40,Prescribed Punishments (Kitab Al-Hudud),4351,4493,4351,4493
-41,Types of Blood-Wit (Kitab Al-Diyat),4494,4595,4494,4595
-42,Model Behavior of the Prophet (Kitab Al-Sunnah),4596,4772,4596,4772
-43,General Behavior (Kitab Al-Adab),4773,5274,4773,5274
+sections_abudawud[43]{id,name,hadith_count,file}:
+1,,390,1.toon
+10,,20,10.toon
+11,,325,11.toon
+12,,129,12.toon
+13,,138,13.toon
+14,,164,14.toon
+15,,311,15.toon
+16,,56,16.toon
+17,,18,17.toon
+18,,23,18.toon
+19,,43,19.toon
+2,,770,2.toon
+20,,161,20.toon
+21,,153,21.toon
+22,,84,22.toon
+23,,90,23.toon
+24,,155,24.toon
+25,,70,25.toon
+26,,28,26.toon
+27,,67,27.toon
+28,,119,28.toon
+29,,49,29.toon
+3,,37,3.toon
+30,,22,30.toon
+31,,43,31.toon
+32,,40,32.toon
+33,,11,33.toon
+34,,139,34.toon
+35,,55,35.toon
+36,,26,36.toon
+37,,39,37.toon
+38,,12,38.toon
+39,,60,39.toon
+4,,52,4.toon
+40,,143,40.toon
+41,,102,41.toon
+42,,177,42.toon
+43,,502,43.toon
+5,,121,5.toon
+6,,30,6.toon
+7,,15,7.toon
+8,,140,8.toon
+9,,145,9.toon
 
-sections_bukhari[98]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-0,,0,0,0,0
-1,Revelation,1,7,1,7
-2,Belief,8,58,8,58
-3,Knowledge,59,134,59,134
-4,Ablutions (Wudu'),135,247,135,247
-5,Bathing (Ghusl),248,293,248,293
-6,Menstrual Periods,294,333,294,333
-7,Rubbing hands and feet with dust (Tayammum),334,348,334,348
-8,Prayers (Salat),349,520,349,520
-9,Times of the Prayers,522,602,522,602
-10,Call to Prayers (Adhaan),603,875,603,875
-11,Friday Prayer,876,941,876,941
-12,Fear Prayer,942,947,942,947
-13,The Two Festivals (Eids),948,989,948,989
-14,Witr Prayer,990,1004,990,1004
-15,Invoking Allah for Rain (Istisqaa),1005,1039,1005,1039
-16,Eclipses,1040,1066,1040,1066
-17,Prostration During Recital of Qur'an,1067,1079,1067,1079
-18,Shortening the Prayers (At-Taqseer),1080,1119,1080,1119
-19,Prayer at Night (Tahajjud),1120,1187,1120,1187
-20,Virtues of Prayer at Masjid Makkah and Madinah,1188,1197,1188,1197
-21,Actions while Praying,1198,1223,1198,1223
-22,Forgetfulness in Prayer,1224,1236,1224,1236
-23,Funerals (Al-Janaa'iz),1237,1394,1237,1394
-24,Obligatory Charity Tax (Zakat),1395,1512,1395,1512
-25,Hajj (Pilgrimage),1513,1772,1513,1772
-26,`Umrah (Minor pilgrimage),1773,1805,1773,1805
-27,Pilgrims Prevented from Completing the Pilgrimage,1806,1820,1806,1820
-28,Penalty of Hunting while on Pilgrimage,1821,1866,1821,1866
-29,Virtues of Madinah,1867,1890,1867,1890
-30,Fasting,1891,2007,1891,2007
-31,Praying at Night in Ramadaan (Taraweeh),2008,2013,2008,2013
-32,Virtues of the Night of Qadr,2014,2024,2014,2024
-33,Retiring to a Mosque for Remembrance of Allah (I'tikaf),2025,2046,2025,2046
-34,Sales and Trade,2047,2238,2047,2238
-35,Sales in which a Price is paid for Goods to be Delivered Later (As-Salam),2239,2256,2239,2256
-36,Shuf'a,2257,2259,2257,2259
-37,Hiring,2260,2286,2260,2286
-38,Transferance of a Debt from One Person to Another (Al-Hawaala),2287,2289,2287,2289
-39,Kafalah,2290,2298,2290,2298
-40,"Representation, Authorization, Business by Proxy",2299,2319,2299,2319
-41,Agriculture,2320,2350,2320,2350
-42,Distribution of Water,2351,2383,2351,2383
-43,"Loans, Payment of Loans, Freezing of Property, Bankruptcy",2385,2409,2385,2409
-44,Khusoomaat,2410,2425,2410,2425
-45,Lost Things Picked up by Someone (Luqatah),2426,2439,2426,2439
-46,Oppressions,2440,2482,2440,2482
-47,Partnership,2483,2507,2483,2507
-48,Mortgaging,2508,2515,2508,2515
-49,Manumission of Slaves,2517,2559,2517,2559
-50,Makaatib,2560,2565,2560,2565
-51,Gifts,2566,2636,2566,2636
-52,Witnesses,2637,2689,2637,2689
-53,Peacemaking,2690,2710,2690,2710
-54,Conditions,2712,2737,2712,2737
-55,Wills and Testaments (Wasaayaa),2738,2781,2738,2781
-56,Fighting for the Cause of Allah (Jihaad),2782,3090,2782,3090
-57,One-fifth of Booty to the Cause of Allah (Khumus),3091,3155,3091,3155
-58,Jizyah and Mawaada'ah,3157,3189,3157,3189
-59,Beginning of Creation,3190,3325,3190,3325
-60,Prophets,3326,3488,3326,3488
-61,Virtues and Merits of the Prophet (pbuh) and his Companions,3489,3648,3489,3648
-62,Companions of the Prophet,3649,3775,3649,3775
-63,Merits of the Helpers in Madinah (Ansaar),3776,3948,3776,3948
-64,Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi),3949,4473,3949,4473
-65,Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh)),4474,4977,4474,4977
-66,Virtues of the Qur'an,4979,5062,4979,5062
-67,"Wedlock, Marriage (Nikaah)",5063,5250,5063,5250
-68,Divorce,5251,5350,5251,5350
-69,Supporting the Family,5351,5372,5351,5372
-70,"Food, Meals",5373,5466,5373,5466
-71,Sacrifice on Occasion of Birth (`Aqiqa),5467,5474,5467,5474
-72,"Hunting, Slaughtering",5475,5544,5475,5544
-73,Al-Adha Festival Sacrifice (Adaahi),5545,5574,5545,5574
-74,Drinks,5575,5639,5575,5639
-75,Patients,5640,5677,5640,5677
-76,Medicine,5678,5782,5678,5782
-77,Dress,5783,5969,5783,5969
-78,Good Manners and Form (Al-Adab),5970,6226,5970,6226
-79,Asking Permission,6227,6303,6227,6303
-80,Invocations,6304,6411,6304,6411
-81,To make the Heart Tender (Ar-Riqaq),6412,6593,6412,6593
-82,Divine Will (Al-Qadar),6594,6620,6594,6620
-83,Oaths and Vows,6621,6707,6621,6707
-84,Expiation for Unfulfilled Oaths,6708,6722,6708,6722
-85,Laws of Inheritance (Al-Faraa'id),6723,6771,6723,6771
-86,Limits and Punishments set by Allah (Hudood),6772,6860,6772,6860
-87,Blood Money (Ad-Diyat),6861,6917,6861,6917
-88,Apostates,6918,6939,6918,6939
-89,(Statements made under) Coercion,6940,6952,6940,6952
-90,Tricks,6953,6981,6953,6981
-91,Interpretation of Dreams,6982,7047,6982,7047
-92,Afflictions and the End of the World,7048,7136,7048,7136
-93,Judgments (Ahkaam),7137,7225,7137,7225
-94,Wishes,7226,7245,7226,7245
-95,Accepting Information Given by a Truthful Person,7246,7267,7246,7267
-96,Holding Fast to the Qur'an and Sunnah,7268,7370,7268,7370
-97,"Oneness, Uniqueness of Allah (Tawheed)",7371,7563,7371,7563
+sections_aladab-almufrad[57]{id,name,hadith_count,file}:
+1,,46,1.toon
+10,,9,10.toon
+11,,17,11.toon
+12,,18,12.toon
+13,,4,13.toon
+14,,50,14.toon
+15,,24,15.toon
+16,,11,16.toon
+17,,10,17.toon
+18,,9,18.toon
+19,,10,19.toon
+2,,27,2.toon
+20,,13,20.toon
+21,,12,21.toon
+22,,18,22.toon
+23,,4,23.toon
+24,,23,24.toon
+25,,20,25.toon
+26,,13,26.toon
+27,,8,27.toon
+28,,8,28.toon
+29,,47,29.toon
+3,,2,3.toon
+30,,66,30.toon
+31,,135,31.toon
+32,,15,32.toon
+33,,57,33.toon
+34,,31,34.toon
+35,,14,35.toon
+36,,19,36.toon
+37,,13,37.toon
+38,,19,38.toon
+39,,12,39.toon
+4,,8,4.toon
+40,,33,40.toon
+41,,13,41.toon
+42,,87,42.toon
+43,,50,43.toon
+44,,16,44.toon
+45,,19,45.toon
+46,,17,46.toon
+47,,22,47.toon
+48,,24,48.toon
+49,,6,49.toon
+5,,17,5.toon
+50,,27,50.toon
+51,,6,51.toon
+52,,6,52.toon
+53,,15,53.toon
+54,,23,54.toon
+55,,23,55.toon
+56,,12,56.toon
+57,,7,57.toon
+6,,28,6.toon
+7,,14,7.toon
+8,,13,8.toon
+9,,56,9.toon
 
-sections_ibnmajah[38]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-0,The Book of the Sunnah,1,266,1,266
-1,The Book of Purification and its Sunnah,267,666,267,666
-2,The Book of the Prayer,667,705,667,705
-3,The Book of the Adhan and the Sunnah Regarding It,706,734,706,734
-4,The Book On The Mosques And The Congregations,735,802,735,802
-5,Establishing the Prayer and the Sunnah Regarding Them,803,1432,803,1432
-6,Chapters Regarding Funerals,1433,1637,1433,1637
-7,Fasting,1638,1782,1638,1782
-8,The Chapters Regarding Zakat,1783,1844,1783,1844
-9,The Chapters on Marriage,1845,2015,1845,2015
-10,The Chapters on Divorce,2016,2477,2016,2477
-11,The Chapters on Expiation,2090,2136,2090,2136
-12,The Chapters on Business Transactions,2137,2307,2137,2307
-13,The Chapters on Rulings,2308,2374,2308,2374
-14,The Chapters on Gifts,2375,2389,2375,2389
-15,The Chapters on Charity,2390,2528,2390,2528
-16,The Chapters on Pawning,2436,2491,2436,2491
-17,The Chapters on Pre-emption,2492,2501,2492,2501
-18,The Chapters on Lost Property,2502,2511,2502,2511
-19,The Chapters on Manumission (of Slaves),2512,2532,2512,2532
-20,The Chapters on Legal Punishments,2533,2614,2533,2614
-21,The Chapters on Blood Money,2615,2694,2615,2694
-22,The Chapters on Wills,2695,2718,2695,2718
-23,Chapters on Shares of Inheritance,2719,2752,2719,2752
-24,The Chapters on Jihad,2753,2881,2753,2881
-25,Chapters on Hajj Rituals,2882,3119,2882,3119
-26,Chapters on Sacrifices,3120,3161,3120,3161
-27,Chapters on Slaughtering,3162,3199,3162,3199
-28,Chapters on Hunting,3200,3250,3200,3250
-29, Chapters on Food,3251,3370,3251,3370
-30,Chapters on Drinks,3371,3435,3371,3435
-31,Chapters on Medicine,3436,3549,3436,3549
-32,Chapters on Dress,3550,3656,3550,3656
-33,Etiquette,3657,3826,3657,3826
-34,Supplication,3827,3892,3827,3892
-35,Interpretation of Dreams,3893,3926,3893,3926
-36,Tribulations,3927,4099,3927,4099
-37,Zuhd,4100,4341,4100,4341
+sections_bayhaqi[1]{id,name,hadith_count,file}:
+1,,124,1.toon
 
-sections_malik[62]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-0,,0,0,0,0
-1,The Times of Prayer,1,31,1,31
-2,Purity,32,145,32,145
-3,Prayer,146,221,146,221
-4,Forgetfulness in Prayer,222,224,222,224
-5,Jumu'a,225,245,225,245
-6,Prayer in Ramadan,246,253,246,253
-7,Tahajjud,254,286,254,286
-8,Prayer in Congregation,287,325,287,325
-9,Shortening the Prayer,326,427,326,427
-10,The Two 'Ids,428,440,428,440
-11,The Fear Prayer,441,444,441,444
-12,The Eclipse Prayer,445,448,445,448
-13,Asking for Rain,449,454,449,454
-14,The Qibla,455,469,455,469
-15,The Qur'an,470,519,470,519
-16,Burials,520,577,520,577
-17,Zakat,578,629,578,629
-18,Fasting,630,689,630,689
-19,I'tikaf in Ramadan,690,704,690,704
-20,Hajj,705,957,705,957
-21,Jihad,959,1008,959,1008
-22,Vows and Oaths,1009,1027,1009,1027
-23,Sacrificial Animals,1028,1041,1028,1041
-24,Slaughtering Animals,1042,1051,1042,1051
-25,Game,1052,1066,1052,1066
-26,The 'Aqiqa,1067,1073,1067,1073
-27,Fara'id,1074,1089,1074,1089
-28,Marriage,1091,1149,1091,1149
-29,Divorce,1150,1271,1150,1271
-30,Suckling,1272,1289,1272,1289
-31,Business Transactions,1290,1385,1290,1385
-32,Qirad,1386,1387,1386,1387
-33,Sharecropping,1388,1389,1388,1389
-34,Renting Land,1390,1394,1390,1394
-35,Pre-emption in Property,1395,1398,1395,1398
-36,Judgements,1399,1454,1399,1454
-37,Wills and Testaments,1455,1463,1455,1463
-38,Setting Free and Wala',1464,1488,1464,1488
-39,The Mukatab,1489,1496,1489,1496
-40,The Mudabbar,1497,1499,1497,1499
-41,Hudud,1500,1536,1500,1536
-42,Drinks,1537,1551,1537,1551
-43,Blood-Money,1552,1595,1552,1595
-44,The Oath of Qasama,1596,1597,1596,1597
-45,Madina,1598,1622,1598,1622
-46,The Decree,1623,1632,1623,1632
-47,Good Character,1633,1650,1633,1650
-48,Dress,1651,1670,1651,1670
-49,"The Description of the Prophet, may Allah Bless Him and Grant Him Peace",1671,1710,1671,1710
-50,The Evil Eye,1711,1729,1711,1729
-51,Hair,1730,1746,1730,1746
-52,Visions,1747,1755,1747,1755
-53,Greetings,1756,1762,1756,1762
-54,General Subjects,1763,1807,1763,1807
-55,The Oath of Allegiance,1808,1810,1808,1810
-56,Speech,1811,1838,1811,1838
-57,Jahannam,1839,1840,1839,1840
-58,Sadaqa,1841,1855,1841,1855
-59,Knowledge,1856,1856,1856,1856
-60,The Supplication of the Unjustly Wronged,1857,1857,1857,1857
-61,"The Names of the Prophet, may Allah Bless Him and Grant Him Peace",1858,1858,1858,1858
+sections_bukhari[97]{id,name,hadith_count,file}:
+1,,7,1.toon
+10,,273,10.toon
+11,,66,11.toon
+12,,6,12.toon
+13,,42,13.toon
+14,,15,14.toon
+15,,35,15.toon
+16,,27,16.toon
+17,,13,17.toon
+18,,40,18.toon
+19,,68,19.toon
+2,,51,2.toon
+20,,10,20.toon
+21,,26,21.toon
+22,,13,22.toon
+23,,158,23.toon
+24,,118,24.toon
+25,,260,25.toon
+26,,33,26.toon
+27,,15,27.toon
+28,,46,28.toon
+29,,24,29.toon
+3,,76,3.toon
+30,,117,30.toon
+31,,6,31.toon
+32,,11,32.toon
+33,,22,33.toon
+34,,192,34.toon
+35,,18,35.toon
+36,,3,36.toon
+37,,27,37.toon
+38,,3,38.toon
+39,,9,39.toon
+4,,113,4.toon
+40,,21,40.toon
+41,,31,41.toon
+42,,33,42.toon
+43,,25,43.toon
+44,,16,44.toon
+45,,14,45.toon
+46,,43,46.toon
+47,,25,47.toon
+48,,8,48.toon
+49,,43,49.toon
+5,,46,5.toon
+50,,6,50.toon
+51,,71,51.toon
+52,,53,52.toon
+53,,21,53.toon
+54,,26,54.toon
+55,,44,55.toon
+56,,309,56.toon
+57,,65,57.toon
+58,,33,58.toon
+59,,136,59.toon
+6,,40,6.toon
+60,,163,60.toon
+61,,160,61.toon
+62,,127,62.toon
+63,,173,63.toon
+64,,525,64.toon
+65,,504,65.toon
+66,,84,66.toon
+67,,188,67.toon
+68,,100,68.toon
+69,,22,69.toon
+7,,15,7.toon
+70,,94,70.toon
+71,,8,71.toon
+72,,70,72.toon
+73,,30,73.toon
+74,,65,74.toon
+75,,38,75.toon
+76,,105,76.toon
+77,,187,77.toon
+78,,257,78.toon
+79,,77,79.toon
+8,,172,8.toon
+80,,108,80.toon
+81,,182,81.toon
+82,,27,82.toon
+83,,87,83.toon
+84,,15,84.toon
+85,,49,85.toon
+86,,89,86.toon
+87,,57,87.toon
+88,,22,88.toon
+89,,13,89.toon
+9,,81,9.toon
+90,,29,90.toon
+91,,66,91.toon
+92,,89,92.toon
+93,,89,93.toon
+94,,20,94.toon
+95,,22,95.toon
+96,,103,96.toon
+97,,193,97.toon
 
-sections_muslim[57]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-0,Introduction,1,92,1,7
-1,The Book of Faith,93,533,8.01,222.02
-2,The Book of Purification,534,678,223,292.02
-3,The Book of Menstruation,679,836,293.01,376.04
-4,The Book of Prayers ,837,1160,377,519.02
-5,The Book of Mosques and Places of Prayer,1161,1569,520.01,684.04
-6,The Book of Prayer - Travellers,1570,1950,685.01,843.02
-7,The Book of Prayer - Friday,1951,2043,844.01,883.02
-8,The Book of Prayer - Two Eids,2044,2069,884.01,893
-9,The Book of Prayer - Rain,2070,2088,894.01,900.02
-10,The Book of Prayer - Eclipses,2089,2122,901.01,915
-11,The Book of Prayer - Funerals,2123,2262,916.01,978
-12,The Book of Zakat,2263,2494,979.01,1078.02
-13,The Book of Fasting ,2495,2779,1079.01,1170
-14,The Book of I'tikaf,2780,2790,1171.01,1176.02
-15,The Book of Pilgrimage,2791,3397,1177.01,1399.09
-16,The Book of Marriage,388,3567,1400.01,1443
-17,The Book of Suckling,3568,3651,1444.01,1470.02
-18,The Book of Divorce ,3652,3742,1471.01,1491
-19,The Book of Invoking Curses,3743,3769,1492.01,1500.04
-20,The Book of Emancipating Slaves,3770,3800,1501.01,1510.02
-21,The Book of Transactions,3801,3961,1511.01,1550.05
-22,The Book of Musaqah,3962,4139,1551.01,1613
-23,The Book of the Rules of Inheritance,4140,4162,1614,1619.06
-24,The Book of Gifts,4163,4203,1620.01,1626.02
-25,The Book of Wills,4204,4234,1627.01,1637.03
-26,The Book of Vows,4235,4253,1638.01,1645
-27,The Book of Oaths,4254,4341,1646.01,1668.03
-28,"The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",4342,4397,1669.01,1683
-29,The Book of Legal Punishments,4398,4469,1684.01,1710.05
-30,The Book of Judicial Decisions,4470,4497,1711.01,1721
-31,The Book of Lost Property,4498,4518,1722.01,1729
-32,The Book of Jihad and Expeditions,4519,4700,1730.01,1817
-33,The Book on Government,4701,4967,1818.01,1928.02
-34,"The Book of Hunting, Slaughter, and what may be Eaten",4972,5063,1929.01,1959
-35,The Book of Sacrifices,5064,5126,1960.01,1978.03
-36,The Book of Drinks,5114,5383,1979.02,2064.04
-37,The Book of Clothes and Adornment,5385,5585,2065.01,2130.02
-38,The Book of Manners and Etiquette,5586,5645,2131,2159.02
-39,The Book of Greetings,5646,5861,2160,2245.02
-40,The Book Concerning the Use of Correct Words,5862,5884,2246.01,2254
-41,The Book of Poetry,5887,5896,2255.03,2260
-42,The Book of Dreams,5897,5937,2261.01,2275
-43,The Book of Virtues,384,6168,2276,2380.06
-44,The Book of the Merits of the Companions,6169,6499,2381,2547
-45,"The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",6500,6722,2548.01,2642.02
-46,The Book of Destiny,6723,6774,2643.01,2664
-47,The Book of Knowledge,6775,6804,2665,2674
-48,"The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness ",6805,6936,2675.01,2735.03
-49,The Book of Heart-Melting Traditions,6937,6951,2736,2743.03
-50,The Book of Repentance,6952,7023,2744.01,2771
-51,Characteristics of The Hypocrites And Rulings Concerning Them,7024,7044,2772,2784.02
-52,"Characteristics of the Day of Judgment, Paradise, and Hell",7045,7129,2785,2821.03
-53,"The Book of Paradise, its Description, its Bounties and its Inhabitants",7130,7234,2822,2879
-54,The Book of Tribulations and Portents of the Last Hour,7235,7416,2880.01,2955.03
-55,The Book of Zuhd and Softening of Hearts ,7417,7522,2956,3014
-56,The Book of Commentary on the Qur'an,7523,7563,3015,3033.02
+sections_bulugh-al-maram[16]{id,name,hadith_count,file}:
+1,,179,1.toon
+10,,57,10.toon
+11,,63,11.toon
+12,,44,12.toon
+13,,23,13.toon
+14,,36,14.toon
+15,,20,15.toon
+16,,133,16.toon
+2,,461,2.toon
+3,,66,3.toon
+4,,51,4.toon
+5,,58,5.toon
+6,,74,6.toon
+7,,233,7.toon
+8,,222,8.toon
+9,,47,9.toon
 
-sections_nasai[52]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-0,,0,0,0,0
-1,The Book of Purification,1,324,1,324
-2,The Book of Water,325,347,325,347
-3,The Book of Menstruation and Istihadah,348,395,348,395
-4,The Book of Ghusl and Tayammum,396,447,396,447
-5,The Book of Salah,448,493,448,493
-6,The Book of the Times (of Prayer),494,625,494,625
-7,The Book of the Adhan (The Call to Prayer),626,687,626,687
-8,The Book of the Masjids,688,741,688,741
-9,The Book of the Qiblah,742,776,742,776
-10,The Book of Leading the Prayer (Al-Imamah),777,875,777,875
-11,The Book of the Commencement of the Prayer,876,1028,876,1028
-12,The Book of The At-Tatbiq (Clasping One's Hands Together),1029,1178,1029,1178
-13,The Book of Forgetfulness (In Prayer),1179,1366,1179,1366
-14,The Book of Jumu'ah (Friday Prayer),1367,1432,1367,1432
-15,The Book of Shortening the Prayer When Traveling,1433,1458,1433,1458
-16,The Book of Eclipses,1459,1503,1459,1503
-17,The Book of Praying for Rain (Al-Istisqa'),1504,1528,1504,1528
-18,The Book of the Fear Prayer,1529,1555,1529,1555
-19,The Book of the Prayer for the Two 'Eids,1556,1597,1556,1597
-20,The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day,1598,1817,1598,1817
-21,The Book of Funerals,1818,2089,1818,2089
-22,The Book of Fasting,2090,2434,2090,2434
-23,The Book of Zakah,2435,2618,2435,2618
-24,The Book of Hajj,2619,3084,2619,3084
-25,The Book of Jihad,3085,3195,3085,3195
-26,The Book of Marriage,3196,3388,3196,3388
-27,The Book of Divorce,3389,3560,3389,3560
-28,"The Book of Horses, Races and Shooting",3561,3593,3561,3593
-29,The Book of Endowments,3594,3610,3594,3610
-30,The Book of Wills,3611,3671,3611,3671
-31,The Book of Presents,3672,3687,3672,3687
-32,The Book of Gifts,3688,3705,3688,3705
-33,The Book of ar-Ruqba,3706,3719,3706,3719
-34,The Book of 'Umra,3720,3760,3720,3760
-35,The Book of Agriculture,3761,3856,3761,3856
-36,The Book of the Kind Treatment of Women,3939,3965,3939,3965
-37,The Book of Fighting [The Prohibition of Bloodshed],3966,4132,3966,4132
-38,The Book of Distribution of Al-Fay',4133,4148,4133,4148
-39,The Book of al-Bay'ah,4149,4211,4149,4211
-40,The Book of al-'Aqiqah,4212,4221,4212,4221
-41,The Book of al-Fara' and al-'Atirah,4222,4262,4222,4262
-42,The Book of Hunting and Slaughtering,4263,4360,4263,4360
-43,The Book of ad-Dahaya (Sacrifices),4361,4448,4361,4448
-44,The Book of Financial Transactions,4449,4705,4449,4705
-45,"The Book of Oaths (qasamah), Retaliation and Blood Money",4706,4869,4706,4869
-46,The Book of Cutting off the Hand of the Thief,4870,4984,4870,4984
-47,The Book Of Faith and its Signs,4985,5039,4985,5039
-48,The Book of Adornment,5040,5378,5040,5378
-49,The Book of the Etiquette of Judges,5379,5427,5379,5427
-50,The Book of Seeking Refuge with Allah,5428,5539,5428,5539
-51,The Book of Drinks,5540,5758,5540,5758
+sections_dehlawi[1]{id,name,hadith_count,file}:
+1,,40,1.toon
 
-sections_tirmidhi[50]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-0,,0,0,0,0
-1,The Book on Purification,1,148,1,148
-2,The Book on Salat (Prayer),149,451,149,451
-3,The Book on Al-Witr,452,487,452,487
-4,The Book on the Day of Friday,488,529,488,529
-5,The Book on the Two Eids,530,543,530,543
-6,The Book on Traveling,544,616,544,616
-7,The Book on Zakat,617,681,617,681
-8,The Book on Fasting,682,808,682,808
-9,The Book on Hajj,809,964,809,964
-10,The Book on Jana''iz (Funerals),965,1079,965,1079
-11,The Book on Marriage,1080,1145,1080,1145
-12,The Book on Suckling,1146,1174,1146,1174
-13,The Book on Divorce and Li'an,1175,1204,1175,1204
-14,The Book on Business,1205,1321,1205,1321
-15,The Chapters On Judgements From The Messenger of Allah,1322,1385,1322,1385
-16,The Book on Blood Money,1386,1422,1386,1422
-17,The Book on Legal Punishments (Al-Hudud),1423,1463,1423,1463
-18,The Book on Hunting,1464,1492,1464,1492
-19,The Book on Sacrifices,1493,1523,1493,1523
-20,The Book on Vows and Oaths,1524,1547,1524,1547
-21,The Book on Military Expeditions,1548,1618,1548,1618
-22,The Book on Virtues of Jihad,1619,1669,1619,1669
-23,The Book on Jihad,1670,1719,1670,1719
-24,The Book on Clothing,1720,1787,1720,1787
-25,The Book on Food,1788,1860,1788,1860
-26,The Book on Drinks,1861,1896,1861,1896
-27,Chapters on Righteousness And Maintaining Good Relations With Relatives,1897,2035,1897,2035
-28,Chapters on Medicine,2036,2089,2036,2089
-29,Chapters On Inheritance,2090,2115,2090,2115
-30,Chapters On Wasaya (Wills and Testament),2116,2124,2116,2124
-31,Chapters On Wala' And Gifts,2125,2132,2125,2132
-32,Chapters On Al-Qadar,2133,2298,2133,2298
-33,Chapters On Al-Fitan,2158,2269,2158,2269
-34,Chapters On Dreams,2270,2294,2270,2294
-35,Chapters On Witnesses,2295,2303,2295,2303
-36,Chapters On Zuhd,2304,2414,2304,2414
-37,"Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'",2415,2522,2415,2522
-38,Chapters on the description of Paradise,2523,2735,2523,2735
-39,The Book on the Description of Hellfire,2573,2795,2573,2795
-40,The Book on Faith,2606,2644,2606,2644
-41,Chapters on Knowledge,2645,2687,2645,2687
-42,Chapters on Seeking Permission,2688,2734,2688,2734
-43,Chapters on Manners,2736,2858,2736,2858
-44,Chapters on Parables,2859,2874,2859,2874
-45,Chapters on The Virtues of the Qur'an,2875,2926,2875,2926
-46,Chapters on Recitation,2927,2949,2927,2949
-47,Chapters on Tafsir,2950,3723,2950,3723
-48,Chapters on Supplication,3370,3604.1,3370,3604.1
-49,Chapters on Virtues,3605,3956,3605,3956
+sections_fatah-alrabani[1]{id,name,hadith_count,file}:
+1,,192,1.toon
 
-sections_nawawi[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-0,,0,0,0,0
-1,Forty Hadith of an-Nawawi,1,42,1,42
+sections_ibnmajah[38]{id,name,hadith_count,file}:
+0,,266,0.toon
+1,,400,1.toon
+10,,462,10.toon
+11,,47,11.toon
+12,,171,12.toon
+13,,67,13.toon
+14,,15,14.toon
+15,,139,15.toon
+16,,56,16.toon
+17,,10,17.toon
+18,,10,18.toon
+19,,21,19.toon
+2,,39,2.toon
+20,,82,20.toon
+21,,80,21.toon
+22,,24,22.toon
+23,,34,23.toon
+24,,129,24.toon
+25,,238,25.toon
+26,,42,26.toon
+27,,38,27.toon
+28,,51,28.toon
+29,,120,29.toon
+3,,29,3.toon
+30,,65,30.toon
+31,,114,31.toon
+32,,107,32.toon
+33,,170,33.toon
+34,,66,34.toon
+35,,34,35.toon
+36,,173,36.toon
+37,,242,37.toon
+4,,68,4.toon
+5,,630,5.toon
+6,,205,6.toon
+7,,145,7.toon
+8,,62,8.toon
+9,,171,9.toon
 
-sections_qudsi[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-0,,0,0,0,0
-1,Forty Hadith Qudsi,1,40,1,40
+sections_lulu-wal-marjan[4]{id,name,hadith_count,file}:
+0,,1,0.toon
+1,,40,1.toon
+2,,46,2.toon
+3,,42,3.toon
 
-sections_dehlawi[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_malik[61]{id,name,hadith_count,file}:
+1,,31,1.toon
+10,,13,10.toon
+11,,4,11.toon
+12,,4,12.toon
+13,,6,13.toon
+14,,15,14.toon
+15,,50,15.toon
+16,,58,16.toon
+17,,52,17.toon
+18,,60,18.toon
+19,,15,19.toon
+2,,114,2.toon
+20,,253,20.toon
+21,,50,21.toon
+22,,19,22.toon
+23,,14,23.toon
+24,,10,24.toon
+25,,15,25.toon
+26,,7,26.toon
+27,,16,27.toon
+28,,59,28.toon
+29,,122,29.toon
+3,,76,3.toon
+30,,18,30.toon
+31,,96,31.toon
+32,,2,32.toon
+33,,2,33.toon
+34,,5,34.toon
+35,,4,35.toon
+36,,56,36.toon
+37,,9,37.toon
+38,,25,38.toon
+39,,8,39.toon
+4,,3,4.toon
+40,,3,40.toon
+41,,37,41.toon
+42,,15,42.toon
+43,,44,43.toon
+44,,2,44.toon
+45,,25,45.toon
+46,,10,46.toon
+47,,18,47.toon
+48,,20,48.toon
+49,,40,49.toon
+5,,21,5.toon
+50,,19,50.toon
+51,,17,51.toon
+52,,9,52.toon
+53,,7,53.toon
+54,,45,54.toon
+55,,3,55.toon
+56,,28,56.toon
+57,,2,57.toon
+58,,15,58.toon
+59,,1,59.toon
+6,,8,6.toon
+60,,1,60.toon
+61,,1,61.toon
+7,,33,7.toon
+8,,39,8.toon
+9,,102,9.toon
 
-sections_musnad-ahmed[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_mishkat[25]{id,name,hadith_count,file}:
+0,,1,0.toon
+1,,188,1.toon
+10,,246,10.toon
+11,,274,11.toon
+12,,37,12.toon
+13,,293,13.toon
+14,,24,14.toon
+15,,39,15.toon
+16,,100,16.toon
+17,,94,17.toon
+18,,121,18.toon
+19,,273,19.toon
+2,,75,2.toon
+20,,93,20.toon
+21,,135,21.toon
+22,,193,22.toon
+23,,88,23.toon
+24,,20,24.toon
+3,,258,3.toon
+4,,921,4.toon
+5,,243,5.toon
+6,,180,6.toon
+7,,148,7.toon
+8,,112,8.toon
+9,,272,9.toon
 
-sections_silsila-sahih[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_muajam-tabarani-saghir[1]{id,name,hadith_count,file}:
+1,,25,1.toon
 
-sections_mishkat[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_musannaf-ibn-abi-shaybah[1]{id,name,hadith_count,file}:
+1,,263,1.toon
 
-sections_fatah-alrabani[3]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_muslim[85]{id,name,hadith_count,file}:
+0,,92,0.toon
+1,,441,1.toon
+10,,34,10.toon
+11,,140,11.toon
+12,,232,12.toon
+13,,285,13.toon
+14,,11,14.toon
+15,,607,15.toon
+16,,3180,16.toon
+17,,84,17.toon
+18,,91,18.toon
+19,,27,19.toon
+2,,145,2.toon
+20,,31,20.toon
+21,,161,21.toon
+22,,178,22.toon
+23,,23,23.toon
+24,,41,24.toon
+25,,31,25.toon
+26,,19,26.toon
+27,,88,27.toon
+28,,56,28.toon
+29,,72,29.toon
+3,,158,3.toon
+30,,28,30.toon
+31,,21,31.toon
+32,,182,32.toon
+33,,267,33.toon
+34,,92,34.toon
+35,,63,35.toon
+36,,270,36.toon
+37,,201,37.toon
+38,,60,38.toon
+39,,216,39.toon
+4,,324,4.toon
+40,,23,40.toon
+41,,10,41.toon
+42,,41,42.toon
+43_1,,200,43_1.toon
+43_10,,200,43_10.toon
+43_11,,200,43_11.toon
+43_12,,200,43_12.toon
+43_13,,200,43_13.toon
+43_14,,200,43_14.toon
+43_15,,200,43_15.toon
+43_16,,200,43_16.toon
+43_17,,200,43_17.toon
+43_18,,200,43_18.toon
+43_19,,200,43_19.toon
+43_2,,200,43_2.toon
+43_20,,200,43_20.toon
+43_21,,200,43_21.toon
+43_22,,200,43_22.toon
+43_23,,200,43_23.toon
+43_24,,200,43_24.toon
+43_25,,200,43_25.toon
+43_26,,200,43_26.toon
+43_27,,200,43_27.toon
+43_28,,200,43_28.toon
+43_29,,185,43_29.toon
+43_3,,200,43_3.toon
+43_4,,200,43_4.toon
+43_5,,200,43_5.toon
+43_6,,200,43_6.toon
+43_7,,200,43_7.toon
+43_8,,200,43_8.toon
+43_9,,200,43_9.toon
+44,,331,44.toon
+45,,223,45.toon
+46,,52,46.toon
+47,,30,47.toon
+48,,132,48.toon
+49,,15,49.toon
+5,,409,5.toon
+50,,72,50.toon
+51,,21,51.toon
+52,,85,52.toon
+53,,105,53.toon
+54,,182,54.toon
+55,,106,55.toon
+56,,41,56.toon
+6,,381,6.toon
+7,,93,7.toon
+8,,26,8.toon
+9,,19,9.toon
 
-sections_bayhaqi[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_musnad-ahmed[8]{id,name,hadith_count,file}:
+1,,77,1.toon
+2,,291,2.toon
+3,,8,3.toon
+31,,15,31.toon
+4,,152,4.toon
+5,,778,5.toon
+6,,22,6.toon
+7,,31,7.toon
 
-sections_shamail-tirmazi[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_mustadrak[1]{id,name,hadith_count,file}:
+1,,667,1.toon
 
-sections_aladab-almufrad[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_nasai[51]{id,name,hadith_count,file}:
+1,,324,1.toon
+10,,99,10.toon
+11,,153,11.toon
+12,,150,12.toon
+13,,188,13.toon
+14,,66,14.toon
+15,,26,15.toon
+16,,45,16.toon
+17,,25,17.toon
+18,,27,18.toon
+19,,42,19.toon
+2,,23,2.toon
+20,,220,20.toon
+21,,272,21.toon
+22,,345,22.toon
+23,,184,23.toon
+24,,466,24.toon
+25,,111,25.toon
+26,,193,26.toon
+27,,172,27.toon
+28,,33,28.toon
+29,,17,29.toon
+3,,48,3.toon
+30,,61,30.toon
+31,,16,31.toon
+32,,18,32.toon
+33,,14,33.toon
+34,,41,34.toon
+35,,96,35.toon
+36,,27,36.toon
+37,,167,37.toon
+38,,16,38.toon
+39,,63,39.toon
+4,,52,4.toon
+40,,10,40.toon
+41,,41,41.toon
+42,,98,42.toon
+43,,88,43.toon
+44,,257,44.toon
+45,,164,45.toon
+46,,115,46.toon
+47,,55,47.toon
+48,,339,48.toon
+49,,49,49.toon
+5,,46,5.toon
+50,,112,50.toon
+51,,219,51.toon
+6,,132,6.toon
+7,,62,7.toon
+8,,54,8.toon
+9,,35,9.toon
 
-sections_mustadrak[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_nawawi[1]{id,name,hadith_count,file}:
+1,,42,1.toon
 
-sections_sunan-darmi[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_qudsi[1]{id,name,hadith_count,file}:
+1,,40,1.toon
 
-sections_muajam-tabarani-saghir[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_sahih-ibn-khuzaymah[1]{id,name,hadith_count,file}:
+1,,49,1.toon
 
-sections_musannaf-ibn-abi-shaybah[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_shamail-tirmazi[57]{id,name,hadith_count,file}:
+1,,14,1.toon
+10,,11,10.toon
+11,,8,11.toon
+12,,9,12.toon
+13,,4,13.toon
+14,,2,14.toon
+15,,2,15.toon
+16,,5,16.toon
+17,,4,17.toon
+18,,3,18.toon
+19,,1,19.toon
+2,,8,2.toon
+20,,3,20.toon
+21,,5,21.toon
+22,,2,22.toon
+23,,5,23.toon
+24,,8,24.toon
+25,,34,25.toon
+26,,3,26.toon
+27,,7,27.toon
+28,,2,28.toon
+29,,7,29.toon
+3,,8,3.toon
+30,,2,30.toon
+31,,10,31.toon
+32,,6,32.toon
+33,,3,33.toon
+34,,9,34.toon
+35,,6,35.toon
+36,,9,36.toon
+37,,1,37.toon
+38,,1,38.toon
+39,,6,39.toon
+4,,5,4.toon
+40,,25,40.toon
+41,,8,41.toon
+42,,1,42.toon
+43,,16,43.toon
+44,,8,44.toon
+45,,6,45.toon
+46,,2,46.toon
+47,,13,47.toon
+48,,15,48.toon
+49,,2,49.toon
+5,,8,5.toon
+50,,6,50.toon
+51,,2,51.toon
+52,,9,52.toon
+53,,6,53.toon
+54,,14,54.toon
+55,,7,55.toon
+56,,11,56.toon
+6,,5,6.toon
+7,,5,7.toon
+8.2,,2,8.2.toon
+8,,16,8.toon
+9,,2,9.toon
 
-sections_sahih-ibn-khuzaymah[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_silsila-sahih[1]{id,name,hadith_count,file}:
+1,,51,1.toon
 
-sections_sunan-al-daraqutni[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_sunan-al-daraqutni[1]{id,name,hadith_count,file}:
+1,,218,1.toon
 
-sections_bulugh-al-maram[3]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections_sunan-darmi[24]{id,name,hadith_count,file}:
+0,,649,0.toon
+1,,510,1.toon
+10,,27,10.toon
+11,,92,11.toon
+12,,32,12.toon
+13,,33,13.toon
+14,,18,14.toon
+15,,38,15.toon
+16,,48,16.toon
+17,,91,17.toon
+18,,97,18.toon
+19,,75,19.toon
+2,,419,2.toon
+20,,137,20.toon
+21,,325,21.toon
+22,,126,22.toon
+23,,196,23.toon
+3,,59,3.toon
+4,,98,4.toon
+5,,153,5.toon
+6,,55,6.toon
+7,,16,7.toon
+8,,63,8.toon
+9,,49,9.toon
 
-sections_lulu-wal-marjan[3]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-3,کتاب: ایمان کا بیان,5,46,,
-2,,1,4,,
-1,کتاب: فضائل و مناقب کا بیان,0,0,,
-3,کتاب: نماز سے متعلق احکام و مسائل,129,195,,
-2,کتاب: طہارت سے متعلق احکام ومسائل,1,128,,
-1,,0,0,,
-1,,1,232,,
-1,,0,318,,
-1,,1,263,,
-1,,1,25,,
-1,,1,244,,
-2,باغیوں کے ساتھ جہاد کے متعلق کتاب اور یہ جہاد کی آخری کتاب ہے,2644,2671,,
-1,,1,2858,,
-1,,1,48,,
-1,,1,146,,
-1,,1,124,,
-3,ایمان اور اسلام کی کتاب,51,103,,
-2,کتاب کی قسمِ اوّل … توحید اور دین کے اصولوں کا حصہ,1,50,,
-1,,104,192,,
-2,کتاب ایمان کا بیان,1,169,,
-1,,300,688,,
-1,,1,51,,
-1,,1,1717,,
-0,,0,0,0,0
-1,Forty Hadith of Shah Waliullah Dehlawi,1,40,1,40
+sections_tirmidhi[49]{id,name,hadith_count,file}:
+1,,148,1.toon
+10,,115,10.toon
+11,,66,11.toon
+12,,29,12.toon
+13,,30,13.toon
+14,,117,14.toon
+15,,64,15.toon
+16,,37,16.toon
+17,,41,17.toon
+18,,29,18.toon
+19,,31,19.toon
+2,,303,2.toon
+20,,24,20.toon
+21,,71,21.toon
+22,,51,22.toon
+23,,50,23.toon
+24,,68,24.toon
+25,,73,25.toon
+26,,36,26.toon
+27,,139,27.toon
+28,,54,28.toon
+29,,26,29.toon
+3,,36,3.toon
+30,,9,30.toon
+31,,8,31.toon
+32,,166,32.toon
+33,,112,33.toon
+34,,25,34.toon
+35,,9,35.toon
+36,,111,36.toon
+37,,108,37.toon
+38,,213,38.toon
+39,,223,39.toon
+4,,42,4.toon
+40,,39,40.toon
+41,,43,41.toon
+42,,47,42.toon
+43,,123,43.toon
+44,,16,44.toon
+45,,52,45.toon
+46,,23,46.toon
+47,,774,47.toon
+48,,235,48.toon
+49,,352,49.toon
+5,,14,5.toon
+6,,73,6.toon
+7,,65,7.toon
+8,,127,8.toon
+9,,156,9.toon
+

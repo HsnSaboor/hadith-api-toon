@@ -13,9 +13,9 @@ The most comprehensive multilingual Hadith database on the internet. **25 books,
 | Metric | Value |
 |--------|-------|
 | **Books** | 25 (9 original + 16 new) |
-| **Total Hadiths** | 87,569+ |
+| **Total Hadiths** | 60,664 |
 | **Languages** | Arabic, Urdu, English, Bengali, French, Indonesian, Russian, Tamil, Turkish |
-| **Files** | ~3,100 section files (down from 466,000+ JSON files) |
+| **Files** | 626 section files (down from 466,000+ JSON files) |
 | **Size** | ~176 MB (down from ~997 MB) |
 
 Every book is stored in a single directory with **all available languages in one file**. No more fetching separate files for Arabic, Urdu, and English.
@@ -212,13 +212,13 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/musnad-ahmed
 
 | # | Book | Languages | Hadiths |
 |---|------|-----------|---------|
-| 1 | Sahih al-Bukhari | ar, bn, en, fr, id, ru, ur | 7,587 |
-| 2 | Sahih Muslim | ar, bn, en, fr, id, ur | 7,563 |
+| 1 | Sahih al-Bukhari | ar, bn, en, fr, id, ru, ur | 7,557 |
+| 2 | Sahih Muslim | ar, bn, en, fr, id, ur | 16,133 |
 | 3 | Sunan Abu Dawud | ar, bn, en, fr, id, ru, ur | 5,274 |
-| 4 | Sunan an-Nasai | ar, bn, en, fr, id, ur | 5,763 |
-| 5 | Sunan Ibn Majah | ar, bn, en, fr, id, ur | 4,343 |
-| 6 | Jami At-Tirmidhi | ar, bn, en, id, ur | 3,997 |
-| 7 | Muwatta Malik | ar, bn, en, fr, id, ur | 1,858 |
+| 4 | Sunan an-Nasai | ar, bn, en, fr, id, ur | 5,676 |
+| 5 | Sunan Ibn Majah | ar, bn, en, fr, id, ur | 4,822 |
+| 6 | Jami At-Tirmidhi | ar, bn, en, id, ur | 4,803 |
+| 7 | Muwatta Malik | ar, bn, en, fr, id, ur | 1,856 |
 | 8 | Musnad Ahmed | ar, en | 1,374 |
 | 9 | Mishkat al-Masabih | ar, en | 4,428 |
 | 10 | Al-Adab Al-Mufrad | ar, en | 1,326 |
@@ -232,7 +232,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/musnad-ahmed
 | 18 | Muajam Saghir Tabarani | ar, ur | 25 |
 | 19 | Fatah Al-Rabani | ar, ur | 192 |
 | 20 | Silsila Sahiha | ar, ur | 51 |
-| 21 | Al-Lu'lu wal-Marjan | ar, ur | 47 |
+| 21 | Al-Lu'lu wal-Marjan | ar, ur | 129 |
 | 22 | Bayhaqi | ar, ur | 124 |
 | 23 | Forty Hadith an-Nawawi | ar, bn, en, fr | 42 |
 | 24 | Forty Hadith Qudsi | ar, en, fr | 40 |

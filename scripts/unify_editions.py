@@ -332,7 +332,9 @@ def unify_book(book_key):
 
         total_core_rows += len(keys)
 
-    print(f"  ✅ Core written: {total_core_rows} hadiths")
+    print(
+        f"  ✅ Core written: {total_core_rows} hadiths in {len(sections)} section files"
+    )
 
     # 2. Write Minority Files
     for lang in minority_langs:

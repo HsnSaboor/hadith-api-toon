@@ -2,172 +2,274 @@
 
 > In the name of God, who has guided me to do this work
 
-A CDN-optimized, lightweight version of the [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api), converted from 466,000+ JSON files into a sleek `.toon` format.
+The most comprehensive multilingual Hadith database on the internet. **25 books, 87,000+ hadiths, 9+ languages** — all in a unified, CDN-optimized `.toon` format.
 
-**Same data. 82% smaller. 185× fewer files.**
-
----
-
-## Why This Exists
-
-The original [hadith-api](https://github.com/fawazahmed0/hadith-api) by [@fawazahmed0](https://github.com/fawazahmed0) is an incredible open-source project providing free Hadith data in multiple languages. However, its structure has some challenges for modern app development:
-
-| Metric | Original (JSON) | This (Toon) | Improvement |
-|--------|----------------|-------------|-------------|
-| **Total files** | 466,000+ | 2,525 | **185× fewer** |
-| **Total size** | ~997 MB | ~176 MB | **82% smaller** |
-| **Largest single file** | 658 KB | 581 KB | 12% smaller raw |
-| **Largest file (Brotli)** | 63.5 KB | 62.6 KB | Optimized for CDN |
-| **Files per section** | 2 (`.json` + `.min.json`) | 1 (`.toon`) | No duplication |
-| **Redundant data** | Grades duplicated across editions | Centralized `grades.toon` | Zero duplication |
-| **CSV compatibility** | N/A (nested JSON) | RFC 4180 compliant | Standard library parsing |
-
-### Key Improvements
-
-1. **Fewer files, faster CDN** — 2,525 section files instead of 466,000+ individual hadith files. Each section is a single file, no chunking needed. Even the largest section (5,785 hadiths) compresses to just **62.6 KB with Brotli**.
-
-2. **No redundant data** — The original stores each hadith as both an individual file AND inside a section file. This keeps only section files as the single source of truth.
-
-3. **Centralized grades** — Hadith grades (Sahih, Hasan, Daif, etc.) are extracted from `info.json` into a single `grades.toon` file (67,716 entries) instead of being empty arrays repeated across every edition.
-
-4. **RFC 4180 CSV escaping** — All text values use standard CSV double-quote escaping (`""`), making `.toon` files parseable by any standard CSV library on the frontend.
-
-5. **Multi-language chapter translations** — Chapter/section names in 8 languages (Arabic, Urdu, Bengali, French, Indonesian, Turkish, Russian, Tamil) are consolidated into per-book `chapter_translations.toon` files, enabling instant language switching with a single CDN request.
-
-6. **Consistent with quran-api-toon** — Uses the same `.toon` format as the [quran-api-toon](https://github.com/saboor/quran-api-toon) project, enabling shared parsing logic and tooling across both APIs.
+**Built from:** [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) · [al-hadees.com](https://al-hadees.com) · [sunnah.com](https://sunnah.com) · [hadith-json](https://github.com/AhmedBaset/hadith-json)
 
 ---
 
-## URL Structure
+## Overview
 
-```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/{endpoint}
-```
+| Metric | Value |
+|--------|-------|
+| **Books** | 25 (9 original + 16 new) |
+| **Total Hadiths** | 87,569+ |
+| **Languages** | Arabic, Urdu, English, Bengali, French, Indonesian, Russian, Tamil, Turkish |
+| **Files** | ~3,100 section files (down from 466,000+ JSON files) |
+| **Size** | ~176 MB (down from ~997 MB) |
 
-Supports HTTP GET. Files are served directly from the CDN with automatic Gzip/Brotli compression.
-
----
-
-## Endpoints
-
-### Global Index Files
-
-| File | Description | Example URL |
-|------|-------------|-------------|
-| `info.toon` | Books list + per-book section metadata | `/info.toon` |
-| `grades.toon` | All hadith grades (67,716 entries) | `/grades.toon` |
-| `editions.toon` | Edition registry (74 editions) | `/editions.toon` |
-
-### Edition Section Files
-
-```
-/editions/{edition-slug}/sections/{sectionNo}.toon
-```
-
-**Example — Get Sahih Bukhari, Section 1 (Revelation):**
-```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/eng-bukhari/sections/1.toon
-```
-
-### Chapter Translations
-
-```
-/editions/{book-key}/chapter_translations.toon
-```
-
-**Example — Get Bukhari chapter names in all languages:**
-```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/chapter_translations.toon
-```
+Every book is stored in a single directory with **all available languages in one file**. No more fetching separate files for Arabic, Urdu, and English.
 
 ---
 
-## The .toon Format
+## The `.toon` Format
 
-A compact, human-readable, CSV-like format designed as a lightweight alternative to JSON.
+`.toon` is a compact, self-describing, CSV-like plain-text format. Each file defines its own schema in the header, so parsers automatically know which columns are present.
 
-### Schema: Section Files
+### Structure
 
 ```toon
 metadata:
   section_id: 1
   section_name: Revelation
-  hadith_first: 1
-  hadith_last: 7
-  arabic_first: 1
-  arabic_last: 7
 
-hadiths[7]{hadithnumber,text,reference_book,reference_hadith}:
-  1,"Narrated 'Umar bin Al-Khattab: ...",1,1
-  2,"Narrated 'Aisha: ...",1,2
+hadiths[7]{hadithnumber,arabic,urdu,english,bengali,french,indonesian,russian,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
+  1,"حَدَّثَنَا...","آپ صلی اللہ...","Narrated 'Umar...","বাংলা...","Français...","","","","","Sahih","Book 1, Hadith 1",1,"Umar → ...",""
+  2,"حَدَّثَنَا...","آپ صلی اللہ...","Narrated 'Aisha...","বাংলা...","Français...","","","","","Sahih","Book 1, Hadith 2",2,"Aisha → ...",""
 ```
 
-### Schema: Chapter Translations
+### How It Works
+
+1. **`metadata:` block** — Key-value pairs describing the section (ID, name, hadith range).
+2. **Header line** — `hadiths[N]{col1,col2,...}:` defines the column names and row count.
+3. **Data rows** — Comma-separated values matching the header order. RFC 4180 CSV escaping (`""` for internal quotes, `\n` for newlines).
+
+---
+
+## Dynamic Schema: Three Tiers
+
+The columns in each file change based on which languages are available for that book. **Read the header to know which languages are present.**
+
+### Tier 1: Original 9 Books (Full Multilingual)
+
+Books with 9 languages: Arabic, Urdu, English, Bengali, French, Indonesian, Russian, Tamil, Turkish.
 
 ```toon
-chapter_translations[776]{lang,chapter_id,name}:
-  ar,1,كِتَابُ بَدْءِ الوَحْيِ
-  en,1,Revelation
-  ur,1,کتاب الوحی
+hadiths[7587]{hadithnumber,arabic,bengali,english,french,indonesian,russian,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
 ```
 
-### Schema: Grades
+**Books:** Bukhari, Muslim, Abu Dawud, Ibn Majah, Malik, Nasai, Tirmidhi, Nawawi 40, Qudsi 40, Dehlawi 40
+
+### Tier 2: 6 Books with Arabic + English
+
+Books where we have complete Arabic + English from hadith-json, but incomplete Urdu (<90% coverage).
 
 ```toon
-grades[67716]{book,hadithnumber,grader,grade}:
-  bukhari,1,Al-Albani,Sahih
-  bukhari,1,Muhammad Muhyi Al-Din Abdul Hamid,Sahih
+hadiths[4428]{hadithnumber,arabic,english,grades,reference,international_number,narrator_chain,chapter_intro}:
+```
+
+**Books:** Musnad Ahmed, Al-Adab Al-Mufrad, Shamail-e-Tirmazi, Mishkat al-Masabih, Bulugh al-Maram
+
+### Tier 3: 9 Rare Books (Arabic + Urdu Only)
+
+Scholarly collections without publicly available English translations.
+
+```toon
+hadiths[124]{hadithnumber,arabic,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
+```
+
+**Books:** Bayhaqi, Mustadrak, Sunan Darmi, Silsila Sahiha, Fatah Al-Rabani, Al-Lu'lu wal-Marjan, Muajam Saghir Tabarani, Musannaf Ibn Abi Shaybah, Sahih Ibn Khuzaymah, Sunan al-Daraqutni
+
+---
+
+## Minority Languages
+
+When a language has **< 90% coverage** for a book (e.g., Urdu for Musnad Ahmed), it is stored separately to keep the main file clean:
+
+```
+editions/musnad-ahmed/
+├── sections/1.toon          ← Core: Arabic + English
+└── translations/urdu/sections/
+    └── 1.toon               ← Minority: Urdu only
+```
+
+Minority files use a simple schema: `hadiths[N]{hadithnumber,text}:`
+
+---
+
+## How to Parse (For Developers)
+
+The key insight: **read the header to discover the columns dynamically**. Don't hardcode column positions.
+
+### JavaScript Example
+
+```js
+async function fetchSection(book, sectionId) {
+  const url = `https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/${book}/sections/${sectionId}.toon`;
+  const text = await fetch(url).then(r => r.text());
+  const lines = text.split('\n').filter(l => l.trim());
+
+  // Parse header
+  const headerLine = lines.find(l => l.includes('{') && l.includes('}:'));
+  const cols = headerLine.match(/\{(.+)\}/)[1].split(',');
+
+  // Parse data rows (skip metadata and header)
+  const startIdx = lines.indexOf(headerLine) + 1;
+  return lines.slice(startIdx).map(line => {
+    const vals = parseCSVLine(line); // Use a proper CSV parser
+    const row = {};
+    cols.forEach((col, i) => row[col] = vals[i] || '');
+    return row;
+  });
+}
+
+// Usage
+const hadiths = await fetchSection('bukhari', '1');
+console.log(hadiths[0].arabic);   // Arabic text
+console.log(hadiths[0].english);  // English text
+console.log(hadiths[0].urdu);     // Urdu text
+```
+
+### Python Example
+
+```python
+import csv, io, requests
+
+def fetch_section(book, section_id):
+    url = f"https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/{book}/sections/{section_id}.toon"
+    text = requests.get(url).text
+    lines = [l for l in text.split('\n') if l.strip()]
+
+    # Parse header
+    header_line = next(l for l in lines if '{' in l and '}:' in l)
+    cols = header_line[header_line.index('{')+1:header_line.index('}')].split(',')
+
+    # Parse data rows
+    start_idx = lines.index(header_line) + 1
+    hadiths = []
+    for line in lines[start_idx:]:
+        reader = csv.reader(io.StringIO(line))
+        vals = next(reader)
+        hadiths.append(dict(zip(cols, vals)))
+    return hadiths
+
+# Usage
+hadiths = fetch_section('bukhari', '1')
+print(hadiths[0]['arabic'])
+print(hadiths[0]['english'])
 ```
 
 ### Parsing Rules
 
-- **Strings** containing `,`, `"`, `:`, `\n`, `\r` are double-quoted with RFC 4180 escaping (`""` for internal quotes)
-- **Numbers** are unquoted
-- **Null values** are `null` (no quotes)
-- **Header line** defines the schema: `section_name[count]{field1,field2,...}:`
-- **Data rows** are comma-separated values matching the header order
+| Rule | Detail |
+|------|--------|
+| **CSV escaping** | RFC 4180 — use `""` for internal quotes, `\n` for newlines |
+| **Empty values** | Empty string `""` or nothing between commas |
+| **Numbers** | Unquoted integers |
+| **Metadata** | Lines starting with `  ` (2 spaces) under `metadata:` |
+| **Header** | `hadiths[N]{col1,col2,...}:` — N = row count |
 
 ---
 
-## Editions
+## CDN Usage
 
-74 editions across 9 hadith books and 8+ languages:
+```
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/{endpoint}
+```
 
-| Book | Languages Available |
-|------|-------------------|
-| Sahih al Bukhari | Arabic (×2), Bengali, English, French, Indonesian, Russian, Tamil, Turkish, Urdu |
-| Sahih Muslim | Arabic (×2), Bengali, English, French, Indonesian, Russian, Tamil, Turkish, Urdu |
-| Sunan Abu Dawud | Arabic (×2), Bengali, English, French, Indonesian, Russian, Turkish, Urdu |
-| Sunan an Nasai | Arabic (×2), Bengali, English, French, Indonesian, Russian, Turkish, Urdu |
-| Jami At Tirmidhi | Arabic (×2), Bengali, English, Indonesian, Turkish, Urdu |
-| Sunan Ibn Majah | Arabic (×2), Bengali, English, French, Indonesian, Turkish, Urdu |
-| Muwatta Malik | Arabic (×2), Bengali, English, French, Indonesian, Turkish, Urdu |
-| Forty Hadith of an-Nawawi | Arabic (×2), Bengali, English, French, Indonesian, Turkish |
-| Forty Hadith Qudsi | Arabic (×2), Bengali, English, French, Indonesian, Turkish, Russian, Tamil |
+### Global Index
 
-> **Note on Arabic editions:** Each book has two Arabic editions. The one without a suffix (e.g., `ara-bukhari`) contains full diacritics (Tashkeel). The one with a `1` suffix (e.g., `ara-bukhari1`) has diacritics removed for easier text searching.
+| File | Description |
+|------|-------------|
+| [`editions.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions.toon) | 25 books with available languages |
+| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon) | Per-book section metadata |
+
+### Section Files
+
+```
+/editions/{book}/sections/{sectionNo}.toon
+```
+
+**Example — Sahih Bukhari, Section 1:**
+```
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/sections/1.toon
+```
+
+### Minority Language Files
+
+```
+/editions/{book}/translations/{lang}/sections/{sectionNo}.toon
+```
+
+**Example — Musnad Ahmed Urdu translations:**
+```
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/musnad-ahmed/translations/urdu/sections/1.toon
+```
+
+---
+
+## Books
+
+| # | Book | Languages | Hadiths |
+|---|------|-----------|---------|
+| 1 | Sahih al-Bukhari | ar, bn, en, fr, id, ru, ur | 7,587 |
+| 2 | Sahih Muslim | ar, bn, en, fr, id, ur | 7,563 |
+| 3 | Sunan Abu Dawud | ar, bn, en, fr, id, ru, ur | 5,274 |
+| 4 | Sunan an-Nasai | ar, bn, en, fr, id, ur | 5,763 |
+| 5 | Sunan Ibn Majah | ar, bn, en, fr, id, ur | 4,343 |
+| 6 | Jami At-Tirmidhi | ar, bn, en, id, ur | 3,997 |
+| 7 | Muwatta Malik | ar, bn, en, fr, id, ur | 1,858 |
+| 8 | Musnad Ahmed | ar, en | 1,374 |
+| 9 | Mishkat al-Masabih | ar, en | 4,428 |
+| 10 | Al-Adab Al-Mufrad | ar, en | 1,326 |
+| 11 | Bulugh al-Maram | ar, en | 1,767 |
+| 12 | Shamail-e-Tirmazi | ar, en | 402 |
+| 13 | Sunan ad-Darimi | ar | 3,406 |
+| 14 | Al-Mustadrak | ar, ur | 667 |
+| 15 | Sunan al-Daraqutni | ar, ur | 218 |
+| 16 | Musannaf Ibn Abi Shaybah | ar, ur | 263 |
+| 17 | Sahih Ibn Khuzaymah | ar, ur | 49 |
+| 18 | Muajam Saghir Tabarani | ar, ur | 25 |
+| 19 | Fatah Al-Rabani | ar, ur | 192 |
+| 20 | Silsila Sahiha | ar, ur | 51 |
+| 21 | Al-Lu'lu wal-Marjan | ar, ur | 47 |
+| 22 | Bayhaqi | ar, ur | 124 |
+| 23 | Forty Hadith an-Nawawi | ar, bn, en, fr | 42 |
+| 24 | Forty Hadith Qudsi | ar, en, fr | 40 |
+| 25 | Forty Hadith Dehlawi | ar, en, fr | 40 |
+
+---
+
+## Data Sources
+
+| Source | Contribution |
+|--------|-------------|
+| [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) | Original 9 books, base structure |
+| [al-hadees.com](https://al-hadees.com) | Arabic + Urdu for all 25 books |
+| [sunnah.com](https://sunnah.com) | English for 6 books |
+| [AhmedBaset/hadith-json](https://github.com/AhmedBaset/hadith-json) | Complete Arabic + English for 6 books |
 
 ---
 
 ## Conversion Scripts
 
-All scripts used to generate this repository are in the `scripts/` directory:
+All scripts used to generate this repository are in `scripts/`:
 
 | Script | Purpose |
 |--------|---------|
-| `convert_info_to_toon.py` | Converts `info.json` → `info.toon` + `grades.toon` |
+| `unify_editions.py` | Merges all language editions into unified books |
+| `convert_info_to_toon.py` | Converts `info.json` → `info.toon` |
 | `convert_editions_to_toon.py` | Converts `editions.json` → `editions.toon` |
-| `convert_section_files.py` | Converts all section JSON files → `.toon` |
-| `convert_chapter_translations.py` | Converts chapter translations → per-book `.toon` |
-| `validate_toon.py` | Validates all output files for correctness |
+| `convert_section_files.py` | Converts section JSON → `.toon` |
+| `scrape_quranohadith_fast.py` | Scrapes Arabic + Urdu from al-hadees.com |
+| `merge_english_from_hadithjson.py` | Merges English from hadith-json |
+| `validate_toon.py` | Validates all `.toon` files |
 
 ---
 
 ## Acknowledgments
 
 This project is a conversion of the original [hadith-api](https://github.com/fawazahmed0/hadith-api) by **[@fawazahmed0](https://github.com/fawazahmed0)**. All Hadith data, translations, and metadata belong to the original project and its contributors. This repository only provides an alternative file format optimized for CDN delivery.
-
-Original project: https://github.com/fawazahmed0/hadith-api
 
 ---
 

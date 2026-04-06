@@ -1,26 +1,26 @@
 editions[25]{id,name,author,language,has_sections,dir,comments,path}:
-abudawud,abudawud,Unknown,ar,bn,en,fr,id,ru,ur,true,ltr,,editions/abudawud
-aladab-almufrad,aladab-almufrad,Unknown,ar,en,urdu,true,ltr,,editions/aladab-almufrad
-bayhaqi,bayhaqi,Unknown,ar,ur,true,ltr,,editions/bayhaqi
-bukhari,bukhari,Unknown,ar,bn,en,fr,id,ru,ur,true,ltr,,editions/bukhari
-bulugh-al-maram,bulugh-al-maram,Unknown,ar,en,urdu,true,ltr,,editions/bulugh-al-maram
-dehlawi,dehlawi,Unknown,ar,en,fr,true,ltr,,editions/dehlawi
-fatah-alrabani,fatah-alrabani,Unknown,ar,ur,true,ltr,,editions/fatah-alrabani
-ibnmajah,ibnmajah,Unknown,ar,bn,en,fr,id,ur,true,ltr,,editions/ibnmajah
-lulu-wal-marjan,lulu-wal-marjan,Unknown,ar,ur,true,ltr,,editions/lulu-wal-marjan
-malik,malik,Unknown,ar,bn,en,fr,id,ur,true,ltr,,editions/malik
-mishkat,mishkat,Unknown,ar,en,urdu,true,ltr,,editions/mishkat
-muajam-tabarani-saghir,muajam-tabarani-saghir,Unknown,ar,ur,true,ltr,,editions/muajam-tabarani-saghir
-musannaf-ibn-abi-shaybah,musannaf-ibn-abi-shaybah,Unknown,ar,ur,true,ltr,,editions/musannaf-ibn-abi-shaybah
-muslim,muslim,Unknown,ar,bn,en,fr,id,ur,true,ltr,,editions/muslim
-musnad-ahmed,musnad-ahmed,Unknown,ar,en,urdu,true,ltr,,editions/musnad-ahmed
-mustadrak,mustadrak,Unknown,ar,ur,true,ltr,,editions/mustadrak
-nasai,nasai,Unknown,ar,bn,en,fr,id,ur,true,ltr,,editions/nasai
-nawawi,nawawi,Unknown,ar,bn,en,fr,true,ltr,,editions/nawawi
-qudsi,qudsi,Unknown,ar,en,fr,true,ltr,,editions/qudsi
-sahih-ibn-khuzaymah,sahih-ibn-khuzaymah,Unknown,ar,ur,true,ltr,,editions/sahih-ibn-khuzaymah
-shamail-tirmazi,shamail-tirmazi,Unknown,ar,en,urdu,true,ltr,,editions/shamail-tirmazi
-silsila-sahih,silsila-sahih,Unknown,ar,ur,true,ltr,,editions/silsila-sahih
-sunan-al-daraqutni,sunan-al-daraqutni,Unknown,ar,ur,true,ltr,,editions/sunan-al-daraqutni
-sunan-darmi,sunan-darmi,Unknown,ar,urdu,true,ltr,,editions/sunan-darmi
-tirmidhi,tirmidhi,Unknown,ar,bn,en,id,ur,true,ltr,,editions/tirmidhi
+abudawud,Sunan Abi Dawud,Abu Dawud al-Sijistani,ar,bn,en,fr,id,ru,ur,true,ltr,,editions/abudawud
+aladab-almufrad,Al-Adab al-Mufrad,Muhammad ibn Ismail al-Bukhari,ar,en,urdu,true,ltr,,editions/aladab-almufrad
+bayhaqi,Sunan al-Kubra lil-Bayhaqi,Al-Bayhaqi,ar,ur,true,ltr,,editions/bayhaqi
+bukhari,Sahih al-Bukhari,Muhammad ibn Ismail al-Bukhari,ar,bn,en,fr,id,ru,ur,true,ltr,,editions/bukhari
+bulugh-al-maram,Bulugh al-Maram,Ibn Hajar al-Asqalani,ar,en,urdu,true,ltr,,editions/bulugh-al-maram
+dehlawi,Al-Arba'in al-Dehlawiyyah,Shah Waliullah Dehlawi,ar,en,fr,true,ltr,,editions/dehlawi
+fatah-alrabani,Fath al-Rabbani,Ahmad al-Banna al-Sa'ati,ar,ur,true,ltr,,editions/fatah-alrabani
+ibnmajah,Sunan Ibn Majah,Ibn Majah al-Qazwini,ar,bn,en,fr,id,ur,true,ltr,,editions/ibnmajah
+lulu-wal-marjan,Al-Lu'lu wal-Marjan,Muhammad Fuad Abd al-Baqi,ar,ur,true,ltr,,editions/lulu-wal-marjan
+malik,Al-Muwatta,Malik ibn Anas,ar,bn,en,fr,id,ur,true,ltr,,editions/malik
+mishkat,Mishkat al-Masabih,Wali al-Din al-Tabrizi,ar,en,urdu,true,ltr,,editions/mishkat
+muajam-tabarani-saghir,Al-Mu'jam al-Saghir,Al-Tabarani,ar,ur,true,ltr,,editions/muajam-tabarani-saghir
+musannaf-ibn-abi-shaybah,Musannaf Ibn Abi Shaybah,Ibn Abi Shaybah,ar,ur,true,ltr,,editions/musannaf-ibn-abi-shaybah
+muslim,Sahih Muslim,Muslim ibn al-Hajjaj,ar,bn,en,fr,id,ur,true,ltr,,editions/muslim
+musnad-ahmed,Musnad Ahmad ibn Hanbal,Ahmad ibn Hanbal,ar,en,urdu,true,ltr,,editions/musnad-ahmed
+mustadrak,Al-Mustadrak 'ala al-Sahihayn,Al-Hakim al-Nishapuri,ar,ur,true,ltr,,editions/mustadrak
+nasai,Sunan an-Nasa'i,Ahmad ibn Shu'ayb al-Nasa'i,ar,bn,en,fr,id,ur,true,ltr,,editions/nasai
+nawawi,Al-Arba'in al-Nawawiyyah,Yahya ibn Sharaf al-Nawawi,ar,bn,en,fr,true,ltr,,editions/nawawi
+qudsi,Al-Ahadith al-Qudsiyyah,Various scholars,ar,en,fr,true,ltr,,editions/qudsi
+sahih-ibn-khuzaymah,Sahih Ibn Khuzaymah,Ibn Khuzaymah,ar,ur,true,ltr,,editions/sahih-ibn-khuzaymah
+shamail-tirmazi,Shama'il al-Tirmidhi,Muhammad ibn Isa al-Tirmidhi,ar,en,urdu,true,ltr,,editions/shamail-tirmazi
+silsila-sahih,Silsilat al-Ahadith al-Sahihah,Muhammad Nasir al-Din al-Albani,ar,ur,true,ltr,,editions/silsila-sahih
+sunan-al-daraqutni,Sunan al-Daraqutni,Ali ibn Umar al-Daraqutni,ar,ur,true,ltr,,editions/sunan-al-daraqutni
+sunan-darmi,Sunan ad-Darimi,Abdullah ibn Abd al-Rahman al-Darimi,ar,urdu,true,ltr,,editions/sunan-darmi
+tirmidhi,Jami' at-Tirmidhi,Muhammad ibn Isa al-Tirmidhi,ar,bn,en,id,ur,true,ltr,,editions/tirmidhi

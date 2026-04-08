@@ -1,13 +1,11 @@
 """
 Unify all language-specific editions into consolidated book directories.
 
-Strategy:
-1. 0% Drop Rate (Left Join): Use the largest dataset as the base. Never drop rows.
-   Missing translations result in empty strings ("").
-2. 90% Rule (Core vs Minority):
-   - Core (>=90% coverage): Included in main `editions/{book}/sections/` file.
-   - Minority (<90% coverage): Split into `editions/{book}/translations/{lang}/sections/`.
-3. Smart Matching: Match by normalized hadithnumber.
+Strict Rules:
+1. Zero Missing Translations: Every row must have all languages for the book's tier.
+2. Smart Matching: Match by hadithnumber, then international_number, then fuzzy.
+3. 10% Failsafe: If >10% of Arabic hadiths are dropped, ABORT.
+4. Dynamic Schema: Headers reflect available languages per book.
 """
 
 import os
@@ -15,13 +13,23 @@ import re
 import csv
 import io
 import sys
-import json
-import requests
 from collections import defaultdict
+
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EDITIONS_DIR = os.path.join(BASE, "editions")
 OUTPUT_DIR = os.path.join(BASE, "editions_unified")
+MAX_DROP_RATE = 0.10  # 10%
+
+# Books where hadith-json has better/more complete Arabic+English
+HADITH_JSON_BOOKS = {
+    "musnad-ahmed": "the_9_books/ahmed.json",
+    "sunan-darmi": "the_9_books/darimi.json",
+    "aladab-almufrad": "other_books/aladab_almufrad.json",
+    "bulugh-al-maram": "other_books/bulugh_almaram.json",
+    "mishkat": "other_books/mishkat_almasabih.json",
+    "shamail-tirmazi": "other_books/shamail_muhammadiyah.json",
+}
 
 LANG_MAP = {
     "ara": "arabic",
@@ -33,16 +41,6 @@ LANG_MAP = {
     "rus": "russian",
     "tam": "tamil",
     "tur": "turkish",
-}
-
-# Books where hadith-json has better/more complete Arabic+English
-HADITH_JSON_BOOKS = {
-    "musnad-ahmed": "the_9_books/ahmed.json",
-    "sunan-darmi": "the_9_books/darimi.json",
-    "aladab-almufrad": "other_books/aladab_almufrad.json",
-    "bulugh-al-maram": "other_books/bulugh_almaram.json",
-    "mishkat": "other_books/mishkat_almasabih.json",
-    "shamail-tirmazi": "other_books/shamail_muhammadiyah.json",
 }
 
 
@@ -58,13 +56,16 @@ def escape_val(value):
 
 
 def normalize_key(key):
+    """Normalize hadith number for matching."""
     if not key:
         return None
     s = str(key).strip()
+    # Try pure int
     try:
         return str(int(s))
     except ValueError:
         pass
+    # Strip non-digits
     digits = re.sub(r"\D", "", s)
     if digits:
         return digits
@@ -72,6 +73,7 @@ def normalize_key(key):
 
 
 def parse_toon_file(path):
+    """Parse a .toon file. Returns list of dicts."""
     with open(path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
@@ -119,6 +121,8 @@ def parse_toon_file(path):
 
 def load_hadith_json(book_key, url_path):
     """Load Arabic and English from hadith-json repo."""
+    import requests
+
     url = f"https://raw.githubusercontent.com/A7med3bdulBaset/hadith-json/main/db/by_book/{url_path}"
     try:
         resp = requests.get(url, timeout=60)
@@ -213,15 +217,9 @@ def load_book_languages(book_key):
             )
             # We keep local Arabic if it has extra keys, but prefer hadith-json for overlap
             local_ar = langs.get("arabic", {})
-            merged_ar = {
-                **hj_arabic,
-                **local_ar,
-            }  # local overwrites hj for conflicts? No, hj is better source usually.
-            # Actually, let's just use hj_arabic as the base for Arabic if it's larger
-            if len(hj_arabic) > len(local_ar):
-                langs["arabic"] = hj_arabic
-            else:
-                langs["arabic"] = {**hj_arabic, **local_ar}
+            # Use hadith-json as base, add local for keys not in hadith-json
+            merged_ar = {**hj_arabic, **local_ar}
+            langs["arabic"] = merged_ar
 
         if hj_english:
             # hadith-json English is usually more complete
@@ -332,9 +330,7 @@ def unify_book(book_key):
 
         total_core_rows += len(keys)
 
-    print(
-        f"  ✅ Core written: {total_core_rows} hadiths in {len(sections)} section files"
-    )
+    print(f"  ✅ Core written: {total_core_rows} hadiths")
 
     # 2. Write Minority Files
     for lang in minority_langs:

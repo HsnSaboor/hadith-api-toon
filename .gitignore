@@ -11,3 +11,5 @@ scraped_data/
 *.log
 .venv/
 __pycache__/
+hadith-json-data/
+quranohadith-scraper/

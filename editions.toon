@@ -1,75 +1,125 @@
-editions[74]{id,book,author,language,has_sections,dir,comments,path}:
-ara-abudawud,abudawud,Unknown,Arabic,true,rtl,,editions/ara-abudawud
-ara-abudawud1,abudawud,Unknown,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-abudawud1
-ben-abudawud,abudawud,Unknown,Bengali,true,ltr,,editions/ben-abudawud
-eng-abudawud,abudawud,Unknown,English,true,ltr,,editions/eng-abudawud
-fra-abudawud,abudawud,Unknown,French,true,ltr,,editions/fra-abudawud
-ind-abudawud,abudawud,Unknown,Indonesian,true,ltr,,editions/ind-abudawud
-rus-abudawud,abudawud,Unknown,Russian,true,ltr,,editions/rus-abudawud
-tur-abudawud,abudawud,Unknown,Turkish,true,ltr,,editions/tur-abudawud
-urd-abudawud,abudawud,Unknown,Urdu,true,rtl,,editions/urd-abudawud
-ara-bukhari,bukhari,Unknown,Arabic,true,rtl,,editions/ara-bukhari
-ara-bukhari1,bukhari,Unknown,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-bukhari1
-ben-bukhari,bukhari,Unknown,Bengali,true,rtl,,editions/ben-bukhari
-eng-bukhari,bukhari,Muhsin Khan,English,true,ltr,,editions/eng-bukhari
-fra-bukhari,bukhari,Unknown,French,true,ltr,,editions/fra-bukhari
-ind-bukhari,bukhari,Unknown,Indonesian,true,ltr,,editions/ind-bukhari
-rus-bukhari,bukhari,Abdullah Nirsha And Editors Of Daura.com,Russian,true,ltr,,editions/rus-bukhari
-tam-bukhari,bukhari,Unknown,Tamil,true,ltr,,editions/tam-bukhari
-tur-bukhari,bukhari,Unknown,Turkish,true,ltr,,editions/tur-bukhari
-urd-bukhari,bukhari,Unknown,Urdu,true,rtl,,editions/urd-bukhari
-ara-dehlawi,dehlawi,Shah Waliullah Dehlawi,Arabic,true,rtl,,editions/ara-dehlawi
-ara-dehlawi1,dehlawi,Shah Waliullah Dehlawi,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-dehlawi1
-eng-dehlawi,dehlawi,Shah Waliullah Dehlawi,English,true,ltr,,editions/eng-dehlawi
-fra-dehlawi,dehlawi,Unknown,French,true,ltr,,editions/fra-dehlawi
-ara-ibnmajah,ibnmajah,Unknown,Arabic,true,rtl,,editions/ara-ibnmajah
-ara-ibnmajah1,ibnmajah,Unknown,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-ibnmajah1
-ben-ibnmajah,ibnmajah,Unknown,Bengali,true,ltr,,editions/ben-ibnmajah
-eng-ibnmajah,ibnmajah,Unknown,English,true,ltr,,editions/eng-ibnmajah
-fra-ibnmajah,ibnmajah,Unknown,French,true,ltr,,editions/fra-ibnmajah
-ind-ibnmajah,ibnmajah,Unknown,Indonesian,true,ltr,,editions/ind-ibnmajah
-tur-ibnmajah,ibnmajah,Unknown,Turkish,true,ltr,,editions/tur-ibnmajah
-urd-ibnmajah,ibnmajah,Unknown,Urdu,true,rtl,,editions/urd-ibnmajah
-ara-malik,malik,Unknown,Arabic,true,rtl,,editions/ara-malik
-ara-malik1,malik,Unknown,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-malik1
-ben-malik,malik,Unknown,Bengali,true,ltr,,editions/ben-malik
-eng-malik,malik,Unknown,English,true,ltr,,editions/eng-malik
-fra-malik,malik,Unknown,French,true,ltr,,editions/fra-malik
-ind-malik,malik,Unknown,Indonesian,true,ltr,,editions/ind-malik
-tur-malik,malik,Unknown,Turkish,true,ltr,,editions/tur-malik
-urd-malik,malik,Unknown,Urdu,true,rtl,,editions/urd-malik
-ara-muslim,muslim,Unknown,Arabic,true,rtl,,editions/ara-muslim
-ara-muslim1,muslim,Unknown,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-muslim1
-ben-muslim,muslim,Unknown,Bengali,true,ltr,,editions/ben-muslim
-eng-muslim,muslim,Abdul Hamid Siddiqui,English,true,ltr,,editions/eng-muslim
-fra-muslim,muslim,Unknown,French,true,ltr,,editions/fra-muslim
-ind-muslim,muslim,Unknown,Indonesian,true,ltr,,editions/ind-muslim
-rus-muslim,muslim,Unknown,Russian,true,ltr,,editions/rus-muslim
-tam-muslim,muslim,Unknown,Tamil,true,ltr,,editions/tam-muslim
-tur-muslim,muslim,Unknown,Turkish,true,ltr,,editions/tur-muslim
-urd-muslim,muslim,Unknown,Urdu,true,rtl,,editions/urd-muslim
-ara-nasai,nasai,Unknown,Arabic,true,rtl,,editions/ara-nasai
-ara-nasai1,nasai,Unknown,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-nasai1
-ben-nasai,nasai,Unknown,Bengali,true,ltr,,editions/ben-nasai
-eng-nasai,nasai,Unknown,English,true,ltr,,editions/eng-nasai
-fra-nasai,nasai,Unknown,French,true,ltr,,editions/fra-nasai
-ind-nasai,nasai,Unknown,Indonesian,true,ltr,,editions/ind-nasai
-tur-nasai,nasai,Unknown,Turkish,true,ltr,,editions/tur-nasai
-urd-nasai,nasai,Unknown,Urdu,true,rtl,,editions/urd-nasai
-ara-nawawi,nawawi,Imam Nawawi,Arabic,true,rtl,,editions/ara-nawawi
-ara-nawawi1,nawawi,Imam Nawawi,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-nawawi1
-ben-nawawi,nawawi,Imam Nawawi,Bengali,true,ltr,,editions/ben-nawawi
-eng-nawawi,nawawi,Imam Nawawi,English,true,ltr,,editions/eng-nawawi
-fra-nawawi,nawawi,Unknown,French,true,ltr,,editions/fra-nawawi
-tur-nawawi,nawawi,Imam Nawawi,Turkish,true,ltr,,editions/tur-nawawi
-ara-qudsi,qudsi,Unknown,Arabic,true,rtl,,editions/ara-qudsi
-ara-qudsi1,qudsi,Unknown,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-qudsi1
-eng-qudsi,qudsi,Unknown,English,true,ltr,,editions/eng-qudsi
-fra-qudsi,qudsi,Unknown,French,true,ltr,,editions/fra-qudsi
-ara-tirmidhi,tirmidhi,Unknown,Arabic,true,rtl,,editions/ara-tirmidhi
-ara-tirmidhi1,tirmidhi,Unknown,Arabic,true,rtl,Diacritics removed for easier searching,editions/ara-tirmidhi1
-ben-tirmidhi,tirmidhi,Unknown,Bengali,true,ltr,,editions/ben-tirmidhi
-eng-tirmidhi,tirmidhi,Unknown,English,true,ltr,,editions/eng-tirmidhi
-ind-tirmidhi,tirmidhi,Unknown,Indonesian,true,ltr,,editions/ind-tirmidhi
-tur-tirmidhi,tirmidhi,Unknown,Turkish,true,ltr,,editions/tur-tirmidhi
-urd-tirmidhi,tirmidhi,Unknown,Urdu,true,rtl,,editions/urd-tirmidhi
+editions[94]{id,book,author,language,has_sections,dir,comments,path}:
+ara-abudawud,abudawud,Unknown,Arabic,true,rtl,,editions/abudawud
+ara-abudawud1,abudawud,Unknown,Arabic,true,rtl,Diacritics removed,editions/abudawud
+ben-abudawud,abudawud,Unknown,Bengali,true,ltr,,editions/abudawud
+eng-abudawud,abudawud,Unknown,English,true,ltr,,editions/abudawud
+fra-abudawud,abudawud,Unknown,French,true,ltr,,editions/abudawud
+ind-abudawud,abudawud,Unknown,Indonesian,true,ltr,,editions/abudawud
+rus-abudawud,abudawud,Unknown,Russian,true,ltr,,editions/abudawud
+tur-abudawud,abudawud,Unknown,Turkish,true,ltr,,editions/abudawud
+urd-abudawud,abudawud,Unknown,Urdu,true,rtl,,editions/abudawud
+ara-aladab-almufrad,aladab-almufrad,Unknown,Arabic,true,rtl,,editions/aladab-almufrad
+urd-aladab-almufrad,aladab-almufrad,Unknown,Urdu,true,rtl,,editions/aladab-almufrad
+ara-bayhaqi,bayhaqi,Unknown,Arabic,true,rtl,,editions/bayhaqi
+urd-bayhaqi,bayhaqi,Unknown,Urdu,true,rtl,,editions/bayhaqi
+ara-bukhari,bukhari,Unknown,Arabic,true,rtl,,editions/bukhari
+ara-bukhari1,bukhari,Unknown,Arabic,true,rtl,Diacritics removed,editions/bukhari
+ben-bukhari,bukhari,Unknown,Bengali,true,rtl,,editions/bukhari
+eng-bukhari,bukhari,Muhsin Khan,English,true,ltr,,editions/bukhari
+fra-bukhari,bukhari,Unknown,French,true,ltr,,editions/bukhari
+ind-bukhari,bukhari,Unknown,Indonesian,true,ltr,,editions/bukhari
+rus-bukhari,bukhari,Abdullah Nirsha And Editors Of Daura.com,Russian,true,ltr,,editions/bukhari
+tam-bukhari,bukhari,Unknown,Tamil,true,ltr,,editions/bukhari
+tur-bukhari,bukhari,Unknown,Turkish,true,ltr,,editions/bukhari
+urd-bukhari,bukhari,Unknown,Urdu,true,rtl,,editions/bukhari
+ara-bulugh-al-maram,bulugh-al-maram,Unknown,Arabic,true,rtl,,editions/bulugh-al-maram
+ben-bulugh-al-maram,bulugh-al-maram,Unknown,Bengali,true,ltr,,editions/bulugh-al-maram
+eng-bulugh-al-maram,bulugh-al-maram,Unknown,English,true,ltr,,editions/bulugh-al-maram
+fra-bulugh-al-maram,bulugh-al-maram,Unknown,French,true,ltr,,editions/bulugh-al-maram
+ind-bulugh-al-maram,bulugh-al-maram,Unknown,Indonesian,true,ltr,,editions/bulugh-al-maram
+urd-bulugh-al-maram,bulugh-al-maram,Unknown,Urdu,true,rtl,,editions/bulugh-al-maram
+ara-dehlawi,dehlawi,Shah Waliullah Dehlawi,Arabic,true,rtl,,editions/dehlawi
+ara-dehlawi1,dehlawi,Shah Waliullah Dehlawi,Arabic,true,rtl,Diacritics removed,editions/dehlawi
+eng-dehlawi,dehlawi,Shah Waliullah Dehlawi,English,true,ltr,,editions/dehlawi
+fra-dehlawi,dehlawi,Unknown,French,true,ltr,,editions/dehlawi
+ara-fatah-alrabani,fatah-alrabani,Unknown,Arabic,true,rtl,,editions/fatah-alrabani
+urd-fatah-alrabani,fatah-alrabani,Unknown,Urdu,true,rtl,,editions/fatah-alrabani
+ara-ibnmajah,ibnmajah,Unknown,Arabic,true,rtl,,editions/ibnmajah
+ara-ibnmajah1,ibnmajah,Unknown,Arabic,true,rtl,Diacritics removed,editions/ibnmajah
+ben-ibnmajah,ibnmajah,Unknown,Bengali,true,ltr,,editions/ibnmajah
+eng-ibnmajah,ibnmajah,Unknown,English,true,ltr,,editions/ibnmajah
+fra-ibnmajah,ibnmajah,Unknown,French,true,ltr,,editions/ibnmajah
+ind-ibnmajah,ibnmajah,Unknown,Indonesian,true,ltr,,editions/ibnmajah
+tur-ibnmajah,ibnmajah,Unknown,Turkish,true,ltr,,editions/ibnmajah
+urd-ibnmajah,ibnmajah,Unknown,Urdu,true,rtl,,editions/ibnmajah
+ara-lulu-wal-marjan,lulu-wal-marjan,Unknown,Arabic,true,rtl,,editions/lulu-wal-marjan
+urd-lulu-wal-marjan,lulu-wal-marjan,Unknown,Urdu,true,rtl,,editions/lulu-wal-marjan
+ara-malik,malik,Unknown,Arabic,true,rtl,,editions/malik
+ara-malik1,malik,Unknown,Arabic,true,rtl,Diacritics removed,editions/malik
+ben-malik,malik,Unknown,Bengali,true,ltr,,editions/malik
+eng-malik,malik,Unknown,English,true,ltr,,editions/malik
+fra-malik,malik,Unknown,French,true,ltr,,editions/malik
+ind-malik,malik,Unknown,Indonesian,true,ltr,,editions/malik
+tur-malik,malik,Unknown,Turkish,true,ltr,,editions/malik
+urd-malik,malik,Unknown,Urdu,true,rtl,,editions/malik
+ara-mishkat,mishkat,Unknown,Arabic,true,rtl,,editions/mishkat
+ben-mishkat,mishkat,Unknown,Bengali,true,ltr,,editions/mishkat
+eng-mishkat,mishkat,Unknown,English,true,ltr,,editions/mishkat
+fra-mishkat,mishkat,Unknown,French,true,ltr,,editions/mishkat
+ind-mishkat,mishkat,Unknown,Indonesian,true,ltr,,editions/mishkat
+urd-mishkat,mishkat,Unknown,Urdu,true,rtl,,editions/mishkat
+ara-muajam-tabarani-saghir,muajam-tabarani-saghir,Unknown,Arabic,true,rtl,,editions/muajam-tabarani-saghir
+urd-muajam-tabarani-saghir,muajam-tabarani-saghir,Unknown,Urdu,true,rtl,,editions/muajam-tabarani-saghir
+ara-musannaf-ibn-abi-shaybah,musannaf-ibn-abi-shaybah,Unknown,Arabic,true,rtl,,editions/musannaf-ibn-abi-shaybah
+urd-musannaf-ibn-abi-shaybah,musannaf-ibn-abi-shaybah,Unknown,Urdu,true,rtl,,editions/musannaf-ibn-abi-shaybah
+ara-muslim,muslim,Unknown,Arabic,true,rtl,,editions/muslim
+ara-muslim1,muslim,Unknown,Arabic,true,rtl,Diacritics removed,editions/muslim
+ben-muslim,muslim,Unknown,Bengali,true,ltr,,editions/muslim
+eng-muslim,muslim,Abdul Hamid Siddiqui,English,true,ltr,,editions/muslim
+fra-muslim,muslim,Unknown,French,true,ltr,,editions/muslim
+ind-muslim,muslim,Unknown,Indonesian,true,ltr,,editions/muslim
+rus-muslim,muslim,Unknown,Russian,true,ltr,,editions/muslim
+tam-muslim,muslim,Unknown,Tamil,true,ltr,,editions/muslim
+tur-muslim,muslim,Unknown,Turkish,true,ltr,,editions/muslim
+urd-muslim,muslim,Unknown,Urdu,true,rtl,,editions/muslim
+ara-musnad-ahmed,musnad-ahmed,Unknown,Arabic,true,rtl,,editions/musnad-ahmed
+ben-musnad-ahmed,musnad-ahmed,Unknown,Bengali,true,ltr,,editions/musnad-ahmed
+eng-musnad-ahmed,musnad-ahmed,Unknown,English,true,ltr,,editions/musnad-ahmed
+fra-musnad-ahmed,musnad-ahmed,Unknown,French,true,ltr,,editions/musnad-ahmed
+ind-musnad-ahmed,musnad-ahmed,Unknown,Indonesian,true,ltr,,editions/musnad-ahmed
+urd-musnad-ahmed,musnad-ahmed,Unknown,Urdu,true,rtl,,editions/musnad-ahmed
+ara-mustadrak,mustadrak,Unknown,Arabic,true,rtl,,editions/mustadrak
+urd-mustadrak,mustadrak,Unknown,Urdu,true,rtl,,editions/mustadrak
+ara-nasai,nasai,Unknown,Arabic,true,rtl,,editions/nasai
+ara-nasai1,nasai,Unknown,Arabic,true,rtl,Diacritics removed,editions/nasai
+ben-nasai,nasai,Unknown,Bengali,true,ltr,,editions/nasai
+eng-nasai,nasai,Unknown,English,true,ltr,,editions/nasai
+fra-nasai,nasai,Unknown,French,true,ltr,,editions/nasai
+ind-nasai,nasai,Unknown,Indonesian,true,ltr,,editions/nasai
+tur-nasai,nasai,Unknown,Turkish,true,ltr,,editions/nasai
+urd-nasai,nasai,Unknown,Urdu,true,rtl,,editions/nasai
+ara-nawawi,nawawi,Imam Nawawi,Arabic,true,rtl,,editions/nawawi
+ara-nawawi1,nawawi,Imam Nawawi,Arabic,true,rtl,Diacritics removed,editions/nawawi
+ben-nawawi,nawawi,Imam Nawawi,Bengali,true,ltr,,editions/nawawi
+eng-nawawi,nawawi,Imam Nawawi,English,true,ltr,,editions/nawawi
+fra-nawawi,nawawi,Unknown,French,true,ltr,,editions/nawawi
+tur-nawawi,nawawi,Imam Nawawi,Turkish,true,ltr,,editions/nawawi
+ara-qudsi,qudsi,Unknown,Arabic,true,rtl,,editions/qudsi
+ara-qudsi1,qudsi,Unknown,Arabic,true,rtl,Diacritics removed,editions/qudsi
+eng-qudsi,qudsi,Unknown,English,true,ltr,,editions/qudsi
+fra-qudsi,qudsi,Unknown,French,true,ltr,,editions/qudsi
+ara-sahih-ibn-khuzaymah,sahih-ibn-khuzaymah,Unknown,Arabic,true,rtl,,editions/sahih-ibn-khuzaymah
+urd-sahih-ibn-khuzaymah,sahih-ibn-khuzaymah,Unknown,Urdu,true,rtl,,editions/sahih-ibn-khuzaymah
+ara-shamail-tirmazi,shamail-tirmazi,Unknown,Arabic,true,rtl,,editions/shamail-tirmazi
+ben-shamail-tirmazi,shamail-tirmazi,Unknown,Bengali,true,ltr,,editions/shamail-tirmazi
+eng-shamail-tirmazi,shamail-tirmazi,Unknown,English,true,ltr,,editions/shamail-tirmazi
+fra-shamail-tirmazi,shamail-tirmazi,Unknown,French,true,ltr,,editions/shamail-tirmazi
+ind-shamail-tirmazi,shamail-tirmazi,Unknown,Indonesian,true,ltr,,editions/shamail-tirmazi
+urd-shamail-tirmazi,shamail-tirmazi,Unknown,Urdu,true,rtl,,editions/shamail-tirmazi
+ara-silsila-sahih,silsila-sahih,Unknown,Arabic,true,rtl,,editions/silsila-sahih
+urd-silsila-sahih,silsila-sahih,Unknown,Urdu,true,rtl,,editions/silsila-sahih
+ara-sunan-al-daraqutni,sunan-al-daraqutni,Unknown,Arabic,true,rtl,,editions/sunan-al-daraqutni
+urd-sunan-al-daraqutni,sunan-al-daraqutni,Unknown,Urdu,true,rtl,,editions/sunan-al-daraqutni
+ara-sunan-darmi,sunan-darmi,Unknown,Arabic,true,rtl,,editions/sunan-darmi
+ben-sunan-darmi,sunan-darmi,Unknown,Bengali,true,ltr,,editions/sunan-darmi
+eng-sunan-darmi,sunan-darmi,Unknown,English,true,ltr,,editions/sunan-darmi
+fra-sunan-darmi,sunan-darmi,Unknown,French,true,ltr,,editions/sunan-darmi
+ind-sunan-darmi,sunan-darmi,Unknown,Indonesian,true,ltr,,editions/sunan-darmi
+urd-sunan-darmi,sunan-darmi,Unknown,Urdu,true,rtl,,editions/sunan-darmi
+ara-tirmidhi,tirmidhi,Unknown,Arabic,true,rtl,,editions/tirmidhi
+ara-tirmidhi1,tirmidhi,Unknown,Arabic,true,rtl,Diacritics removed,editions/tirmidhi
+ben-tirmidhi,tirmidhi,Unknown,Bengali,true,ltr,,editions/tirmidhi
+eng-tirmidhi,tirmidhi,Unknown,English,true,ltr,,editions/tirmidhi
+ind-tirmidhi,tirmidhi,Unknown,Indonesian,true,ltr,,editions/tirmidhi
+tur-tirmidhi,tirmidhi,Unknown,Turkish,true,ltr,,editions/tirmidhi
+urd-tirmidhi,tirmidhi,Unknown,Urdu,true,rtl,,editions/tirmidhi

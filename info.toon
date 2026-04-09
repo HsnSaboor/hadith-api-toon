@@ -1,14 +1,29 @@
-books[10]{id,name,total_hadiths}:
-abudawud,Sunan Abu Dawud,5274
-bukhari,Sahih al Bukhari,7563
-ibnmajah,Sunan Ibn Majah,4341
-malik,Muwatta Malik,1858
-muslim,Sahih Muslim,7563
-nasai,Sunan an Nasai,5758
-tirmidhi,Jami At Tirmidhi,3956
+books[25]{id,name,total_hadiths}:
+abudawud,Sunan Abu Dawud,5322
+aladab-almufrad,Al-Adab Al-Mufrad,1326
+bayhaqi,Sunan Al Kubra Bayhaqi,124
+bukhari,Sahih al Bukhari,12642
+bulugh-al-maram,Bulugh al-Maram,1767
+dehlawi,Forty Hadith of Shah Waliullah Dehlawi,40
+fatah-alrabani,Fatah Al-Rabani,192
+ibnmajah,Sunan Ibn Majah,8455
+lulu-wal-marjan,Al-Lulu wal-Marjan,47
+malik,Muwatta Malik,2904
+mishkat,Mishkat al-Masabih,4428
+muajam-tabarani-saghir,Muajam Tabarani Saghir,25
+musannaf-ibn-abi-shaybah,Musannaf Ibn Abi Shaybah,263
+muslim,Sahih Muslim,12272
+musnad-ahmed,Musnad Ahmad,1389
+mustadrak,Al Mustadrak,667
+nasai,Sunan an Nasai,6250
 nawawi,Forty Hadith of an-Nawawi,42
 qudsi,Forty Hadith Qudsi,40
-dehlawi,Forty Hadith of Shah Waliullah Dehlawi,40
+sahih-ibn-khuzaymah,Sahih Ibn Khuzaymah,49
+shamail-tirmazi,Shamail-e-Tirmazi,402
+silsila-sahih,Silsila Sahiha,51
+sunan-al-daraqutni,Sunan al-Daraqutni,218
+sunan-darmi,Sunan ad-Darimi,4055
+tirmidhi,Jami At Tirmidhi,5543
 
 sections_abudawud[44]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
 0,,0,0,0,0

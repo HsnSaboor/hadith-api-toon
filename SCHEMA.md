@@ -14,8 +14,32 @@ editions[count]{id,name,author,language,has_sections,dir,comments,path}:
 
 ### Section Files (editions/{book}/sections/{section}.toon)
 ```
+metadata:
+  section_id: 1
+  section_name: Revelation
+  intro: "Book introduction in original language"
+  intro_bn: "Bengali translation of intro"
+  intro_fr: "French translation of intro"
+  intro_id: "Indonesian translation of intro"
+  intro_ru: "Russian translation of intro"
+  intro_ur: "Urdu translation of intro"
+
 hadiths[count]{hadithnumber,arabic,bengali,english,french,indonesian,russian,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
 ```
+
+**Metadata Fields:**
+| Field | Type | Description |
+|-------|------|-------------|
+| section_id | int | Section/chapter number |
+| section_name | string | Section name (if available) |
+| intro | string | Book introduction in original language (English or Urdu) |
+| intro_bn | string | Bengali translation of intro |
+| intro_fr | string | French translation of intro |
+| intro_id | string | Indonesian translation of intro |
+| intro_ru | string | Russian translation of intro |
+| intro_ur | string | Urdu translation of intro |
+
+Note: Translated intro fields are added based on each book's available languages. Books with 6 languages (bengali, english, french, indonesian, russian, urdu) get all 5 translated fields. Books with fewer languages get only the relevant translations.
 
 ## Planned Enhanced Schema (Research-Grade)
 

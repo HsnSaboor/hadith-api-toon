@@ -32,6 +32,12 @@ Every book is stored in a single directory with **all available languages in one
 metadata:
   section_id: 1
   section_name: Revelation
+  intro: "Sahih al-Bukhari is a collection of hadith compiled by..."
+  intro_bn: "সহীহ আল-বুখারি..."
+  intro_fr: "Ṣaḥīḥ al-Bukhārī est un recueil..."
+  intro_id: "Ṣaḥīḥ al-Bukhārī merupakan kumpulan..."
+  intro_ru: "Сахих аль-Бухари представляет..."
+  intro_ur: "صحیح البخاری حدیث کا مجموعہ..."
 
 hadiths[7]{hadithnumber,arabic,urdu,english,bengali,french,indonesian,russian,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
   1,"حَدَّثَنَا...","آپ صلی اللہ...","Narrated 'Umar...","বাংলা...","Français...","","","","","Sahih","Book 1, Hadith 1",1,"Umar → ...",""
@@ -49,6 +55,29 @@ hadiths[7]{hadithnumber,arabic,urdu,english,bengali,french,indonesian,russian,ur
 ## Dynamic Schema: Three Tiers
 
 The columns in each file change based on which languages are available for that book. **Read the header to know which languages are present.**
+
+### Book Introductions (New!)
+
+Each book now includes multilingual introductions in the metadata:
+
+```toon
+metadata:
+  section_id: 1
+  intro: "Book introduction in English (or original language)"
+  intro_bn: "Bengali translation"
+  intro_fr: "French translation"
+  intro_id: "Indonesian translation"
+  intro_ru: "Russian translation"
+  intro_ur: "Urdu translation"
+```
+
+**Which languages are available per book?**
+- **25 books** have translations based on their available languages
+- Books with 6 languages (bengali, english, french, indonesian, russian, urdu): 5 translated intros (bn, fr, id, ru, ur)
+- Books with 3 languages (english, french, urdu): 2 translated intros (fr, ur)
+- Books with 1 language (urdu only): 1 translated intro (ur)
+
+The intro fields are dynamically added based on each book's language columns. **Check the metadata in each file to see which intro translations are available.**
 
 ### Tier 1: Original 9 Books (Full Multilingual)
 
@@ -109,36 +138,67 @@ async function fetchSection(book, sectionId) {
   const text = await fetch(url).then(r => r.text());
   const lines = text.split('\n').filter(l => l.trim());
 
+  // Parse metadata block
+  const metadata = {};
+  let inMetadata = false;
+  for (const line of lines) {
+    if (line.trim() === 'metadata:') {
+      inMetadata = true;
+      continue;
+    }
+    if (inMetadata && line.startsWith('hadiths')) break;
+    if (inMetadata && line.trim()) {
+      const match = line.match(/^\s+(\w+):\s*"(.+)"$/);
+      if (match) metadata[match[1]] = match[2];
+    }
+  }
+
   // Parse header
   const headerLine = lines.find(l => l.includes('{') && l.includes('}:'));
   const cols = headerLine.match(/\{(.+)\}/)[1].split(',');
 
   // Parse data rows (skip metadata and header)
   const startIdx = lines.indexOf(headerLine) + 1;
-  return lines.slice(startIdx).map(line => {
+  return { metadata, hadiths: lines.slice(startIdx).map(line => {
     const vals = parseCSVLine(line); // Use a proper CSV parser
     const row = {};
     cols.forEach((col, i) => row[col] = vals[i] || '');
     return row;
-  });
+  })};
 }
 
 // Usage
-const hadiths = await fetchSection('bukhari', '1');
+const { metadata, hadiths } = await fetchSection('bukhari', '1');
+console.log(metadata.intro);      // Original intro
+console.log(metadata.intro_bn);   // Bengali intro (if available)
+console.log(metadata.intro_fr);   // French intro (if available)
 console.log(hadiths[0].arabic);   // Arabic text
 console.log(hadiths[0].english);  // English text
-console.log(hadiths[0].urdu);     // Urdu text
 ```
 
 ### Python Example
 
 ```python
-import csv, io, requests
+import csv, io, requests, re
 
 def fetch_section(book, section_id):
     url = f"https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/{book}/sections/{section_id}.toon"
     text = requests.get(url).text
     lines = [l for l in text.split('\n') if l.strip()]
+
+    # Parse metadata
+    metadata = {}
+    in_metadata = False
+    for line in lines:
+        if line.strip() == 'metadata:':
+            in_metadata = True
+            continue
+        if in_metadata and line.startswith('hadiths'):
+            break
+        if in_metadata and line.strip():
+            match = re.match(r'\s+(\w+):\s*"(.+)"', line)
+            if match:
+                metadata[match.group(1)] = match.group(2)
 
     # Parse header
     header_line = next(l for l in lines if '{' in l and '}:' in l)
@@ -151,12 +211,14 @@ def fetch_section(book, section_id):
         reader = csv.reader(io.StringIO(line))
         vals = next(reader)
         hadiths.append(dict(zip(cols, vals)))
-    return hadiths
+    return metadata, hadiths
 
 # Usage
-hadiths = fetch_section('bukhari', '1')
+meta, hadiths = fetch_section('bukhari', '1')
+print(meta.get('intro'))      # Original intro
+print(meta.get('intro_bn'))   # Bengali intro (if available)
+print(meta.get('intro_fr'))   # French intro (if available)
 print(hadiths[0]['arabic'])
-print(hadiths[0]['english'])
 ```
 
 ### Parsing Rules
@@ -166,8 +228,49 @@ print(hadiths[0]['english'])
 | **CSV escaping** | RFC 4180 — use `""` for internal quotes, `\n` for newlines |
 | **Empty values** | Empty string `""` or nothing between commas |
 | **Numbers** | Unquoted integers |
-| **Metadata** | Lines starting with `  ` (2 spaces) under `metadata:` |
+| **Metadata** | Lines starting with `  ` (2 spaces) under `metadata:` block |
 | **Header** | `hadiths[N]{col1,col2,...}:` — N = row count |
+| **Intro fields** | `intro`, `intro_bn`, `intro_fr`, `intro_id`, `intro_ru`, `intro_ur` in metadata |
+
+### Parsing Metadata
+
+The `metadata:` block contains key-value pairs describing the section:
+
+```toon
+metadata:
+  section_id: 1
+  intro: "Book introduction text"
+  intro_bn: "Bengali intro"
+  intro_fr: "French intro"
+```
+
+**To parse metadata:**
+```js
+function parseMetadata(text) {
+  const lines = text.split('\n');
+  const metadata = {};
+  let inMetadata = false;
+  
+  for (const line of lines) {
+    if (line.trim() === 'metadata:') {
+      inMetadata = true;
+      continue;
+    }
+    if (inMetadata && line.startsWith('hadiths')) break;
+    if (inMetadata && line.trim()) {
+      const match = line.match(/^\s+(\w+):\s*"?(.+?)"?$/);
+      if (match) metadata[match[1]] = match[2].replace(/"$/, '');
+    }
+  }
+  return metadata;
+}
+
+// Usage
+const meta = parseMetadata(fileContent);
+console.log(meta.intro);      // Original intro
+console.log(meta.intro_bn);   // Bengali intro (if available)
+console.log(meta.intro_fr);   // French intro (if available)
+```
 
 ---
 
@@ -248,6 +351,14 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/musnad-ahmed
 | [al-hadees.com](https://al-hadees.com) | Arabic + Urdu for all 25 books |
 | [sunnah.com](https://sunnah.com) | English for 6 books |
 | [AhmedBaset/hadith-json](https://github.com/AhmedBaset/hadith-json) | Complete Arabic + English for 6 books |
+| Google Translate | Automated intro translations for multilingual support |
+
+### Intro Translation Details
+
+- All 25 books now have multilingual book introductions
+- Translations generated using Google Translate API
+- Non-English intros (Urdu) first translated to English, then to other available languages
+- Each book's intro fields depend on its available language columns
 
 ---
 
@@ -264,6 +375,7 @@ All scripts used to generate this repository are in `scripts/`:
 | `scrape_quranohadith_fast.py` | Scrapes Arabic + Urdu from al-hadees.com |
 | `merge_english_from_hadithjson.py` | Merges English from hadith-json |
 | `validate_toon.py` | Validates all `.toon` files |
+| `translate_intros_v2.py` | Generates multilingual intro translations |
 
 ---
 

@@ -3,12 +3,12 @@ metadata:
   book_name: "Sahih Ibn Khuzaymah"
   total_hadiths: 49
   available_languages: "arabic,urdu"
-  intro: ""
+  intro: "Sahih Ibn Khuzaymah (The Authenticated Collection of Ibn Khuzaymah) is a collection of hadith compiled by Imam Ibn Khuzaymah (rahimahullah). It contains 49 hadiths focusing on purification, prayer, and the fundamentals of Islamic practice. The collection is known for its strict authentication criteria and is considered one of the important hadith collections.\n\nAuthor: Imam Abu Bakr Ahmad ibn Hanbal al-Marwazi, known as Ibn Khuzaymah, was a renowned hadith scholar known for his meticulous authentication of hadiths. His collection is valued for its rigor in verifying the authenticity of narrations.\n\nThis collection is important because:\n1. It provides authentic hadiths on purification and prayer\n2. It includes guidance on forgotten prayers and their makeup\n3. It covers the excellence of proper wudu (ablution)\n4. It addresses the virtue of performing prayers in congregation\n5. It provides detailed information about the proper way to perform purification\n\nKey topics covered include:\n- The virtue of performing wudu properly\n- The reward for those who perform prayers\n- Guidance on making up missed prayers\n- The excellence of attending the mosque\n- The importance of prayers in congregation\n\nThis collection serves as a valuable resource for understanding the proper way to perform purification and prayer in Islam."
   intro_bn: ""
   intro_fr: ""
   intro_id: ""
   intro_ru: ""
-  intro_ur: ""
+  intro_ur: "صحیح ابن خزیمہ (ابن خزیمہ کا مستند مجموعہ) امام ابن خزیمہ (رحمہ اللہ) کی مرتب کردہ احادیث کا مجموعہ ہے۔ اس میں 49 احادیث ہیں جن میں تزکیہ، نماز اور اسلامی عمل کے بنیادی اصولوں پر توجہ دی گئی ہے۔ یہ مجموعہ اپنے سخت توثیق کے معیار کے لیے جانا جاتا ہے اور اسے احادیث کے اہم مجموعوں میں شمار کیا جاتا ہے۔ احادیث کی تفسیر اس کا مجموعہ روایتوں کی صداقت کی تصدیق میں سختی کی وجہ سے قابل قدر ہے۔\n\nیہ مجموعہ اس لیے اہم ہے کہ:\n1۔ یہ طہارت اور نماز سے متعلق مستند احادیث فراہم کرتا ہے\n2۔ اس میں بھولی ہوئی نمازوں اور ان کے میک اپ کے بارے میں رہنمائی شامل ہے\n3۔ یہ صحیح وضو (وضو) کی فضیلت کا احاطہ کرتا ہے\n4۔ اس میں نماز باجماعت ادا کرنے کی فضیلت بیان کی گئی ہے\n5۔ ude:\n- صحیح طریقے سے وضو کرنے کی فضیلت\n- نماز پڑھنے والوں کے لیے اجر\n- قضا نمازوں کے بارے میں رہنمائی\n- مسجد میں حاضری کی فضیلت\n- باجماعت نماز کی اہمیت\n\nیہ مجموعہ اسلام میں نماز کی ادائیگی کے صحیح طریقے کو سمجھنے کے لیے ایک قیمتی ذریعہ کا کام کرتا ہے۔"
 
-sections[1]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-  1,"Sahih Ibn Khuzaymah","","","","","",1,49,1,49
+sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"Sahih Ibn Khuzaymah","صحيح ابن خزيمة","সহীহ ইবনে খুজায়মাহ","Sahih Ibn Khuzaymah","Sahih Ibn Khuzaymah","Sahih Ibnu Khuzaimah","Сахих Ибн Хузайма","Sahih İbn Huzeyme","صحیح ابن خزیمہ",1,49,1,49

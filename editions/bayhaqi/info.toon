@@ -3,12 +3,12 @@ metadata:
   book_name: "Sunan Al-Kubra Bayhaqi"
   total_hadiths: 124
   available_languages: "arabic,urdu"
-  intro: ""
+  intro: "Sunan al-Bayhaqi (Al-Sunan al-Kubra) is a comprehensive collection of hadith compiled by Imam al-Hakim al-Nisapuri (rahimahullah), also known as al-Bayhaqi. It is one of the most important and extensive hadith collections, containing hadiths on various topics of Islamic jurisprudence and theology. The collection is also known as \\"Al-Sunan al-Kubra\\" (The Greater Sunan).\n\nAuthor bio:\nAbu al-Fath Muhammad ibn Ali al-Hakim al-Nisapuri (384-405 AH / 994-1014 CE), commonly known as Imam al-Hakim or al-Bayhaqi, was a renowned hadith scholar, jurist, and historian from Nishapur. He was a student of Imam al-Bukhari's works and is particularly known for his extensive knowledge of hadith sciences.\n\nHis full name is Abu al-Fath Muhammad ibn Ali ibn Yunus al-Hakim al-Nisapuri al-Shafi'i. He was known for his meticulous scholarship and his ability to verify hadith chains and texts.\n\nImportant works:\n1. Al-Sunan al-Kubra (Sunan al-Bayhaqi) - his most famous work\n2. Al-Madkhal ila al-Sunan al-Muthla\n3. Al-Asma wa al-Kuna\n4. Tarikh al-Nisapur\n5. Al-Ma'rifat wa al-Tarikh\n\nAl-Sunan al-Kubra is highly regarded for several reasons:\n1. It contains a comprehensive collection of hadiths covering all aspects of Islamic law\n2. It includes detailed discussions of hadith grading and authentication\n3. It provides extensive commentary on the practical applications of hadiths\n4. It draws from multiple sources including the six major collections\n\nThe collection is particularly valuable for:\n- Its comprehensive coverage of Islamic jurisprudence\n- Its detailed analysis of hadith chains\n- Its inclusion of hadiths that are not found in other collections\n- Its usefulness for deriving legal rulings\n\nImam al-Hakim is also famous for his work \\"Al-Mustadrak 'ala al-Sahihayn\\" (Supplement to the Two Sahihs), where he included hadiths that he considered sahih but were not included in Sahih al-Bukhari or Sahih Muslim."
   intro_bn: ""
   intro_fr: ""
   intro_id: ""
   intro_ru: ""
-  intro_ur: ""
+  intro_ur: "سنن البیحقی (السنن الکبری) امام الحاکم النساپوری (رحمہ اللہ) کی مرتب کردہ احادیث کا ایک جامع مجموعہ ہے، جسے البیحقی بھی کہا جاتا ہے۔ یہ احادیث کے سب سے اہم اور وسیع مجموعوں میں سے ایک ہے، جس میں اسلامی فقہ اور دینیات کے مختلف موضوعات پر احادیث موجود ہیں۔ مجموعہ کو \ کے نام سے بھی جانا جاتا ہے"
 
-sections[1]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-  1,"Sunan Al-Kubra Bayhaqi","","","","","",1,124,1,124
+sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"Sunan Al-Kubra Bayhaqi","সুনান আল-কুবরা বায়হাকি","Sunan Al-Kubra Bayhaqi","Sunan Al-Kubra Bayhaqi","Sunan Al-Kubra Bayhaqi","Сунан аль-Кубра Байхаки","Sunan Al-Kubra Bayhaqi","سنن الکبریٰ بیحقی",1,124,1,124

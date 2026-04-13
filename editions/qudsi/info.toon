@@ -3,12 +3,12 @@ metadata:
   book_name: "Forty Hadith Qudsi"
   total_hadiths: 40
   available_languages: "arabic,english,french"
-  intro: ""
+  intro: "Al-Ahadith Al-Qudsiyyah (Sacred Hadiths) are hadiths where the Prophet Muhammad (ﷺ) narrates sayings directly from Allah. Unlike regular hadiths which are the Prophet's own words and actions, Qudsi hadiths are divine revelations communicated through the Prophet. The collection contains 40 hadiths.\n\nAuthor: These hadiths were compiled by Imam an-Nawawi (rahimahullah) in his famous work \\"Al-Arba'in Hadithan\\" (Forty Hadiths), which includes both regular hadiths and Qudsi hadiths.\n\nThe term \\"Qudsi\\" means \\"sacred\\" or \\"holy,\\" indicating that these narrations are of divine origin. The scholars differentiate between hadith qudsi and hadith nabawi (Prophetic hadith) in that the former is revealed inspiration from Allah while the latter is derived from the Prophet's own wisdom and example.\n\nThese 40 hadiths cover various aspects of Islamic belief and practice, including intention, knowledge, worship, and spiritual development. Imam an-Nawawi selected these hadiths for their importance and comprehensive coverage of Islamic teachings."
   intro_bn: ""
-  intro_fr: ""
+  intro_fr: "Al-Ahadith Al-Qudsiyyah (Hadiths sacrés) sont des hadiths dans lesquels le Prophète Muhammad (ﷺ) raconte des paroles directement d'Allah. Contrairement aux hadiths ordinaires qui sont les propres paroles et actions du Prophète, les hadiths Qudsi sont des révélations divines communiquées par l'intermédiaire du Prophète. La collection contient 40 hadiths.\n\nAuteur : Ces hadiths ont été compilés par l'Imam an-Nawawi (rahimahullah) dans son célèbre ouvrage \"
   intro_id: ""
   intro_ru: ""
-  intro_ur: ""
+  intro_ur: "الاحادیث القدسیہ (مقدس احادیث) وہ احادیث ہیں جہاں نبی اکرم صلی اللہ علیہ وسلم اللہ کی طرف سے براہ راست اقوال بیان کرتے ہیں۔ باقاعدہ احادیث کے برعکس جو کہ نبی کے اپنے قول و فعل ہیں، قدسی احادیث الہامی وحی ہیں جو نبی صلی اللہ علیہ وسلم کے ذریعے بتائی جاتی ہیں۔ اس مجموعہ میں 40 احادیث ہیں۔\n\nمصنف: یہ احادیث امام نووی رحمہ اللہ نے اپنی مشہور تصنیف میں مرتب کی ہیں۔"
 
-sections[1]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-  1,"Forty Hadith Qudsi","","","","","",1,40,1,40
+sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"Forty Hadith Qudsi","الأحاديث القدسية","চল্লিশ হাদিস কুদসি","Forty Hadith Qudsi","Quarante Hadiths Qudsi","Empat Puluh Hadits Qudsi","Сорок хадисов Кудси","Kırk Kudsî Hadis","چالیس احادیث قدسی",1,40,1,40

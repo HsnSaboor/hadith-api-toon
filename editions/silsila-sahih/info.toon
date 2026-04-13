@@ -3,12 +3,12 @@ metadata:
   book_name: "Silsila Sahiha"
   total_hadiths: 51
   available_languages: "arabic,urdu"
-  intro: ""
+  intro: "Silsilat al-Sahih (The Chain of Authenticated Hadiths) is a collection of hadith compiled by Imam al-Albani (rahimahullah). It contains 51 hadiths focusing on the divine names and attributes, Tawhid (oneness of Allah), and the proper manner of making oaths in Islam.\n\nAuthor: Imam Muhammad ibn Nasir al-Din al-Albani (1914-1999 CE), commonly known as Imam al-Albani, was a prominent hadith scholar of the 20th century. He was known for his strict methodology in hadith authentication and his efforts to purify the Sunnah.\n\nThis collection is important because:\n1. It addresses proper understanding of Allah's attributes\n2. It clarifies the correct way to make oaths\n3. It provides guidance on Tawhid\n4. It corrects misconceptions about using the Prophet's name in oaths\n\nKey topics covered include:\n- The virtue of Allah's右手 (Right Hand)\n- The importance of saying \\"MashaAllah\\" (what Allah wills)\n- Proper oath-taking using \\"By the Lord of the Ka'bah\\"\n- Understanding Allah's names and attributes\n- The danger of polytheistic statements\n\nThis collection helps Muslims understand the correct way to make oaths and avoid statements that may involve shirk (polytheism)."
   intro_bn: ""
   intro_fr: ""
   intro_id: ""
   intro_ru: ""
-  intro_ur: ""
+  intro_ur: "سلسلۃ الصحیح (مستند احادیث کا سلسلہ) امام البانی رحمہ اللہ کی مرتب کردہ احادیث کا مجموعہ ہے۔ اس میں الہی ناموں اور صفات، توحید (اللہ کی وحدانیت) اور اسلام میں حلف اٹھانے کے صحیح طریقے پر توجہ مرکوز کرنے والی 51 احادیث ہیں۔\n\nمصنف: امام محمد بن ناصر الدین البانی (1914-1999 عیسوی)، جسے عام طور پر امام البانی کے نام سے جانا جاتا ہے، 20ویں صدی کے حامی عالم تھے۔ وہ حدیث کی توثیق میں اپنے سخت طریقہ کار اور سنت کو پاک کرنے کی کوششوں کے لیے مشہور تھے۔\n\nیہ مجموعہ اس لیے اہم ہے کہ:\n1۔ یہ اللہ کی صفات کی صحیح تفہیم پر توجہ دیتا ہے\n2۔ یہ حلف اٹھانے کا صحیح طریقہ واضح کرتا ہے\n3۔ یہ توحید کے بارے میں رہنمائی فراہم کرتا ہے\n4۔ یہ قسموں میں نبی کا نام استعمال کرنے کے بارے میں غلط فہمیوں کو درست کرتا ہے\n\nان میں شامل اہم موضوعات شامل ہیں:\n- اللہ کے 右手 (دائیں ہاتھ) کی فضیلت\n- کہنے کی اہمیت \n"
 
-sections[1]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-  1,"Silsila Sahiha","","","","","",1,51,1,51
+sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"Silsila Sahiha","سلسلة الصحيحة","সিলসিলা সহিহা","Silsila Sahiha","Silsila Sahiha","Silsilah Shahihah","Сильсила Сахиха","Silsile-i Sahih","سلسلۃ الصحیحہ",1,51,1,51

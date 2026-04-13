@@ -28,6 +28,7 @@ BOOK_SLUGS = {
     "malik": "imam-malik",
     "nasai": "nisai",
     "tirmidhi": "tirmazi",
+    "sunan-darmi": "sunan-darmi",
 }
 
 

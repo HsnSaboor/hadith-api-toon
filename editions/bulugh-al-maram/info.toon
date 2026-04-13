@@ -11,19 +11,19 @@ metadata:
   intro_ur: "بلغ المرام (مقصد تک پہنچنا) ابن حجر العسقلانی (رحمہ اللہ) کی مرتب کردہ احادیث کا مجموعہ ہے۔ یہ احادیث کا ایک جامع مجموعہ ہے جس میں فقہ اسلامی کے اخذ کردہ احادیث رسول اللہ صلی اللہ علیہ وسلم سے اخذ کی گئی ہیں۔ اس میں 10 کتابوں میں تقریباً 1300-1800 احادیث ہیں جو اسلامی قانون اور عمل کے مختلف موضوعات کا احاطہ کرتی ہیں۔\n\nمصنف کی سوانح عمری:\nشہاب الدین احمد ابن علی ابن حجر العسقلانی (1372-1449 عیسوی / 773-852) کے نام سے مشہور تھے قرون وسطی کے ممتاز اسلامی اسکالرز۔ وہ مصر میں پیدا ہوئے اور ایک مشہور محدث (حدیث عالم)، فقیہ (فقیہ) اور مورخ بن گئے۔\n\nابن حجر اپنے یادگار کام کے لیے مشہور ہیں۔"
 
 sections[16]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-  1,"The Book of Purification","كتاب الطهارة","পবিত্রতার বই","The Book of Purification","Le Livre de la Purification","Kitab Taharah","Книга Очищения","Taharet Kitabı","طہارت کی کتاب",1,178,1,178
+  1,"The Book of Purification","كتاب الطهارة","পবিত্রতার বই","The Book of Purification","Le Livre de la Purification","Kitab Thaharah","Книга Очищения","Taharet Kitabı","طہارت کی کتاب",1,178,1,178
   2,"The Book of Prayer","كتاب الصلاة","নামাজের বই","The Book of Prayer","Le Livre de la Prière","Kitab Shalat","Книга Молитвы","Namaz Kitabı","نماز کی کتاب",179,639,179,639
-  3,"Funerals","كتاب الجنائز","জানাজা","Funerals","Funérailles","Jenazah","Похороны","Cenazeler","جنازہ",640,705,640,705
+  3,"Funerals","كتاب الجنائز","জানাজা","Funerals","Funérailles","Kitab Jenazah","Похороны","Cenaze Kitabı","جنازہ",640,705,640,705
   4,"The Book of Zakah","كتاب الزكاة","যাকাতের বই","The Book of Zakah","Le Livre de la Zakat","Kitab Zakat","Книга Закята","Zekat Kitabı","زکوٰۃ کی کتاب",706,756,706,756
-  5,"Fasting","كتاب الصيام","রোজা","Fasting","Jeûne","Puasa","Пост","Oruç","روزہ",757,814,757,814
-  6,"Hajj","كتاب الحج","হজ্জ","Hajj","Pèlerinage","Haji","Паломничество","Hac","حج",815,888,815,888
-  7,"Business Transactions","كتاب البيوع","ব্যবসায়িক লেনদেন","Business Transactions","Transactions Commerciales","Transaksi Bisnis","Коммерческие Сделки","Ticari İşlemler","کاروباری معاملات",889,1121,889,1121
-  8,"Marriage","كتاب النكاح","বিবাহ","Marriage","Mariage","Pernikahan","Брак","Nikah","نکاح",1122,1343,1122,1343
-  9,"Crimes (Qisas or Retaliation)","كتاب الجنايات","অপরাধ (কিসাস বা প্রতিশোধ)","Crimes (Qisas or Retaliation)","Crimes (Qisas ou Représailles)","Kejahatan (Qisas atau Pembalasan)","Преступления (Кисас или Возмездие)","Suçlar (Kısas veya Mukabele)","جرائم (قصاص یا بدلہ)",1344,1390,1344,1390
-  10,"Hudud","كتاب الحدود","হদুদ","Hudud","Peines Préscrites","Hudud","Хадуд","Hadler","حدود",1391,1447,1391,1447
-  11,"Jihad","كتاب الجهاد","জিহাদ","Jihad","Jihad","Jihad","Джихад","Cihad","جہاد",1448,1510,1448,1510
-  12,"Food","كتاب الأطعمة","খাদ্য","Food","Nourriture","Makanan","Еда","Yiyecek","کھانا",1511,1554,1511,1554
-  13,"Oaths and Vows","كتاب الأيمان والنذور","শপথ ও মানত","Oaths and Vows","Serments et Vœux","Sumpah dan Nazar","Клятвы и Обеты","Yeminler ve Adaklar","قسم اور نذر",1555,1577,1555,1577
-  14,"Judgments","كتاب الأحكام","ফায়সালা","Judgments","Jugements","Hukum","Судебные Решения","Hükümler","فیصلے",1578,1613,1578,1613
-  15,"Emancipation","كتاب العتق","দাসমুক্তি","Emancipation","Affranchissement","Pembebasan Budak","Освобождение","Kölelikten Kurtuluş","آزادی",1614,1633,1614,1633
-  16,"The Comprehensive Book","كتاب الأحاديث المختلفة","ব্যাপক বই","The Comprehensive Book","Le Livre Complet","Kitab yang Komprehensif","Всеобъемлющая Книга","Kapsamlı Kitap","جامع کتاب",1634,1766,1634,1766
+  5,"Fasting","كتاب الصيام","রোজা","Fasting","Jeûne","Kitab Puasa","Пост","Oruç Kitabı","روزہ",757,814,757,814
+  6,"Hajj","كتاب الحج","হজ্জ","Hajj","Pèlerinage","Kitab Haji","Паломничество","Hac Kitabı","حج",815,888,815,888
+  7,"Business Transactions","كتاب البيوع","ব্যবসায়িক লেনদেন","Business Transactions","Transactions Commerciales","Kitab Jual Beli","Коммерческие Сделки","Ticaret Kitabı","کاروباری معاملات",889,1121,889,1121
+  8,"Marriage","كتاب النكاح","বিবাহ","Marriage","Mariage","Kitab Nikah","Брак","Nikah Kitabı","نکاح",1122,1343,1122,1343
+  9,"Crimes (Qisas or Retaliation)","كتاب الجنايات","অপরাধ (কিসাস বা প্রতিশোধ)","Crimes (Qisas or Retaliation)","Crimes (Qisas ou Représailles)","Kitab Jinayat (Qisas)","Преступления (Кисас или Возмездие)","Cinayetler (Kısas)","جرائم (قصاص یا بدلہ)",1344,1390,1344,1390
+  10,"Hudud","كتاب الحدود","হদুদ","Hudud","Peines Préscrites","Kitab Hudud","Хадуд","Had Kitabı","حدود",1391,1447,1391,1447
+  11,"Jihad","كتاب الجهاد","জিহাদ","Jihad","Jihad","Kitab Jihad","Джихад","Cihad Kitabı","جہاد",1448,1510,1448,1510
+  12,"Food","كتاب الأطعمة","খাদ্য","Food","Nourriture","Kitab Makanan","Еда","Yiyecek Kitabı","کھانا",1511,1554,1511,1554
+  13,"Oaths and Vows","كتاب الأيمان والنذور","শপথ ও মানত","Oaths and Vows","Serments et Vœux","Kitab Sumpah dan Nazar","Клятвы и Обеты","Yemin ve Adak Kitabı","قسم اور نذر",1555,1577,1555,1577
+  14,"Judgments","كتاب الأحكام","ফায়সালা","Judgments","Jugements","Kitab Ahkam","Судебные Решения","Hüküm Kitabı","فیصلے",1578,1613,1578,1613
+  15,"Emancipation","كتاب العتق","দাসমুক্তি","Emancipation","Affranchissement","Kitab I'tiq","Освобождение","Kölelikten Kurtuluş","آزادی",1614,1633,1614,1633
+  16,"The Comprehensive Book","كتاب الأحاديث المختلفة","ব্যাপক বই","The Comprehensive Book","Le Livre Complet","Kitab Hadits yang Berbeda","Всеобъемлющая Книга","Kapsamlı Hadisler Kitabı","جامع کتاب",1634,1766,1634,1766

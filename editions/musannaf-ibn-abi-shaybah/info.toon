@@ -1,0 +1,14 @@
+metadata:
+  book_id: musannaf-ibn-abi-shaybah
+  book_name: "Musannaf Ibn Abi Shaybah"
+  total_hadiths: 263
+  available_languages: "arabic,urdu"
+  intro: ""
+  intro_bn: ""
+  intro_fr: ""
+  intro_id: ""
+  intro_ru: ""
+  intro_ur: ""
+
+sections[1]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"Musannaf Ibn Abi Shaybah","","","","","",1,263,1,263

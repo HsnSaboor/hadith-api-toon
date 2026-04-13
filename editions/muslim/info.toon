@@ -1,0 +1,70 @@
+metadata:
+  book_id: muslim
+  book_name: "Sahih Muslim"
+  total_hadiths: 12272
+  available_languages: "arabic,bengali,english,french,indonesian,russian,urdu"
+  intro: ""
+  intro_bn: ""
+  intro_fr: ""
+  intro_id: ""
+  intro_ru: ""
+  intro_ur: ""
+
+sections[57]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  28,"The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)","","","","","",4342,4397,1669.01,1683
+  34,"The Book of Hunting, Slaughter, and what may be Eaten","","","","","",4972,5063,1929.01,1959
+  45,"The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship","","","","","",6500,6722,2548.01,2642.02
+  48,"The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness ","","","","","",6805,6936,2675.01,2735.03
+  52,"Characteristics of the Day of Judgment, Paradise, and Hell","","","","","",7045,7129,2785,2821.03
+  53,"The Book of Paradise, its Description, its Bounties and its Inhabitants","","","","","",7130,7234,2822,2879
+  0,"Introduction","","","","","",1,92,1,7
+  1,"The Book of Faith","","","","","",93,533,8.01,222.02
+  2,"The Book of Purification","","","","","",534,678,223,292.02
+  3,"The Book of Menstruation","","","","","",679,836,293.01,376.04
+  4,"The Book of Prayers ","","","","","",837,1160,377,519.02
+  5,"The Book of Mosques and Places of Prayer","","","","","",1161,1569,520.01,684.04
+  6,"The Book of Prayer - Travellers","","","","","",1570,1950,685.01,843.02
+  7,"The Book of Prayer - Friday","","","","","",1951,2043,844.01,883.02
+  8,"The Book of Prayer - Two Eids","","","","","",2044,2069,884.01,893
+  9,"The Book of Prayer - Rain","","","","","",2070,2088,894.01,900.02
+  10,"The Book of Prayer - Eclipses","","","","","",2089,2122,901.01,915
+  11,"The Book of Prayer - Funerals","","","","","",2123,2262,916.01,978
+  12,"The Book of Zakat","","","","","",2263,2494,979.01,1078.02
+  13,"The Book of Fasting ","","","","","",2495,2779,1079.01,1170
+  14,"The Book of I'tikaf","","","","","",2780,2790,1171.01,1176.02
+  15,"The Book of Pilgrimage","","","","","",2791,3397,1177.01,1399.09
+  16,"The Book of Marriage","","","","","",388,3567,1400.01,1443
+  17,"The Book of Suckling","","","","","",3568,3651,1444.01,1470.02
+  18,"The Book of Divorce ","","","","","",3652,3742,1471.01,1491
+  19,"The Book of Invoking Curses","","","","","",3743,3769,1492.01,1500.04
+  20,"The Book of Emancipating Slaves","","","","","",3770,3800,1501.01,1510.02
+  21,"The Book of Transactions","","","","","",3801,3961,1511.01,1550.05
+  22,"The Book of Musaqah","","","","","",3962,4139,1551.01,1613
+  23,"The Book of the Rules of Inheritance","","","","","",4140,4162,1614,1619.06
+  24,"The Book of Gifts","","","","","",4163,4203,1620.01,1626.02
+  25,"The Book of Wills","","","","","",4204,4234,1627.01,1637.03
+  26,"The Book of Vows","","","","","",4235,4253,1638.01,1645
+  27,"The Book of Oaths","","","","","",4254,4341,1646.01,1668.03
+  29,"The Book of Legal Punishments","","","","","",4398,4469,1684.01,1710.05
+  30,"The Book of Judicial Decisions","","","","","",4470,4497,1711.01,1721
+  31,"The Book of Lost Property","","","","","",4498,4518,1722.01,1729
+  32,"The Book of Jihad and Expeditions","","","","","",4519,4700,1730.01,1817
+  33,"The Book on Government","","","","","",4701,4967,1818.01,1928.02
+  35,"The Book of Sacrifices","","","","","",5064,5126,1960.01,1978.03
+  36,"The Book of Drinks","","","","","",5114,5383,1979.02,2064.04
+  37,"The Book of Clothes and Adornment","","","","","",5385,5585,2065.01,2130.02
+  38,"The Book of Manners and Etiquette","","","","","",5586,5645,2131,2159.02
+  39,"The Book of Greetings","","","","","",5646,5861,2160,2245.02
+  40,"The Book Concerning the Use of Correct Words","","","","","",5862,5884,2246.01,2254
+  41,"The Book of Poetry","","","","","",5887,5896,2255.03,2260
+  42,"The Book of Dreams","","","","","",5897,5937,2261.01,2275
+  43,"The Book of Virtues","","","","","",384,6168,2276,2380.06
+  44,"The Book of the Merits of the Companions","","","","","",6169,6499,2381,2547
+  46,"The Book of Destiny","","","","","",6723,6774,2643.01,2664
+  47,"The Book of Knowledge","","","","","",6775,6804,2665,2674
+  49,"The Book of Heart-Melting Traditions","","","","","",6937,6951,2736,2743.03
+  50,"The Book of Repentance","","","","","",6952,7023,2744.01,2771
+  51,"Characteristics of The Hypocrites And Rulings Concerning Them","","","","","",7024,7044,2772,2784.02
+  54,"The Book of Tribulations and Portents of the Last Hour","","","","","",7235,7416,2880.01,2955.03
+  55,"The Book of Zuhd and Softening of Hearts ","","","","","",7417,7522,2956,3014
+  56,"The Book of Commentary on the Qur'an","","","","","",7523,7563,3015,3033.02

@@ -1,0 +1,37 @@
+metadata:
+  book_id: mishkat
+  book_name: "Mishkat al-Masabih"
+  total_hadiths: 4428
+  available_languages: "arabic,bengali,english,french,indonesian,urdu"
+  intro: ""
+  intro_bn: ""
+  intro_fr: ""
+  intro_id: ""
+  intro_ru: ""
+  intro_ur: ""
+
+sections[24]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"Faith","","","","","",1,189,1,189
+  2,"Knowledge","","","","","",190,264,190,264
+  3,"Purification","","","","","",265,522,265,522
+  4,"Prayer","","","","","",523,1443,523,1443
+  5,"Funerals","","","","","",1444,1686,1444,1686
+  6,"Zakat","","","","","",1687,1866,1687,1866
+  7,"Fasting","","","","","",1867,2014,1867,2014
+  8,"The Excellent Qualities of the Qur'an","","","","","",2015,2126,2015,2126
+  9,"Supplications","","","","","",2127,2398,2127,2398
+  10,"The Rites of Pilgrimage","","","","","",2399,2644,2399,2644
+  11,"Business Transactions","","","","","",2645,2917,2645,2917
+  12,"Inheritance and Wills","","","","","",2918,2954,2918,2954
+  13,"Marriage","","","","","",2955,3247,2955,3247
+  14,"Emancipation","","","","","",3248,3271,3248,3271
+  15,"Oaths and Vows","","","","","",3272,3310,3272,3310
+  16,"Retaliation","","","","","",3311,3410,3311,3410
+  17,"Prescribed Punishments","","","","","",3411,3504,3411,3504
+  18,"The Offices of Commander and Qadi","","","","","",3505,3625,3505,3625
+  19,"Jihad","","","","","",3626,3898,3626,3898
+  20,"Game and Animals Which May Be Slaughtered","","","","","",3899,3991,3899,3991
+  21,"Foods","","","","","",3992,4126,3992,4126
+  22,"Clothing","","","","","",4127,4319,4127,4319
+  23,"Medicine and Spells","","","","","",4320,4407,4320,4407
+  24,"Visions","","","","","",4408,4427,4408,4427

@@ -1,0 +1,62 @@
+metadata:
+  book_id: tirmidhi
+  book_name: "Jami At-Tirmidhi"
+  total_hadiths: 5543
+  available_languages: "arabic,bengali,english,indonesian,urdu"
+  intro: ""
+  intro_bn: ""
+  intro_fr: ""
+  intro_id: ""
+  intro_ru: ""
+  intro_ur: ""
+
+sections[49]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  37,"Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'","","","","","",2415,2522,2415,2522
+  1,"The Book on Purification","","","","","",1,148,1,148
+  2,"The Book on Salat (Prayer)","","","","","",149,451,149,451
+  3,"The Book on Al-Witr","","","","","",452,487,452,487
+  4,"The Book on the Day of Friday","","","","","",488,529,488,529
+  5,"The Book on the Two Eids","","","","","",530,543,530,543
+  6,"The Book on Traveling","","","","","",544,616,544,616
+  7,"The Book on Zakat","","","","","",617,681,617,681
+  8,"The Book on Fasting","","","","","",682,808,682,808
+  9,"The Book on Hajj","","","","","",809,964,809,964
+  10,"The Book on Jana''iz (Funerals)","","","","","",965,1079,965,1079
+  11,"The Book on Marriage","","","","","",1080,1145,1080,1145
+  12,"The Book on Suckling","","","","","",1146,1174,1146,1174
+  13,"The Book on Divorce and Li'an","","","","","",1175,1204,1175,1204
+  14,"The Book on Business","","","","","",1205,1321,1205,1321
+  15,"The Chapters On Judgements From The Messenger of Allah","","","","","",1322,1385,1322,1385
+  16,"The Book on Blood Money","","","","","",1386,1422,1386,1422
+  17,"The Book on Legal Punishments (Al-Hudud)","","","","","",1423,1463,1423,1463
+  18,"The Book on Hunting","","","","","",1464,1492,1464,1492
+  19,"The Book on Sacrifices","","","","","",1493,1523,1493,1523
+  20,"The Book on Vows and Oaths","","","","","",1524,1547,1524,1547
+  21,"The Book on Military Expeditions","","","","","",1548,1618,1548,1618
+  22,"The Book on Virtues of Jihad","","","","","",1619,1669,1619,1669
+  23,"The Book on Jihad","","","","","",1670,1719,1670,1719
+  24,"The Book on Clothing","","","","","",1720,1787,1720,1787
+  25,"The Book on Food","","","","","",1788,1860,1788,1860
+  26,"The Book on Drinks","","","","","",1861,1896,1861,1896
+  27,"Chapters on Righteousness And Maintaining Good Relations With Relatives","","","","","",1897,2035,1897,2035
+  28,"Chapters on Medicine","","","","","",2036,2089,2036,2089
+  29,"Chapters On Inheritance","","","","","",2090,2115,2090,2115
+  30,"Chapters On Wasaya (Wills and Testament)","","","","","",2116,2124,2116,2124
+  31,"Chapters On Wala' And Gifts","","","","","",2125,2132,2125,2132
+  32,"Chapters On Al-Qadar","","","","","",2133,2298,2133,2298
+  33,"Chapters On Al-Fitan","","","","","",2158,2269,2158,2269
+  34,"Chapters On Dreams","","","","","",2270,2294,2270,2294
+  35,"Chapters On Witnesses","","","","","",2295,2303,2295,2303
+  36,"Chapters On Zuhd","","","","","",2304,2414,2304,2414
+  38,"Chapters on the description of Paradise","","","","","",2523,2735,2523,2735
+  39,"The Book on the Description of Hellfire","","","","","",2573,2795,2573,2795
+  40,"The Book on Faith","","","","","",2606,2644,2606,2644
+  41,"Chapters on Knowledge","","","","","",2645,2687,2645,2687
+  42,"Chapters on Seeking Permission","","","","","",2688,2734,2688,2734
+  43,"Chapters on Manners","","","","","",2736,2858,2736,2858
+  44,"Chapters on Parables","","","","","",2859,2874,2859,2874
+  45,"Chapters on The Virtues of the Qur'an","","","","","",2875,2926,2875,2926
+  46,"Chapters on Recitation","","","","","",2927,2949,2927,2949
+  47,"Chapters on Tafsir","","","","","",2950,3723,2950,3723
+  48,"Chapters on Supplication","","","","","",3370,3604.1,3370,3604.1
+  49,"Chapters on Virtues","","","","","",3605,3956,3605,3956

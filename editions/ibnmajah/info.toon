@@ -1,0 +1,51 @@
+metadata:
+  book_id: ibnmajah
+  book_name: "Sunan Ibn Majah"
+  total_hadiths: 8455
+  available_languages: "arabic,bengali,english,french,indonesian,urdu"
+  intro: ""
+  intro_bn: ""
+  intro_fr: ""
+  intro_id: ""
+  intro_ru: ""
+  intro_ur: ""
+
+sections[38]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  0,"The Book of the Sunnah","","","","","",1,266,1,266
+  1,"The Book of Purification and its Sunnah","","","","","",267,666,267,666
+  2,"The Book of the Prayer","","","","","",667,705,667,705
+  3,"The Book of the Adhan and the Sunnah Regarding It","","","","","",706,734,706,734
+  4,"The Book On The Mosques And The Congregations","","","","","",735,802,735,802
+  5,"Establishing the Prayer and the Sunnah Regarding Them","","","","","",803,1432,803,1432
+  6,"Chapters Regarding Funerals","","","","","",1433,1637,1433,1637
+  7,"Fasting","","","","","",1638,1782,1638,1782
+  8,"The Chapters Regarding Zakat","","","","","",1783,1844,1783,1844
+  9,"The Chapters on Marriage","","","","","",1845,2015,1845,2015
+  10,"The Chapters on Divorce","","","","","",2016,2477,2016,2477
+  11,"The Chapters on Expiation","","","","","",2090,2136,2090,2136
+  12,"The Chapters on Business Transactions","","","","","",2137,2307,2137,2307
+  13,"The Chapters on Rulings","","","","","",2308,2374,2308,2374
+  14,"The Chapters on Gifts","","","","","",2375,2389,2375,2389
+  15,"The Chapters on Charity","","","","","",2390,2528,2390,2528
+  16,"The Chapters on Pawning","","","","","",2436,2491,2436,2491
+  17,"The Chapters on Pre-emption","","","","","",2492,2501,2492,2501
+  18,"The Chapters on Lost Property","","","","","",2502,2511,2502,2511
+  19,"The Chapters on Manumission (of Slaves)","","","","","",2512,2532,2512,2532
+  20,"The Chapters on Legal Punishments","","","","","",2533,2614,2533,2614
+  21,"The Chapters on Blood Money","","","","","",2615,2694,2615,2694
+  22,"The Chapters on Wills","","","","","",2695,2718,2695,2718
+  23,"Chapters on Shares of Inheritance","","","","","",2719,2752,2719,2752
+  24,"The Chapters on Jihad","","","","","",2753,2881,2753,2881
+  25,"Chapters on Hajj Rituals","","","","","",2882,3119,2882,3119
+  26,"Chapters on Sacrifices","","","","","",3120,3161,3120,3161
+  27,"Chapters on Slaughtering","","","","","",3162,3199,3162,3199
+  28,"Chapters on Hunting","","","","","",3200,3250,3200,3250
+  29," Chapters on Food","","","","","",3251,3370,3251,3370
+  30,"Chapters on Drinks","","","","","",3371,3435,3371,3435
+  31,"Chapters on Medicine","","","","","",3436,3549,3436,3549
+  32,"Chapters on Dress","","","","","",3550,3656,3550,3656
+  33,"Etiquette","","","","","",3657,3826,3657,3826
+  34,"Supplication","","","","","",3827,3892,3827,3892
+  35,"Interpretation of Dreams","","","","","",3893,3926,3893,3926
+  36,"Tribulations","","","","","",3927,4099,3927,4099
+  37,"Zuhd","","","","","",4100,4341,4100,4341

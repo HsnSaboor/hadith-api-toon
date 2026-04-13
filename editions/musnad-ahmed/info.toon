@@ -1,0 +1,21 @@
+metadata:
+  book_id: musnad-ahmed
+  book_name: "Musnad Ahmad"
+  total_hadiths: 1389
+  available_languages: "arabic,bengali,english,french,indonesian,urdu"
+  intro: ""
+  intro_bn: ""
+  intro_fr: ""
+  intro_id: ""
+  intro_ru: ""
+  intro_ur: ""
+
+sections[8]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"Musnad Abu Bakr as-Siddiq (ra)","","","","","",1,91,1,91
+  2,"Musnad `Umar b. al-Khattab (ra)","","","","","",92,382,92,382
+  3,"The Hadeeth of Saqeefah","","","","","",383,390,383,390
+  4,"Musnad Uthman ibn Affan","","","","","",391,539,391,539
+  5,"Musnad 'Ali Ibn Abi Talib","","","","","",540,1317,540,1317
+  6,"Musnad of Abu Muhammad Talhah bin 'Ubaidullah","","","","","",1318,1339,1318,1339
+  7,"The Musnad of az-Zubair bin al-'Awwam","","","","","",1340,1369,1340,1369
+  31,"Section 31","","","","","",1370,1384,1370,1384

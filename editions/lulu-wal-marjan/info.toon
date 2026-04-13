@@ -1,0 +1,14 @@
+metadata:
+  book_id: lulu-wal-marjan
+  book_name: "Al-Lulu wal-Marjan"
+  total_hadiths: 47
+  available_languages: "arabic,urdu"
+  intro: ""
+  intro_bn: ""
+  intro_fr: ""
+  intro_id: ""
+  intro_ru: ""
+  intro_ur: ""
+
+sections[1]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"Al-Lulu wal-Marjan","","","","","",1,47,1,47

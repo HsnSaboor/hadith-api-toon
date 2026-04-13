@@ -1,0 +1,29 @@
+metadata:
+  book_id: bulugh-al-maram
+  book_name: "Bulugh al-Maram"
+  total_hadiths: 1767
+  available_languages: "arabic,bengali,english,french,indonesian,urdu"
+  intro: ""
+  intro_bn: ""
+  intro_fr: ""
+  intro_id: ""
+  intro_ru: ""
+  intro_ur: ""
+
+sections[16]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"The Book of Purification","","","","","",1,178,1,178
+  2,"The Book of Prayer","","","","","",179,639,179,639
+  3,"Funerals","","","","","",640,705,640,705
+  4,"The Book of Zakah","","","","","",706,756,706,756
+  5,"Fasting","","","","","",757,814,757,814
+  6,"Hajj","","","","","",815,888,815,888
+  7,"Business Transactions","","","","","",889,1121,889,1121
+  8,"Marriage","","","","","",1122,1343,1122,1343
+  9,"Crimes (Qisas or Retaliation)","","","","","",1344,1390,1344,1390
+  10,"Hudud","","","","","",1391,1447,1391,1447
+  11,"Jihad","","","","","",1448,1510,1448,1510
+  12,"Food","","","","","",1511,1554,1511,1554
+  13,"Oaths and Vows","","","","","",1555,1577,1555,1577
+  14,"Judgments","","","","","",1578,1613,1578,1613
+  15,"Emancipation","","","","","",1614,1633,1614,1633
+  16,"The Comprehensive Book","","","","","",1634,1766,1634,1766

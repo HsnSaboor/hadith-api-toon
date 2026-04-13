@@ -1,0 +1,70 @@
+metadata:
+  book_id: aladab-almufrad
+  book_name: "Al-Adab Al-Mufrad"
+  total_hadiths: 1326
+  available_languages: "arabic,bengali,english,french,indonesian,urdu"
+  intro: ""
+  intro_bn: ""
+  intro_fr: ""
+  intro_id: ""
+  intro_ru: ""
+  intro_ur: ""
+
+sections[57]{id,name,name_bn,name_fr,name_id,name_ru,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"Parents","","","","","",1,46,1,46
+  2,"Ties of Kinship","","","","","",47,73,47,73
+  3,"Mawlas (Clients of Manumission)","","","","","",74,75,74,75
+  4,"Looking after girls","","","","","",76,83,76,83
+  5,"Looking after children","","","","","",84,100,84,100
+  6,"Neighbours","","","","","",101,128,101,128
+  7,"Generosity and Orphans","","","","","",129,142,129,142
+  8,"Children's Death","","","","","",143,155,143,155
+  9,"Being a master","","","","","",156,211,156,211
+  10,"Supervision","","","","","",212,220,212,220
+  11,"Good Conduct","","","","","",221,237,221,237
+  12,"Cheerfulness Towards People","","","","","",238,255,238,255
+  13,"Consultation","","","","","",256,259,256,259
+  14,"Excellence in Character","","","","","",260,309,260,309
+  15,"Cursing","","","","","",310,333,310,333
+  16,"Praise","","","","","",334,344,334,344
+  17,"Visitation","","","","","",345,354,345,354
+  18,"The Elderly","","","","","",355,363,355,363
+  19,"Children","","","","","",364,373,364,373
+  20,"Mercy","","","","","",374,386,374,386
+  21,"Social Behaviour","","","","","",387,398,387,398
+  22,"Abandonment","","","","","",399,416,399,416
+  23,"Advising","","","","","",417,420,417,420
+  24,"Disparaging","","","","","",421,443,421,443
+  25,"Extravagance in Building","","","","","",444,463,444,463
+  26,"Compassion","","","","","",464,476,464,476
+  27,"Attending to this world","","","","","",477,484,477,484
+  28,"Injustice","","","","","",485,492,485,492
+  29,"Visiting the Ill","","","","","",493,539,493,539
+  30,"he should tell him that he loves him","","","","","",540,605,540,605
+  31,"Supplication","","","","","",606,740,606,740
+  32,"Guests and Spending","","","","","",741,755,741,755
+  33,"while his foot was in stirrup","","","","","",756,812,756,812
+  34,"Names","","","","","",813,843,813,843
+  35,"Kunyas","","","","","",844,857,844,857
+  36,"Poetry","","","","","",858,876,858,876
+  37,"Words","","","","","",877,889,877,889
+  38,"Consequences","","","","","",890,908,890,908
+  39,"Omens","","","","","",909,920,909,920
+  40,"Sneezing and Yawning","","","","","",921,953,921,953
+  41,"Gestures","","","","","",954,966,954,966
+  42,"Greetings","","","","","",967,1053,967,1053
+  43,"Asking Permission","","","","","",1054,1103,1054,1103
+  44,"The People of the Book","","","","","",1104,1119,1104,1119
+  45,"Letters","","","","","",1120,1138,1120,1138
+  46,"Gatherings","","","","","",1139,1155,1139,1155
+  47,"Behaviour with people","","","","","",1156,1177,1156,1177
+  48,"Sitting and lying down","","","","","",1178,1201,1178,1201
+  49,"Mornings and evenings","","","","","",1202,1207,1202,1207
+  50,"Sleep and night lodging","","","","","",1208,1234,1208,1234
+  51,"Animals","","","","","",1235,1240,1235,1240
+  52,"Midday Naps","","","","","",1241,1246,1241,1246
+  53,"Circumcision","","","","","",1247,1261,1247,1261
+  54,"Betting and similar pastimes","","","","","",1262,1284,1262,1284
+  55,"Recognition","","","","","",1285,1307,1285,1307
+  56,"Meddling and Harshness","","","","","",1308,1319,1308,1319
+  57,"Anger","","","","","",1320,1326,1320,1326

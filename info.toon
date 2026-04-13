@@ -59,6 +59,64 @@ book:aladab-almufrad:
   available_languages: "arabic,bengali,english,french,indonesian,urdu"
   has_sections: true
   path: "editions/aladab-almufrad"
+  sections[57]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,46,1,46
+    2,"Section 2",47,73,47,73
+    3,"Section 3",74,75,74,75
+    4,"Section 4",76,83,76,83
+    5,"Section 5",84,100,84,100
+    6,"Section 6",101,128,101,128
+    7,"Section 7",129,142,129,142
+    8,"Section 8",143,155,143,155
+    9,"Section 9",156,211,156,211
+    10,"Section 10",212,220,212,220
+    11,"Section 11",221,237,221,237
+    12,"Section 12",238,255,238,255
+    13,"Section 13",256,259,256,259
+    14,"Section 14",260,309,260,309
+    15,"Section 15",310,333,310,333
+    16,"Section 16",334,344,334,344
+    17,"Section 17",345,354,345,354
+    18,"Section 18",355,363,355,363
+    19,"Section 19",364,373,364,373
+    20,"Section 20",374,386,374,386
+    21,"Section 21",387,398,387,398
+    22,"Section 22",399,416,399,416
+    23,"Section 23",417,420,417,420
+    24,"Section 24",421,443,421,443
+    25,"Section 25",444,463,444,463
+    26,"Section 26",464,476,464,476
+    27,"Section 27",477,484,477,484
+    28,"Section 28",485,492,485,492
+    29,"Section 29",493,539,493,539
+    30,"Section 30",540,605,540,605
+    31,"Section 31",606,740,606,740
+    32,"Section 32",741,755,741,755
+    33,"Section 33",756,812,756,812
+    34,"Section 34",813,843,813,843
+    35,"Section 35",844,857,844,857
+    36,"Section 36",858,876,858,876
+    37,"Section 37",877,889,877,889
+    38,"Section 38",890,908,890,908
+    39,"Section 39",909,920,909,920
+    40,"Section 40",921,953,921,953
+    41,"Section 41",954,966,954,966
+    42,"Section 42",967,1053,967,1053
+    43,"Section 43",1054,1103,1054,1103
+    44,"Section 44",1104,1119,1104,1119
+    45,"Section 45",1120,1138,1120,1138
+    46,"Section 46",1139,1155,1139,1155
+    47,"Section 47",1156,1177,1156,1177
+    48,"Section 48",1178,1201,1178,1201
+    49,"Section 49",1202,1207,1202,1207
+    50,"Section 50",1208,1234,1208,1234
+    51,"Section 51",1235,1240,1235,1240
+    52,"Section 52",1241,1246,1241,1246
+    53,"Section 53",1247,1261,1247,1261
+    54,"Section 54",1262,1284,1262,1284
+    55,"Section 55",1285,1307,1285,1307
+    56,"Section 56",1308,1319,1308,1319
+    57,"Section 57",1320,1326,1320,1326
 
 book:bayhaqi:
   name: "Sunan Al-Kubra Bayhaqi"
@@ -66,6 +124,8 @@ book:bayhaqi:
   available_languages: "arabic,urdu"
   has_sections: true
   path: "editions/bayhaqi"
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,124,1,124
 
 book:bukhari:
   name: "Sahih al-Bukhari"
@@ -179,6 +239,23 @@ book:bulugh-al-maram:
   available_languages: "arabic,bengali,english,french,indonesian,urdu"
   has_sections: true
   path: "editions/bulugh-al-maram"
+  sections[16]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,178,1,178
+    2,"Section 2",179,639,179,639
+    3,"Section 3",640,705,640,705
+    4,"Section 4",706,756,706,756
+    5,"Section 5",757,814,757,814
+    6,"Section 6",815,888,815,888
+    7,"Section 7",889,1121,889,1121
+    8,"Section 8",1122,1343,1122,1343
+    9,"Section 9",1344,1390,1344,1390
+    10,"Section 10",1391,1447,1391,1447
+    11,"Section 11",1448,1510,1448,1510
+    12,"Section 12",1511,1554,1511,1554
+    13,"Section 13",1555,1577,1555,1577
+    14,"Section 14",1578,1613,1578,1613
+    15,"Section 15",1614,1633,1614,1633
+    16,"Section 16",1634,1766,1634,1766
 
 book:dehlawi:
   name: "Forty Hadith of Shah Waliullah Dehlawi"
@@ -195,6 +272,8 @@ book:fatah-alrabani:
   available_languages: "arabic,urdu"
   has_sections: true
   path: "editions/fatah-alrabani"
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,192,1,192
 
 book:ibnmajah:
   name: "Sunan Ibn Majah"
@@ -248,6 +327,8 @@ book:lulu-wal-marjan:
   available_languages: "arabic,urdu"
   has_sections: true
   path: "editions/lulu-wal-marjan"
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,47,1,47
 
 book:malik:
   name: "Muwatta Malik"
@@ -325,6 +406,31 @@ book:mishkat:
   available_languages: "arabic,bengali,english,french,indonesian,urdu"
   has_sections: true
   path: "editions/mishkat"
+  sections[24]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,189,1,189
+    2,"Section 2",190,264,190,264
+    3,"Section 3",265,522,265,522
+    4,"Section 4",523,1443,523,1443
+    5,"Section 5",1444,1686,1444,1686
+    6,"Section 6",1687,1866,1687,1866
+    7,"Section 7",1867,2014,1867,2014
+    8,"Section 8",2015,2126,2015,2126
+    9,"Section 9",2127,2398,2127,2398
+    10,"Section 10",2399,2644,2399,2644
+    11,"Section 11",2645,2917,2645,2917
+    12,"Section 12",2918,2954,2918,2954
+    13,"Section 13",2955,3247,2955,3247
+    14,"Section 14",3248,3271,3248,3271
+    15,"Section 15",3272,3310,3272,3310
+    16,"Section 16",3311,3410,3311,3410
+    17,"Section 17",3411,3504,3411,3504
+    18,"Section 18",3505,3625,3505,3625
+    19,"Section 19",3626,3898,3626,3898
+    20,"Section 20",3899,3991,3899,3991
+    21,"Section 21",3992,4126,3992,4126
+    22,"Section 22",4127,4319,4127,4319
+    23,"Section 23",4320,4407,4320,4407
+    24,"Section 24",4408,4427,4408,4427
 
 book:muajam-tabarani-saghir:
   name: "Muajam Tabarani Saghir"
@@ -332,6 +438,8 @@ book:muajam-tabarani-saghir:
   available_languages: "arabic,urdu"
   has_sections: true
   path: "editions/muajam-tabarani-saghir"
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,25,1,25
 
 book:musannaf-ibn-abi-shaybah:
   name: "Musannaf Ibn Abi Shaybah"
@@ -339,6 +447,8 @@ book:musannaf-ibn-abi-shaybah:
   available_languages: "arabic,urdu"
   has_sections: true
   path: "editions/musannaf-ibn-abi-shaybah"
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,263,1,263
 
 book:muslim:
   name: "Sahih Muslim"
@@ -411,6 +521,15 @@ book:musnad-ahmed:
   available_languages: "arabic,bengali,english,french,indonesian,urdu"
   has_sections: true
   path: "editions/musnad-ahmed"
+  sections[8]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,91,1,91
+    2,"Section 2",92,382,92,382
+    3,"Section 3",383,390,383,390
+    4,"Section 4",391,539,391,539
+    5,"Section 5",540,1317,540,1317
+    6,"Section 6",1318,1339,1318,1339
+    7,"Section 7",1340,1369,1340,1369
+    31,"Section 31",1370,1384,1370,1384
 
 book:mustadrak:
   name: "Al-Mustadrak"
@@ -418,6 +537,8 @@ book:mustadrak:
   available_languages: "arabic,urdu"
   has_sections: true
   path: "editions/mustadrak"
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,667,1,667
 
 book:nasai:
   name: "Sunan an-Nasai"
@@ -503,6 +624,8 @@ book:sahih-ibn-khuzaymah:
   available_languages: "arabic,urdu"
   has_sections: true
   path: "editions/sahih-ibn-khuzaymah"
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,49,1,49
 
 book:shamail-tirmazi:
   name: "Shamail-e-Tirmazi"
@@ -510,6 +633,63 @@ book:shamail-tirmazi:
   available_languages: "arabic,bengali,english,french,indonesian,urdu"
   has_sections: true
   path: "editions/shamail-tirmazi"
+  sections[56]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,16,1,16
+    2,"Section 2",17,24,17,24
+    3,"Section 3",25,32,25,32
+    4,"Section 4",33,37,33,37
+    5,"Section 5",38,45,38,45
+    6,"Section 6",46,50,46,50
+    7,"Section 7",51,55,51,55
+    8,"Section 8",56,71,56,71
+    9,"Section 9",72,73,72,73
+    10,"Section 10",74,84,74,84
+    11,"Section 11",85,92,85,92
+    12,"Section 12",93,101,93,101
+    13,"Section 13",102,105,102,105
+    14,"Section 14",106,107,106,107
+    15,"Section 15",108,109,108,109
+    16,"Section 16",110,114,110,114
+    17,"Section 17",115,118,115,118
+    18,"Section 18",119,121,119,121
+    19,"Section 19",122,122,122,122
+    20,"Section 20",123,125,123,125
+    21,"Section 21",126,130,126,130
+    22,"Section 22",131,132,131,132
+    23,"Section 23",133,137,133,137
+    24,"Section 24",138,145,138,145
+    25,"Section 25",146,179,146,179
+    26,"Section 26",180,182,180,182
+    27,"Section 27",183,189,183,189
+    28,"Section 28",190,191,190,191
+    29,"Section 29",192,198,192,198
+    30,"Section 30",199,200,199,200
+    31,"Section 31",201,210,201,210
+    32,"Section 32",211,216,211,216
+    33,"Section 33",217,219,217,219
+    34,"Section 34",220,228,220,228
+    35,"Section 35",229,234,229,234
+    36,"Section 36",235,243,235,243
+    37,"Section 37",244,244,244,244
+    38,"Section 38",245,245,245,245
+    39,"Section 39",246,251,246,251
+    40,"Section 40",252,276,252,276
+    41,"Section 41",277,284,277,284
+    42,"Section 42",285,285,285,285
+    43,"Section 43",286,301,286,301
+    44,"Section 44",302,309,302,309
+    45,"Section 45",310,315,310,315
+    46,"Section 46",316,317,316,317
+    47,"Section 47",318,330,318,330
+    48,"Section 48",331,345,331,345
+    49,"Section 49",346,347,346,347
+    50,"Section 50",348,353,348,353
+    51,"Section 51",354,355,354,355
+    52,"Section 52",356,364,356,364
+    53,"Section 53",365,370,365,370
+    54,"Section 54",371,384,371,384
+    55,"Section 55",385,391,385,391
+    56,"Section 56",392,402,392,402
 
 book:silsila-sahih:
   name: "Silsila Sahiha"
@@ -517,6 +697,8 @@ book:silsila-sahih:
   available_languages: "arabic,urdu"
   has_sections: true
   path: "editions/silsila-sahih"
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,51,1,51
 
 book:sunan-al-daraqutni:
   name: "Sunan al-Daraqutni"
@@ -524,6 +706,8 @@ book:sunan-al-daraqutni:
   available_languages: "arabic,urdu"
   has_sections: true
   path: "editions/sunan-al-daraqutni"
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    1,"Section 1",1,218,1,218
 
 book:sunan-darmi:
   name: "Sunan ad-Darimi"
@@ -531,6 +715,31 @@ book:sunan-darmi:
   available_languages: "arabic,bengali,english,french,indonesian,urdu"
   has_sections: true
   path: "editions/sunan-darmi"
+  sections[24]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+    0,"Uncategorized",1,649,1,649
+    1,"Section 1",650,1808,650,1808
+    2,"Section 2",1809,2227,1809,2227
+    3,"Section 3",2228,2286,2228,2286
+    4,"Section 4",2287,2384,2287,2384
+    5,"Section 5",2385,2537,2385,2537
+    6,"Section 6",2538,2592,2538,2592
+    7,"Section 7",2593,2608,2593,2608
+    8,"Section 8",2609,2671,2609,2671
+    9,"Section 9",2672,2720,2672,2720
+    10,"Section 10",2721,2747,2721,2747
+    11,"Section 11",2748,2839,2748,2839
+    12,"Section 12",2840,2871,2840,2871
+    13,"Section 13",2872,2904,2872,2904
+    14,"Section 14",2905,2922,2905,2922
+    15,"Section 15",2923,2960,2923,2960
+    16,"Section 16",2961,3008,2961,3008
+    17,"Section 17",3009,3099,3009,3099
+    18,"Section 18",3100,3196,3100,3196
+    19,"Section 19",3197,3271,3197,3271
+    20,"Section 20",3272,3408,3272,3408
+    21,"Section 21",3409,3733,3409,3733
+    22,"Section 22",3734,3859,3734,3859
+    23,"Section 23",3860,4055,3860,4055
 
 book:tirmidhi:
   name: "Jami At-Tirmidhi"

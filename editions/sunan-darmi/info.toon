@@ -12,26 +12,26 @@ metadata:
 
 sections[24]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
   0,"Uncategorized","غير مصنف","অশ্রেণীভুক্ত","Uncategorized","Non Classé","Tidak Terkategori","Без Категории","Kategorize Edilmemiş","غیر درجہ بند",1,649,1,649
-  1,"Kitab as-Sunnah","كتاب السنة","সুন্নাহর কিতাব","Kitab as-Sunnah","Livre de la Sunna","Kitab Sunnah","Книга Сунны","Sünnet Kitabı","کتاب السنت","Bölüm 1","حصہ 1",650,1808,650,1808
-  2,"Kitab at-Taharah","كتاب الطهارة","পবিত্রতার কিতাব","Kitab at-Taharah","Livre de la Purification","Kitab Thaharah","Книга Очищения","Taharet Kitabı","کتاب طہارت","Bölüm 2","حصہ 2",1809,2227,1809,2227
-  3,"Kitab as-Salat","كتاب الصلاة","নামাজের কিতাব","Kitab as-Salat","Livre de la Prière","Kitab Shalat","Книга Молитвы","Namaz Kitabı","کتاب نماز","Bölüm 3","حصہ 3",2228,2286,2228,2286
-  4,"Kitab az-Zakat","كتاب الزكاة","যাকাতের কিতাব","Kitab az-Zakat","Livre de la Zakat","Kitab Zakat","Книга Закята","Zekat Kitabı","کتاب زکوۃ","Bölüm 4","حصہ 4",2287,2384,2287,2384
-  5,"Kitab as-Sawm","كتاب الصوم","রোজার কিতাব","Kitab as-Sawm","Livre du Jeûne","Kitab Puasa","Книга Поста","Oruç Kitabı","کتاب روزہ","Bölüm 5","حصہ 5",2385,2537,2385,2537
-  6,"Kitab al-Manasik","كتاب المناسك","হজ্জের কিতাব","Kitab al-Manasik","Livre des Rites","Kitab Haji","Книга Обрядов","Hac Kitabı","کتاب مناسک","Bölüm 6","حصہ 6",2538,2592,2538,2592
-  7,"Kitab al-Adahi","كتاب الأضاحي","কুরবানির কিতাব","Kitab al-Adahi","Livre des Sacrifices","Kitab Kurban","Книга Жертвоприношений","Kurban Kitabı","کتاب اضاحی","Bölüm 7","حصہ 7",2593,2608,2593,2608
-  8,"Kitab as-Sayd","كتاب الصيد","শিকারের কিতাব","Kitab as-Sayd","Livre de la Chasse","Kitab Berburu","Книга Охоты","Avcılık Kitabı","کتاب صید","Bölüm 8","حصہ 8",2609,2671,2609,2671
-  9,"Kitab al-At'imah","كتاب الأطعمة","খাদ্যের কিতাব","Kitab al-At'imah","Livre des Nourritures","Kitab Makanan","Книга Пищи","Yiyecek Kitabı","کتاب اطعمہ","Bölüm 9","حصہ 9",2672,2720,2672,2720
-  10,"Kitab al-Ashribah","كتاب الأشربة","পানীয়ের কিতাব","Kitab al-Ashribah","Livre des Boissons","Kitab Minuman","Книга Напитков","İçecek Kitabı","کتاب اشربہ","Bölüm 10","حصہ 10",2721,2747,2721,2747
-  11,"Kitab ar-Ru'ya","كتاب الرؤيا","স্বপ্নের কিতাব","Kitab ar-Ru'ya","Livre des Visions","Kitab Mimpi","Книга Видений","Rüya Kitabı","کتاب رؤیا","Bölüm 11","حصہ 11",2748,2839,2748,2839
-  12,"Kitab an-Nikah","كتاب النكاح","বিবাহের কিতাব","Kitab an-Nikah","Livre du Mariage","Kitab Nikah","Книга Брака","Nikah Kitabı","کتاب نکاح","Bölüm 12","حصہ 12",2840,2871,2840,2871
-  13,"Kitab at-Talaq","كتاب الطلاق","তালাকের কিতাব","Kitab at-Talaq","Livre du Divorce","Kitab Talak","Книга Развода","Talak Kitabı","کتاب طلاق","Bölüm 13","حصہ 13",2872,2904,2872,2904
-  14,"Kitab al-Hudud","كتاب الحدود","হদের কিতাব","Kitab al-Hudud","Livre des Peines","Kitab Hudud","Книга Наказаний","Had Kitabı","کتاب حدود","Bölüm 14","حصہ 14",2905,2922,2905,2922
-  15,"Kitab an-Nudhur wal-Ayman","كتاب النذور والأيمان","মানত ও শপথের কিতাব","Kitab an-Nudhur wal-Ayman","Livre des Vœux et Serments","Kitab Nazar dan Sumpah","Книга Обетов и Клятв","Nazir ve Yemin Kitabı","کتاب نذر و ایمان","Bölüm 15","حصہ 15",2923,2960,2923,2960
-  16,"Kitab ad-Diyat","كتاب الديات","দিয়াতের কিতাব","Kitab ad-Diyat","Livre du Sang","Kitab Diyat","Книга Кровных","Diyet Kitabı","کتاب دیات","Bölüm 16","حصہ 16",2961,3008,2961,3008
-  17,"Kitab al-Jihad","كتاب الجهاد","জিহাদের কিতাব","Kitab al-Jihad","Livre du Jihad","Kitab Jihad","Книга Джихада","Cihad Kitabı","کتاب جہاد","Bölüm 17","حصہ 17",3009,3099,3009,3099
-  18,"Kitab as-Siyar","كتاب السير","যুদ্ধাভিযানের কিতাব","Kitab as-Siyar","Livre des Expéditions","Kitab Siyar","Книга Походов","Sefer Kitabı","کتاب سیر","Bölüm 18","حصہ 18",3100,3196,3100,3196
-  19,"Kitab al-Buyu'","كتاب البيوع","ক্রয়-বিক্রয়ের কিতাব","Kitab al-Buyu'","Livre des Transactions","Kitab Jual Beli","Книга Торговли","Alışveriş Kitabı","کتاب بیوع","Bölüm 19","حصہ 19",3197,3271,3197,3271
-  20,"Kitab al-Isti'dhan","كتاب الاستئذان","অনুমতি প্রার্থনার কিতাব","Kitab al-Isti'dhan","Livre de la Permission","Kitab Izin","Книга Разрешения","İzin Kitabı","کتاب استئذان","Bölüm 20","حصہ 20",3272,3408,3272,3408
-  21,"Kitab ar-Riqaq","كتاب الرقاق","হৃদয় নরম করার কিতাব","Kitab ar-Riqaq","Livre de l'Adoucissement","Kitab Riqaq","Книга Сердца","Rikak Kitabı","کتاب رقاق","Bölüm 21","حصہ 21",3409,3733,3409,3733
-  22,"Kitab al-Fara'id","كتاب الفرائض","উত্তরাধিকারের কিতাব","Kitab al-Fara'id","Livre des Successions","Kitab Faraid","Книга Наследства","Feraiz Kitabı","کتاب فرائض","Bölüm 22","حصہ 22",3734,3859,3734,3859
-  23,"Kitab al-Wasaya","كتاب الوصايا","ওয়াসিয়াতের কিতাব","Kitab al-Wasaya","Livre des Testaments","Kitab Wasiat","Книга Завещаний","Vasiyet Kitabı","کتاب وصایا","Bölüm 23","حصہ 23",3860,4055,3860,4055
+  1,"Kitab as-Sunnah","كتاب السنة","সুন্নাহর কিতাব","Kitab as-Sunnah","Livre de la Sunna","Kitab Sunnah","Книга Сунны","Sünnet Kitabı","کتاب السنت",650,1808,650,1808
+  2,"Kitab at-Taharah","كتاب الطهارة","পবিত্রতার কিতাব","Kitab at-Taharah","Livre de la Purification","Kitab Thaharah","Книга Очищения","Taharet Kitabı","کتاب طہارت",1809,2227,1809,2227
+  3,"Kitab as-Salat","كتاب الصلاة","নামাজের কিতাব","Kitab as-Salat","Livre de la Prière","Kitab Shalat","Книга Молитвы","Namaz Kitabı","کتاب نماز",2228,2286,2228,2286
+  4,"Kitab az-Zakat","كتاب الزكاة","যাকাতের কিতাব","Kitab az-Zakat","Livre de la Zakat","Kitab Zakat","Книга Закята","Zekat Kitabı","کتاب زکوۃ",2287,2384,2287,2384
+  5,"Kitab as-Sawm","كتاب الصوم","রোজার কিতাব","Kitab as-Sawm","Livre du Jeûne","Kitab Puasa","Книга Поста","Oruç Kitabı","کتاب روزہ",2385,2537,2385,2537
+  6,"Kitab al-Manasik","كتاب المناسك","হজ্জের কিতাব","Kitab al-Manasik","Livre des Rites","Kitab Haji","Книга Обрядов","Hac Kitabı","کتاب مناسک",2538,2592,2538,2592
+  7,"Kitab al-Adahi","كتاب الأضاحي","কুরবানির কিতাব","Kitab al-Adahi","Livre des Sacrifices","Kitab Kurban","Книга Жертвоприношений","Kurban Kitabı","کتاب اضاحی",2593,2608,2593,2608
+  8,"Kitab as-Sayd","كتاب الصيد","শিকারের কিতাব","Kitab as-Sayd","Livre de la Chasse","Kitab Berburu","Книга Охоты","Avcılık Kitabı","کتاب صید",2609,2671,2609,2671
+  9,"Kitab al-At'imah","كتاب الأطعمة","খাদ্যের কিতাব","Kitab al-At'imah","Livre des Nourritures","Kitab Makanan","Книга Пищи","Yiyecek Kitabı","کتاب اطعمہ",2672,2720,2672,2720
+  10,"Kitab al-Ashribah","كتاب الأشربة","পানীয়ের কিতাব","Kitab al-Ashribah","Livre des Boissons","Kitab Minuman","Книга Напитков","İçecek Kitabı","کتاب اشربہ",2721,2747,2721,2747
+  11,"Kitab ar-Ru'ya","كتاب الرؤيا","স্বপ্নের কিতাব","Kitab ar-Ru'ya","Livre des Visions","Kitab Mimpi","Книга Видений","Rüya Kitabı","کتاب رؤیا",2748,2839,2748,2839
+  12,"Kitab an-Nikah","كتاب النكاح","বিবাহের কিতাব","Kitab an-Nikah","Livre du Mariage","Kitab Nikah","Книга Брака","Nikah Kitabı","کتاب نکاح",2840,2871,2840,2871
+  13,"Kitab at-Talaq","كتاب الطلاق","তালাকের কিতাব","Kitab at-Talaq","Livre du Divorce","Kitab Talak","Книга Развода","Talak Kitabı","کتاب طلاق",2872,2904,2872,2904
+  14,"Kitab al-Hudud","كتاب الحدود","হদের কিতাব","Kitab al-Hudud","Livre des Peines","Kitab Hudud","Книга Наказаний","Had Kitabı","کتاب حدود",2905,2922,2905,2922
+  15,"Kitab an-Nudhur wal-Ayman","كتاب النذور والأيمان","মানত ও শপথের কিতাব","Kitab an-Nudhur wal-Ayman","Livre des Vœux et Serments","Kitab Nazar dan Sumpah","Книга Обетов и Клятв","Nazir ve Yemin Kitabı","کتاب نذر و ایمان",2923,2960,2923,2960
+  16,"Kitab ad-Diyat","كتاب الديات","দিয়াতের কিতাব","Kitab ad-Diyat","Livre du Sang","Kitab Diyat","Книга Кровных","Diyet Kitabı","کتاب دیات",2961,3008,2961,3008
+  17,"Kitab al-Jihad","كتاب الجهاد","জিহাদের কিতাব","Kitab al-Jihad","Livre du Jihad","Kitab Jihad","Книга Джихада","Cihad Kitabı","کتاب جہاد",3009,3099,3009,3099
+  18,"Kitab as-Siyar","كتاب السير","যুদ্ধাভিযানের কিতাব","Kitab as-Siyar","Livre des Expéditions","Kitab Siyar","Книга Походов","Sefer Kitabı","کتاب سیر",3100,3196,3100,3196
+  19,"Kitab al-Buyu'","كتاب البيوع","ক্রয়-বিক্রয়ের কিতাব","Kitab al-Buyu'","Livre des Transactions","Kitab Jual Beli","Книга Торговли","Alışveriş Kitabı","کتاب بیوع",3197,3271,3197,3271
+  20,"Kitab al-Isti'dhan","كتاب الاستئذان","অনুমতি প্রার্থনার কিতাব","Kitab al-Isti'dhan","Livre de la Permission","Kitab Izin","Книга Разрешения","İzin Kitabı","کتاب استئذان",3272,3408,3272,3408
+  21,"Kitab ar-Riqaq","كتاب الرقاق","হৃদয় নরম করার কিতাব","Kitab ar-Riqaq","Livre de l'Adoucissement","Kitab Riqaq","Книга Сердца","Rikak Kitabı","کتاب رقاق",3409,3733,3409,3733
+  22,"Kitab al-Fara'id","كتاب الفرائض","উত্তরাধিকারের কিতাব","Kitab al-Fara'id","Livre des Successions","Kitab Faraid","Книга Наследства","Feraiz Kitabı","کتاب فرائض",3734,3859,3734,3859
+  23,"Kitab al-Wasaya","كتاب الوصايا","ওয়াসিয়াতের কিতাব","Kitab al-Wasaya","Livre des Testaments","Kitab Wasiat","Книга Завещаний","Vasiyet Kitabı","کتاب وصایا",3860,4055,3860,4055

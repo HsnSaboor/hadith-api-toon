@@ -91,7 +91,7 @@ The key insight: **read the header to discover the columns dynamically**. Don't 
 
 ```js
 async function fetchSection(book, sectionId) {
-  const url = `https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/${book}/sections/${sectionId}.toon`;
+  const url = `https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/editions/${book}/sections/${sectionId}.toon`;
   const text = await fetch(url).then(r => r.text());
   const lines = text.split('\n').filter(l => l.trim());
 
@@ -139,7 +139,7 @@ console.log(hadiths[0].english);  // English text
 import csv, io, requests, re
 
 def fetch_section(book, section_id):
-    url = f"https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/{book}/sections/{section_id}.toon"
+    url = f"https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/editions/{book}/sections/{section_id}.toon"
     text = requests.get(url).text
     lines = [l for l in text.split('\n') if l.strip()]
 
@@ -233,16 +233,18 @@ console.log(meta.intro_fr);   // French intro (if available)
 
 ## CDN Usage
 
+**Recommended: Use version tags for stability**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/{endpoint}
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/{endpoint}
 ```
+
+> **Note on caching:** jsDelivr caches `@main` branch URLs for up to 24 hours. For immediate updates, use version tags (e.g., `@v1.0.0`) or commit hashes.
 
 ### Global Index
 
 | File | Description |
 |------|-------------|
-| [`editions.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions.toon) | 25 books with available languages |
-| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon) | Per-book section metadata |
+| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/info.toon) | 25 books with sections metadata |
 
 ### Section Files
 
@@ -252,19 +254,18 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/{endpoint}
 
 **Example — Sahih Bukhari, Section 1:**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/sections/1.toon
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/editions/bukhari/sections/1.toon
 ```
 
 ### Index Files
 
 ```
-editions.toon    # 25 books registry with available languages
-info.toon        # Per-book section metadata (hadith ranges, section names)
+info.toon        # All 25 books with section metadata (hadith ranges, section names)
 ```
 
 **Example — Get all books:**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions.toon
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/info.toon
 ```
 
 ---

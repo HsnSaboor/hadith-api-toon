@@ -15,7 +15,7 @@ The most comprehensive multilingual Hadith database on the internet. **25 books,
 | **Books** | 25 |
 | **Total Hadiths** | 68,513 |
 | **Languages** | Arabic, Urdu, English, Bengali, French, Indonesian, Russian, Tamil, Turkish |
-| **Editions** | 94 language editions |
+| **Books** | 25 unified books |
 | **Sections** | 623 section files |
 
 Every book is stored in a single directory with **all available languages in one file**. No more fetching separate files for Arabic, Urdu, and English.
@@ -39,7 +39,7 @@ metadata:
   intro_ru: "Сахих аль-Бухари представляет..."
   intro_ur: "صحیح البخاری حدیث کا مجموعہ..."
 
-hadiths[7]{hadithnumber,arabic,urdu,english,bengali,french,indonesian,russian,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
+hadiths[7]{hadithnumber,arabic,urdu,english,bengali,french,indonesian,russian,grades,reference,international_number,narrator_chain,chapter_intro}:
   1,"حَدَّثَنَا...","آپ صلی اللہ...","Narrated 'Umar...","বাংলা...","Français...","","","","","Sahih","Book 1, Hadith 1",1,"Umar → ...",""
   2,"حَدَّثَنَا...","آپ صلی اللہ...","Narrated 'Aisha...","বাংলা...","Français...","","","","","Sahih","Book 1, Hadith 2",2,"Aisha → ...",""
 ```
@@ -52,13 +52,13 @@ hadiths[7]{hadithnumber,arabic,urdu,english,bengali,french,indonesian,russian,ur
 
 ---
 
-## Dynamic Schema: Three Tiers
+## Dynamic Schema: Language Availability
 
-The columns in each file change based on which languages are available for that book. **Read the header to know which languages are present.**
+Each book includes all available languages in a single unified file. **Read the header to discover which languages are present.**
 
-### Book Introductions (New!)
+### Book Introductions
 
-Each book now includes multilingual introductions in the metadata:
+Each book includes multilingual introductions in the metadata:
 
 ```toon
 metadata:
@@ -71,58 +71,15 @@ metadata:
   intro_ur: "Urdu translation"
 ```
 
-**Which languages are available per book?**
-- **25 books** have translations based on their available languages
-- Books with 6 languages (bengali, english, french, indonesian, russian, urdu): 5 translated intros (bn, fr, id, ru, ur)
-- Books with 3 languages (english, french, urdu): 2 translated intros (fr, ur)
-- Books with 1 language (urdu only): 1 translated intro (ur)
+**Language availability varies by book:**
+- **Tier 1 (7 languages):** arabic, bengali, english, french, indonesian, russian, urdu — Bukhari, Muslim, Abu Dawud
+- **Tier 2 (6 languages):** arabic, bengali, english, french, indonesian, urdu — Nasai, Ibn Majah, Malik, Musnad Ahmed, Mishkat, Al-Adab, Bulugh, Shamail, Sunan Darmi
+- **Tier 3 (5 languages):** arabic, bengali, english, indonesian, urdu — Tirmidhi
+- **Tier 4 (2 languages):** arabic, urdu — Mustadrak, Sunan Daraqutni, Musannaf, Sahih Ibn Khuzaymah, Muajam Tabarani, Fatah Al-Rabani, Silsila Sahiha, Lulu wal-Marjan, Bayhaqi
+- **Tier 5 (5 languages):** arabic, bengali, english, french, turkish — Nawawi 40
+- **Tier 6 (3 languages):** arabic, english, french — Qudsi 40, Dehlawi 40
 
-The intro fields are dynamically added based on each book's language columns. **Check the metadata in each file to see which intro translations are available.**
-
-### Tier 1: Original 9 Books (Full Multilingual)
-
-Books with 9 languages: Arabic, Urdu, English, Bengali, French, Indonesian, Russian, Tamil, Turkish.
-
-```toon
-hadiths[7587]{hadithnumber,arabic,bengali,english,french,indonesian,russian,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
-```
-
-**Books:** Bukhari, Muslim, Abu Dawud, Ibn Majah, Malik, Nasai, Tirmidhi, Nawawi 40, Qudsi 40, Dehlawi 40
-
-### Tier 2: 6 Books with Arabic + English
-
-Books where we have complete Arabic + English from hadith-json, but incomplete Urdu (<90% coverage).
-
-```toon
-hadiths[4428]{hadithnumber,arabic,english,grades,reference,international_number,narrator_chain,chapter_intro}:
-```
-
-**Books:** Musnad Ahmed, Al-Adab Al-Mufrad, Shamail-e-Tirmazi, Mishkat al-Masabih, Bulugh al-Maram
-
-### Tier 3: 9 Rare Books (Arabic + Urdu Only)
-
-Scholarly collections without publicly available English translations.
-
-```toon
-hadiths[124]{hadithnumber,arabic,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
-```
-
-**Books:** Bayhaqi, Mustadrak, Sunan Darmi, Silsila Sahiha, Fatah Al-Rabani, Al-Lu'lu wal-Marjan, Muajam Saghir Tabarani, Musannaf Ibn Abi Shaybah, Sahih Ibn Khuzaymah, Sunan al-Daraqutni
-
----
-
-## Minority Languages
-
-When a language has **< 90% coverage** for a book (e.g., Urdu for Musnad Ahmed), it is stored separately to keep the main file clean:
-
-```
-editions/musnad-ahmed/
-├── sections/1.toon          ← Core: Arabic + English
-└── translations/urdu/sections/
-    └── 1.toon               ← Minority: Urdu only
-```
-
-Minority files use a simple schema: `hadiths[N]{hadithnumber,text}:`
+Intro translations exist for each non-arabic language in the book. **Check the metadata in each file to see which intro translations are available.**
 
 ---
 
@@ -298,15 +255,16 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/{endpoint}
 https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/sections/1.toon
 ```
 
-### Minority Language Files
+### Index Files
 
 ```
-/editions/{book}/translations/{lang}/sections/{sectionNo}.toon
+editions.toon    # 25 books registry with available languages
+info.toon        # Per-book section metadata (hadith ranges, section names)
 ```
 
-**Example — Musnad Ahmed Urdu translations:**
+**Example — Get all books:**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/musnad-ahmed/translations/urdu/sections/1.toon
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions.toon
 ```
 
 ---

@@ -125,7 +125,7 @@ book:bayhaqi:
   has_sections: true
   path: "editions/bayhaqi"
   sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,124,1,124
+    1,"Sunan Al-Kubra Bayhaqi",1,124,1,124
 
 book:bukhari:
   name: "Sahih al-Bukhari"
@@ -240,22 +240,22 @@ book:bulugh-al-maram:
   has_sections: true
   path: "editions/bulugh-al-maram"
   sections[16]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,178,1,178
-    2,"Ties of Kinship",179,639,179,639
-    3,"Mawlas (Clients of Manumission)",640,705,640,705
-    4,"Looking after girls",706,756,706,756
-    5,"Looking after children",757,814,757,814
-    6,"Neighbours",815,888,815,888
-    7,"Generosity and Orphans",889,1121,889,1121
-    8,"Children's Death",1122,1343,1122,1343
-    9,"Being a master",1344,1390,1344,1390
-    10,"Supervision",1391,1447,1391,1447
-    11,"Good Conduct",1448,1510,1448,1510
-    12,"Cheerfulness Towards People",1511,1554,1511,1554
-    13,"Consultation",1555,1577,1555,1577
-    14,"Excellence in Character",1578,1613,1578,1613
-    15,"Cursing",1614,1633,1614,1633
-    16,"Praise",1634,1766,1634,1766
+    1,"The Book of Purification",1,178,1,178
+    2,"The Book of Prayer",179,639,179,639
+    3,"Funerals",640,705,640,705
+    4,"The Book of Zakah",706,756,706,756
+    5,"Fasting",757,814,757,814
+    6,"Hajj",815,888,815,888
+    7,"Business Transactions",889,1121,889,1121
+    8,"Marriage",1122,1343,1122,1343
+    9,"Crimes (Qisas or Retaliation)",1344,1390,1344,1390
+    10,"Hudud",1391,1447,1391,1447
+    11,"Jihad",1448,1510,1448,1510
+    12,"Food",1511,1554,1511,1554
+    13,"Oaths and Vows",1555,1577,1555,1577
+    14,"Judgments",1578,1613,1578,1613
+    15,"Emancipation",1614,1633,1614,1633
+    16,"The Comprehensive Book",1634,1766,1634,1766
 
 book:dehlawi:
   name: "Forty Hadith of Shah Waliullah Dehlawi"
@@ -273,7 +273,7 @@ book:fatah-alrabani:
   has_sections: true
   path: "editions/fatah-alrabani"
   sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,192,1,192
+    1,"Fatah Al-Rabani",1,192,1,192
 
 book:ibnmajah:
   name: "Sunan Ibn Majah"
@@ -328,7 +328,7 @@ book:lulu-wal-marjan:
   has_sections: true
   path: "editions/lulu-wal-marjan"
   sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,47,1,47
+    1,"Al-Lulu wal-Marjan",1,47,1,47
 
 book:malik:
   name: "Muwatta Malik"
@@ -407,30 +407,30 @@ book:mishkat:
   has_sections: true
   path: "editions/mishkat"
   sections[24]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,189,1,189
-    2,"Ties of Kinship",190,264,190,264
-    3,"Mawlas (Clients of Manumission)",265,522,265,522
-    4,"Looking after girls",523,1443,523,1443
-    5,"Looking after children",1444,1686,1444,1686
-    6,"Neighbours",1687,1866,1687,1866
-    7,"Generosity and Orphans",1867,2014,1867,2014
-    8,"Children's Death",2015,2126,2015,2126
-    9,"Being a master",2127,2398,2127,2398
-    10,"Supervision",2399,2644,2399,2644
-    11,"Good Conduct",2645,2917,2645,2917
-    12,"Cheerfulness Towards People",2918,2954,2918,2954
-    13,"Consultation",2955,3247,2955,3247
-    14,"Excellence in Character",3248,3271,3248,3271
-    15,"Cursing",3272,3310,3272,3310
-    16,"Praise",3311,3410,3311,3410
-    17,"Visitation",3411,3504,3411,3504
-    18,"The Elderly",3505,3625,3505,3625
-    19,"Children",3626,3898,3626,3898
-    20,"Mercy",3899,3991,3899,3991
-    21,"Social Behaviour",3992,4126,3992,4126
-    22,"Abandonment",4127,4319,4127,4319
-    23,"Advising",4320,4407,4320,4407
-    24,"Disparaging",4408,4427,4408,4427
+    1,"Faith",1,189,1,189
+    2,"Knowledge",190,264,190,264
+    3,"Purification",265,522,265,522
+    4,"Prayer",523,1443,523,1443
+    5,"Funerals",1444,1686,1444,1686
+    6,"Zakat",1687,1866,1687,1866
+    7,"Fasting",1867,2014,1867,2014
+    8,"The Excellent Qualities of the Qur'an",2015,2126,2015,2126
+    9,"Supplications",2127,2398,2127,2398
+    10,"The Rites of Pilgrimage",2399,2644,2399,2644
+    11,"Business Transactions",2645,2917,2645,2917
+    12,"Inheritance and Wills",2918,2954,2918,2954
+    13,"Marriage",2955,3247,2955,3247
+    14,"Emancipation",3248,3271,3248,3271
+    15,"Oaths and Vows",3272,3310,3272,3310
+    16,"Retaliation",3311,3410,3311,3410
+    17,"Prescribed Punishments",3411,3504,3411,3504
+    18,"The Offices of Commander and Qadi",3505,3625,3505,3625
+    19,"Jihad",3626,3898,3626,3898
+    20,"Game and Animals Which May Be Slaughtered",3899,3991,3899,3991
+    21,"Foods",3992,4126,3992,4126
+    22,"Clothing",4127,4319,4127,4319
+    23,"Medicine and Spells",4320,4407,4320,4407
+    24,"Visions",4408,4427,4408,4427
 
 book:muajam-tabarani-saghir:
   name: "Muajam Tabarani Saghir"
@@ -439,7 +439,7 @@ book:muajam-tabarani-saghir:
   has_sections: true
   path: "editions/muajam-tabarani-saghir"
   sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,25,1,25
+    1,"Muajam Tabarani Saghir",1,25,1,25
 
 book:musannaf-ibn-abi-shaybah:
   name: "Musannaf Ibn Abi Shaybah"
@@ -448,7 +448,7 @@ book:musannaf-ibn-abi-shaybah:
   has_sections: true
   path: "editions/musannaf-ibn-abi-shaybah"
   sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,263,1,263
+    1,"Musannaf Ibn Abi Shaybah",1,263,1,263
 
 book:muslim:
   name: "Sahih Muslim"
@@ -522,14 +522,14 @@ book:musnad-ahmed:
   has_sections: true
   path: "editions/musnad-ahmed"
   sections[8]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,91,1,91
-    2,"Ties of Kinship",92,382,92,382
-    3,"Mawlas (Clients of Manumission)",383,390,383,390
-    4,"Looking after girls",391,539,391,539
-    5,"Looking after children",540,1317,540,1317
-    6,"Neighbours",1318,1339,1318,1339
-    7,"Generosity and Orphans",1340,1369,1340,1369
-    31,"Supplication",1370,1384,1370,1384
+    1,"Musnad Abu Bakr as-Siddiq (ra)",1,91,1,91
+    2,"Musnad `Umar b. al-Khattab (ra)",92,382,92,382
+    3,"The Hadeeth of Saqeefah",383,390,383,390
+    4,"Musnad Uthman ibn Affan",391,539,391,539
+    5,"Musnad 'Ali Ibn Abi Talib",540,1317,540,1317
+    6,"Musnad of Abu Muhammad Talhah bin 'Ubaidullah",1318,1339,1318,1339
+    7,"The Musnad of az-Zubair bin al-'Awwam",1340,1369,1340,1369
+    31,"Section 31",1370,1384,1370,1384
 
 book:mustadrak:
   name: "Al-Mustadrak"
@@ -538,7 +538,7 @@ book:mustadrak:
   has_sections: true
   path: "editions/mustadrak"
   sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,667,1,667
+    1,"Al-Mustadrak",1,667,1,667
 
 book:nasai:
   name: "Sunan an-Nasai"
@@ -625,7 +625,7 @@ book:sahih-ibn-khuzaymah:
   has_sections: true
   path: "editions/sahih-ibn-khuzaymah"
   sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,49,1,49
+    1,"Sahih Ibn Khuzaymah",1,49,1,49
 
 book:shamail-tirmazi:
   name: "Shamail-e-Tirmazi"
@@ -634,62 +634,62 @@ book:shamail-tirmazi:
   has_sections: true
   path: "editions/shamail-tirmazi"
   sections[56]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,16,1,16
-    2,"Ties of Kinship",17,24,17,24
-    3,"Mawlas (Clients of Manumission)",25,32,25,32
-    4,"Looking after girls",33,37,33,37
-    5,"Looking after children",38,45,38,45
-    6,"Neighbours",46,50,46,50
-    7,"Generosity and Orphans",51,55,51,55
-    8,"Children's Death",56,71,56,71
-    9,"Being a master",72,73,72,73
-    10,"Supervision",74,84,74,84
-    11,"Good Conduct",85,92,85,92
-    12,"Cheerfulness Towards People",93,101,93,101
-    13,"Consultation",102,105,102,105
-    14,"Excellence in Character",106,107,106,107
-    15,"Cursing",108,109,108,109
-    16,"Praise",110,114,110,114
-    17,"Visitation",115,118,115,118
-    18,"The Elderly",119,121,119,121
-    19,"Children",122,122,122,122
-    20,"Mercy",123,125,123,125
-    21,"Social Behaviour",126,130,126,130
-    22,"Abandonment",131,132,131,132
-    23,"Advising",133,137,133,137
-    24,"Disparaging",138,145,138,145
-    25,"Extravagance in Building",146,179,146,179
-    26,"Compassion",180,182,180,182
-    27,"Attending to this world",183,189,183,189
-    28,"Injustice",190,191,190,191
-    29,"Visiting the Ill",192,198,192,198
-    30,"he should tell him that he loves him",199,200,199,200
-    31,"Supplication",201,210,201,210
-    32,"Guests and Spending",211,216,211,216
-    33,"while his foot was in stirrup",217,219,217,219
-    34,"Names",220,228,220,228
-    35,"Kunyas",229,234,229,234
-    36,"Poetry",235,243,235,243
-    37,"Words",244,244,244,244
-    38,"Consequences",245,245,245,245
-    39,"Omens",246,251,246,251
-    40,"Sneezing and Yawning",252,276,252,276
-    41,"Gestures",277,284,277,284
-    42,"Greetings",285,285,285,285
-    43,"Asking Permission",286,301,286,301
-    44,"The People of the Book",302,309,302,309
-    45,"Letters",310,315,310,315
-    46,"Gatherings",316,317,316,317
-    47,"Behaviour with people",318,330,318,330
-    48,"Sitting and lying down",331,345,331,345
-    49,"Mornings and evenings",346,347,346,347
-    50,"Sleep and night lodging",348,353,348,353
-    51,"Animals",354,355,354,355
-    52,"Midday Naps",356,364,356,364
-    53,"Circumcision",365,370,365,370
-    54,"Betting and similar pastimes",371,384,371,384
-    55,"Recognition",385,391,385,391
-    56,"Meddling and Harshness",392,402,392,402
+    1,"The Noble Features Of Rasoolullah",1,16,1,16
+    2,"Seal Of Nubuwwah (Prophethood) Of Rasoolullah",17,24,17,24
+    3,"The Mubarak Hair Of Rasoolullah",25,32,25,32
+    4,"The Combing Of The Hair Of Rasoolullah",33,37,33,37
+    5,"Appearing Of The White Hair Of Rasoolullah",38,45,38,45
+    6,"Rasoolullah Using a Dye",46,50,46,50
+    7,"Kuhl Of Rasoolullah",51,55,51,55
+    8,"The Dressing Of Rasoolullah",56,71,56,71
+    9,"The Standard of Living of Rasoolullah",72,73,72,73
+    10,"The Khuff (Leather Socks) Of Rasoolullah",74,84,74,84
+    11,"The Shoes Of Rasoolullah",85,92,85,92
+    12,"The Mubarak Ring Of Rasoolullah",93,101,93,101
+    13,"Stating That Rasoolullah Wore The Ring On His Right Hand",102,105,102,105
+    14,"The Sword Of Rasoolullah",106,107,106,107
+    15,"The Armor Of Rasoolullah",108,109,108,109
+    16,"The Helmet Of Rasoolullah",110,114,110,114
+    17,"The Turban Of Rasoolullah",115,118,115,118
+    18,"The Lungi Of Rasoolullah",119,121,119,121
+    19,"The Walking Of Rasoolullah",122,122,122,122
+    20,"The Qinaa Of Rasoolullah",123,125,123,125
+    21,"The Sitting Of Rasoolullah",126,130,126,130
+    22,"The Pillow Of Rasoolullah",131,132,131,132
+    23,"Rasoolullah Leaning On Something Other Than a Pillow",133,137,133,137
+    24,"Description Of The Eating Of Rasoolullah",138,145,138,145
+    25,"The Bread Of Rasoolullah",146,179,146,179
+    26,"What Rasoolullah Would Eat with Bread",180,182,180,182
+    27,"Rasoolullah Performing Wudu At The Time Of Eating",183,189,183,189
+    28,"The Words That Of Rasoolullah Said Before and After Eating",190,191,190,191
+    29,"The Cup Of Rasoolullah",192,198,192,198
+    30,"The Fruits Eaten By Rasoolullah",199,200,199,200
+    31,"Description Of The Things Rasoolullah Drank",201,210,201,210
+    32,"Hadith Describing The Manner Rasoolullah Drank",211,216,211,216
+    33,"Rasoolullah Using 'Itr",217,219,217,219
+    34,"The Speech Of rasoolullah",220,228,220,228
+    35,"The Laughing Of Rasoolullah",229,234,229,234
+    36,"Description Of The Joking Of Rasoolullah",235,243,235,243
+    37,"Description Of The Saying Of Rasoolullah On Poetry",244,244,244,244
+    38,"Story Telling Of Rasoolullah At Night",245,245,245,245
+    39,"Hadith of Umm Zar`",246,251,246,251
+    40,"The Sleeping Of Rasoolullah",252,276,252,276
+    41,"Worship And Devotion Of Rasoolullah",277,284,277,284
+    42,"Salaatut Duha (Chaast Prayers)",285,285,285,285
+    43,"Sayyidina Rasoolullah Performing Nawaafil At Home",286,301,286,301
+    44,"The Fasting Of Sayyidina Rasoolullah",302,309,302,309
+    45,"The Recital Of Sayyidina Rasoolullah",310,315,310,315
+    46,"The Weeping Of Sayyidina Rasoolullah",316,317,316,317
+    47,"Narrations Of The Bed Of Sayyidina Rasoolullah",318,330,318,330
+    48,"The Humbleness Of Sayyidina Rasoolullah",331,345,331,345
+    49,"Noble Character And Habits Of Sayyidina Rasoolullah",346,347,346,347
+    50,"Modesty Of Sayyidina Rasoolullah",348,353,348,353
+    51,"Hajaamah (Cupping-Cautering) Of Sayyidina Rasoolullah",354,355,354,355
+    52,"The Names Of Sayyidina Rasoolullah",356,364,356,364
+    53,"The Living Of Sayyidina Rasoolullah",365,370,365,370
+    54,"The Noble Age Of Sayyidina Rasoolullah",371,384,371,384
+    55,"The Death Of Sayyidina Rasoolullah",385,391,385,391
+    56,"The Legacy Of Sayyidina Rasoolullah",392,402,392,402
 
 book:silsila-sahih:
   name: "Silsila Sahiha"
@@ -698,7 +698,7 @@ book:silsila-sahih:
   has_sections: true
   path: "editions/silsila-sahih"
   sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,51,1,51
+    1,"Silsila Sahiha",1,51,1,51
 
 book:sunan-al-daraqutni:
   name: "Sunan al-Daraqutni"
@@ -707,7 +707,7 @@ book:sunan-al-daraqutni:
   has_sections: true
   path: "editions/sunan-al-daraqutni"
   sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
-    1,"Parents",1,218,1,218
+    1,"Sunan al-Daraqutni",1,218,1,218
 
 book:sunan-darmi:
   name: "Sunan ad-Darimi"
@@ -717,29 +717,29 @@ book:sunan-darmi:
   path: "editions/sunan-darmi"
   sections[24]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
     0,"Uncategorized",1,649,1,649
-    1,"Parents",650,1808,650,1808
-    2,"Ties of Kinship",1809,2227,1809,2227
-    3,"Mawlas (Clients of Manumission)",2228,2286,2228,2286
-    4,"Looking after girls",2287,2384,2287,2384
-    5,"Looking after children",2385,2537,2385,2537
-    6,"Neighbours",2538,2592,2538,2592
-    7,"Generosity and Orphans",2593,2608,2593,2608
-    8,"Children's Death",2609,2671,2609,2671
-    9,"Being a master",2672,2720,2672,2720
-    10,"Supervision",2721,2747,2721,2747
-    11,"Good Conduct",2748,2839,2748,2839
-    12,"Cheerfulness Towards People",2840,2871,2840,2871
-    13,"Consultation",2872,2904,2872,2904
-    14,"Excellence in Character",2905,2922,2905,2922
-    15,"Cursing",2923,2960,2923,2960
-    16,"Praise",2961,3008,2961,3008
-    17,"Visitation",3009,3099,3009,3099
-    18,"The Elderly",3100,3196,3100,3196
-    19,"Children",3197,3271,3197,3271
-    20,"Mercy",3272,3408,3272,3408
-    21,"Social Behaviour",3409,3733,3409,3733
-    22,"Abandonment",3734,3859,3734,3859
-    23,"Advising",3860,4055,3860,4055
+    1,"Section 1",650,1808,650,1808
+    2,"Section 2",1809,2227,1809,2227
+    3,"Section 3",2228,2286,2228,2286
+    4,"Section 4",2287,2384,2287,2384
+    5,"Section 5",2385,2537,2385,2537
+    6,"Section 6",2538,2592,2538,2592
+    7,"Section 7",2593,2608,2593,2608
+    8,"Section 8",2609,2671,2609,2671
+    9,"Section 9",2672,2720,2672,2720
+    10,"Section 10",2721,2747,2721,2747
+    11,"Section 11",2748,2839,2748,2839
+    12,"Section 12",2840,2871,2840,2871
+    13,"Section 13",2872,2904,2872,2904
+    14,"Section 14",2905,2922,2905,2922
+    15,"Section 15",2923,2960,2923,2960
+    16,"Section 16",2961,3008,2961,3008
+    17,"Section 17",3009,3099,3009,3099
+    18,"Section 18",3100,3196,3100,3196
+    19,"Section 19",3197,3271,3197,3271
+    20,"Section 20",3272,3408,3272,3408
+    21,"Section 21",3409,3733,3409,3733
+    22,"Section 22",3734,3859,3734,3859
+    23,"Section 23",3860,4055,3860,4055
 
 book:tirmidhi:
   name: "Jami At-Tirmidhi"

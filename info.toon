@@ -8,7 +8,7 @@ book:abudawud:
   available_languages: "arabic,bengali,english,french,indonesian,russian,urdu"
   has_sections: true
   path: "editions/abudawud"
-  sections[44]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+  sections[43]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
     1,Purification (Kitab Al-Taharah),1,390,1,390
     2,Prayer (Kitab Al-Salat),391,1160,391,1160
     3,The Book Of The Prayer For Rain (Kitab al-Istisqa'),1161,1197,1161,1197
@@ -263,7 +263,7 @@ book:dehlawi:
   available_languages: "arabic,english,french"
   has_sections: true
   path: "editions/dehlawi"
-  sections[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
     1,Forty Hadith of Shah Waliullah Dehlawi,1,40,1,40
 
 book:fatah-alrabani:
@@ -606,7 +606,7 @@ book:nawawi:
   available_languages: "arabic,bengali,english,french,turkish"
   has_sections: true
   path: "editions/nawawi"
-  sections[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
     1,Forty Hadith of an-Nawawi,1,42,1,42
 
 book:qudsi:
@@ -615,7 +615,7 @@ book:qudsi:
   available_languages: "arabic,english,french"
   has_sections: true
   path: "editions/qudsi"
-  sections[2]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+  sections[1]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
     1,Forty Hadith Qudsi,1,40,1,40
 
 book:sahih-ibn-khuzaymah:
@@ -747,7 +747,7 @@ book:tirmidhi:
   available_languages: "arabic,bengali,english,indonesian,urdu"
   has_sections: true
   path: "editions/tirmidhi"
-  sections[50]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
+  sections[49]{id,name,hadith_first,hadith_last,arabic_first,arabic_last}:
     1,The Book on Purification,1,148,1,148
     2,The Book on Salat (Prayer),149,451,149,451
     3,The Book on Al-Witr,452,487,452,487

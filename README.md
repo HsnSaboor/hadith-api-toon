@@ -2,7 +2,7 @@
 
 > In the name of God, who has guided me to do this work
 
-The most comprehensive multilingual Hadith database on the internet. **25 books, 87,000+ hadiths, 9+ languages** — all in a unified, CDN-optimized `.toon` format.
+The most comprehensive multilingual Hadith database on internet. **25 books, 68,513 hadiths, 8 languages** — all in unified, CDN-optimized `.toon` format.
 
 **Built from:** [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) · [al-hadees.com](https://al-hadees.com) · [sunnah.com](https://sunnah.com) · [hadith-json](https://github.com/AhmedBaset/hadith-json)
 
@@ -14,11 +14,13 @@ The most comprehensive multilingual Hadith database on the internet. **25 books,
 |--------|-------|
 | **Books** | 25 |
 | **Total Hadiths** | 68,513 |
-| **Languages** | Arabic, Urdu, English, Bengali, French, Indonesian, Russian, Tamil, Turkish |
-| **Books** | 25 unified books |
-| **Sections** | 623 section files |
+| **Languages** | Arabic, Urdu, English, Bengali, French, Indonesian, Russian, Turkish |
+| **Collections** | 25 unified books |
+| **Sections** | 596 section files |
 
-Every book is stored in a single directory with **all available languages in one file**. No more fetching separate files for Arabic, Urdu, and English.
+Every book stored in single directory with **all available languages in one file**. No more fetching separate files for Arabic, Urdu, and English.
+
+Book-level intro + author metadata stored in `editions/{book}/info.toon`.
 
 ---
 
@@ -29,26 +31,31 @@ Every book is stored in a single directory with **all available languages in one
 ### Structure
 
 ```toon
+# editions/{book}/info.toon
 metadata:
-  section_id: 1
-  section_name: Revelation
-  intro: "Sahih al-Bukhari is a collection of hadith compiled by..."
-  intro_bn: "সহীহ আল-বুখারি..."
-  intro_fr: "Ṣaḥīḥ al-Bukhārī est un recueil..."
-  intro_id: "Ṣaḥīḥ al-Bukhārī merupakan kumpulan..."
-  intro_ru: "Сахих аль-Бухари представляет..."
-  intro_ur: "صحیح البخاری حدیث کا مجموعہ..."
+  book_id: bukhari
+  book_name: "Sahih al-Bukhari"
+  total_hadiths: 12642
+  available_languages: "arabic,bengali,english,french,indonesian,russian,urdu"
+  intro: "Book introduction"
+  intro_ur: "Book introduction in Urdu"
 
-hadiths[7]{hadithnumber,arabic,urdu,english,bengali,french,indonesian,russian,grades,reference,international_number,narrator_chain,chapter_intro}:
-  1,"حَدَّثَنَا...","آپ صلی اللہ...","Narrated 'Umar...","বাংলা...","Français...","","","","","Sahih","Book 1, Hadith 1",1,"Umar → ...",""
-  2,"حَدَّثَنَا...","آپ صلی اللہ...","Narrated 'Aisha...","বাংলা...","Français...","","","","","Sahih","Book 1, Hadith 2",2,"Aisha → ...",""
+sections[97]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+  1,"Revelation","بدء الوحي",... ,1,7,1,7
+
+# editions/{book}/sections/1.toon
+hadiths[7]{hadithnumber,arabic,bengali,english,french,indonesian,russian,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
+  "1","حَدَّثَنَا...","...","Narrated 'Umar...","...","...","...","...","","","","Narrated 'Umar","Revelation"
+  "2","حَدَّثَنَا...","...","Narrated 'Aisha...","...","...","...","...","","","","Narrated 'Aisha","Revelation"
 ```
 
 ### How It Works
 
-1. **`metadata:` block** — Key-value pairs describing the section (ID, name, hadith range).
-2. **Header line** — `hadiths[N]{col1,col2,...}:` defines the column names and row count.
-3. **Data rows** — Comma-separated values matching the header order. RFC 4180 CSV escaping (`""` for internal quotes, `\n` for newlines).
+1. **Global index** — Root `info.toon` lists books and paths.
+2. **Book metadata** — `editions/{book}/info.toon` stores intro + section index.
+3. **Section data** — `editions/{book}/sections/{section}.toon` stores hadith rows.
+4. **Translation slices** — `editions/{book}/translations/{lang}/sections/{section}.toon` stores `{hadithnumber,text}` JSONL rows.
+5. **Dynamic columns** — Parse section header (`hadiths[N]{...}`) before reading rows.
 
 ---
 
@@ -58,12 +65,15 @@ Each book includes all available languages in a single unified file. **Read the 
 
 ### Book Introductions
 
-Each book includes multilingual introductions in the metadata:
+Each book includes multilingual introductions in per-book metadata file:
 
 ```toon
+# editions/{book}/info.toon
 metadata:
-  section_id: 1
-  intro: "Book introduction in English (or original language)"
+  book_id: bukhari
+  book_name: "Sahih al-Bukhari"
+  available_languages: "arabic,bengali,english,french,indonesian,russian,urdu"
+  intro: "Book introduction in original/source language"
   intro_bn: "Bengali translation"
   intro_fr: "French translation"
   intro_id: "Indonesian translation"
@@ -73,11 +83,11 @@ metadata:
 
 **Language availability varies by book:**
 - **Tier 1 (7 languages):** arabic, bengali, english, french, indonesian, russian, urdu — Bukhari, Muslim, Abu Dawud
-- **Tier 2 (6 languages):** arabic, bengali, english, french, indonesian, urdu — Nasai, Ibn Majah, Malik, Musnad Ahmed, Mishkat, Al-Adab, Bulugh, Shamail, Sunan Darmi
-- **Tier 3 (5 languages):** arabic, bengali, english, indonesian, urdu — Tirmidhi
+- **Tier 2 (7 languages in section schema):** arabic, bengali, english, french, indonesian, russian, urdu — Nasai, Ibn Majah, Malik, Musnad Ahmed, Mishkat, Al-Adab, Bulugh, Shamail, Sunan Darmi
+- **Tier 3 (7 languages in section schema):** arabic, bengali, english, french, indonesian, russian, urdu — Tirmidhi
 - **Tier 4 (2 languages):** arabic, urdu — Mustadrak, Sunan Daraqutni, Musannaf, Sahih Ibn Khuzaymah, Muajam Tabarani, Fatah Al-Rabani, Silsila Sahiha, Lulu wal-Marjan, Bayhaqi
-- **Tier 5 (5 languages):** arabic, bengali, english, french, turkish — Nawawi 40
-- **Tier 6 (3 languages):** arabic, english, french — Qudsi 40, Dehlawi 40
+- **Tier 5 (6 languages):** arabic, bengali, english, french, turkish, urdu — Nawawi 40
+- **Tier 6 (4 languages):** arabic, english, french, urdu — Qudsi 40, Dehlawi 40
 
 Intro translations exist for each non-arabic language in the book. **Check the metadata in each file to see which intro translations are available.**
 
@@ -95,40 +105,20 @@ async function fetchSection(book, sectionId) {
   const text = await fetch(url).then(r => r.text());
   const lines = text.split('\n').filter(l => l.trim());
 
-  // Parse metadata block
-  const metadata = {};
-  let inMetadata = false;
-  for (const line of lines) {
-    if (line.trim() === 'metadata:') {
-      inMetadata = true;
-      continue;
-    }
-    if (inMetadata && line.startsWith('hadiths')) break;
-    if (inMetadata && line.trim()) {
-      const match = line.match(/^\s+(\w+):\s*"(.+)"$/);
-      if (match) metadata[match[1]] = match[2];
-    }
-  }
-
-  // Parse header
-  const headerLine = lines.find(l => l.includes('{') && l.includes('}:'));
+  const headerLine = lines[0];
   const cols = headerLine.match(/\{(.+)\}/)[1].split(',');
-
-  // Parse data rows (skip metadata and header)
-  const startIdx = lines.indexOf(headerLine) + 1;
-  return { metadata, hadiths: lines.slice(startIdx).map(line => {
-    const vals = parseCSVLine(line); // Use a proper CSV parser
+  const hadiths = lines.slice(1).map(line => {
+    const vals = parseCSVLine(line); // use proper CSV parser
     const row = {};
-    cols.forEach((col, i) => row[col] = vals[i] || '');
+    cols.forEach((col, i) => (row[col] = vals[i] || ''));
     return row;
-  })};
+  });
+
+  return { columns: cols, hadiths };
 }
 
 // Usage
-const { metadata, hadiths } = await fetchSection('bukhari', '1');
-console.log(metadata.intro);      // Original intro
-console.log(metadata.intro_bn);   // Bengali intro (if available)
-console.log(metadata.intro_fr);   // French intro (if available)
+const { hadiths } = await fetchSection('bukhari', '1');
 console.log(hadiths[0].arabic);   // Arabic text
 console.log(hadiths[0].english);  // English text
 ```
@@ -136,47 +126,31 @@ console.log(hadiths[0].english);  // English text
 ### Python Example
 
 ```python
-import csv, io, requests, re
+import csv, io, requests
 
 def fetch_section(book, section_id):
     url = f"https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/editions/{book}/sections/{section_id}.toon"
     text = requests.get(url).text
     lines = [l for l in text.split('\n') if l.strip()]
 
-    # Parse metadata
-    metadata = {}
-    in_metadata = False
-    for line in lines:
-        if line.strip() == 'metadata:':
-            in_metadata = True
-            continue
-        if in_metadata and line.startswith('hadiths'):
-            break
-        if in_metadata and line.strip():
-            match = re.match(r'\s+(\w+):\s*"(.+)"', line)
-            if match:
-                metadata[match.group(1)] = match.group(2)
-
-    # Parse header
-    header_line = next(l for l in lines if '{' in l and '}:' in l)
+    header_line = lines[0]
     cols = header_line[header_line.index('{')+1:header_line.index('}')].split(',')
 
-    # Parse data rows
-    start_idx = lines.index(header_line) + 1
     hadiths = []
-    for line in lines[start_idx:]:
+    for line in lines[1:]:
         reader = csv.reader(io.StringIO(line))
         vals = next(reader)
         hadiths.append(dict(zip(cols, vals)))
-    return metadata, hadiths
+    return cols, hadiths
 
 # Usage
-meta, hadiths = fetch_section('bukhari', '1')
-print(meta.get('intro'))      # Original intro
-print(meta.get('intro_bn'))   # Bengali intro (if available)
-print(meta.get('intro_fr'))   # French intro (if available)
+cols, hadiths = fetch_section('bukhari', '1')
 print(hadiths[0]['arabic'])
 ```
+
+### Read Book Intro Metadata
+
+Book intros and section index live in `editions/{book}/info.toon`, not in section files.
 
 ### Parsing Rules
 
@@ -185,17 +159,18 @@ print(hadiths[0]['arabic'])
 | **CSV escaping** | RFC 4180 — use `""` for internal quotes, `\n` for newlines |
 | **Empty values** | Empty string `""` or nothing between commas |
 | **Numbers** | Unquoted integers |
-| **Metadata** | Lines starting with `  ` (2 spaces) under `metadata:` block |
 | **Header** | `hadiths[N]{col1,col2,...}:` — N = row count |
-| **Intro fields** | `intro`, `intro_bn`, `intro_fr`, `intro_id`, `intro_ru`, `intro_ur` in metadata |
+| **Book metadata** | In `editions/{book}/info.toon` under `metadata:` block |
+| **Intro fields** | `intro`, `intro_bn`, `intro_fr`, `intro_id`, `intro_ru`, `intro_ur` |
 
 ### Parsing Metadata
 
-The `metadata:` block contains key-value pairs describing the section:
+Per-book `info.toon` metadata block contains intro fields:
 
 ```toon
+# editions/{book}/info.toon
 metadata:
-  section_id: 1
+  book_id: bukhari
   intro: "Book introduction text"
   intro_bn: "Bengali intro"
   intro_fr: "French intro"
@@ -203,7 +178,7 @@ metadata:
 
 **To parse metadata:**
 ```js
-function parseMetadata(text) {
+function parseBookInfoMetadata(text) {
   const lines = text.split('\n');
   const metadata = {};
   let inMetadata = false;
@@ -213,7 +188,7 @@ function parseMetadata(text) {
       inMetadata = true;
       continue;
     }
-    if (inMetadata && line.startsWith('hadiths')) break;
+    if (inMetadata && line.startsWith('sections[')) break;
     if (inMetadata && line.trim()) {
       const match = line.match(/^\s+(\w+):\s*"?(.+?)"?$/);
       if (match) metadata[match[1]] = match[2].replace(/"$/, '');
@@ -223,7 +198,7 @@ function parseMetadata(text) {
 }
 
 // Usage
-const meta = parseMetadata(fileContent);
+const meta = parseBookInfoMetadata(fileContent);
 console.log(meta.intro);      // Original intro
 console.log(meta.intro_bn);   // Bengali intro (if available)
 console.log(meta.intro_fr);   // French intro (if available)
@@ -244,7 +219,13 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/{endpoint}
 
 | File | Description |
 |------|-------------|
-| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/info.toon) | 25 books with sections metadata |
+| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/info.toon) | 25 books index (`id,name,total_hadiths,available_languages,path`) |
+
+### Per-Book Metadata
+
+| Path | Description |
+|------|-------------|
+| `/editions/{book}/info.toon` | Book intro, intro translations, section index |
 
 ### Section Files
 
@@ -263,6 +244,17 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/editions/bukhari/se
 info.toon        # All 25 books with section metadata (hadith ranges, section names)
 ```
 
+### Translation Files
+
+```
+/editions/{book}/translations/{lang}/sections/{sectionNo}.toon
+```
+
+**Example — Nawawi Urdu, Section 1:**
+```
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/editions/nawawi/translations/ur/sections/1.toon
+```
+
 **Example — Get all books:**
 ```
 https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/info.toon
@@ -277,16 +269,16 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/info.toon
 | 1 | Sahih al-Bukhari | ar, bn, en, fr, id, ru, ur | 12,642 |
 | 2 | Sahih Muslim | ar, bn, en, fr, id, ru, ur | 12,272 |
 | 3 | Sunan Abu Dawud | ar, bn, en, fr, id, ru, ur | 5,322 |
-| 4 | Sunan an-Nasai | ar, bn, en, fr, id, ur | 6,250 |
-| 5 | Sunan Ibn Majah | ar, bn, en, fr, id, ur | 8,455 |
-| 6 | Jami At-Tirmidhi | ar, bn, en, id, ur | 5,543 |
-| 7 | Muwatta Malik | ar, bn, en, fr, id, ur | 2,904 |
-| 8 | Musnad Ahmed | ar, bn, en, fr, id, ur | 1,389 |
-| 9 | Mishkat al-Masabih | ar, bn, en, fr, id, ur | 4,428 |
-| 10 | Al-Adab Al-Mufrad | ar, bn, en, fr, id, ur | 1,326 |
-| 11 | Bulugh al-Maram | ar, bn, en, fr, id, ur | 1,767 |
-| 12 | Shamail-e-Tirmazi | ar, bn, en, fr, id, ur | 402 |
-| 13 | Sunan ad-Darimi | ar, bn, en, fr, id, ur | 4,055 |
+| 4 | Sunan an-Nasai | ar, bn, en, fr, id, ru, ur | 6,250 |
+| 5 | Sunan Ibn Majah | ar, bn, en, fr, id, ru, ur | 8,455 |
+| 6 | Jami At-Tirmidhi | ar, bn, en, fr, id, ru, ur | 5,543 |
+| 7 | Muwatta Malik | ar, bn, en, fr, id, ru, ur | 2,904 |
+| 8 | Musnad Ahmed | ar, bn, en, fr, id, ru, ur | 1,389 |
+| 9 | Mishkat al-Masabih | ar, bn, en, fr, id, ru, ur | 4,428 |
+| 10 | Al-Adab Al-Mufrad | ar, bn, en, fr, id, ru, ur | 1,326 |
+| 11 | Bulugh al-Maram | ar, bn, en, fr, id, ru, ur | 1,767 |
+| 12 | Shamail-e-Tirmazi | ar, bn, en, fr, id, ru, ur | 402 |
+| 13 | Sunan ad-Darimi | ar, bn, en, fr, id, ru, ur | 4,055 |
 | 14 | Al-Mustadrak | ar, ur | 667 |
 | 15 | Sunan al-Daraqutni | ar, ur | 218 |
 | 16 | Musannaf Ibn Abi Shaybah | ar, ur | 263 |
@@ -296,9 +288,9 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/info.toon
 | 20 | Silsila Sahiha | ar, ur | 51 |
 | 21 | Al-Lu'lu wal-Marjan | ar, ur | 47 |
 | 22 | Bayhaqi | ar, ur | 124 |
-| 23 | Forty Hadith an-Nawawi | ar, bn, en, fr, tr | 42 |
-| 24 | Forty Hadith Qudsi | ar, en, fr | 40 |
-| 25 | Forty Hadith Dehlawi | ar, en, fr | 40 |
+| 23 | Forty Hadith an-Nawawi | ar, bn, en, fr, tr, ur | 42 |
+| 24 | Forty Hadith Qudsi | ar, en, fr, ur | 40 |
+| 25 | Forty Hadith Dehlawi | ar, en, fr, ur | 40 |
 
 ---
 
@@ -311,6 +303,12 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/info.toon
 | [sunnah.com](https://sunnah.com) | English for 6 books |
 | [AhmedBaset/hadith-json](https://github.com/AhmedBaset/hadith-json) | Complete Arabic + English for 6 books |
 | Google Translate | Automated intro translations for multilingual support |
+
+### Grades and References
+
+- `reference` field lives in section rows for all books: `editions/{book}/sections/{section}.toon`
+- `grades.toon` provides detailed scholar grading rows, but only for subset of books
+- Empty `grades` values in section rows are normal for many books; use `grades.toon` when book coverage exists
 
 ### Intro Translation Details
 

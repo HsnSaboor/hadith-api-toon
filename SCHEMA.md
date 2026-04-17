@@ -2,173 +2,95 @@
 
 ## Current Schema
 
-### info.toon
-```
-books[count]{id,name,total_hadiths,max_file_mb,minority_langs}:
-```
-
-### editions.toon
-```
-editions[count]{id,name,author,language,has_sections,dir,comments,path}:
-```
-
-### Section Files (editions/{book}/sections/{section}.toon)
-```
+### Root `info.toon`
+```toon
 metadata:
-  section_id: 1
-  section_name: Revelation
-  intro: "Book introduction in original language"
-  intro_bn: "Bengali translation of intro"
-  intro_fr: "French translation of intro"
-  intro_id: "Indonesian translation of intro"
-  intro_ru: "Russian translation of intro"
-  intro_ur: "Urdu translation of intro"
+  version: 2.0
+  total_books: 25
+  description: "Hadith API - Toon Format"
 
+books[count]{id,name,total_hadiths,available_languages,path}:
+```
+
+### Per-book `editions/{book}/info.toon`
+```toon
+metadata:
+  book_id: bukhari
+  book_name: "Sahih al-Bukhari"
+  total_hadiths: 12642
+  available_languages: "arabic,bengali,english,french,indonesian,russian,urdu"
+  intro: "Book introduction"
+  intro_bn: "..."
+  intro_fr: "..."
+  intro_id: "..."
+  intro_ru: "..."
+  intro_ur: "..."
+
+sections[count]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+```
+
+### Section files (`editions/{book}/sections/{section}.toon`)
+```toon
 hadiths[count]{hadithnumber,arabic,bengali,english,french,indonesian,russian,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
 ```
 
-**Metadata Fields:**
+### Translation slices
+```text
+editions/{book}/translations/{lang}/sections/{section}.toon
+```
+
+Rows are JSONL objects:
+```json
+{"hadithnumber": "1", "text": "..."}
+```
+
+### Per-book metadata fields (`editions/{book}/info.toon`)
 | Field | Type | Description |
 |-------|------|-------------|
-| section_id | int | Section/chapter number |
-| section_name | string | Section name (if available) |
-| intro | string | Book introduction in original language (English or Urdu) |
-| intro_bn | string | Bengali translation of intro |
-| intro_fr | string | French translation of intro |
-| intro_id | string | Indonesian translation of intro |
-| intro_ru | string | Russian translation of intro |
-| intro_ur | string | Urdu translation of intro |
+| book_id | string | Book slug |
+| book_name | string | Book display name |
+| total_hadiths | int | Book hadith count |
+| available_languages | string | Comma-separated language list |
+| intro | string | Book introduction in source language |
+| intro_bn | string | Bengali intro translation |
+| intro_fr | string | French intro translation |
+| intro_id | string | Indonesian intro translation |
+| intro_ru | string | Russian intro translation |
+| intro_ur | string | Urdu intro translation |
 
-Note: Translated intro fields are added based on each book's available languages. Books with 6 languages (bengali, english, french, indonesian, russian, urdu) get all 5 translated fields. Books with fewer languages get only the relevant translations.
+### Section index fields (`editions/{book}/info.toon`)
+| Field | Type | Description |
+|-------|------|-------------|
+| id | int | Section/chapter number |
+| name | string | Section name |
+| name_ar | string | Arabic section name |
+| name_bn | string | Bengali section name |
+| name_en | string | English section name |
+| name_fr | string | French section name |
+| name_id | string | Indonesian section name |
+| name_ru | string | Russian section name |
+| name_tr | string | Turkish section name |
+| name_ur | string | Urdu section name |
+| hadith_first | int | First hadith number in section |
+| hadith_last | int | Last hadith number in section |
+| arabic_first | int | First Arabic-numbering index |
+| arabic_last | int | Last Arabic-numbering index |
 
-## Planned Enhanced Schema (Research-Grade)
+### Section row fields (`editions/{book}/sections/{section}.toon`)
+| Field | Type | Description |
+|-------|------|-------------|
+| hadithnumber | int/string | Hadith number in book |
+| arabic | string | Arabic text |
+| bengali | string | Bengali translation (if present) |
+| english | string | English translation (if present) |
+| french | string | French translation (if present) |
+| indonesian | string | Indonesian translation (if present) |
+| russian | string | Russian translation (if present) |
+| urdu | string | Urdu translation (if present) |
+| grades | string | Grade text/source field |
+| reference | string | Reference text |
+| international_number | string/int | Cross-numbering |
+| narrator_chain | string | Narrator chain |
+| chapter_intro | string | Chapter intro/name field |
 
-### 1. Core Hadith Metadata
-| Field | Current | Planned | Type | Description |
-|-------|---------|---------|------|-------------|
-| hadithnumber | ✓ | ✓ | int | Global hadith number |
-| international_number | ✓ | ✓ | int | Fuad Abd al-Baqi numbering |
-| book_id | ✗ | ✓ | int | Numeric book ID (Bukhari=1, Muslim=2, etc.) |
-| book_name_original | ✗ | ✓ | string | Arabic book name |
-| book_name_english | ✓ (in editions) | ✓ | string | English book name |
-| chapter_id | ✓ (section) | ✓ | int | Chapter/section number |
-| chapter_name_original | ✗ | ✓ | string | Arabic chapter name |
-| hadith_status_standardized | ✗ | ✓ | enum | Sahih/Hasan/Da'if/Mawdu' |
-| hadith_type | ✗ | ✓ | enum | Marfu'/Mawquf/Maqtu' |
-
-### 2. Isnad (Narrator Chain) Structure
-| Field | Current | Planned | Type | Description |
-|-------|---------|---------|------|-------------|
-| narrator_chain | ✓ | ✓ | string | Full chain text |
-| narrators | ✗ | ✓ | array | Structured narrator objects |
-| narrators[].id | ✗ | ✓ | int | Narrator ID |
-| narrators[].name_ar | ✗ | ✓ | string | Arabic name |
-| narrators[].name_en | ✗ | ✓ | string | English name |
-| narrators[].reliability | ✗ | ✓ | string | thiqa/da'if/etc |
-| narrators[].birth_year | ✗ | ✓ | int | Birth year AH |
-| narrators[].death_year | ✗ | ✓ | int | Death year AH |
-| isnad_strength_score | ✗ | ✓ | float | 0.0-1.0 score |
-
-### 3. Matn (Text) Enhancements
-| Field | Current | Planned | Type | Description |
-|-------|---------|---------|------|-------------|
-| arabic | ✓ | ✓ | string | Arabic text with tashkeel |
-| matn_cleaned | ✗ | ✓ | string | Normalized Arabic (no tashkeel) |
-| matn_keywords | ✗ | ✓ | array | Extracted keywords |
-| matn_topics | ✗ | ✓ | array | Topic tags |
-| matn_entities | ✗ | ✓ | array | Named entities |
-
-### 4. Cross-Reference System
-| Field | Current | Planned | Type | Description |
-|-------|---------|---------|------|-------------|
-| reference | ✓ | ✓ | string | Current reference text |
-| reference.book | ✗ | ✓ | int | Book number |
-| reference.chapter | ✗ | ✓ | int | Chapter number |
-| reference.hadith_local | ✗ | ✓ | int | In-book hadith number |
-| reference.volume | ✗ | ✓ | int | Volume number |
-| reference.page | ✗ | ✓ | int | Page number |
-| related_hadiths | ✗ | ✓ | array | Related hadith IDs |
-| similar_hadiths | ✗ | ✓ | array | Similar hadith IDs |
-| quran_references | ✗ | ✓ | array | Quran ayah references |
-
-### 5. Multi-Language Structure
-| Field | Current | Planned | Type | Description |
-|-------|---------|---------|------|-------------|
-| english, urdu, bengali, etc. | ✓ (flat) | ✓ (nested) | object | Per-language translations |
-| translations.{lang}.text | ✗ | ✓ | string | Translation text |
-| translations.{lang}.translator | ✗ | ✓ | string | Translator name |
-| transliteration | ✗ | ✓ | string | Roman transliteration |
-| search_normalized | ✗ | ✓ | string | Normalized for search |
-
-### 6. Search & AI Features
-| Field | Current | Planned | Type | Description |
-|-------|---------|---------|------|-------------|
-| embedding_vector | ✗ | ✓ | array[float] | Semantic embedding |
-| search_tokens | ✗ | ✓ | array | Tokenized text |
-| phonetic_keys | ✗ | ✓ | array | Phonetic variations |
-| popularity_score | ✗ | ✓ | float | Usage popularity |
-| search_rank_weight | ✗ | ✓ | float | Search ranking boost |
-
-### 7. Grading Structure
-| Field | Current | Planned | Type | Description |
-|-------|---------|---------|------|-------------|
-| grades | ✓ (string) | ✓ (array) | array | Grade objects |
-| grades[].scholar | ✗ | ✓ | string | Scholar name |
-| grades[].grade | ✓ | ✓ | string | Grade value |
-| grades[].source | ✗ | ✓ | string | Source work |
-| grading_consensus | ✗ | ✓ | string | Agreed grade |
-| grading_conflicts | ✗ | ✓ | boolean | Has conflicts |
-
-### 8. UI/UX Fields
-| Field | Current | Planned | Type | Description |
-|-------|---------|---------|------|-------------|
-| chapter_intro | ✓ | ✓ | string | Chapter introduction |
-| short_summary | ✗ | ✓ | string | Brief summary |
-| explanation | ✗ | ✓ | string | Full explanation |
-| context_background | ✗ | ✓ | string | Historical context |
-| keywords_highlighted | ✗ | ✓ | array | UI highlights |
-| difficulty_level | ✗ | ✓ | enum | basic/intermediate/advanced |
-
-### 9. Integrity Fields
-| Field | Current | Planned | Type | Description |
-|-------|---------|---------|------|-------------|
-| source_dataset | ✗ | ✓ | string | Data source |
-| last_verified_at | ✗ | ✓ | date | Verification date |
-| version | ✗ | ✓ | int | Schema version |
-| data_quality_score | ✗ | ✓ | float | Quality rating |
-
-## Book ID Mapping
-```
-1  = bukhari (Sahih al-Bukhari)
-2  = muslim (Sahih Muslim)
-3  = abudawud (Sunan Abi Dawud)
-4  = tirmidhi (Jami' at-Tirmidhi)
-5  = nasai (Sunan an-Nasa'i)
-6  = ibnmajah (Sunan Ibn Majah)
-7  = malik (Al-Muwatta)
-8  = musnad-ahmed (Musnad Ahmad)
-9  = mishkat (Mishkat al-Masabih)
-10 = aladab-almufrad (Al-Adab al-Mufrad)
-11 = bulugh-al-maram (Bulugh al-Maram)
-12 = shamail-tirmazi (Shama'il al-Tirmidhi)
-13 = sunan-darmi (Sunan ad-Darimi)
-14 = nawawi (Al-Arba'in al-Nawawiyyah)
-15 = qudsi (Al-Ahadith al-Qudsiyyah)
-```
-
-## Standardized Hadith Status
-```
-SAHIH    - Authentic
-HASAN    - Good
-DAIF     - Weak
-MAWDU    - Fabricated
-SAHIH_LIGHAIRIHI - Authentic due to supporting chains
-HASAN_LIGHAIRIHI - Good due to supporting chains
-```
-
-## Hadith Types
-```
-MARFU   - Attributed to Prophet ﷺ
-MAWQUF  - Attributed to Companion
-MAQTU   - Attributed to Tabi'i
-```
+Note: translation-language columns vary per book. Parse section header dynamically.

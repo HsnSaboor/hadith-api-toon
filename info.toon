@@ -3,29 +3,29 @@ metadata:
   total_books: 25
   description: "Hadith API - Toon Format"
 
-books[25]{id,name,total_hadiths,available_languages,path,info_path}:
-  abudawud,"Sunan Abu Dawud",5322,"arabic,bengali,english,french,indonesian,russian,urdu",editions/abudawud,editions/abudawud/info.toon
-  aladab-almufrad,"Al-Adab Al-Mufrad",1326,"arabic,bengali,english,french,indonesian,urdu",editions/aladab-almufrad,editions/aladab-almufrad/info.toon
-  bayhaqi,"Sunan Al-Kubra Bayhaqi",124,"arabic,urdu",editions/bayhaqi,editions/bayhaqi/info.toon
-  bukhari,"Sahih al-Bukhari",12642,"arabic,bengali,english,french,indonesian,russian,urdu",editions/bukhari,editions/bukhari/info.toon
-  bulugh-al-maram,"Bulugh al-Maram",1767,"arabic,bengali,english,french,indonesian,urdu",editions/bulugh-al-maram,editions/bulugh-al-maram/info.toon
-  dehlawi,"Forty Hadith of Shah Waliullah Dehlawi",40,"arabic,english,french",editions/dehlawi,editions/dehlawi/info.toon
-  fatah-alrabani,"Fatah Al-Rabani",192,"arabic,urdu",editions/fatah-alrabani,editions/fatah-alrabani/info.toon
-  ibnmajah,"Sunan Ibn Majah",8455,"arabic,bengali,english,french,indonesian,urdu",editions/ibnmajah,editions/ibnmajah/info.toon
-  lulu-wal-marjan,"Al-Lulu wal-Marjan",47,"arabic,urdu",editions/lulu-wal-marjan,editions/lulu-wal-marjan/info.toon
-  malik,"Muwatta Malik",2904,"arabic,bengali,english,french,indonesian,urdu",editions/malik,editions/malik/info.toon
-  mishkat,"Mishkat al-Masabih",4428,"arabic,bengali,english,french,indonesian,urdu",editions/mishkat,editions/mishkat/info.toon
-  muajam-tabarani-saghir,"Muajam Tabarani Saghir",25,"arabic,urdu",editions/muajam-tabarani-saghir,editions/muajam-tabarani-saghir/info.toon
-  musannaf-ibn-abi-shaybah,"Musannaf Ibn Abi Shaybah",263,"arabic,urdu",editions/musannaf-ibn-abi-shaybah,editions/musannaf-ibn-abi-shaybah/info.toon
-  muslim,"Sahih Muslim",12272,"arabic,bengali,english,french,indonesian,russian,urdu",editions/muslim,editions/muslim/info.toon
-  musnad-ahmed,"Musnad Ahmad",1389,"arabic,bengali,english,french,indonesian,urdu",editions/musnad-ahmed,editions/musnad-ahmed/info.toon
-  mustadrak,"Al-Mustadrak",667,"arabic,urdu",editions/mustadrak,editions/mustadrak/info.toon
-  nasai,"Sunan an-Nasai",6250,"arabic,bengali,english,french,indonesian,urdu",editions/nasai,editions/nasai/info.toon
-  nawawi,"Forty Hadith of an-Nawawi",42,"arabic,bengali,english,french,turkish",editions/nawawi,editions/nawawi/info.toon
-  qudsi,"Forty Hadith Qudsi",40,"arabic,english,french",editions/qudsi,editions/qudsi/info.toon
-  sahih-ibn-khuzaymah,"Sahih Ibn Khuzaymah",49,"arabic,urdu",editions/sahih-ibn-khuzaymah,editions/sahih-ibn-khuzaymah/info.toon
-  shamail-tirmazi,"Shamail-e-Tirmazi",402,"arabic,bengali,english,french,indonesian,urdu",editions/shamail-tirmazi,editions/shamail-tirmazi/info.toon
-  silsila-sahih,"Silsila Sahiha",51,"arabic,urdu",editions/silsila-sahih,editions/silsila-sahih/info.toon
-  sunan-al-daraqutni,"Sunan al-Daraqutni",218,"arabic,urdu",editions/sunan-al-daraqutni,editions/sunan-al-daraqutni/info.toon
-  sunan-darmi,"Sunan ad-Darimi",4055,"arabic,bengali,english,french,indonesian,urdu",editions/sunan-darmi,editions/sunan-darmi/info.toon
-  tirmidhi,"Jami At-Tirmidhi",5543,"arabic,bengali,english,indonesian,urdu",editions/tirmidhi,editions/tirmidhi/info.toon
+books[25]{id,name,total_hadiths,available_languages,path}:
+  abudawud,"Sunan Abu Dawud",5322,"arabic,bengali,english,french,indonesian,russian,urdu",editions/abudawud
+  aladab-almufrad,"Al-Adab Al-Mufrad",1326,"arabic,bengali,english,french,indonesian,urdu",editions/aladab-almufrad
+  bayhaqi,"Sunan Al-Kubra Bayhaqi",124,"arabic,urdu",editions/bayhaqi
+  bukhari,"Sahih al-Bukhari",12642,"arabic,bengali,english,french,indonesian,russian,urdu",editions/bukhari
+  bulugh-al-maram,"Bulugh al-Maram",1767,"arabic,bengali,english,french,indonesian,urdu",editions/bulugh-al-maram
+  dehlawi,"Forty Hadith of Shah Waliullah Dehlawi",40,"arabic,english,french,urdu",editions/dehlawi
+  fatah-alrabani,"Fatah Al-Rabani",192,"arabic,urdu",editions/fatah-alrabani
+  ibnmajah,"Sunan Ibn Majah",8455,"arabic,bengali,english,french,indonesian,urdu",editions/ibnmajah
+  lulu-wal-marjan,"Al-Lulu wal-Marjan",47,"arabic,urdu",editions/lulu-wal-marjan
+  malik,"Muwatta Malik",2904,"arabic,bengali,english,french,indonesian,urdu",editions/malik
+  mishkat,"Mishkat al-Masabih",4428,"arabic,bengali,english,french,indonesian,urdu",editions/mishkat
+  muajam-tabarani-saghir,"Muajam Tabarani Saghir",25,"arabic,urdu",editions/muajam-tabarani-saghir
+  musannaf-ibn-abi-shaybah,"Musannaf Ibn Abi Shaybah",263,"arabic,urdu",editions/musannaf-ibn-abi-shaybah
+  muslim,"Sahih Muslim",12272,"arabic,bengali,english,french,indonesian,russian,urdu",editions/muslim
+  musnad-ahmed,"Musnad Ahmad",1389,"arabic,bengali,english,french,indonesian,urdu",editions/musnad-ahmed
+  mustadrak,"Al-Mustadrak",667,"arabic,urdu",editions/mustadrak
+  nasai,"Sunan an-Nasai",6250,"arabic,bengali,english,french,indonesian,urdu",editions/nasai
+  nawawi,"Forty Hadith of an-Nawawi",42,"arabic,bengali,english,french,turkish,urdu",editions/nawawi
+  qudsi,"Forty Hadith Qudsi",40,"arabic,english,french,urdu",editions/qudsi
+  sahih-ibn-khuzaymah,"Sahih Ibn Khuzaymah",49,"arabic,urdu",editions/sahih-ibn-khuzaymah
+  shamail-tirmazi,"Shamail-e-Tirmazi",402,"arabic,bengali,english,french,indonesian,urdu",editions/shamail-tirmazi
+  silsila-sahih,"Silsila Sahiha",51,"arabic,urdu",editions/silsila-sahih
+  sunan-al-daraqutni,"Sunan al-Daraqutni",218,"arabic,urdu",editions/sunan-al-daraqutni
+  sunan-darmi,"Sunan ad-Darimi",4055,"arabic,bengali,english,french,indonesian,urdu",editions/sunan-darmi
+  tirmidhi,"Jami At-Tirmidhi",5543,"arabic,bengali,english,indonesian,urdu",editions/tirmidhi

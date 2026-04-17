@@ -4,28 +4,28 @@ metadata:
   description: "Hadith API - Toon Format"
 
 books[25]{id,name,total_hadiths,available_languages,path}:
-  abudawud,"Sunan Abu Dawud",5322,"arabic,bengali,english,french,indonesian,russian,urdu",editions/abudawud
-  aladab-almufrad,"Al-Adab Al-Mufrad",1326,"arabic,bengali,english,french,indonesian,urdu",editions/aladab-almufrad
-  bayhaqi,"Sunan Al-Kubra Bayhaqi",124,"arabic,urdu",editions/bayhaqi
-  bukhari,"Sahih al-Bukhari",12642,"arabic,bengali,english,french,indonesian,russian,urdu",editions/bukhari
-  bulugh-al-maram,"Bulugh al-Maram",1767,"arabic,bengali,english,french,indonesian,urdu",editions/bulugh-al-maram
-  dehlawi,"Forty Hadith of Shah Waliullah Dehlawi",40,"arabic,english,french,urdu",editions/dehlawi
-  fatah-alrabani,"Fatah Al-Rabani",192,"arabic,urdu",editions/fatah-alrabani
-  ibnmajah,"Sunan Ibn Majah",8455,"arabic,bengali,english,french,indonesian,urdu",editions/ibnmajah
-  lulu-wal-marjan,"Al-Lulu wal-Marjan",47,"arabic,urdu",editions/lulu-wal-marjan
-  malik,"Muwatta Malik",2904,"arabic,bengali,english,french,indonesian,urdu",editions/malik
-  mishkat,"Mishkat al-Masabih",4428,"arabic,bengali,english,french,indonesian,urdu",editions/mishkat
-  muajam-tabarani-saghir,"Muajam Tabarani Saghir",25,"arabic,urdu",editions/muajam-tabarani-saghir
-  musannaf-ibn-abi-shaybah,"Musannaf Ibn Abi Shaybah",263,"arabic,urdu",editions/musannaf-ibn-abi-shaybah
-  muslim,"Sahih Muslim",12272,"arabic,bengali,english,french,indonesian,russian,urdu",editions/muslim
-  musnad-ahmed,"Musnad Ahmad",1389,"arabic,bengali,english,french,indonesian,urdu",editions/musnad-ahmed
-  mustadrak,"Al-Mustadrak",667,"arabic,urdu",editions/mustadrak
-  nasai,"Sunan an-Nasai",6250,"arabic,bengali,english,french,indonesian,urdu",editions/nasai
-  nawawi,"Forty Hadith of an-Nawawi",42,"arabic,bengali,english,french,turkish,urdu",editions/nawawi
-  qudsi,"Forty Hadith Qudsi",40,"arabic,english,french,urdu",editions/qudsi
-  sahih-ibn-khuzaymah,"Sahih Ibn Khuzaymah",49,"arabic,urdu",editions/sahih-ibn-khuzaymah
-  shamail-tirmazi,"Shamail-e-Tirmazi",402,"arabic,bengali,english,french,indonesian,urdu",editions/shamail-tirmazi
-  silsila-sahih,"Silsila Sahiha",51,"arabic,urdu",editions/silsila-sahih
-  sunan-al-daraqutni,"Sunan al-Daraqutni",218,"arabic,urdu",editions/sunan-al-daraqutni
-  sunan-darmi,"Sunan ad-Darimi",4055,"arabic,bengali,english,french,indonesian,urdu",editions/sunan-darmi
-  tirmidhi,"Jami At-Tirmidhi",5543,"arabic,bengali,english,indonesian,urdu",editions/tirmidhi
+  abudawud,"Sunan Abu Dawud",5322,"ar,bn,en,fr,id,ru,ur",editions/abudawud
+  aladab-almufrad,"Al-Adab Al-Mufrad",1326,"ar,en",editions/aladab-almufrad
+  bayhaqi,"Sunan Al-Kubra Bayhaqi",124,"ar,en",editions/bayhaqi
+  bukhari,"Sahih al-Bukhari",12642,"ar,bn,en,fr,id,ru,ur",editions/bukhari
+  bulugh-al-maram,"Bulugh al-Maram",1767,"ar,en",editions/bulugh-al-maram
+  dehlawi,"Forty Hadith of Shah Waliullah Dehlawi",40,"ar,en,fr,ur",editions/dehlawi
+  fatah-alrabani,"Fatah Al-Rabani",192,"ar,en",editions/fatah-alrabani
+  ibnmajah,"Sunan Ibn Majah",8455,"ar,bn,en,fr,id,ur",editions/ibnmajah
+  lulu-wal-marjan,"Al-Lulu wal-Marjan",47,"ar,en",editions/lulu-wal-marjan
+  malik,"Muwatta Malik",2904,"ar,bn,en,fr,id,ru,ur",editions/malik
+  mishkat,"Mishkat al-Masabih",4428,"ar,en",editions/mishkat
+  muajam-tabarani-saghir,"Muajam Tabarani Saghir",25,"ar,en",editions/muajam-tabarani-saghir
+  musannaf-ibn-abi-shaybah,"Musannaf Ibn Abi Shaybah",263,"ar,en",editions/musannaf-ibn-abi-shaybah
+  muslim,"Sahih Muslim",12272,"ar,bn,en,fr,id,ru,ur",editions/muslim
+  musnad-ahmed,"Musnad Ahmad",1389,"ar,en",editions/musnad-ahmed
+  mustadrak,"Al-Mustadrak",667,"ar,en",editions/mustadrak
+  nasai,"Sunan an-Nasai",6250,"ar,bn,en,fr,id,ru,ur",editions/nasai
+  nawawi,"Forty Hadith of an-Nawawi",42,"ar,bn,en,fr,ur",editions/nawawi
+  qudsi,"Forty Hadith Qudsi",40,"ar,en,fr,ur",editions/qudsi
+  sahih-ibn-khuzaymah,"Sahih Ibn Khuzaymah",49,"ar,en",editions/sahih-ibn-khuzaymah
+  shamail-tirmazi,"Shamail-e-Tirmazi",402,"ar,en",editions/shamail-tirmazi
+  silsila-sahih,"Silsila Sahiha",51,"ar,en",editions/silsila-sahih
+  sunan-al-daraqutni,"Sunan al-Daraqutni",218,"ar,en",editions/sunan-al-daraqutni
+  sunan-darmi,"Sunan ad-Darimi",4055,"ar,bn,en,fr,id,ru,ur",editions/sunan-darmi
+  tirmidhi,"Jami At-Tirmidhi",5543,"ar,bn,en,id,ur",editions/tirmidhi

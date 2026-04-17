@@ -1,4 +1,4 @@
-hadiths[40]{hadithnumber,arabic,english,french,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
+hadiths[count]{hadithnumber,arabic,grades,reference,international_number,narrator_chain,chapter_intro}:
 1,لَیْسَ الْخَبَرُ کَالْمُعَایَنَةِ,The report is not like witnessing,La nouvelle (rapportée) n’est pas comme ce qu’on voit (de ses propres yeux),سنی ہوئی بات آنکھوں دیکھی کے برابر نہیں ہوتی۔,,,,,
 2,الْحَرْبُ خُدَعَةٌ,War is deception,La guerre est tromperie,جنگ دھوکہ (یا چال) کا نام ہے۔,,,,,
 3,الْمُسْلِمُ مِرْآةُ الْمُسْلِمِ,A Muslim is a mirror of the Muslim,Le musulman est le miroir du musulman,مسلمان مسلمان کا آئینہ ہے۔,,,,,

@@ -4,7 +4,7 @@ metadata:
   description: "Hadith API - Toon Format"
 
 books[25]{id,name,total_hadiths,available_languages,path}:
-  abudawud,"Sunan Abu Dawud",5322,"ar,bn,en,fr,id,ru,ur",editions/abudawud
+  abudawud,"Sunan Abu Dawud",5322,"ar,bn,en,fr,hi,id,ro,ru,ur",editions/abudawud
   aladab-almufrad,"Al-Adab Al-Mufrad",1326,"ar,en",editions/aladab-almufrad
   bayhaqi,"Sunan Al-Kubra Bayhaqi",124,"ar,en",editions/bayhaqi
   bukhari,"Sahih al-Bukhari",12642,"ar,bn,en,fr,id,ru,ur",editions/bukhari
@@ -28,4 +28,4 @@ books[25]{id,name,total_hadiths,available_languages,path}:
   silsila-sahih,"Silsila Sahiha",51,"ar,en",editions/silsila-sahih
   sunan-al-daraqutni,"Sunan al-Daraqutni",218,"ar,en",editions/sunan-al-daraqutni
   sunan-darmi,"Sunan ad-Darimi",4055,"ar,bn,en,fr,id,ru,ur",editions/sunan-darmi
-  tirmidhi,"Jami At-Tirmidhi",5543,"ar,bn,en,id,ur",editions/tirmidhi
+  tirmidhi,"Jami At-Tirmidhi",5543,"ar,bn,en,fr,hi,id,ro,ru,tr,ur",editions/tirmidhi

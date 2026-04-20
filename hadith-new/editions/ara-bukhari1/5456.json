@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"70": "Food, Meals"
+		},
+		"section_detail": {
+			"70": {
+				"hadithnumber_first": 5373,
+				"hadithnumber_last": 5466,
+				"arabicnumber_first": 5373,
+				"arabicnumber_last": 5466
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5456,
+			"arabicnumber": 5456,
+			"text": "حدثنا علي بن عبد الله، حدثنا سفيان، عن عمرو بن دينار، عن عطاء، عن ابن عباس، ان النبي صلى الله عليه وسلم قال \" اذا اكل احدكم فلا يمسح يده حتى يلعقها او يلعقها",
+			"grades": [],
+			"reference": {
+				"book": 70,
+				"hadith": 85
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"23": "Funerals (Al-Janaa'iz)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 1237,
+				"hadithnumber_last": 1394,
+				"arabicnumber_first": 1237,
+				"arabicnumber_last": 1394
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1345,
+			"arabicnumber": 1345,
+			"text": "Сообщается, что Джабир ибн ‘Абдуллах сказал, что Пророк ﷺ (повелевал) хоронить павших в битве при Ухуде по двое (в одной могиле)",
+			"grades": [],
+			"reference": {
+				"book": 23,
+				"hadith": 100
+			}
+		}
+	]
+}

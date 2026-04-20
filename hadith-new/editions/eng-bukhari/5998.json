@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"78": "Good Manners and Form (Al-Adab)"
+		},
+		"section_detail": {
+			"78": {
+				"hadithnumber_first": 5970,
+				"hadithnumber_last": 6226,
+				"arabicnumber_first": 5970,
+				"arabicnumber_last": 6226
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5998,
+			"arabicnumber": 5998,
+			"text": "Narrated `Aisha:A bedouin came to the Prophet (ﷺ) and said, \"You (people) kiss the boys! We don't kiss them.\" The Prophet said, \"I cannot put mercy in your heart after Allah has taken it away from it",
+			"grades": [],
+			"reference": {
+				"book": 78,
+				"hadith": 29
+			}
+		}
+	]
+}

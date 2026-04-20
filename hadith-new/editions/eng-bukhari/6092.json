@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"78": "Good Manners and Form (Al-Adab)"
+		},
+		"section_detail": {
+			"78": {
+				"hadithnumber_first": 5970,
+				"hadithnumber_last": 6226,
+				"arabicnumber_first": 5970,
+				"arabicnumber_last": 6226
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 6092,
+			"arabicnumber": 6092,
+			"text": "Narrated `Aisha:I never saw the Prophet (ﷺ) laughing to an extent that one could see his palate, but he always used to smile only",
+			"grades": [],
+			"reference": {
+				"book": 78,
+				"hadith": 119
+			}
+		}
+	]
+}

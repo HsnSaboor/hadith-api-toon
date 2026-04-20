@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 737,
+			"arabicnumber": 737,
+			"text": "حدثنا اسحاق الواسطي، قال حدثنا خالد بن عبد الله، عن خالد، عن ابي قلابة، انه راى مالك بن الحويرث اذا صلى كبر ورفع يديه، واذا اراد ان يركع رفع يديه، واذا رفع راسه من الركوع رفع يديه، وحدث ان رسول الله صلى الله عليه وسلم صنع هكذا",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 131
+			}
+		}
+	]
+}

@@ -1,0 +1,8451 @@
+
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for englishbukhariscrapped.txt
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for englishmuslimscrapped.txt
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for englishabudawudscrapped.txt
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for englishmalikscrapped.txt
+
+Generating Edition
+
+ Generated edition eng-malik
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for englishtirmidhiscrapped.txt
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for arabicabudawudarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for arabicbukhariarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for arabicibnmajaharabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for arabicmalikarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for arabicmuslimarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for arabicnasaiarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for arabictirmidhiarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for bengaliabudawud.txt
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for bengalibukhari.txt
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for bengaliibnmajah.txt
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for bengalimalik.txt
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for bengalimuslim.txt
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for bengalinasai.txt
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for bengalitirmidhi.txt
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for englishabudawudscrapped.txt
+
+This file englishabudawudscrapped.txt seems to be a duplicate copy of edition eng-abudawud
+
+Starting to create files for englishibnmajahscrapped.txt
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for englishmalikscrapped.txt
+
+This file englishmalikscrapped.txt seems to be a duplicate copy of edition eng-malik
+
+Starting to create files for englishnasaiscrapped.txt
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for englishtirmidhiscrapped.txt
+
+This file englishtirmidhiscrapped.txt seems to be a duplicate copy of edition eng-tirmidhi
+
+Starting to create files for frenchmalik.txt
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for frenchmuslim.txt
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for indonesianabudawud.txt
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for indonesianbukhari.txt
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for indonesianibnmajah.txt
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for indonesianmalik.txt
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for indonesianmuslim.txt
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for indonesiannasai.txt
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for indonesiantirmidhi.txt
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tamilbukhari.txt
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tamilmuslim.txt
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for turkishabudawud.txt
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for turkishbukhari.txt
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for turkishibnmajah.txt
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for turkishmalik.txt
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for turkishmuslim.txt
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for turkishnasai.txt
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for turkishtirmidhi.txt
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urduabudawud.txt
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urdubukhari.txt
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urduibnmajah.txt
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urdumalik.txt
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urdumuslim.txt
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urdunasai.txt
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urdutirmidhi.txt
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.1.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.3.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.4.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.6.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.6.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.6.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.7.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.7.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ru-bukhari.txt
+
+Generating Edition
+
+ Generated edition rus-bukhari
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for rus-bukhari.txt
+
+ deletion completed for rus-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition rus-bukhari
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for rus-bukhari.txt
+
+ deletion completed for rus-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition rus-bukhari
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for abudawud.txt
+
+Generating Edition
+
+ Generated edition rus-abudawud
+
+Starting to create files for muslim.txt
+
+Generating Edition
+
+ Generated edition rus-muslim
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-dehlawi.txt
+
+Generating Edition
+
+ Generated edition ara-dehlawi
+
+Starting to create files for ara-nawawi.txt
+
+Generating Edition
+
+ Generated edition ara-nawawi
+
+Starting to create files for ara-qudsi.txt
+
+Generating Edition
+
+ Generated edition ara-qudsi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-dehlawi.txt
+
+Generating Edition
+
+ Generated edition eng-dehlawi
+
+Starting to create files for eng-nawawi.txt
+
+Generating Edition
+
+ Generated edition eng-nawawi
+
+Starting to create files for eng-qudsi.txt
+
+Generating Edition
+
+ Generated edition eng-qudsi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ben-nawawi.txt
+
+Generating Edition
+
+ Generated edition ben-nawawi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abuhanifa.txt
+
+Generating Edition
+
+ Generated edition ara-abuhanifa
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js delete ara-abuhanifa
+
+ deletion completed for ara-abuhanifa
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js search paradise
+
+ Line: paradise contains in edition 
+eng-abudawud
+
+ Line: paradise contains in edition 
+eng-bukhari
+
+ Line: paradise contains in edition 
+eng-dehlawi
+
+ Line: paradise contains in edition 
+eng-ibnmajah
+
+ Line: paradise contains in edition 
+eng-muslim
+
+ Line: paradise contains in edition 
+eng-nasai
+
+ Line: paradise contains in edition 
+eng-nawawi
+
+ Line: paradise contains in edition 
+eng-qudsi
+
+ Line: paradise contains in edition 
+eng-tirmidhi
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js search we
+
+ Line: we contains in edition 
+eng-abudawud
+
+ Line: we contains in edition 
+eng-bukhari
+
+ Line: we contains in edition 
+eng-dehlawi
+
+ Line: we contains in edition 
+eng-ibnmajah
+
+ Line: we contains in edition 
+eng-malik
+
+ Line: we contains in edition 
+eng-muslim
+
+ Line: we contains in edition 
+eng-nasai
+
+ Line: we contains in edition 
+eng-nawawi
+
+ Line: we contains in edition 
+eng-qudsi
+
+ Line: we contains in edition 
+eng-tirmidhi
+
+ Line: we contains in edition 
+ind-abudawud
+
+ Line: we contains in edition 
+ind-bukhari
+
+ Line: we contains in edition 
+ind-ibnmajah
+
+ Line: we contains in edition 
+ind-malik
+
+ Line: we contains in edition 
+ind-muslim
+
+ Line: we contains in edition 
+ind-nasai
+
+ Line: we contains in edition 
+ind-tirmidhi
+
+ Line: we contains in edition 
+tur-bukhari
+
+ Line: we contains in edition 
+tur-ibnmajah
+
+ Line: we contains in edition 
+tur-malik
+
+ Line: we contains in edition 
+tur-muslim
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update ara-abudawud ara-abudawud1 ben-abudawud eng-abudawud ind-abudawud rus-abudawud tur-abudawud urd-abudawud ara-bukhari ara-bukhari1 ben-bukhari eng-bukhari ind-bukhari rus-bukhari tam-bukhari tur-bukhari urd-bukhari ara-dehlawi eng-dehlawi ara-ibnmajah ara-ibnmajah1 ben-ibnmajah eng-ibnmajah ind-ibnmajah tur-ibnmajah urd-ibnmajah ara-malik ara-malik1 ben-malik eng-malik fra-malik ind-malik tur-malik urd-malik ara-muslim ara-muslim1 ben-muslim eng-muslim fra-muslim ind-muslim rus-muslim tam-muslim tur-muslim urd-muslim ara-nasai ara-nasai1 ben-nasai eng-nasai ind-nasai tur-nasai urd-nasai ara-nawawi ben-nawawi eng-nawawi ara-qudsi eng-qudsi ara-tirmidhi ara-tirmidhi1 ben-tirmidhi eng-tirmidhi ind-tirmidhi tur-tirmidhi urd-tirmidhi
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+ deletion completed for ara-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+ deletion completed for ara-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-dehlawi.txt
+
+ deletion completed for ara-dehlawi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-dehlawi
+
+Starting to create files for ara-ibnmajah.txt
+
+ deletion completed for ara-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+ deletion completed for ara-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+ deletion completed for ara-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-nawawi.txt
+
+ deletion completed for ara-nawawi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nawawi
+
+Starting to create files for ara-qudsi.txt
+
+ deletion completed for ara-qudsi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-qudsi
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-nawawi.txt
+
+ deletion completed for ben-nawawi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nawawi
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-dehlawi.txt
+
+ deletion completed for eng-dehlawi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-dehlawi
+
+Starting to create files for eng-ibnmajah.txt
+
+ deletion completed for eng-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-nasai.txt
+
+ deletion completed for eng-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for eng-nawawi.txt
+
+ deletion completed for eng-nawawi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-nawawi
+
+Starting to create files for eng-qudsi.txt
+
+ deletion completed for eng-qudsi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-qudsi
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for ind-abudawud.txt
+
+ deletion completed for ind-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for ind-ibnmajah.txt
+
+ deletion completed for ind-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for ind-muslim.txt
+
+ deletion completed for ind-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for ind-nasai.txt
+
+ deletion completed for ind-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for rus-abudawud.txt
+
+ deletion completed for rus-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition rus-abudawud
+
+Starting to create files for rus-bukhari.txt
+
+ deletion completed for rus-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition rus-bukhari
+
+Starting to create files for rus-muslim.txt
+
+ deletion completed for rus-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition rus-muslim
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tam-muslim.txt
+
+ deletion completed for tam-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-nasai.txt
+
+ deletion completed for tur-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-abudawud.txt
+
+ deletion completed for urd-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urd-bukhari.txt
+
+ deletion completed for urd-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urd-ibnmajah.txt
+
+ deletion completed for urd-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urd-muslim.txt
+
+ deletion completed for urd-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urd-nasai.txt
+
+ deletion completed for urd-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/23.6.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/23.6.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/23.7.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/23.10.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.1.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for fra-bukhari.txt
+
+No JSON found in file fra-bukhari.txt or please enter the json in correct format
+
+Add json at end of file in the following format:
+
+{
+	"author": "Name of Author",
+	"book": "Name of book",
+	"language": "Name of language",
+	"source": "",
+	"comments": ""
+}
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.1.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for fra-bukhari.txt
+
+Generating Edition
+
+ Generated edition fra-bukhari
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.3.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for fra-bukhari.txt
+
+ deletion completed for fra-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-bukhari
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.3.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for fra-dehlawi.txt
+
+Generating Edition
+
+ Generated edition fra-dehlawi
+
+Starting to create files for fra-nawawi.txt
+
+Generating Edition
+
+ Generated edition fra-nawawi
+
+Starting to create files for fra-qudsi.txt
+
+Generating Edition
+
+ Generated edition fra-qudsi
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.4.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for fra-abudawud.txt
+
+Generating Edition
+
+ Generated edition fra-abudawud
+
+Starting to create files for fra-ibnmajah.txt
+
+Generating Edition
+
+ Generated edition fra-ibnmajah
+
+Starting to create files for fra-nasai.txt
+
+Generating Edition
+
+ Generated edition fra-nasai
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.4.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.4.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-dehlawi1.txt
+
+Generating Edition
+
+ Generated edition ara-dehlawi1
+
+Starting to create files for ara-nawawi1.txt
+
+Generating Edition
+
+ Generated edition ara-nawawi1
+
+Starting to create files for ara-qudsi1.txt
+
+Generating Edition
+
+ Generated edition ara-qudsi1
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.4.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud1.txt
+
+ deletion completed for ara-abudawud1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari1.txt
+
+ deletion completed for ara-bukhari1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-dehlawi1.txt
+
+ deletion completed for ara-dehlawi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-dehlawi1
+
+Starting to create files for ara-ibnmajah1.txt
+
+ deletion completed for ara-ibnmajah1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim1.txt
+
+ deletion completed for ara-muslim1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai1.txt
+
+ deletion completed for ara-nasai1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-nawawi1.txt
+
+ deletion completed for ara-nawawi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-nawawi1
+
+Starting to create files for ara-qudsi1.txt
+
+ deletion completed for ara-qudsi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-qudsi1
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/25.8.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for tur-nawawi.txt
+
+Generating Edition
+
+ Generated edition tur-nawawi
+
+editions.json and editions.min.json generated

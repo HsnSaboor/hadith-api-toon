@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"78": "Good Manners and Form (Al-Adab)"
+		},
+		"section_detail": {
+			"78": {
+				"hadithnumber_first": 5970,
+				"hadithnumber_last": 6226,
+				"arabicnumber_first": 5970,
+				"arabicnumber_last": 6226
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 6034,
+			"arabicnumber": 6034,
+			"text": "Narrated Jabir:Never was the Prophet (ﷺ) asked for a thing to be given for which his answer was 'no",
+			"grades": [],
+			"reference": {
+				"book": 78,
+				"hadith": 64
+			}
+		}
+	]
+}

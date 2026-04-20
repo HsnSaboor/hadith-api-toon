@@ -1,0 +1,25 @@
+{
+  "name": "@fawazahmed0/hadith-api",
+  "version": "1.0.10",
+  "exports": "*",
+  "description": "",
+  "main": "apiscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fawazahmed0/hadith-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fawazahmed0/hadith-api/issues"
+  },
+  "homepage": "https://github.com/fawazahmed0/hadith-api#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3",
+    "playwright": "^1.49.1"
+  },
+  "devDependencies": {}
+}

@@ -1,166 +1,234 @@
+#!/usr/bin/env python3
 """
-Validate all .toon files (JSON Lines format).
-
-Checks:
-1. All .toon files parse correctly as JSON Lines
-2. Hadith counts match header declarations
-3. All required fields present
-4. Cross-edition consistency
+Toon Format Validator
+Validates the structure and data integrity of hadith-api-toon files.
 """
 
-import json
+import csv
 import os
+import re
 import sys
-from collections import defaultdict
+from pathlib import Path
 
 
-def validate_toon_file(path):
-    errors = []
-    metadata = {}
-    hadith_count = 0
-
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-    except Exception as e:
-        return False, [f"Cannot read file: {e}"], metadata, 0
-
-    if not lines:
-        return False, ["File is empty"], metadata, 0
-
-    in_metadata = False
-    header_found = False
-    expected_count = 0
-    fields = []
-
-    for i, line in enumerate(lines, 1):
-        raw = line.rstrip("\n")
-        stripped = raw.strip()
-
-        if not stripped:
-            continue
-
-        if stripped == "metadata:":
-            in_metadata = True
-            continue
-
-        if in_metadata and stripped.startswith("  "):
-            key, _, val = stripped.strip().partition(": ")
-            metadata[key] = val
-            continue
-        elif in_metadata and not stripped.startswith("  "):
-            in_metadata = False
-
-        if "[" in stripped and "{" in stripped and stripped.endswith(":"):
-            try:
-                inner = stripped[:-1]
-                bracket_open = inner.index("[")
-                bracket_close = inner.index("]")
-                brace_open = inner.index("{")
-                brace_close = inner.index("}")
-                expected_count = int(inner[bracket_open + 1 : bracket_close])
-                fields = inner[brace_open + 1 : brace_close].split(",")
-                header_found = True
-            except Exception as e:
-                errors.append(f"Line {i}: Bad header: {e}")
-                return False, errors, metadata, 0
-            continue
-
-        if header_found:
-            try:
-                obj = json.loads(stripped)
-                hadith_count += 1
-                for field in fields:
-                    if field not in obj:
-                        errors.append(f"Line {i}: Missing field '{field}'")
-            except json.JSONDecodeError as e:
-                errors.append(f"Line {i}: JSON parse error: {e}")
-
-    if not header_found:
-        errors.append("No section header found")
-        return False, errors, metadata, 0
-
-    if hadith_count != expected_count:
-        errors.append(f"Expected {expected_count} hadiths, found {hadith_count}")
-
-    ok = len(errors) == 0
-    return ok, errors, metadata, hadith_count
-
-
-def validate_all(output_dir, info_toon_path):
-    print("=" * 60)
-    print("VALIDATION REPORT")
-    print("=" * 60)
-
-    edition_to_book = {}
-    editions_path = os.path.join(os.path.dirname(info_toon_path), "editions.toon")
-    with open(editions_path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if line.startswith("editions["):
-                continue
-            if line and "," in line:
-                parts = line.split(",", 7)
-                if len(parts) >= 2:
-                    edition_to_book[parts[0]] = parts[1]
-
-    editions_dir = os.path.join(output_dir, "editions")
-    total_files = 0
-    total_hadiths = 0
-    total_errors = 0
-    edition_stats = {}
-
-    for edition_id in sorted(os.listdir(editions_dir)):
-        sec_dir = os.path.join(editions_dir, edition_id, "sections")
-        if not os.path.isdir(sec_dir):
-            continue
-
-        book_key = edition_to_book.get(edition_id, "unknown")
-        edition_file_count = 0
-        edition_hadith_count = 0
-        edition_errors = 0
-
-        for fname in sorted(os.listdir(sec_dir)):
-            if not fname.endswith(".toon"):
-                continue
-            base = fname.replace(".toon", "")
-            try:
-                int(base)
-            except ValueError:
-                print(f"  WARN {edition_id}/{fname}: non-integer section name")
-
-            fpath = os.path.join(sec_dir, fname)
-            total_files += 1
-            edition_file_count += 1
-
-            ok, errors, meta, hadith_count = validate_toon_file(fpath)
-            if not ok:
-                edition_errors += len(errors)
-                total_errors += len(errors)
-                print(f"  FAIL {edition_id}/{fname}: {'; '.join(errors[:2])}")
-
-            total_hadiths += hadith_count
-            edition_hadith_count += hadith_count
-
-        edition_stats[edition_id] = {
-            "book": book_key,
-            "files": edition_file_count,
-            "hadiths": edition_hadith_count,
-            "errors": edition_errors,
+class ToonValidator:
+    def __init__(self, base_path):
+        self.base_path = Path(base_path)
+        self.errors = []
+        self.warnings = []
+        self.stats = {
+            "books_checked": 0,
+            "sections_checked": 0,
+            "errors": 0,
+            "warnings": 0,
         }
 
-    print(f"\n--- Summary ---")
-    print(f"  Total section files:  {total_files}")
-    print(f"  Total hadiths:        {total_hadiths}")
-    print(f"  Editions processed:  {len(edition_stats)}")
-    print(f"  Total errors:         {total_errors}")
+    def log_error(self, book, message):
+        self.errors.append(f"[ERROR] {book}: {message}")
+        self.stats["errors"] += 1
 
-    if total_errors == 0:
-        print(f"\n  All {total_files} files validated successfully!")
-    else:
-        print(f"\n  {total_errors} errors found.")
+    def log_warning(self, book, message):
+        self.warnings.append(f"[WARN] {book}: {message}")
+        self.stats["warnings"] += 1
+
+    def validate_root_info(self):
+        """Validate root info.toon file"""
+        info_path = self.base_path / "info.toon"
+        if not info_path.exists():
+            self.log_error("root", "info.toon not found")
+            return
+
+        with open(info_path, "r") as f:
+            content = f.read()
+
+        # Check required fields
+        required = ["version:", "total_books:", "books["]
+        for field in required:
+            if field not in content:
+                self.log_error("root", f"Missing field: {field}")
+
+    def validate_book_info(self, book_id):
+        """Validate per-book info.toon file"""
+        info_path = self.base_path / "editions" / book_id / "info.toon"
+        if not info_path.exists():
+            self.log_error(book_id, "info.toon not found")
+            return
+
+        with open(info_path, "r") as f:
+            content = f.read()
+
+        # Check metadata fields
+        required_meta = [
+            "book_id:",
+            "book_name:",
+            "total_hadiths:",
+            "available_languages:",
+        ]
+        for field in required_meta:
+            if field not in content:
+                self.log_error(book_id, f"Missing metadata: {field}")
+
+        # Check sections header
+        sections_match = re.search(r"sections\[(\d+)\]\{([^}]+)\}:", content)
+        if not sections_match:
+            self.log_error(book_id, "Missing sections header")
+            return
+
+        expected_cols = [
+            "id",
+            "name",
+            "name_ar",
+            "name_bn",
+            "name_en",
+            "name_fr",
+            "name_id",
+            "name_ru",
+            "name_tr",
+            "name_ur",
+            "hadith_first",
+            "hadith_last",
+            "arabic_first",
+            "arabic_last",
+        ]
+        header_cols = sections_match.group(2).split(",")
+
+        if header_cols != expected_cols:
+            self.log_error(
+                book_id,
+                f"Invalid columns. Expected {len(expected_cols)}, got {len(header_cols)}",
+            )
+
+        # Validate section rows
+        self.validate_section_rows(book_id, content, len(expected_cols))
+
+    def validate_section_rows(self, book_id, content, expected_cols):
+        """Validate individual section rows"""
+        lines = content.split("\n")
+        in_sections = False
+
+        for line_num, line in enumerate(lines, 1):
+            if "sections[" in line:
+                in_sections = True
+                continue
+
+            if not in_sections:
+                continue
+
+            # Check if this is a section row
+            if not re.match(r"^  \d+,", line):
+                continue
+
+            self.stats["sections_checked"] += 1
+
+            # Parse as CSV to handle quoted commas
+            try:
+                reader = csv.reader([line])
+                parts = next(reader)
+            except Exception as e:
+                self.log_error(book_id, f"Line {line_num}: CSV parse error - {e}")
+                continue
+
+            if len(parts) != expected_cols:
+                self.log_error(
+                    book_id,
+                    f"Line {line_num}: Expected {expected_cols} columns, got {len(parts)}",
+                )
+                continue
+
+            # Check for empty values in mandatory columns
+            # parts[0] = id, parts[1] = name, parts[2] = name_ar, parts[4] = name_en
+            if parts[1] == "" or parts[1] == "":
+                self.log_error(book_id, f"Line {line_num}: Empty name")
+            if parts[2] == "" or parts[2] == "":
+                self.log_error(book_id, f"Line {line_num}: Empty name_ar")
+            if parts[4] == "" or parts[4] == "":
+                self.log_error(book_id, f"Line {line_num}: Empty name_en")
+
+            # Check for placeholder names
+            sec_id = parts[0].strip()
+            name = parts[1].strip()
+            if re.match(r"^Section \d+$", name, re.IGNORECASE):
+                self.log_error(book_id, f'Section {sec_id}: Placeholder name "{name}"')
+
+            # Check for Bengali numerals in Arabic column
+            name_ar = parts[2].strip()
+            if re.search(r"[০১২৩৪৫৬৭৮৯]", name_ar):
+                self.log_error(book_id, f"Section {sec_id}: Bengali numerals in Arabic")
+
+    def validate_section_file(self, book_id, section_file):
+        """Validate individual section hadith file"""
+        file_path = self.base_path / "editions" / book_id / "sections" / section_file
+
+        with open(file_path, "r") as f:
+            content = f.read()
+
+        # Should start with hadiths header (no metadata)
+        if content.strip().startswith("metadata:"):
+            self.log_warning(book_id, f"{section_file}: Still has metadata block")
+
+        if not content.strip().startswith("hadiths["):
+            self.log_error(book_id, f"{section_file}: Missing hadiths header")
+
+    def validate_all(self):
+        """Run all validations"""
+        print("=" * 60)
+        print("TOON FORMAT VALIDATOR v2.0")
+        print("=" * 60)
+        print()
+
+        # Validate root info.toon
+        print("Validating root info.toon...")
+        self.validate_root_info()
+
+        # Get list of books
+        editions_dir = self.base_path / "editions"
+        books = [d.name for d in editions_dir.iterdir() if d.is_dir()]
+
+        print(f"Found {len(books)} books to validate")
+        print()
+
+        # Validate each book
+        for book_id in sorted(books):
+            self.stats["books_checked"] += 1
+            self.validate_book_info(book_id)
+
+        # Print results
+        print()
+        print("=" * 60)
+        print("VALIDATION RESULTS")
+        print("=" * 60)
+        print(f"Books checked: {self.stats['books_checked']}")
+        print(f"Sections checked: {self.stats['sections_checked']}")
+        print(f"Errors: {self.stats['errors']}")
+        print(f"Warnings: {self.stats['warnings']}")
+        print()
+
+        if self.errors:
+            print("ERRORS:")
+            for error in self.errors[:20]:  # Show first 20
+                print(f"  {error}")
+            if len(self.errors) > 20:
+                print(f"  ... and {len(self.errors) - 20} more errors")
+            print()
+
+        if self.warnings:
+            print("WARNINGS:")
+            for warning in self.warnings[:10]:  # Show first 10
+                print(f"  {warning}")
+            if len(self.warnings) > 10:
+                print(f"  ... and {len(self.warnings) - 10} more warnings")
+            print()
+
+        if self.stats["errors"] == 0:
+            print("✓ ALL CHECKS PASSED")
+            return 0
+        else:
+            print(f"✗ {self.stats['errors']} ERRORS FOUND")
+            return 1
 
 
 if __name__ == "__main__":
-    base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    validate_all(base, os.path.join(base, "info.toon"))
+    base_path = sys.argv[1] if len(sys.argv) > 1 else "."
+    validator = ToonValidator(base_path)
+    exit_code = validator.validate_all()
+    sys.exit(exit_code)

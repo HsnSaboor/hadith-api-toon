@@ -24,10 +24,12 @@ hadiths[count]{hadithnumber,arabic,grades,reference,international_number,narrato
 **NO translation columns** - translations go in separate files
 
 ### Translation files (`editions/{book}/translations/{lang}/sections/{section}.toon`)
-```jsonl
-{"hadithnumber": "1", "text": "..."}
+```toon
+translations[count]{hadithnumber,text}:
+"1","..."
+"2","..."
 ```
-One file per language, JSONL format
+One file per language, CSV format with header
 
 ---
 
@@ -97,7 +99,9 @@ metadata:
 | bn | Bengali | Bengali |
 | en | English | Latin |
 | fr | French | Latin |
+| hi | Hindi | Devanagari |
 | id | Indonesian | Latin |
+| ro | Romanian | Latin |
 | ru | Russian | Cyrillic |
 | tr | Turkish | Latin |
 | ur | Urdu | Arabic |

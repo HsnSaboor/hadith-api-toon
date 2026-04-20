@@ -14,7 +14,7 @@ The most comprehensive multilingual Hadith database on internet. **25 books, 68,
 |--------|-------|
 | **Books** | 25 |
 | **Total Hadiths** | 68,513 |
-| **Languages** | Arabic, Urdu, English, Bengali, French, Indonesian, Russian, Turkish |
+| **Languages** | Arabic, Urdu, English, Bengali, French, Indonesian, Russian, Turkish, Hindi, Romanian |
 | **Collections** | 25 unified books |
 | **Sections** | 596 section files |
 
@@ -54,7 +54,7 @@ hadiths[7]{hadithnumber,arabic,bengali,english,french,indonesian,russian,urdu,gr
 1. **Global index** — Root `info.toon` lists books and paths.
 2. **Book metadata** — `editions/{book}/info.toon` stores intro + section index.
 3. **Section data** — `editions/{book}/sections/{section}.toon` stores hadith rows.
-4. **Translation slices** — `editions/{book}/translations/{lang}/sections/{section}.toon` stores `{hadithnumber,text}` JSONL rows.
+4. **Translation slices** — `editions/{book}/translations/{lang}/sections/{section}.toon` stores `{hadithnumber,text}` CSV rows with header.
 5. **Dynamic columns** — Parse section header (`hadiths[N]{...}`) before reading rows.
 
 ---
@@ -268,10 +268,10 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/info.toon
 |---|------|-----------|---------|
 | 1 | Sahih al-Bukhari | ar, bn, en, fr, id, ru, ur | 12,642 |
 | 2 | Sahih Muslim | ar, bn, en, fr, id, ru, ur | 12,272 |
-| 3 | Sunan Abu Dawud | ar, bn, en, fr, id, ru, ur | 5,322 |
+| 3 | Sunan Abu Dawud | ar, bn, en, fr, hi, id, ro, ru, ur | 5,322 |
 | 4 | Sunan an-Nasai | ar, bn, en, fr, id, ru, ur | 6,250 |
 | 5 | Sunan Ibn Majah | ar, bn, en, fr, id, ru, ur | 8,455 |
-| 6 | Jami At-Tirmidhi | ar, bn, en, fr, id, ru, ur | 5,543 |
+| 6 | Jami At-Tirmidhi | ar, bn, en, fr, hi, id, ro, ru, tr, ur | 5,543 |
 | 7 | Muwatta Malik | ar, bn, en, fr, id, ru, ur | 2,904 |
 | 8 | Musnad Ahmed | ar, bn, en, fr, id, ru, ur | 1,389 |
 | 9 | Mishkat al-Masabih | ar, bn, en, fr, id, ru, ur | 4,428 |

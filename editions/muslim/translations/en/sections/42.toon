@@ -1,40 +1,41 @@
-{"hadithnumber": "5897", "text": "2261.01"}
-{"hadithnumber": "5898", "text": "2261.02"}
-{"hadithnumber": "5899", "text": "2261.03"}
-{"hadithnumber": "5900", "text": "2261.04"}
-{"hadithnumber": "5901", "text": "2261.05"}
-{"hadithnumber": "5902", "text": "2261.06"}
-{"hadithnumber": "5903", "text": "2261.07"}
-{"hadithnumber": "5904", "text": "2262"}
-{"hadithnumber": "5905", "text": "2263.01"}
-{"hadithnumber": "5906", "text": "2263.02"}
-{"hadithnumber": "5907", "text": "2263.03"}
-{"hadithnumber": "5908", "text": "2263.04"}
-{"hadithnumber": "5909", "text": "2264.01"}
-{"hadithnumber": "5910", "text": "2264.02"}
-{"hadithnumber": "5911", "text": "2263.05"}
-{"hadithnumber": "5912", "text": "2263.06"}
-{"hadithnumber": "5913", "text": "2263.07"}
-{"hadithnumber": "5914", "text": "2263.08"}
-{"hadithnumber": "5915", "text": "2263.09"}
-{"hadithnumber": "5916", "text": "2265.01"}
-{"hadithnumber": "5917", "text": "2265.02"}
-{"hadithnumber": "5918", "text": "2265.03"}
-{"hadithnumber": "5919", "text": "2266.01"}
-{"hadithnumber": "5920", "text": "2266.02"}
-{"hadithnumber": "5921", "text": "2267.01"}
-{"hadithnumber": "5922", "text": "2267.02"}
-{"hadithnumber": "5923", "text": "2268.01"}
-{"hadithnumber": "5924", "text": "2268.02"}
-{"hadithnumber": "5925", "text": "2268.03"}
-{"hadithnumber": "5926", "text": "2268.04"}
-{"hadithnumber": "5927", "text": "2268.05"}
-{"hadithnumber": "5928", "text": "2269.01"}
-{"hadithnumber": "5929", "text": "2269.02"}
-{"hadithnumber": "5930", "text": "2269.03"}
-{"hadithnumber": "5931", "text": "2269.04"}
-{"hadithnumber": "5932", "text": "2270"}
-{"hadithnumber": "5933", "text": "2271"}
-{"hadithnumber": "5934", "text": "2272"}
-{"hadithnumber": "5936", "text": "2274.02"}
-{"hadithnumber": "5937", "text": "2275"}
+hadiths[40]{hadithnumber,text}:
+5897,2261.01
+5898,2261.02
+5899,2261.03
+5900,2261.04
+5901,2261.05
+5902,2261.06
+5903,2261.07
+5904,2262
+5905,2263.01
+5906,2263.02
+5907,2263.03
+5908,2263.04
+5909,2264.01
+5910,2264.02
+5911,2263.05
+5912,2263.06
+5913,2263.07
+5914,2263.08
+5915,2263.09
+5916,2265.01
+5917,2265.02
+5918,2265.03
+5919,2266.01
+5920,2266.02
+5921,2267.01
+5922,2267.02
+5923,2268.01
+5924,2268.02
+5925,2268.03
+5926,2268.04
+5927,2268.05
+5928,2269.01
+5929,2269.02
+5930,2269.03
+5931,2269.04
+5932,2270
+5933,2271
+5934,2272
+5936,2274.02
+5937,2275

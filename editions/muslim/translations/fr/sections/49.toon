@@ -1,15 +1,16 @@
-{"hadithnumber": "6937", "text": "2736"}
-{"hadithnumber": "6938", "text": "2737.01"}
-{"hadithnumber": "6939", "text": "2737.02"}
-{"hadithnumber": "6940", "text": "2737.03"}
-{"hadithnumber": "6941", "text": "2737.04"}
-{"hadithnumber": "6942", "text": "2738.01"}
-{"hadithnumber": "6943", "text": "2738.02"}
-{"hadithnumber": "6944", "text": "2739"}
-{"hadithnumber": "6945", "text": "2740"}
-{"hadithnumber": "6946", "text": "2741.01"}
-{"hadithnumber": "6947", "text": "2741.02"}
-{"hadithnumber": "6948", "text": "2742"}
-{"hadithnumber": "6949", "text": "2743.01"}
-{"hadithnumber": "6950", "text": "2743.02"}
-{"hadithnumber": "6951", "text": "2743.03"}
+hadiths[15]{hadithnumber,text}:
+6937,2736
+6938,2737.01
+6939,2737.02
+6940,2737.03
+6941,2737.04
+6942,2738.01
+6943,2738.02
+6944,2739
+6945,2740
+6946,2741.01
+6947,2741.02
+6948,2742
+6949,2743.01
+6950,2743.02
+6951,2743.03

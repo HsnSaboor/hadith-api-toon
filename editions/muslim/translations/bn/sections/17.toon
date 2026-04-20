@@ -1,84 +1,85 @@
-{"hadithnumber": "3568", "text": "1444.01"}
-{"hadithnumber": "3569", "text": "1444.02"}
-{"hadithnumber": "3570", "text": "1444.03"}
-{"hadithnumber": "3571", "text": "1445.01"}
-{"hadithnumber": "3572", "text": "1445.02"}
-{"hadithnumber": "3573", "text": "1445.03"}
-{"hadithnumber": "3574", "text": "1445.04"}
-{"hadithnumber": "3575", "text": "1445.05"}
-{"hadithnumber": "3576", "text": "1445.06"}
-{"hadithnumber": "3577", "text": "1445.07"}
-{"hadithnumber": "3578", "text": "1445.08"}
-{"hadithnumber": "3579", "text": "1445.09"}
-{"hadithnumber": "3580", "text": "1445.10"}
-{"hadithnumber": "3581", "text": "1446.01"}
-{"hadithnumber": "3582", "text": "1446.02"}
-{"hadithnumber": "3583", "text": "1447.01"}
-{"hadithnumber": "3584", "text": "1447.02"}
-{"hadithnumber": "3585", "text": "1448"}
-{"hadithnumber": "3586", "text": "1449.01"}
-{"hadithnumber": "3587", "text": "1449.02"}
-{"hadithnumber": "3588", "text": "1449.03"}
-{"hadithnumber": "3589", "text": "1449.04"}
-{"hadithnumber": "3590", "text": "1450"}
-{"hadithnumber": "3591", "text": "1451.01"}
-{"hadithnumber": "3592", "text": "1451.02"}
-{"hadithnumber": "3593", "text": "1451.03"}
-{"hadithnumber": "3594", "text": "1451.04"}
-{"hadithnumber": "3595", "text": "1451.05"}
-{"hadithnumber": "3596", "text": "1451.06"}
-{"hadithnumber": "3597", "text": "1452.01"}
-{"hadithnumber": "3598", "text": "1452.02"}
-{"hadithnumber": "3599", "text": "1452.03"}
-{"hadithnumber": "3600", "text": "1453.01"}
-{"hadithnumber": "3601", "text": "1453.02"}
-{"hadithnumber": "3602", "text": "1453.03"}
-{"hadithnumber": "3603", "text": "1453.04"}
-{"hadithnumber": "3604", "text": "1453.05"}
-{"hadithnumber": "3605", "text": "1454"}
-{"hadithnumber": "3606", "text": "1455.01"}
-{"hadithnumber": "3607", "text": "1455.02"}
-{"hadithnumber": "3608", "text": "1456.01"}
-{"hadithnumber": "3609", "text": "1456.02"}
-{"hadithnumber": "3610", "text": "1456.03"}
-{"hadithnumber": "3611", "text": "1456.04"}
-{"hadithnumber": "3612", "text": "1456.05"}
-{"hadithnumber": "3613", "text": "1457.01"}
-{"hadithnumber": "3614", "text": "1457.02"}
-{"hadithnumber": "3615", "text": "1458.01"}
-{"hadithnumber": "3616", "text": "1458.02"}
-{"hadithnumber": "3617", "text": "1459.01"}
-{"hadithnumber": "3618", "text": "1459.02"}
-{"hadithnumber": "3619", "text": "1459.03"}
-{"hadithnumber": "3620", "text": "1459.04"}
-{"hadithnumber": "3621", "text": "1460.01"}
-{"hadithnumber": "3622", "text": "1460.02"}
-{"hadithnumber": "3623", "text": "1460.03"}
-{"hadithnumber": "3624", "text": "1460.04"}
-{"hadithnumber": "3625", "text": "1460.05"}
-{"hadithnumber": "3626", "text": "1461.01"}
-{"hadithnumber": "3627", "text": "1461.02"}
-{"hadithnumber": "3628", "text": "1462"}
-{"hadithnumber": "3629", "text": "1463.01"}
-{"hadithnumber": "3630", "text": "1463.02"}
-{"hadithnumber": "3631", "text": "1464.01"}
-{"hadithnumber": "3632", "text": "1464.02"}
-{"hadithnumber": "3633", "text": "1465.01"}
-{"hadithnumber": "3634", "text": "1465.02"}
-{"hadithnumber": "3635", "text": "1466"}
-{"hadithnumber": "3636", "text": "715.04"}
-{"hadithnumber": "3637", "text": "715.05"}
-{"hadithnumber": "3638", "text": "715.06"}
-{"hadithnumber": "3639", "text": "715.07"}
-{"hadithnumber": "3640", "text": "715.08"}
-{"hadithnumber": "3641", "text": "715.09"}
-{"hadithnumber": "3642", "text": "715.10"}
-{"hadithnumber": "3643", "text": "715.11"}
-{"hadithnumber": "3644", "text": "715.12"}
-{"hadithnumber": "3645", "text": "1467.01"}
-{"hadithnumber": "3646", "text": "1467.02"}
-{"hadithnumber": "3647", "text": "1468.01"}
-{"hadithnumber": "3648", "text": "1468.02"}
-{"hadithnumber": "3649", "text": "1469"}
-{"hadithnumber": "3650", "text": "1470.01"}
-{"hadithnumber": "3651", "text": "1470.02"}
+hadiths[84]{hadithnumber,text}:
+3568,1444.01
+3569,1444.02
+3570,1444.03
+3571,1445.01
+3572,1445.02
+3573,1445.03
+3574,1445.04
+3575,1445.05
+3576,1445.06
+3577,1445.07
+3578,1445.08
+3579,1445.09
+3580,1445.10
+3581,1446.01
+3582,1446.02
+3583,1447.01
+3584,1447.02
+3585,1448
+3586,1449.01
+3587,1449.02
+3588,1449.03
+3589,1449.04
+3590,1450
+3591,1451.01
+3592,1451.02
+3593,1451.03
+3594,1451.04
+3595,1451.05
+3596,1451.06
+3597,1452.01
+3598,1452.02
+3599,1452.03
+3600,1453.01
+3601,1453.02
+3602,1453.03
+3603,1453.04
+3604,1453.05
+3605,1454
+3606,1455.01
+3607,1455.02
+3608,1456.01
+3609,1456.02
+3610,1456.03
+3611,1456.04
+3612,1456.05
+3613,1457.01
+3614,1457.02
+3615,1458.01
+3616,1458.02
+3617,1459.01
+3618,1459.02
+3619,1459.03
+3620,1459.04
+3621,1460.01
+3622,1460.02
+3623,1460.03
+3624,1460.04
+3625,1460.05
+3626,1461.01
+3627,1461.02
+3628,1462
+3629,1463.01
+3630,1463.02
+3631,1464.01
+3632,1464.02
+3633,1465.01
+3634,1465.02
+3635,1466
+3636,715.04
+3637,715.05
+3638,715.06
+3639,715.07
+3640,715.08
+3641,715.09
+3642,715.10
+3643,715.11
+3644,715.12
+3645,1467.01
+3646,1467.02
+3647,1468.01
+3648,1468.02
+3649,1469
+3650,1470.01
+3651,1470.02

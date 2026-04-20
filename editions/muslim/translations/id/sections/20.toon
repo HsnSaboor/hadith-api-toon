@@ -1,30 +1,31 @@
-{"hadithnumber": "3770", "text": "1501.01"}
-{"hadithnumber": "3771", "text": "1501.02"}
-{"hadithnumber": "3772", "text": "1502"}
-{"hadithnumber": "3773", "text": "1503.01"}
-{"hadithnumber": "3774", "text": "1503.02"}
-{"hadithnumber": "3775", "text": "1503.03"}
-{"hadithnumber": "3776", "text": "1504.01"}
-{"hadithnumber": "3777", "text": "1504.02"}
-{"hadithnumber": "3778", "text": "1504.03"}
-{"hadithnumber": "3779", "text": "1504.04"}
-{"hadithnumber": "3780", "text": "1504.05"}
-{"hadithnumber": "3781", "text": "1504.06"}
-{"hadithnumber": "3782", "text": "1504.07"}
-{"hadithnumber": "3783", "text": "1504.08"}
-{"hadithnumber": "3784", "text": "1504.09"}
-{"hadithnumber": "3785", "text": "1504.10"}
-{"hadithnumber": "3786", "text": "1504.11"}
-{"hadithnumber": "3787", "text": "1505"}
-{"hadithnumber": "3788", "text": "1506.01"}
-{"hadithnumber": "3789", "text": "1506.02"}
-{"hadithnumber": "3790", "text": "1507"}
-{"hadithnumber": "3791", "text": "1508.01"}
-{"hadithnumber": "3793", "text": "1508.03"}
-{"hadithnumber": "3794", "text": "1370.04"}
-{"hadithnumber": "3795", "text": "1509.01"}
-{"hadithnumber": "3796", "text": "1509.02"}
-{"hadithnumber": "3797", "text": "1509.03"}
-{"hadithnumber": "3798", "text": "1509.04"}
-{"hadithnumber": "3799", "text": "1510.01"}
-{"hadithnumber": "3800", "text": "1510.02"}
+hadiths[30]{hadithnumber,text}:
+3770,1501.01
+3771,1501.02
+3772,1502
+3773,1503.01
+3774,1503.02
+3775,1503.03
+3776,1504.01
+3777,1504.02
+3778,1504.03
+3779,1504.04
+3780,1504.05
+3781,1504.06
+3782,1504.07
+3783,1504.08
+3784,1504.09
+3785,1504.10
+3786,1504.11
+3787,1505
+3788,1506.01
+3789,1506.02
+3790,1507
+3791,1508.01
+3793,1508.03
+3794,1370.04
+3795,1509.01
+3796,1509.02
+3797,1509.03
+3798,1509.04
+3799,1510.01
+3800,1510.02

@@ -1,22 +1,23 @@
-{"hadithnumber": "2044", "text": "884.01"}
-{"hadithnumber": "2047", "text": "885.01"}
-{"hadithnumber": "2048", "text": "885.02"}
-{"hadithnumber": "2049", "text": "886.01"}
-{"hadithnumber": "2050", "text": "886.02"}
-{"hadithnumber": "2051", "text": "887"}
-{"hadithnumber": "2052", "text": "888"}
-{"hadithnumber": "2053", "text": "889"}
-{"hadithnumber": "2054", "text": "890.01"}
-{"hadithnumber": "2055", "text": "890.02"}
-{"hadithnumber": "2056", "text": "890.03"}
-{"hadithnumber": "2059", "text": "891.01"}
-{"hadithnumber": "2060", "text": "891.02"}
-{"hadithnumber": "2061", "text": "892.01"}
-{"hadithnumber": "2062", "text": "892.02"}
-{"hadithnumber": "2063", "text": "892.03"}
-{"hadithnumber": "2064", "text": "892.04"}
-{"hadithnumber": "2065", "text": "892.05"}
-{"hadithnumber": "2066", "text": "892.06"}
-{"hadithnumber": "2067", "text": "892.07"}
-{"hadithnumber": "2068", "text": "892.08"}
-{"hadithnumber": "2069", "text": "893"}
+hadiths[22]{hadithnumber,text}:
+2044,884.01
+2047,885.01
+2048,885.02
+2049,886.01
+2050,886.02
+2051,887
+2052,888
+2053,889
+2054,890.01
+2055,890.02
+2056,890.03
+2059,891.01
+2060,891.02
+2061,892.01
+2062,892.02
+2063,892.03
+2064,892.04
+2065,892.05
+2066,892.06
+2067,892.07
+2068,892.08
+2069,893

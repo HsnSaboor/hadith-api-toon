@@ -1,23 +1,24 @@
-{"hadithnumber": "4140", "text": "1614"}
-{"hadithnumber": "4141", "text": "1615.01"}
-{"hadithnumber": "4142", "text": "1615.02"}
-{"hadithnumber": "4143", "text": "1615.03"}
-{"hadithnumber": "4144", "text": "1615.04"}
-{"hadithnumber": "4145", "text": "1616.01"}
-{"hadithnumber": "4146", "text": "1616.02"}
-{"hadithnumber": "4147", "text": "1616.03"}
-{"hadithnumber": "4148", "text": "1616.04"}
-{"hadithnumber": "4149", "text": "1616.05"}
-{"hadithnumber": "4150", "text": "1617.01"}
-{"hadithnumber": "4151", "text": "1617.02"}
-{"hadithnumber": "4152", "text": "1618.01"}
-{"hadithnumber": "4153", "text": "1618.02"}
-{"hadithnumber": "4154", "text": "1618.03"}
-{"hadithnumber": "4155", "text": "1618.04"}
-{"hadithnumber": "4156", "text": "1618.05"}
-{"hadithnumber": "4157", "text": "1619.01"}
-{"hadithnumber": "4158", "text": "1619.02"}
-{"hadithnumber": "4159", "text": "1619.03"}
-{"hadithnumber": "4160", "text": "1619.04"}
-{"hadithnumber": "4161", "text": "1619.05"}
-{"hadithnumber": "4162", "text": "1619.06"}
+hadiths[23]{hadithnumber,text}:
+4140,1614
+4141,1615.01
+4142,1615.02
+4143,1615.03
+4144,1615.04
+4145,1616.01
+4146,1616.02
+4147,1616.03
+4148,1616.04
+4149,1616.05
+4150,1617.01
+4151,1617.02
+4152,1618.01
+4153,1618.02
+4154,1618.03
+4155,1618.04
+4156,1618.05
+4157,1619.01
+4158,1619.02
+4159,1619.03
+4160,1619.04
+4161,1619.05
+4162,1619.06

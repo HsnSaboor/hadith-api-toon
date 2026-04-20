@@ -1,27 +1,28 @@
-{"hadithnumber": "3743", "text": "1492.01"}
-{"hadithnumber": "3744", "text": "1492.02"}
-{"hadithnumber": "3745", "text": "1492.03"}
-{"hadithnumber": "3746", "text": "1493.01"}
-{"hadithnumber": "3747", "text": "1493.02"}
-{"hadithnumber": "3748", "text": "1493.03"}
-{"hadithnumber": "3749", "text": "1493.04"}
-{"hadithnumber": "3750", "text": "1493.05"}
-{"hadithnumber": "3751", "text": "1493.06"}
-{"hadithnumber": "3752", "text": "1494.01"}
-{"hadithnumber": "3753", "text": "1494.02"}
-{"hadithnumber": "3754", "text": "1494.03"}
-{"hadithnumber": "3755", "text": "1495.01"}
-{"hadithnumber": "3756", "text": "1495.02"}
-{"hadithnumber": "3757", "text": "1496"}
-{"hadithnumber": "3758", "text": "1497.01"}
-{"hadithnumber": "3759", "text": "1497.02"}
-{"hadithnumber": "3760", "text": "1497.03"}
-{"hadithnumber": "3761", "text": "1498.01"}
-{"hadithnumber": "3762", "text": "1498.02"}
-{"hadithnumber": "3763", "text": "1498.03"}
-{"hadithnumber": "3764", "text": "1499.01"}
-{"hadithnumber": "3765", "text": "1499.02"}
-{"hadithnumber": "3766", "text": "1500.01"}
-{"hadithnumber": "3767", "text": "1500.02"}
-{"hadithnumber": "3768", "text": "1500.03"}
-{"hadithnumber": "3769", "text": "1500.04"}
+hadiths[27]{hadithnumber,text}:
+3743,1492.01
+3744,1492.02
+3745,1492.03
+3746,1493.01
+3747,1493.02
+3748,1493.03
+3749,1493.04
+3750,1493.05
+3751,1493.06
+3752,1494.01
+3753,1494.02
+3754,1494.03
+3755,1495.01
+3756,1495.02
+3757,1496
+3758,1497.01
+3759,1497.02
+3760,1497.03
+3761,1498.01
+3762,1498.02
+3763,1498.03
+3764,1499.01
+3765,1499.02
+3766,1500.01
+3767,1500.02
+3768,1500.03
+3769,1500.04

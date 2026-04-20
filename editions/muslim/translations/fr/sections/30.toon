@@ -1,28 +1,29 @@
-{"hadithnumber": "4470", "text": "1711.01"}
-{"hadithnumber": "4471", "text": "1711.02"}
-{"hadithnumber": "4472", "text": "1712"}
-{"hadithnumber": "4473", "text": "1713.03"}
-{"hadithnumber": "4474", "text": "1713.04"}
-{"hadithnumber": "4475", "text": "1713.01"}
-{"hadithnumber": "4476", "text": "1713.02"}
-{"hadithnumber": "4477", "text": "1714.01"}
-{"hadithnumber": "4478", "text": "1714.02"}
-{"hadithnumber": "4479", "text": "1714.03"}
-{"hadithnumber": "4480", "text": "1714.04"}
-{"hadithnumber": "4481", "text": "1715.01"}
-{"hadithnumber": "4482", "text": "1715.02"}
-{"hadithnumber": "4483", "text": "593.06"}
-{"hadithnumber": "4484", "text": "593.07"}
-{"hadithnumber": "4485", "text": "593.08"}
-{"hadithnumber": "4486", "text": "593.09"}
-{"hadithnumber": "4487", "text": "1716.01"}
-{"hadithnumber": "4488", "text": "1716.02"}
-{"hadithnumber": "4489", "text": "1716.03"}
-{"hadithnumber": "4490", "text": "1717.01"}
-{"hadithnumber": "4491", "text": "1717.02"}
-{"hadithnumber": "4492", "text": "1718.01"}
-{"hadithnumber": "4493", "text": "1718.02"}
-{"hadithnumber": "4494", "text": "1719"}
-{"hadithnumber": "4495", "text": "1720.01"}
-{"hadithnumber": "4496", "text": "1720.02"}
-{"hadithnumber": "4497", "text": "1721"}
+hadiths[28]{hadithnumber,text}:
+4470,1711.01
+4471,1711.02
+4472,1712
+4473,1713.03
+4474,1713.04
+4475,1713.01
+4476,1713.02
+4477,1714.01
+4478,1714.02
+4479,1714.03
+4480,1714.04
+4481,1715.01
+4482,1715.02
+4483,593.06
+4484,593.07
+4485,593.08
+4486,593.09
+4487,1716.01
+4488,1716.02
+4489,1716.03
+4490,1717.01
+4491,1717.02
+4492,1718.01
+4493,1718.02
+4494,1719
+4495,1720.01
+4496,1720.02
+4497,1721

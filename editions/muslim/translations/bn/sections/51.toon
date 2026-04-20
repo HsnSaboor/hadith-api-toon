@@ -1,21 +1,22 @@
-{"hadithnumber": "7024", "text": "2772"}
-{"hadithnumber": "7025", "text": "2773.01"}
-{"hadithnumber": "7026", "text": "2773.02"}
-{"hadithnumber": "7027", "text": "2774.01"}
-{"hadithnumber": "7028", "text": "2774.02"}
-{"hadithnumber": "7029", "text": "2775.01"}
-{"hadithnumber": "7030", "text": "2775.02"}
-{"hadithnumber": "7031", "text": "2776.01"}
-{"hadithnumber": "7032", "text": "2776.02"}
-{"hadithnumber": "7033", "text": "2777"}
-{"hadithnumber": "7034", "text": "2778"}
-{"hadithnumber": "7035", "text": "2779.01"}
-{"hadithnumber": "7036", "text": "2779.02"}
-{"hadithnumber": "7037", "text": "2779.03"}
-{"hadithnumber": "7038", "text": "2780.01"}
-{"hadithnumber": "7039", "text": "2780.02"}
-{"hadithnumber": "7040", "text": "2781"}
-{"hadithnumber": "7041", "text": "2782"}
-{"hadithnumber": "7042", "text": "2783"}
-{"hadithnumber": "7043", "text": "2784.01"}
-{"hadithnumber": "7044", "text": "2784.02"}
+hadiths[21]{hadithnumber,text}:
+7024,2772
+7025,2773.01
+7026,2773.02
+7027,2774.01
+7028,2774.02
+7029,2775.01
+7030,2775.02
+7031,2776.01
+7032,2776.02
+7033,2777
+7034,2778
+7035,2779.01
+7036,2779.02
+7037,2779.03
+7038,2780.01
+7039,2780.02
+7040,2781
+7041,2782
+7042,2783
+7043,2784.01
+7044,2784.02

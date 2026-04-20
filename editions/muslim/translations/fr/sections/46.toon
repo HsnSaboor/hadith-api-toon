@@ -1,52 +1,53 @@
-{"hadithnumber": "6723", "text": "2643.01"}
-{"hadithnumber": "6724", "text": "2643.02"}
-{"hadithnumber": "6725", "text": "2644"}
-{"hadithnumber": "6726", "text": "2645.01"}
-{"hadithnumber": "6727", "text": "2645.02"}
-{"hadithnumber": "6728", "text": "2645.03"}
-{"hadithnumber": "6729", "text": "2645.04"}
-{"hadithnumber": "6730", "text": "2646"}
-{"hadithnumber": "6731", "text": "2647.01"}
-{"hadithnumber": "6732", "text": "2647.02"}
-{"hadithnumber": "6733", "text": "2647.03"}
-{"hadithnumber": "6734", "text": "2647.04"}
-{"hadithnumber": "6735", "text": "2648.01"}
-{"hadithnumber": "6736", "text": "2648.02"}
-{"hadithnumber": "6737", "text": "2649.01"}
-{"hadithnumber": "6738", "text": "2649.02"}
-{"hadithnumber": "6739", "text": "2650"}
-{"hadithnumber": "6740", "text": "2651"}
-{"hadithnumber": "6741", "text": "112.02"}
-{"hadithnumber": "6742", "text": "2652.01"}
-{"hadithnumber": "6743", "text": "2652.02"}
-{"hadithnumber": "6744", "text": "2652.03"}
-{"hadithnumber": "6745", "text": "2652.04"}
-{"hadithnumber": "6746", "text": "2652.05"}
-{"hadithnumber": "6747", "text": "2652.06"}
-{"hadithnumber": "6748", "text": "2653.01"}
-{"hadithnumber": "6749", "text": "2653.02"}
-{"hadithnumber": "6750", "text": "2654"}
-{"hadithnumber": "6751", "text": "2655"}
-{"hadithnumber": "6752", "text": "2656"}
-{"hadithnumber": "6753", "text": "2657.01"}
-{"hadithnumber": "6754", "text": "2657.02"}
-{"hadithnumber": "6755", "text": "2658.01"}
-{"hadithnumber": "6756", "text": "2658.02"}
-{"hadithnumber": "6757", "text": "2658.03"}
-{"hadithnumber": "6758", "text": "2658.04"}
-{"hadithnumber": "6759", "text": "2658.05"}
-{"hadithnumber": "6760", "text": "2658.06"}
-{"hadithnumber": "6761", "text": "2658.07"}
-{"hadithnumber": "6762", "text": "2659.01"}
-{"hadithnumber": "6763", "text": "2659.02"}
-{"hadithnumber": "6764", "text": "2659.03"}
-{"hadithnumber": "6765", "text": "2660"}
-{"hadithnumber": "6766", "text": "2661"}
-{"hadithnumber": "6767", "text": "2662.01"}
-{"hadithnumber": "6768", "text": "2662.02"}
-{"hadithnumber": "6769", "text": "2662.03"}
-{"hadithnumber": "6770", "text": "2663.01"}
-{"hadithnumber": "6771", "text": "2663.02"}
-{"hadithnumber": "6772", "text": "2663.03"}
-{"hadithnumber": "6773", "text": "2663.04"}
-{"hadithnumber": "6774", "text": "2664"}
+hadiths[52]{hadithnumber,text}:
+6723,2643.01
+6724,2643.02
+6725,2644
+6726,2645.01
+6727,2645.02
+6728,2645.03
+6729,2645.04
+6730,2646
+6731,2647.01
+6732,2647.02
+6733,2647.03
+6734,2647.04
+6735,2648.01
+6736,2648.02
+6737,2649.01
+6738,2649.02
+6739,2650
+6740,2651
+6741,112.02
+6742,2652.01
+6743,2652.02
+6744,2652.03
+6745,2652.04
+6746,2652.05
+6747,2652.06
+6748,2653.01
+6749,2653.02
+6750,2654
+6751,2655
+6752,2656
+6753,2657.01
+6754,2657.02
+6755,2658.01
+6756,2658.02
+6757,2658.03
+6758,2658.04
+6759,2658.05
+6760,2658.06
+6761,2658.07
+6762,2659.01
+6763,2659.02
+6764,2659.03
+6765,2660
+6766,2661
+6767,2662.01
+6768,2662.02
+6769,2662.03
+6770,2663.01
+6771,2663.02
+6772,2663.03
+6773,2663.04
+6774,2664

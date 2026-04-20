@@ -1,23 +1,24 @@
-{"hadithnumber": "5862", "text": "2246.01"}
-{"hadithnumber": "5863", "text": "2246.02"}
-{"hadithnumber": "5864", "text": "2246.03"}
-{"hadithnumber": "5865", "text": "2246.04"}
-{"hadithnumber": "5866", "text": "2246.05"}
-{"hadithnumber": "5867", "text": "2247.01"}
-{"hadithnumber": "5868", "text": "2247.02"}
-{"hadithnumber": "5869", "text": "2247.03"}
-{"hadithnumber": "5870", "text": "2247.04"}
-{"hadithnumber": "5871", "text": "2247.05"}
-{"hadithnumber": "5872", "text": "2248.01"}
-{"hadithnumber": "5873", "text": "2248.02"}
-{"hadithnumber": "5874", "text": "2249.01"}
-{"hadithnumber": "5875", "text": "2249.02"}
-{"hadithnumber": "5876", "text": "2249.03"}
-{"hadithnumber": "5877", "text": "2249.04"}
-{"hadithnumber": "5878", "text": "2250.01"}
-{"hadithnumber": "5879", "text": "2250.02"}
-{"hadithnumber": "5880", "text": "2251"}
-{"hadithnumber": "5881", "text": "2252.01"}
-{"hadithnumber": "5882", "text": "2252.02"}
-{"hadithnumber": "5883", "text": "2253"}
-{"hadithnumber": "5884", "text": "2254"}
+hadiths[23]{hadithnumber,text}:
+5862,2246.01
+5863,2246.02
+5864,2246.03
+5865,2246.04
+5866,2246.05
+5867,2247.01
+5868,2247.02
+5869,2247.03
+5870,2247.04
+5871,2247.05
+5872,2248.01
+5873,2248.02
+5874,2249.01
+5875,2249.02
+5876,2249.03
+5877,2249.04
+5878,2250.01
+5879,2250.02
+5880,2251
+5881,2252.01
+5882,2252.02
+5883,2253
+5884,2254

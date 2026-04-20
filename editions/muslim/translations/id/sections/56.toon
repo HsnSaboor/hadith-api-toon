@@ -1,39 +1,40 @@
-{"hadithnumber": "7523", "text": "3015"}
-{"hadithnumber": "7524", "text": "3016"}
-{"hadithnumber": "7525", "text": "3017.01"}
-{"hadithnumber": "7526", "text": "3017.02"}
-{"hadithnumber": "7527", "text": "3017.03"}
-{"hadithnumber": "7528", "text": "3018.01"}
-{"hadithnumber": "7529", "text": "3018.02"}
-{"hadithnumber": "7530", "text": "3018.03"}
-{"hadithnumber": "7531", "text": "3018.04"}
-{"hadithnumber": "7532", "text": "3018.05"}
-{"hadithnumber": "7533", "text": "3019.01"}
-{"hadithnumber": "7534", "text": "3019.02"}
-{"hadithnumber": "7535", "text": "3019.03"}
-{"hadithnumber": "7536", "text": "3020"}
-{"hadithnumber": "7537", "text": "3021.01"}
-{"hadithnumber": "7538", "text": "3021.02"}
-{"hadithnumber": "7539", "text": "3022.01"}
-{"hadithnumber": "7540", "text": "3022.02"}
-{"hadithnumber": "7541", "text": "3023.01"}
-{"hadithnumber": "7542", "text": "3023.02"}
-{"hadithnumber": "7543", "text": "3023.03"}
-{"hadithnumber": "7544", "text": "3023.04"}
-{"hadithnumber": "7545", "text": "3023.05"}
-{"hadithnumber": "7546", "text": "3024.01"}
-{"hadithnumber": "7547", "text": "3024.02"}
-{"hadithnumber": "7548", "text": "3025"}
-{"hadithnumber": "7549", "text": "3026"}
-{"hadithnumber": "7550", "text": "3027"}
-{"hadithnumber": "7551", "text": "3028"}
-{"hadithnumber": "7552", "text": "3029.01"}
-{"hadithnumber": "7553", "text": "3029.02"}
-{"hadithnumber": "7554", "text": "3030.01"}
-{"hadithnumber": "7556", "text": "3030.04"}
-{"hadithnumber": "7558", "text": "3031"}
-{"hadithnumber": "7559", "text": "3032.01"}
-{"hadithnumber": "7560", "text": "3032.02"}
-{"hadithnumber": "7561", "text": "3032.03"}
-{"hadithnumber": "7562", "text": "3033.01"}
-{"hadithnumber": "7563", "text": "3033.02"}
+hadiths[39]{hadithnumber,text}:
+7523,3015
+7524,3016
+7525,3017.01
+7526,3017.02
+7527,3017.03
+7528,3018.01
+7529,3018.02
+7530,3018.03
+7531,3018.04
+7532,3018.05
+7533,3019.01
+7534,3019.02
+7535,3019.03
+7536,3020
+7537,3021.01
+7538,3021.02
+7539,3022.01
+7540,3022.02
+7541,3023.01
+7542,3023.02
+7543,3023.03
+7544,3023.04
+7545,3023.05
+7546,3024.01
+7547,3024.02
+7548,3025
+7549,3026
+7550,3027
+7551,3028
+7552,3029.01
+7553,3029.02
+7554,3030.01
+7556,3030.04
+7558,3031
+7559,3032.01
+7560,3032.02
+7561,3032.03
+7562,3033.01
+7563,3033.02

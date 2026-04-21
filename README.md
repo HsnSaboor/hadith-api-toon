@@ -252,7 +252,7 @@ console.log(meta.intro_fr);   // French intro (if available)
 
 **Recommended: Use version tags for stability**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/{endpoint}
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.3.0/{endpoint}
 ```
 
 > **Note on caching:** jsDelivr caches `@main` branch URLs for up to 24 hours. For immediate updates, use version tags (e.g., `@v1.0.0`) or commit hashes.

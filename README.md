@@ -319,9 +319,19 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v1.0.0/info.toon
 
 ---
 
-## Conversion Scripts
+## Scripts
 
-All scripts used to generate this repository are in `scripts/`:
+All utility scripts are in `scripts/`:
+
+### Data Quality & Validation
+
+| Script | Purpose |
+|--------|---------|
+| `validate_all_toon.py` | Validates all 7,655 `.toon` files for CSV compliance (trailing commas, broken quotes, column mismatches) |
+| `clean_toon_data.py` | Comprehensive cleaning script: removes trailing commas, merges continuation lines, fixes CSV quoting |
+| `check_data_integrity.py` | Verifies record counts before/after fixes to ensure no data loss |
+
+### Data Conversion (Historical)
 
 | Script | Purpose |
 |--------|---------|
@@ -331,8 +341,24 @@ All scripts used to generate this repository are in `scripts/`:
 | `convert_section_files.py` | Converts section JSON → `.toon` |
 | `scrape_quranohadith_fast.py` | Scrapes Arabic + Urdu from al-hadees.com |
 | `merge_english_from_hadithjson.py` | Merges English from hadith-json |
-| `validate_toon.py` | Validates all `.toon` files |
 | `translate_intros_v2.py` | Generates multilingual intro translations |
+
+### Usage
+
+**Validate all files:**
+```bash
+python3 scripts/validate_all_toon.py
+```
+
+**Clean and fix issues:**
+```bash
+python3 scripts/clean_toon_data.py
+```
+
+**Check data integrity:**
+```bash
+python3 scripts/check_data_integrity.py
+```
 
 ---
 

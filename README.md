@@ -116,16 +116,19 @@ const books = lines.slice(1).map(line => {
 console.log(books[0]); // { id: 'bukhari', name: 'Sahih al-Bukhari', ... }
 ```
 
-**Step 2: Load book sections and translated names**
+**Step 2: Load book metadata**
 
 Fetch `editions/{book}/info.toon` to get:
+- Available translations index (language codes, section counts, paths)
 - Section index with hadith ranges
 - Translated section/chapter names in all available languages (name_ar, name_bn, name_en, name_fr, name_id, name_ru, name_tr, name_ur)
 - Book introduction in multiple languages
 
 ```js
 const bookInfo = await fetch(`https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/editions/bukhari/info.toon`);
-// Parse to get sections with: id, name, name_ar, name_bn, name_en, name_fr, name_id, name_ru, name_tr, name_ur, hadith_first, hadith_last
+// Parse to get:
+// - translations table: language, sections, path
+// - sections table: id, name, name_ar, name_bn, name_en, name_fr, name_id, name_ru, name_tr, name_ur, hadith_first, hadith_last
 ```
 
 **Step 3: Load hadiths**
@@ -264,7 +267,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/{endpoint}
 
 | Path | Description |
 |------|-------------|
-| `/editions/{book}/info.toon` | Book intro (multilingual), section index with translated chapter/section names (name_ar, name_bn, name_en, etc.) |
+| `/editions/{book}/info.toon` | Book intro (multilingual), translations index (language, sections, path), section index with translated chapter/section names |
 
 ### Section Files
 

@@ -13,5 +13,13 @@ metadata:
   intro_tr: "Tüm övgüler, âlemlerin Rabbi, göklerin ve yerin dayanağı ve tüm mahlukatın işlerini düzenleyen Allah'a mahsustur. O, mükellef kullarına hidayet vermeleri ve açık deliller ile parlak işaretler aracılığıyla dinin hükümlerini açıklamaları için resuller göndermiştir. O'na, tüm nimetleri için hamd eder, lütuf ve kereminin artmasını dilerim. Şehadet ederim ki Allah'tan başka gerçek bir ilah yoktur; O tektir, ortağı yoktur; O, galiptir, kerem sahibidir ve sürekli bağışlayandır. Yine şehadet ederim ki efendimiz Hz. Muhammed (s.a.v.), O'nun kulu, elçisi, habibi ve halilidir."
   intro_hi: "तमाम तारीफें अल्लाह के लिए हैं जो तमाम जहानों का रब, आसमानों और ज़मीनों को कायम रखने वाला और तमाम मखलूकात के मामलात का इंतज़ाम करने वाला है। जिसने रसूलों को मुकल्लफ़ बंदों की तरफ भेजा ताकि उन्हें हिदायत दें और वाज़ेह दलाइल व रौशन निशानियों के ज़रिए दीन के अहकाम बयान करें। मैं उसकी तमाम नेमतों पर उसकी मदह बयान करता हूँ और उसके फ़ज़्ल व करम में इज़ाफ़े का सवाल करता हूँ। मैं गवाही देता हूँ कि अल्लाह के सिवा कोई सच्चा माबूद नहीं, वह अकेला है, उसका कोई शरीक नहीं, वह ग़ालिब, करम करने वाला और मुसलसल बख्शने वाला है। और मैं गवाही देता हूँ कि हमारे सरदार हज़रत मुहम्मद ﷺ उसके बंदे, उसके रसूल, उसके महबूब और उसके खलील हैं।"
 
+
+translations[5]{language,sections,path}:
+bn,1,translations/bn
+en,1,translations/en
+fr,1,translations/fr
+tr,1,translations/tr
+ur,1,translations/ur
+
 sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
   1,"Forty Hadith of an-Nawawi","الأربعون النووية","নববির চল্লিশ হাদিস","Forty Hadith of an-Nawawi","Quarante Hadiths de an-Nawawi","Empat Puluh Hadits an-Nawawi","Сорок хадисов ан-Навави","Kırk Hadis - Nevevi","الأربعون النووية",1,42,1,42

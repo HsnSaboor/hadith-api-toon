@@ -59,6 +59,12 @@ metadata:
   intro_ru: "Russian intro"
   intro_ur: "Urdu intro"
 
+translations[count]{language,sections,path}:
+bn,98,translations/bn
+en,98,translations/en
+fr,98,translations/fr
+...
+
 sections[count]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
 ```
 

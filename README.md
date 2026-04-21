@@ -91,6 +91,41 @@ metadata:
 
 ## How to Parse (For Developers)
 
+### Getting Started
+
+**Step 1: Load the book index**
+
+Start by fetching `info.toon` to get all 25 books with their metadata:
+
+```js
+const response = await fetch('https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/info.toon');
+const text = await response.text();
+const lines = text.split('\n').filter(l => l.trim());
+
+// Parse header to get column names
+const header = lines[0];
+const cols = header.match(/\{(.+)\}/)[1].split(',');
+
+// Parse book rows
+const books = lines.slice(1).map(line => {
+  const vals = parseCSVLine(line); // use proper CSV parser
+  return Object.fromEntries(cols.map((col, i) => [col, vals[i]]));
+});
+
+// Now you have all books with: id, name, total_hadiths, available_languages, path
+console.log(books[0]); // { id: 'bukhari', name: 'Sahih al-Bukhari', ... }
+```
+
+**Step 2: Load book sections**
+
+Use the book `id` to fetch its section index from `editions/{book}/info.toon`.
+
+**Step 3: Load hadiths**
+
+Fetch section files for Arabic text, and translation files for specific languages.
+
+### Parsing Section Files
+
 Section files contain Arabic text and metadata. Translation files contain only `hadithnumber` and `text` columns. Parse headers dynamically to discover available fields.
 
 ### JavaScript Example

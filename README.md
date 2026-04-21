@@ -18,7 +18,7 @@ The most comprehensive multilingual Hadith database on internet. **25 books, 68,
 | **Collections** | 25 unified books |
 | **Sections** | 596 section files |
 
-Every book stored in single directory with **all available languages in one file**. No more fetching separate files for Arabic, Urdu, and English.
+Arabic text and metadata stored in `editions/{book}/sections/{N}.toon`. Translations stored separately in `editions/{book}/translations/{lang}/sections/{N}.toon` for efficient loading.
 
 Book-level intro + author metadata stored in `editions/{book}/info.toon`.
 
@@ -36,32 +36,36 @@ metadata:
   book_id: bukhari
   book_name: "Sahih al-Bukhari"
   total_hadiths: 12642
-  available_languages: "arabic,bengali,english,french,indonesian,russian,urdu"
+  available_languages: "ar,bn,en,fr,id,ru,ur"
   intro: "Book introduction"
   intro_ur: "Book introduction in Urdu"
 
 sections[97]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
   1,"Revelation","بدء الوحي",... ,1,7,1,7
 
-# editions/{book}/sections/1.toon
-hadiths[7]{hadithnumber,arabic,bengali,english,french,indonesian,russian,urdu,grades,reference,international_number,narrator_chain,chapter_intro}:
-  "1","حَدَّثَنَا...","...","Narrated 'Umar...","...","...","...","...","","","","Narrated 'Umar","Revelation"
-  "2","حَدَّثَنَا...","...","Narrated 'Aisha...","...","...","...","...","","","","Narrated 'Aisha","Revelation"
-```
+# editions/{book}/sections/1.toon (Arabic + metadata only)
+hadiths[7]{hadithnumber,arabic,grades,reference,international_number,narrator_chain,chapter_intro}:
+  "1","حَدَّثَنَا...","Sahih","...","1","Narrated 'Umar","Revelation"
+  "2","حَدَّثَنَا...","Sahih","...","2","Narrated 'Aisha","Revelation"
 
+# editions/{book}/translations/ur/sections/1.toon (Translation only)
+hadiths[7]{hadithnumber,text}:
+  "1","عمر بن خطاب رضی اللہ عنہ سے روایت ہے..."
+  "2","عائشہ رضی اللہ عنہا سے روایت ہے..."
+```
 ### How It Works
 
-1. **Global index** — Root `info.toon` lists books and paths.
+1. **Global index** — Root `info.toon` lists all 25 books with metadata.
 2. **Book metadata** — `editions/{book}/info.toon` stores intro + section index.
-3. **Section data** — `editions/{book}/sections/{section}.toon` stores hadith rows.
-4. **Translation slices** — `editions/{book}/translations/{lang}/sections/{section}.toon` stores `{hadithnumber,text}` CSV rows with header.
-5. **Dynamic columns** — Parse section header (`hadiths[N]{...}`) before reading rows.
+3. **Section data** — `editions/{book}/sections/{N}.toon` stores Arabic text + metadata (NO translations).
+4. **Translation files** — `editions/{book}/translations/{lang}/sections/{N}.toon` stores translations separately.
+5. **Dynamic columns** — Parse header (`hadiths[N]{...}`) to discover available fields.
 
 ---
 
-## Dynamic Schema: Language Availability
+## Language Support
 
-Each book includes all available languages in a single unified file. **Read the header to discover which languages are present.**
+Arabic text and metadata are in section files. Translations are stored separately by language in `editions/{book}/translations/{lang}/sections/{N}.toon`.
 
 ### Book Introductions
 
@@ -72,8 +76,8 @@ Each book includes multilingual introductions in per-book metadata file:
 metadata:
   book_id: bukhari
   book_name: "Sahih al-Bukhari"
-  available_languages: "arabic,bengali,english,french,indonesian,russian,urdu"
-  intro: "Book introduction in original/source language"
+  available_languages: "ar,bn,en,fr,id,ru,ur"
+  intro: "Book introduction"
   intro_bn: "Bengali translation"
   intro_fr: "French translation"
   intro_id: "Indonesian translation"
@@ -81,21 +85,13 @@ metadata:
   intro_ur: "Urdu translation"
 ```
 
-**Language availability varies by book:**
-- **Tier 1 (7 languages):** arabic, bengali, english, french, indonesian, russian, urdu — Bukhari, Muslim, Abu Dawud
-- **Tier 2 (7 languages in section schema):** arabic, bengali, english, french, indonesian, russian, urdu — Nasai, Ibn Majah, Malik, Musnad Ahmed, Mishkat, Al-Adab, Bulugh, Shamail, Sunan Darmi
-- **Tier 3 (7 languages in section schema):** arabic, bengali, english, french, indonesian, russian, urdu — Tirmidhi
-- **Tier 4 (2 languages):** arabic, urdu — Mustadrak, Sunan Daraqutni, Musannaf, Sahih Ibn Khuzaymah, Muajam Tabarani, Fatah Al-Rabani, Silsila Sahiha, Lulu wal-Marjan, Bayhaqi
-- **Tier 5 (6 languages):** arabic, bengali, english, french, turkish, urdu — Nawawi 40
-- **Tier 6 (4 languages):** arabic, english, french, urdu — Qudsi 40, Dehlawi 40
-
-Intro translations exist for each non-arabic language in the book. **Check the metadata in each file to see which intro translations are available.**
+**Language availability varies by book.** Check `available_languages` in book metadata or list translation directories.
 
 ---
 
 ## How to Parse (For Developers)
 
-The key insight: **read the header to discover the columns dynamically**. Don't hardcode column positions.
+Section files contain Arabic text and metadata. Translation files contain only `hadithnumber` and `text` columns. Parse headers dynamically to discover available fields.
 
 ### JavaScript Example
 

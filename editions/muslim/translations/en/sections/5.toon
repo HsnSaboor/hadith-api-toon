@@ -1,397 +1,508 @@
-hadiths[396]{hadithnumber,text}:
-1161,520.01
-1162,520.02
-1163,521.01
-1164,521.02
-1165,522.01
-1166,522.02
-1167,523.01
-1168,523.02
-1169,523.03
-1170,523.04
-1171,523.05
-1172,523.06
-1173,524.01
-1174,524.02
-1175,524.03
-1176,525.01
-1177,525.02
-1178,526.01
-1179,526.02
-1180,527
-1181,528.01
-1182,528.02
-1183,528.03
-1184,529
-1185,530.01
-1186,530.02
-1187,531
-1188,532
-1189,533.01
-1190,533.02
-1191,534.01
-1192,534.02
-1193,534.03
-1194,535.01
-1195,535.02
-1196,535.03
-1197,535.04
-1198,536
-1199,537.01
-1200,537.02
-1201,538.01
-1202,538.02
-1203,539.01
-1204,539.02
-1205,540.01
-1206,540.02
-1207,540.03
-1208,540.04
-1209,541.01
-1210,541.02
-1211,542
-1212,543.01
-1213,543.02
-1214,543.03
-1215,543.04
-1216,544.01
-1217,544.02
-1218,545
-1219,546.01
-1223,547.01
-1224,547.02
-1225,548.01
-1226,548.02
-1227,549
-1228,550.01
-1229,550.02
-1230,551
-1231,552.01
-1232,552.02
-1233,553
-1234,554.01
-1235,554.02
-1236,555.01
-1237,555.02
-1238,556.01
-1239,556.02
-1240,556.03
-1241,557.01
-1242,557.02
-1243,558
-1244,559.01
-1245,559.02
-1246,560.01
-1247,560.02
-1248,561.01
-1249,561.02
-1250,562
-1252,563
-1253,564.01
-1254,564.02
-1255,564.04
-1256,565
-1257,566
-1258,567.01
-1259,567.02
-1260,568.01
-1261,568.02
-1262,569.01
-1263,569.02
-1264,569.03
-1265,389.06
-1266,389.07
-1267,389.08
-1268,389.09
-1269,570.01
-1270,570.02
-1271,570.03
-1272,571.01
-1273,571.02
-1274,572.01
-1275,572.02
-1276,572.03
-1277,572.04
-1278,572.05
-1279,572.06
-1280,572.07
-1281,572.08
-1282,572.09
-1283,572.10
-1284,572.11
-1285,572.12
-1286,572.13
-1287,572.14
-1288,573.01
-1289,573.02
-1290,573.03
-1291,573.04
-1292,573.05
-1293,574.01
-1294,574.02
-1295,575.01
-1296,575.02
-1297,576
-1298,577
-1299,578.01
-1300,578.02
-1301,578.03
-1302,578.04
-1303,578.05
-1304,578.06
-1305,578.07
-1306,578.08
-1307,579.01
-1308,579.02
-1309,580.01
-1310,580.02
-1311,580.03
-1312,580.04
-1313,581.01
-1314,581.02
-1315,582
-1316,583.01
-1317,583.02
-1318,583.03
-1319,584
-1320,585
-1321,586.01
-1322,586.02
-1323,587
-1324,588.01
-1325,589
-1326,588.02
-1327,588.03
-1328,588.04
-1329,588.05
-1330,588.06
-1331,588.07
-1333,590
-1334,591
-1335,592.01
-1336,592.02
-1337,592.03
-1338,593.01
-1339,593.02
-1340,593.03
-1341,593.04
-1342,593.05
-1343,594.01
-1344,594.02
-1345,594.03
-1346,594.05
-1347,595.01
-1348,595.02
-1349,596.01
-1352,597.01
-1353,597.02
-1356,599
-1357,600
-1358,601
-1359,602.01
-1360,602.02
-1361,602.03
-1362,602.04
-1363,603.01
-1364,603.02
-1367,605.01
-1368,605.02
-1369,605.03
-1370,606
-1371,607.01
-1372,607.02
-1373,607.03
-1374,608.01
-1375,608.02
-1376,609
-1377,608.03
-1378,608.04
-1379,610.01
-1380,610.02
-1381,611.01
-1382,611.02
-1383,611.03
-1384,611.04
-1385,612.01
-1386,612.02
-1387,612.03
-1388,612.04
-1389,612.05
-1390,612.06
-1391,613.01
-1392,613.02
-1393,614.01
-1394,614.02
-1395,615.01
-1396,615.02
-1397,615.03
-1398,615.04
-1399,615.05
-1400,616
-1401,617.01
-1402,617.02
-1403,617.03
-1404,618
-1405,619.01
-1406,619.02
-1407,620
-1408,621.01
-1409,621.02
-1410,621.03
-1411,621.04
-1412,622
-1413,623
-1414,624
-1415,625.01
-1416,625.02
-1417,626.01
-1418,626.02
-1419,626.03
-1420,627.01
-1421,627.02
-1422,627.03
-1423,627.04
-1424,627.05
-1425,627.06
-1426,628
-1427,629
-1430,631.01
-1431,631.02
-1432,632.01
-1433,632.02
-1434,633.01
-1435,633.02
-1436,634.01
-1437,634.02
-1438,635.01
-1439,635.02
-1440,636
-1441,637.01
-1442,637.02
-1443,638.01
-1444,638.02
-1445,638.03
-1446,639.01
-1447,639.02
-1448,640.01
-1449,640.02
-1450,640.03
-1451,641
-1452,642
-1453,643.01
-1454,643.02
-1455,644.01
-1456,644.02
-1457,645.01
-1458,645.02
-1459,645.03
-1460,646.01
-1461,646.02
-1462,647.01
-1463,647.02
-1464,647.03
-1465,648.01
-1466,648.02
-1467,648.03
-1468,648.04
-1469,648.05
-1470,648.06
-1471,648.07
-1472,649.01
-1473,649.02
-1474,649.03
-1475,649.04
-1476,649.05
-1477,650.01
-1478,650.02
-1479,650.03
-1480,650.04
-1481,651.01
-1482,651.02
-1483,651.03
-1484,651.04
-1485,652
-1486,653
-1487,654.01
-1488,654.02
-1489,655.01
-1490,655.02
-1491,656.01
-1492,656.02
-1493,657.01
-1494,657.02
-1495,657.03
-1496,33.03
-1497,33.04
-1498,33.05
-1499,658
-1500,659
-1501,660.01
-1502,660.02
-1503,660.03
-1504,513.02
-1505,661
-1506,649.06
-1507,649.07
-1508,649.08
-1509,649.09
-1510,649.10
-1511,649.11
-1512,649.12
-1513,662
-1514,663.01
-1515,663.02
-1516,663.03
-1517,663.04
-1518,664
-1519,665.01
-1520,665.02
-1521,666
-1522,667
-1523,668
-1524,669
-1525,670.01
-1526,670.02
-1527,670.03
-1528,671
-1529,672.01
-1530,672.02
-1531,672.03
-1532,673.01
-1533,673.02
-1534,673.03
-1535,674.01
-1536,674.02
-1537,674.03
-1538,674.04
-1539,674.05
-1540,675.01
-1541,675.02
-1542,675.03
-1543,675.04
-1544,676
-1545,677.01
-1546,677.02
-1547,677.03
-1548,677.04
-1549,677.05
-1550,677.06
-1551,677.07
-1552,677.08
-1553,677.09
-1554,677.10
-1555,678.01
-1556,678.02
-1557,679.01
-1558,679.02
-1559,679.03
-1560,680.01
-1561,680.02
-1562,681
-1563,682.01
-1564,682.02
-1565,683
-1566,684.01
-1567,684.02
-1568,684.03
-1569,684.04
+hadiths[507]{hadithnumber,text}:
+"1063","Al-Bara' reported"
+"1064","Al-Bara' reported:They (the Companions) said prayer with the Messenger of Allah (ﷺ)"
+"1065","Al-Bara' reported:When we were (in prayer) with the Messenger of Allah Allah (ﷺ) none of us benfft his back till we saw he prostrated. Zuhair and others reported:"" till we saw him prostrating"
+"1066","Amr b. Huraith reported:I said the dawn prayer behind the Apostle of (ﷺ) and heard him reciting: 'Nay. I call to witness the stars"
+"1067","(Abdullah b ) Ibn Abi Aufa reported:When the Messenger of Allah (ﷺ) raised his back from the rukd' he pronounced: Allah listened to him who praised Him. O Allah! our Lord! unto Thee be praise that would fill the heavens and the earth and fill that which will please Thee besides them"
+"1068","Abdullah b. Aufa reported:The Messenger of Allah (ﷺ) used to recite this supplication: O Allah! our Lord"
+"1069","Abdullah b. Abu Aufa reported that the Messenger of Allah (ﷺ) used to recite (this supplication):O Allah! our Lord"
+"1070","This hadith with the same chain of transmitters has been narrated by Shu'ba"
+"1071","Abu Sa'id al-Khudri reported:When the Messenger of Allah (ﷺ) raised his head after bowing"
+"1072","Ibn Abbas reported:When the Messenger of Allah (ﷺ) raised his head after bowing"
+"1073","Ibn Abbas reported from the Messenger of Allah (ﷺ) the words:"" And that would fill that which will please Thee besides (them)!"" and he did not mention the subsequent (portion of supplication)"
+"1074","Ibn 'Abbas reported:The Messenger of Allah (ﷺ) drew aside the curtain (of his apartment) and (he saw) people in rows (saying prayer) behind Aba Bakr. And he said: Nothing remains of the glad tidings of apostlehood"
+"1075","Abdullah b. 'Abbas reported:The Messenger of Allah (ﷺ) drew aside the curtain and his head was bandaged on account of illness in which he died. He said: O Allah"
+"1076","Ali b. Abi Talib reported:The Messenger of Allah (ﷺ) forbade me to recite (the Qur'an) in a state of bowing and prostration"
+"1077","Ali b. Abi Talib reported:The Messenger of Allah (ﷺ) forbade to recite the Qur'an"
+"1078","Ali b. Abi Talib reported:The Messenger of Allah (ﷺ) forbade me from the recitation (of the Qur'an) in bowing and prostration and I do not say that he forbade you"
+"1079","Ali reported:My loved one (the Holy Prophet) forbade me that I should recite (the Qur'an) in a state of bowing and prostration"
+"1080","This hadith has been narrated by some other narrators"
+"1081","This hadith is transmitted on the authority of 'Ali"
+"1082","Ibn 'Abbas reported:I was forbidden to recite (the Qur'an) while I was bowing"
+"1083","Abu Huraira reported:The Messenger of Allah (ﷺ) said: The nearest a servant comes to his Lord is when he is prostrating himself"
+"1084","Abu Huraira reported:The Messenger of Allah (ﷺ) used to say while prostrating himself: O Lord"
+"1085","A'isha reported:The Messenger of Allah (may peace be upon him') often said while bowing and prostrating himself:"" Glory be to Thee"
+"1086","A'isha reported that the Messenger of Allah (ﷺ) before his death recited often:Hallowed be Thou"
+"1087","A'isha reported:Never did I"
+"1088","A'isha reported:The Messenger of Allah (ﷺ) recited often these words: Hallowed be Allah and with His praise"
+"1089","Ibn Juraij reported:I asked 'Ata': What do you recite when you are in a state of bowing (in prayer)? He said:"" Hallowed be Thou"
+"1090","A'isha reported:One night I missed Allah's Messenger (ﷺ) from the bed"
+"1091","A'isha reported that the Messenger of Allah (may peace he upon him) used to pronounce while bowing and prostrating himself:All Glorious"
+"1092","This hadith has been narrated on the authority of 'A'isha by another chain of transmitters"
+"1093","Ma'dan b. Talha reported:I met Thauban"
+"1094","Rabi'a b. Ka'b said:I was with Allah's Messenger (ﷺ) one night. and I brought him water and what he required. He said to me: Ask (anything you like). I said: I ask your company in Paradise. He (the Holy Prophet) said: Or anything else besides it. I said: That is all (what I require). He said: Then help me to achieve this for you by devoting yourself often to prostration"
+"1095","Ibn 'Abbas reported:The Apostle of Allah (ﷺ) had been commanded that he should prostrate on the seven (bones) and he was forbidden to fold back the hair and clothing. And in the narration transmitted by Abu Rabi' (the words are):"" on the seven bones and I was forbidden to fold back the hair and clothing"". According to Abu'l-Rabi' (the seven bones are): The hands"
+"1096","Ibn 'Abbas reported from the Messenger of Allah (ﷺ):I was commanded to prostrate myself on seven bones and not to fold back clothing or hair"
+"1097","Ibn 'Abbas reported:The Messenger of Allah (ﷺ) had been commanded to prostrate on seven (bones) and forbidden to fold back hair and clothing"
+"1098","Ibn Abbas reported that the Messenger of Allah (ﷺ) said:I have been commanded to prostrate myself on seven bones:"" forehead"
+"1099","Ibn Abbas reported:The Messenger of Allah (ﷺ) said: I was commanded to prostrate myself on the seven (bones) and forbidden to fold back hair and clothing. (The seven bones are): forehead"
+"1100","It was narrated from Al-'Abbas bin 'Abdul Muttalib that he heard the Messenger of Allah (ﷺ) say:""When a person prostates"
+"1101","Abdullah b. Abbas reported that he saw 'Abdullah b. al-Harith observing the prayer and (his hair) was plaited behind his head. He ('Abdullah b. 'Abbas) stood up and unfolded them. While going back (from the prayer) he met Ibn 'Abbas and said to him:Why is it that you touched my head? He (Ibn 'Abbas) replied: (The man who observes prayer with plaited hair) is like one who prays with his hands tied behind"
+"1102","Anas reported:The Messenger of Allah (ﷺ) said: Observe moderation in prostration"
+"1103","This hadith has been narrated by Shu'ba with the same chain of transmitters. And in the hidith transmitted by Ibn Ja'far (the words are):"" None of you should stretch out his forearms like the stretching out of a dog"
+"1104","Al-Bira' (b. 'Azib) reported:The Messenger of Allah (ﷺ) said. When you prostrate yourself"
+"1105","Abdullah b. Malik ibn Bujainah reported:When the Prophet (ﷺ) prostrated"
+"1106","This hadith has been narrated by Ja'far b. Rabi' with the same chain of transmitters. And in the narration transmitted by 'Amr b. al-Harith (the words are):"" When the Messenger of Allah (rtiay peace be upon him) prostrated"
+"1107","Maimuna reported:When the Messenger of Allah (ﷺ) prostrated himself"
+"1108","Maimuna"
+"1109","Maimuna daughter of Harith reported:When the Messenger of Allah (ﷺ) prostrated"
+"1110","A'isha reported:The Messenger of Allah (ﷺ) used to begin prayer with takbir (saying Allahu Akbar) and the recitation: ""Praise be to Allah"
+"1111","Musa b. Talha reported it on the authority of his father:The Messenger of Allah (ﷺ) said: When one of you places in front of him so me. thing such as the back of a saddle"
+"1112","Musa b. Talha reported on the authority of his father:We used to say prayer and the animals moved in front of us. We mentioned it to the Messenger of Allah (ﷺ) and he said: If anything equal to the back of a saddle is in front of you"
+"1113","A'isha reported:The Messenger of Allah (ﷺ) was asked about sutra of a worshipper; he said: Equal to the back of the saddle"
+"1114","A'isha reported:The Messenger of Allah (ﷺ) was asked in the expedition of Tabuk about the sutra the worshipper; he said: Like the back of the saddle"
+"1115","Ibn Umar reported:When the Messenger of Allah (may peace he upon him) went out on the 'Id day"
+"1116","Ibn Umar reported:The Apostle of Allah (ﷺ) set up (sutra)"
+"1117","Ibn 'Umar said:The Apostle of Allah (ﷺ) used to place his camel (towards the Ka'ba) and said prayer in its direction"
+"1118","Ibn 'Umar reported:The Apostle of Allah (ﷺ) used to say prayer towards his camel. Ibn Numair said: The Apostle of Allah (ﷺ) said prayer towards the camel"
+"1119","Abu Juhaifa reported it on the authority of his father:I came to the Messenger of Allah (ﷺ) in Mecca and he was (at that time) at al- Abtah in a red leather tent. And Bilal stepped out with ablution water for him. (And what was left out of that water) some of them got it (whereas others could not get it) and (those who got it) rubbed themselves with it. Then the Messenger of Allah (ﷺ) stepped out with a red mantle on him and I was catching a glimpse of the whiteness of his shanks. The narrator said: He (the Holy Prophet) performed the ablution. and Bilal pronounced Adhan and I followed his mouth (as he turned) this side and that as he said on the right and the left:"" Come to prayer"
+"1120","Abu Juhaifa reported on the authority of his father:I saw the Messenger of Allah (ﷺ) (in Mecca at al-Abtah) in a red leather tent. and I saw Bilal take the ablution water (left by Allah's Messenger)"
+"1121","Aun b. Abu Juhaifa narrated from the Messenger of Allah (ﷺ) on the authority of his father a hadith like that of Sufyan"
+"1122","Abu Juhaifa reported:The Messenger of Allah (ﷺ) went at noon towards al-Batha'"
+"1123","Shu'ba narrated the same on the basis of two authorities and in the hadith transmitted by Hakam (the words are):The people began to get water that was left out of his (the Prophet's) ablution"
+"1124","Ibn 'Abbas reported:I came riding on a she-ass"
+"1125","Abdullah b. Abbas reported that he came riding on a donkey"
+"1126","This hadith has been narrated by Ibn 'Uyaina on the authority of al-Zuhri with the same chain of transmitters and he reported:The Apostle of Allah (ﷺ) was leading prayer at 'Arafa"
+"1127","This hadith has been reported by Ma'mar on the authority of al-Zuhri with the came chain of transmitters"
+"1128","Abu Sa'id al-Khudri reported that the Messenger of Allah (ﷺ) said:When any one of you prays he should not let anyone pass in front of him (if there is no sutra)"
+"1129","Abu Salih al-Samman reported:I narrate to you what I heard and saw from Abu Sa'id al-Khudri: One day I was with Abu Sa'id and he was saying prayer on Friday turning to a thing which concealed him from the people when a young man from Banu Mu'ait came there and he tried to pass in front of him; he turned him back by striking his chest. He looked about but finding no other way to pass except in front of Abu Sa'id"
+"1130","Abdullah b. 'Umar reported that the Messenger of Allah (ﷺ) said:When any one of you prays"
+"1131","This hadith has been narrated by Ibn Umar by another chain of transmitters"
+"1132","Busr b Sa'id reported that Zaid b Khalid al-Juhani sent him to Abu Juhaim in order to ask him what he had heard from the Messenger of Allah (ﷺ) with regard to the passer in front of the worshipper. Abu Juhaim reported that the Messenger of Allah (ﷺ) said:If anyone who passes in front of a man who is praying knew the responsibility he incurs"
+"1133","This hadith has been narrated from Abu Juhaim Ansari by another chain of transmitters"
+"1134","Sahl b. Sa'd al-Si'idi reported:Between the place of worship where the Messenger of Allah (ﷺ) prayed and the wall"
+"1135","Salama b. Akwa' reported:He sought the place (in the mosque) where the copies of the Qur'an were kept and glorified Allah there"
+"1136","Yazid reported:Salama sought to say prayer near the pillar which was by that place where copies of the Qur'an were kept. I said to him: Abu Muslim. I see you striving to offer your prayer by this pillar. He said: I saw the Messenger of Allah (ﷺ) seeking to pray by its side"
+"1137","Abu Dharr reported:The Messenger of 'Allah (ﷺ) said: When any one of you stands for prayer and there is a thing before him equal to the back of the saddle that covers him and in case there is not before him (a thing) equal to the back of the saddle"
+"1138","This hadith has been transmitted by Humaid b. Hilal on the authority of Yunus"
+"1139","Abu Huraira reported:The Messenger of Allah (ﷺ) said: A woman"
+"1140","A'isha reported:The Prophet (ﷺ) used to pray at night while I lay interposed between him and the Qibla like a corpse on the bier"
+"1141","A'isha reported:The Apostle of Allah (ﷺ) said his whole prayer (Tahajjud prayer) during the night while I lay between him and the Qibla. When he intended to say Witr (prayer) he awakened me and I too said witr (prayer)"
+"1142","Urwa b. Zubair reported:'A'isha asked: What disrupts the prayer? We said: The woman and the ass. Upon this she remarked: Is the woman an ugly animal? I lay in front of the Messenger of Allah (ﷺ) like the bier of a corpse and he said prayer"
+"1143","Masruq reported:It was mentioned before'A'isha that prayer is invalidated (in case of passing) of a dog"
+"1144","Al-Aswad reported that 'A'isha said:You have made us equal to the dogs and the asses"
+"1145","A'isha reported:I was sleeping in front of the Mcsseinger ef Allah (ﷺ) with my legs between him and the Qibla. When he prostrated himself he pinched me and I drew up my legs"
+"1146","Maimuna"
+"1147","A'isha reported:The Apostle of Allah (ﷺ) said prayer at night and I was by his side in a state of meanses and I had a sheet pulled over me a portion of which was on his side"
+"1148","Abu Huraira reported:An inquirer asked the Messenger of Allah (ﷺ) about the prayer in a single garment. He (the Holy Prophet) add: Has everyone of you two garments?"
+"1149","A hadith like this has been narrated by Abu Huraira with another chain of transmitters"
+"1150","Abu Huraira reported:A person addressed the Messenger of Allah (ﷺ) and said to him: Can any one of us say prayer in one garment? He said: Do all of you possess two garments?"
+"1151","Abu Huraira reported:The Messenger of Allah (ﷺ) said: None of you must pray in a single garment of which no part comes over his shoulders"
+"1152","Umar b. Abu Salama reported:I saw the Messenger of Allah (ﷺ) praying in Umm Salama's house in a single garment"
+"1153","This hadith has been narrated by Hisham b. 'Urwa with the same chain of transmitters except (with this difference) that the word mutawashshihan was used and not the word mushtamilan"
+"1154","Umar b. Abu Salama reported:I saw the Messenger of Allah (ﷺ) saying prayer in the house of Umm Salama in a single garment with its extremities crossing each other"
+"1155","Umar b. Abu Salama reported:I saw the Messenger of Allah (ﷺ) praying in a single garment with its ends crossing each other. 'Isa b. Hammad added:"" placing on his shoulders"
+"1156","Jabir reported:I saw the Messenger of Allah (ﷺ) praying in a single garment crossing the two ends"
+"1157","This hadith has been narrated by Sufyan with the same chain of transmitters and in the hadith transmitted by Numair the words are:I called upon the Messenger of Allah (ﷺ)"
+"1158","Abu Zubair reported that he saw Jabir b. 'Abdullah praying in a single garment crossing Its ends even though he had the garments"
+"1159","Abu Sa'id al Khudri reported:I visited the Apostle (ﷺ) and saw him praying on a reed mat on which he was prostrating himself. And I saw him praying in a single garment with ends crossed with each other"
+"1160","This hadith has been narrated by A'mash with the came chain of transmitters"
+"1161","Abu Dharr reported:I said: Messenger of Allah"
+"1162","Ibrahim b. Yazid al-Tayml reported:I used to read the Qur'an with my father in the vestibule (before the door of the mosque). When I recited the ayat (verses) concerning prostration"
+"1163","Jabir b. 'Abdullah al-Ansari reported:The Prophet (ﷺ) said: I have been conferred upon five (things) which were not granted to anyone before me (and these are): Every apostle wassent particularly to his own people"
+"1164","Jabir b. 'Abdullah related that the Messenger of Allah (ﷺ) said"
+"1165","Hudhaifa reported:The Messenger of Allah (may peace be npon him) said: We have been made to excel (other) people in three (things): Our rows have been made like the rows of the angels and the whole earth has been made a mosque for us"
+"1166","Hudhaifa reported:The Messenger of Allah (ﷺ) said like this"
+"1167","Abu Huraira reported that the Messenger of Allah (may peace be upon hlmg) said:I have been given superiority over the other prophets in six respects: I have been given words which are concise but comprehensive in meaning; I have been helped by terror (in the hearts of enemies): spoils have been made lawful to me: the earth has been made for me clean and a place of worship; I have been sent to all mankind and the line of prophets is closed with me"
+"1168","Abu Huraira reported:The Messenger of Allah (ﷺ) said: I have been commissioned with words which are concise but comprehensive in meaning; I have been helped by terror (in the hearts of enemies): and while I was asleep I was brought the keys of the treasures of the earth which were placed in my hand. And Abfi Huraira added: The Messenger of Allah (ﷺ) has left (for his heavenly home) and you are now busy in getting them"
+"1169","Abu Huraira reported:I heard the Messenger of Allah (ﷺ) saying a hadith like that of Yunus"
+"1170","This hadith has been narratted by Abu Huraira by another chain of transmitters"
+"1171","Abu Huraira reported:The Messenger of Allah (ﷺ) said: I have been helped by terror (in the heart of the enemy) ; I have been given words which are concise but comprehensive in meaning; and while I was asleep I was brought the keys of the treasures of the earth which were placed in my hand"
+"1172","Hammam b. Munabbih reported:That is what Abu Huraira reported to us from the Messenger of Allah (ﷺ) and he narrated (some) ahadith one of which is that the Messenger of Allah (ﷺ) said: I have been helped by terror (in the hearts of enemies) and I have been given words which are concise but comprehensive in meaning"
+"1173","Anas b. Malik reported:The Messenger of Allah (ﷺ) came to Medina and stayed in the upper part of Medina for fourteen nights with a tribe called Banu 'Amr b 'Auf. He then sent for the chiefs of Banu al-Najir"
+"1174","Anas reported:The Messenger of Allah (ﷺ) used to pray in the folds of the sheep and goats before the mosque was built"
+"1175","Abu al-Tiyyah reported:I heard from Anas a narration like this from the Messenger of Allah (ﷺ)"
+"1176","Al-Bara' b. 'Azib reported:I said prayer with the Apostle (ﷺ) turning towards Bait-ul-Maqdis for sixteen months till this verse of Surah Baqara wis revealed:"" And wherever you are turn your faces towards it"" (ii. 144). This verse was revealed when the Apostle (ﷺ) had said prayer. A person amongst his people passed by the people of Ansar as they were engaged in prayer. He narrated to them (this command of Allah) and they turned their faces towards the Ka'ba"
+"1177","Abu Ishaq reported:I heard al-Bara' saying: We prayed with the Messenger of Allah (ﷺ) (with our faces) towards Bait-ul-Maqdis for sixteen months or seventeen months. Then we were made to change (our direction) towards the Ka'ba"
+"1178","Ibn 'Umar reported:As the people were praying at Quba' a man came to them and said: It has been revealed to file Messenger of Allah (ﷺ) during the night and he has been directed to turn towards the Ka'ba. So turn towards it. Their faces were towards Syria and they turned round towards Ka'ba"
+"1179","Ibn 'Umar reported:As the people were engaged in the morning prayer a man came to them. The rest of the hadith is the same"
+"1180","Anas reported:The Messenger of Allah (ﷺ) used to pray towards Bait-ul-Maqdis"
+"1181","A'isha reported:Umm Habiba and Umm Salama made a mention before the Messenger of Allah (ﷺ) of a church which they had seen in Abyssinia and which had pictures in it. The Messenger of Allah (ﷺ) said: When a pious person amongst them (among the religious groups) dies they build a place of worship on his grave"
+"1182","A'isha reported:They (some Companions of the Holy Prophet) were conversing with one another in the presence of the Messenger of Allah (ﷺ) (during his last) illness. Umm Salama and Umm Habiba made a mention of the church and then (the hadith was) narrated"
+"1183","A'isha reported:The wives of the Messenger of Allah (may peace be Upon him) made a mention of the church which they had seen in Abyssinia which was called Marya"
+"1184","A'isha reported:The Messenger of Allah (ﷺ) said during his illness from which he never recovered: Allah cursed the Jews and the Christians that they took the graves of their prophets as mosques. She ('A'isha) reported: Had it not been so"
+"1185","Abu Huraira reported:The Messenger of Allah (ﷺ) said: Let Allah destroy the Jews for they have taken the graves of their apostles as places of worship"
+"1186","Abu Huraira reported:The Messenger of Allah (ﷺ) said: Let there be curse of Allah upon the Jews and the Christians for they have taken the graves of their apostles as places of worship"
+"1187","A'isha and Abdullah reported:As the Messenger of Allah (ﷺ) was about to breathe his last"
+"1188","Jundub reported:I heard from the Messenger of Allah (ﷺ) five days before his death and he said: I stand acquitted before Allah that I took any one of you as friend"
+"1189","Ubaidullah al-Khaulini reported:'Uthman b. 'Affan listened to the opinion of the people (which was not favourable) when he rebuilt the mosque of the Messenger of Allah (ﷺ). Thereupon he said: You have not been fair to me for I have heard from the Messenger of Allah (ﷺ) saying: He who built a mosque for Allah"
+"1190","Mahmud b. Labid reported:When 'Uthman b. 'Affan intended to build the mosque (of the Prophet) the people did not approve of it. They liked that it should be kept in the same state. Thereupon he said: I heard the Messenger of Allah (ﷺ) say: He who built a mosque for Allah"
+"1191","Al-Aswad and 'Alqama reported:We came to the house of 'Abdullah b. Mas'ud. He said: Have these people said prayer behind you? We said: No. He said: Then stand up and say prayer. He neither ordered us to say Adhan nor Iqama. We went to stand behind him. He caught hold of our hands and mode one of us stand on his right hand and the other on his left side. When we bowed"
+"1192","This hadith is narrated on the authority of Alqama and Aswad by another chain of transmitters and in the hadith transmitted by Ibn Mus-hir and Jabir the words are:"" I perceive as if I am seeing the gap between the fingers of the Messenger of Allah (ﷺ) as he was bowing"
+"1193","Alqama and Aswad reported that they went to 'Abdullah. He said:Have (people) behind you said prayer? They said: Yes. He stood between them ('Alqama and Aswad). One was on his right aide and the other was on his left. We then bowed and placed our hands on our knees. He struck our hands and then putting his hands together"
+"1194","Mus'ab b. Sa'd reported:I said prayer by the side of my father and placed my hands between my knees. My father said to me: Place your hands on your knees. I repeated that (the previous act) for the second time"
+"1195","This hadith has been narrated by Abu Ya'fur with the same chain of transmitters up to these words:We have been forbidden from it and no mention of that has been made what follows it"
+"1196","Ibn Sa'd reported:I bowed and my hands were in this state"
+"1197","Mus'ab b. Sa'd b. Abu Waqqas reported:I said prayer by the side of my father. When I bowed I intertwined my fingers and placed them between my knees. He struck my hands. When he completed the prayer he said: We used to do that but then were commanded to lift (our palms) to the knees"
+"1198","Tawus reported:We asked Ibn Abbas about sitting on one's buttocks (in prayer). (ala alqad mein) He said: It is sunnah. We said to him: We find it a sort of cruelty to the foot. Ibn 'Abbas said: It is the sunnah of your Apostle (ﷺ)"
+"1199","Mu'awiya b. al-Hakam said:While I was praying with the Messenger of Allah (ﷺ)"
+"1200","This hadith has been narrated by Yahya b. Abu Kathir with the same chain of transmitters"
+"1201","Abdullah (b. Masu'd) reported:We used to greet the Messenger of Allah (ﷺ) while he was engaged in prayer and he would respond to our greeting. But when we returned from the Negus we greeted him and he did not respond to us; so we said: Messenger of Allah. we used to greet you when you were engaged in prayer and you would respond to us. He replied: Prayer demands whole attention"
+"1202","This hadith has been reported by A'mash with the same chain of transmitters"
+"1203","Zaid b. Arqam reported:We used to talk while engaged in prayer and a person talked with a companion on his side in prayer till (this verse) was revealed:"" And stand before Allah in devout obedience"" (ii"
+"1204","A hadith like this has been transmitted by Isma'il b. Abu Khalid"
+"1205","Jabir reported:The Messenger of Allah (ﷺ) sent me on an errand. I (having done the business assigned to me came back and) joined him as he was going (on a ride). Qutaiba said that he was saying prayer while he rode. I greeted him. He gestured to me. When he completed the prayer. he called me and said: You greeted me just now while I was engaged in prayer. (Qutaiba said): His (Prophet's face) was towards the east"
+"1206","Jabir reported:The Messenger of Allah (ﷺ) sent me (on an errand) while he was going to Banu Mustaliq. I came to him and he was engaged in prayer on the back of his camel. I talked to him and he gestured to me With his hand"
+"1207","Jabir reported:We were in the company of the Messenger of Allah (ﷺ)"
+"1208","This hadith that the Messenger of Allah (ﷺ) sent Jabir on an errand has been reported by him through another chain of transmitters"
+"1209","Abu Huraira reported that he heard the Messenger of Allah (ﷺ) saying:A highly wicked one amongst the Jinn escaped yesternight to interrupt my prayer"
+"1210","This hadith has been transmitted by Ibn Abi Shaiba"
+"1211","Abu Darda' reported:Allah's Messenger (ﷺ) stood up (to pray) and we heard him say:"" I seek refuge in Allah from thee."" Then said:"" curse thee with Allah's curse"" three times"
+"1212","Abu Qatadi reported:I saw the Messenger of Allah (ﷺ) saying the prayer while he was carrying Umama"
+"1213","Abu Qatada al-Ansari reported:I saw the Apostle (ﷺ) leading the people in prayer with Umima"
+"1214","Abu Qatada reported:I saw the Messenger of Allah (ﷺ) leading the people in prayer with Umama daughter of Abu'l-'As on his neck; and when he prostrated he put her down"
+"1215","Abu Qatada reported:As we were sitting in the mosque"
+"1216","Abu Hazim is reported on the authority of his father:Some people came to Sahl b. Sa'd and began to differ about the wood of which the (Prophet's pulpit was made. He (Sahl b. Sa'd) said: By Allah"
+"1217","Abu Hazim reported:They (the people) came to Sahl b. Sa'd and they asked him of what thing the pulpit of the Messenger of Allah (ﷺ) was made"
+"1218","Abu Huraira reported from the Messenger of Allah (ﷺ) that he forbade keeping one's hand on one's waist while praying"
+"1219","Mu'aiqib quoted the Messenger of Allah (ﷺ) mentioning the removal of pebbles from the ground where he prostrated himself. He (the Prophet) said:It you must do so"
+"1220","Mu'aiqib said:They asked the Apostle (ﷺ) about the removal of (pebbles) in prayer"
+"1221","Same as Hadees 1220 \nSahih Muslim Hadees: 1221 Arabic Hadees: 546"
+"1222","Same as Hadees 1220 \nSahih Muslim Hadees: 1222 Arabic Hadees: 546"
+"1223","Abdullah b. Umar reported:The Messenger of Allah (ﷺ) saw spittle on the wall towards Qibla"
+"1224","Ibn Umar reported that the Messenger of Allah (ﷺ) saw sputum sticking to the Qibla wall of the mosque"
+"1225","Abu Sa'id al-Khudri reported:The Apostle of Allah (ﷺ) saw sputum sticking to the Qibla of the mosque. He scratched it off with a pebble and then forbade spitting on the right side or in front"
+"1226","Abu Huraira and Abu Sa'id narrated that the Messenger of Allah (ﷺ) saw sputum"
+"1227","A'isha reported:The Apostle of Allah (may"
+"1228","Abu Huraira reported that the Messenger of Allah (ﷺ) saw some sputum in the direction of the Qibla of the mosque. He turned towards people and said:How Is it that someone amongst you stands before his Lord and then spits out in front of Him? Does any one of you like that he should be made to stand in front of someone and then spit at his face? So when any one of you spits"
+"1229","Abu Huraira reported:I perceive as if I am looking at the Messenger of Allah (ﷺ) folding up a part of his cloth with another one"
+"1230","Anas b. Malik reported:The Messenger of Allah (ﷺ) said: When any one of you is engaged in prayer"
+"1231","Anas b. Malik reported:The Messenger of Allah (ﷺ) said: Spitting in a mosque is a sin"
+"1232","Shu'ba reported:I asked Qatada about spitting"
+"1233","Abu Dharr reported:The Apostle of Allah (ﷺ) said: The deeds of my people"
+"1234","Abdullah b. Shakhkhir reported on the authority of his father that he said:I said prayer with the Messenger of Allah (ﷺ) and saw him spitting and rubbing it off with his shoe"
+"1235","Abdullah b. Shakhkhir narrated it on the authority of his father that he said prayer with the Messenger of Allah (ﷺ)"
+"1236","Sa'd b. Yazid reported:I said to Anas b. Malik: Did the Messenger of Allah (ﷺ) pray while putting on the shoes? He said: Yes"
+"1237","Sa'd b. Yazid Abu Mas'ama reported:I said to Anas like (that mentioned above)"
+"1238","A'isha reported:The Apostle of Allah (ﷺ) prayed in a garment which had designs over it"
+"1239","A'isha reported:The Messenger of Allah (ﷺ) stood for prayer with a garment which had designs over it. He looked at these designs and after completing the prayer said: Take this garment to Abu Jahm b. Hudhaifa and bring me a blanket for it has distracted me just now"
+"1240","A'isha reported:The Apostle of Allah (way peace be upon him) had a garment which had designs upon it and this distracted him in prayer. He gave it to Abu Jahm and took a plain garment in its place which is known anbijaniya"
+"1241","Anas b. Malik reported the Messenger of Allah (ﷺ) saying:When the supper is brought and the prayer begins"
+"1242","Anas b. Malik reported:The Messenger of Allah (ﷺ) said: When the supper is brought before you"
+"1243","This hadith has been narrated on the authority of Anas by another chain of transmitters"
+"1244","Ibn 'Umar reported:The Messenger of Allah (ﷺ) said: When the supper is served to any one of you and the prayer also begins. (in such a case) first take supper"
+"1245","A hadith like this has been narrated from the Messenger of Allah (ﷺ) on the authority of Ibn 'Umar with another chain of transmitters"
+"1246","Ibn Atiq reported:Al-Qasim was in the presence of 'A'isha (Allah be pleased with her) that I narrated a hadith and Qasim was a man who committed errors in (pronouncing words) and his mother was a freed slave-girl. 'A'isha said to him: What is the matter with you that you do not narrate as this son of my brother narrated (the ahaditb)? Well I know from where you picked it up. This is how his mother brought him up and how your mother brought you up. Qasim felt angry (on this remark of Hadrat 'A'isha) and showed bitterness towards her. When he saw that the table had been spread for 'A'isha"
+"1247","Abdullah b. 'Atiq narrated from the Apostle (ﷺ) on the authority of 'A'isha"
+"1248","Ibn 'Umar reported:The Messenger of Allah (ﷺ) said during the battle of Khaybar: He who ate of this plant"
+"1249","Ibn 'Umar reported:The Messenger of Allah (ﷺ) said: He who eats of this (offensive) plant must not approach our mosque"
+"1250","Ibn Suhaib reported:Anas was asked about the garlic; he stated that the Messenger of Allah (ﷺ) had said: He who eats of this plant (garlic) should not approach us and pray along with us"
+"1251","Abu Huraira reported:\nThe Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: He who eats of this plant (garlic) should not approach our mosque and should not harm us with the odour of garlic. \nSahih Muslim Hadees: 1251 Arabic Hadees: 562"
+"1252","Abu Huraira reported:The Messenger of Allah (ﷺ) said: He who eats of this plant (garlic) should not approach our mosque and should not harm us with the odour of garlic"
+"1253","Jabir reported:The Messenger of Allah (ﷺ) forbade eating of onions and leek. When we were overpowered by a desire (to eat) we ate them. Upon this he (the Holy Prophet) said: He who eats of this offensive plant must not approach our mosque"
+"1254","Jabir reported:The Messenger of Allah (ﷺ) said: He who eats garlic or onion should remain away from us or from our mosque and stay in his house. A kettle was brought to him which had (cooked) vegetables in it"
+"1255","Ibn Juraij has narrated it with the same chain of transmitters:He who eats of this plant"
+"1256","Abu Sa'id reported:We made no transgression but Khaybar was conquered. We"
+"1257","Abu Sa'id al-Khudri reported:The Messenger of Allah (ﷺ) along with his Companions happened to pass by a field in which onions were sown. The people stopped there and ate out of that"
+"1258","Ma'dan b. Talha reported:'Umar b. Khattab"
+"1259","This hadith has been narrated by Qatada with the same chain of transmitters"
+"1260","Abu Huraira reported:The Messenger of Allah (ﷺ) said: If anyone hears a man crying out in the mosque about something he has lost"
+"1261","Abu Huraira reported Allah's Messenger (ﷺ) saying like this"
+"1262","Sulaiman b. Buraida narrated it on the authority of his father that a man cried out in the mosque saying:Who had called out for the red camel? Upon this the Messenger of Allah (ﷺ) said: May it not be restored to you! The mosques are built for what they are meant"
+"1263","Sulaiman b. Buraida reported on the authority of his father that when the Messenger of Allah (ﷺ) had said prayer a man stood up and said:Who called for a red camel? (Upon this) the Messenger of Allah (ﷺ) said: May it not be restored to you! The mosques are built for what they are meant"
+"1264","Ibn Buraida narrated it on the authority of his father that a Bedouin came when the Messenger of Allah (ﷺ) had completed the morning prayer. He thrust his head in the door of the mosque"
+"1265","Abu Huraira reported:The Messenger of Allah (ﷺ) said: When any one of you stands up to pray"
+"1266","This hadith has been narrated by al-Zubri with the same chain of transmitters"
+"1267","Abu Huraira reported:The Messenger of Allah (ﷺ) said: When there is a call to prayer the devil runs back breaking the wind so that he may not hear the call"
+"1268","Abu Huraira reported:The Messenger of Allah (ﷺ) said: The devil takes to his heels breaking wind when the prayer begins. and the rest is the same but with this addition:"" He (the devil) makes him think of pleasant things (or things productive of enjoyment) and of the things wished for"
+"1269","Abdullah b. Buhaina reported:The Messenger of Allah (ﷺ) led us two rak'ahs of prayer in one of the (obligatory) prayers and then got up and did not sit. and the people stood up along with him. When he finished the prayer and we expected him to pronounce salutation. he said:"" Allah is Most Great"" while sitting and made two prostrations before salutation and then pronounced (the"
+"1270","Abdullah b. Buhaina al-Asadi"
+"1271","Abdullah b. Malik ibn Buhaina al-Asadi reported:The Messenger of Allah (ﷺ) stood up (at the end of two rak'ahs) when he had to sit and proceeded on with the prayer. But when he was at the end of the prayer"
+"1272","Abu Sa'id al-Khudri reported:The Messenger of Allah (ﷺ) said: When any one of you is in doubt about his prayer and he does Dot know how much he has prayed"
+"1273","This hadith has been narrated by Zaid b. Aslam with the same chain of transmitters and he said:He should perform two prostrations before the salutation"
+"1274","Alqama narrated It on the authority of 'Abdullah (b. Mas'ud) who said:The Messenger of Allah (ﷺ) said the prayer; (the narrator added): He made some act of omission or commission when he pronounced salutation; it was said to him: Messenger of Allah"
+"1275","This hadith has been narrated by Mansur with the same chain of transmitters"
+"1276","This hadith is reported by Mansur with the same chain of transmitters"
+"1277","This hadith has been narrated by Mansur with the same chain of transmitters with the words:He should aim at what is correct and complete"
+"1278","This hadith has been narrated by Mansur with the same chain of transmitters and said:"" He should aim at correctness and that is right"
+"1279","This hadith has been reported by Mansur with the same chain of transwitters and he said:"" He should aim at what is according to him correct"
+"1280","This hadith has been narrated by Mansur and he said:"" He should aim at correctness"
+"1281","Abdullah (b. Mas'ud) reported:The Apostle of Allah (ﷺ) said five rak'ahs of the noon prayer and when he completed the prayer"
+"1282","Alqama reported:He (the Holy Prophet) had led them five rak'ahs in prayer"
+"1283","Ibrahim b. Suwaid-reported:'Alqama led us in the noon prayer and be offered five rak'ahs; when the prayer was complete"
+"1284","Abdullah (b. Mas'ud) reported:The Messenger of Allah (ﷺ) led us five (rak'ahs in prayer). We said: Messenger of Allah"
+"1285","Abdullah (b. Mas'ud) reported:The Messenger of Allah (ﷺ) said prayer and he omitted or committed (something). Ibrahim (one of the narrators of this hadith) said: It is my doubt"
+"1286","Abdullah b. Mas'ud reported:The Apostle of Allah (ﷺ) performed two prostrations for forgetfulness after salutation and talking"
+"1287","Abdullah reported:We prayed along with the Messenger of Allah (may peace he upon him) and he committed or omitted (something). Ibrahim said: By Allah"
+"1288","Ibn Sirin reported Abu Huraira as saying:The Messenger of Allah (ﷺ) led us in one of the two evening prayers"
+"1289","Abu Huraira reported:The Messenger of Allah (ﷺ) led us in one of the evening prayers. And this hadith was narrated like one transmitted by Sufyan"
+"1290","Abu Huraira reported:The Messenger of Allah (ﷺ) led us in the 'Asr prayer and gave salutation after two rak'ahs. Dhu'l-Yadain (the possessor of long arms) stood up and said: Messenger of Allah"
+"1291","Abu Huraira reported:The Messenger of Allah (ﷺ) said two rak'ahs of the noon prayer and then gave salutation when a man from Band Sulaim came to him and said: Messenger of Allah. has the prayer been shortened"
+"1292","Abu Huraira reported:I offered with the Messenger of Allah (ﷺ) the noon prayer and the Messenger of Allah (ﷺ) gave salutation after two rak'ahs. A person from Bani Sulaim stood up"
+"1293","Imran b. Husain reported:The Messenger of Allah (ﷺ) said the afternoon prayer and gave the salutation. at the end of three rak'ahs and then went into his house. A man called al-Khirbaq"
+"1294","Imran b. Husain reported:The Messenger of Allah (ﷺ) said three rak'ahs of the 'Asr prayer and then got up and went to his apartment. A man possessing large arms stood up and said: Messenger of Allah"
+"1295","Ibn 'Umar reported:The Messenger of Allah (ﷺ) while reciting the Qur'an recited its surah containing sajda"
+"1296","Ibn 'Umar reported:Sometimes the Messenger of Allah (ﷺ) recited the Qur'an"
+"1297","Abdullah (b. 'Umar) reported:The Apostle of Allah (ﷺ) recited (Surat) al Najm and performed prostration during its recital and all those who were along with him also prostrated themselves except one old man who took a handful of pebbles or dust in his palm and lifted it to his forehead and said: This is sufficient for me. 'Abdullah said: I saw that he was later killed in a state of unbelief"
+"1298","ta' b. Yasar reported that he had asked Zaid b. Thabit about recital along with the Imam"
+"1299","Abu Salama b. 'Abual-Rahman reported:Abu Huraira recited before them:"" hen the heaven burst asunder"" (al-Qur'an"
+"1300","A hadith like this has been narrated by AbuSalama on the authority of Abu Huraira"
+"1301","Abu Huraira reported:We performed prostration along with the Messenger of Allah (ﷺ) (as he recited these verses: )"" When the heaven burst asunder"" and"" Read in the name of Thy Lord"" (al-Qur'an"
+"1302","Abu Huraira reported:The Messenger of Allah (ﷺ) prostrated himself (while reciting these verses)."" When the heaven burst asunder"" ;"" Read in the name of Thy Lord"
+"1303","A hadith like this has been transmitted by Abual-Rahman al-Araj on the authority of Abu Huraira"
+"1304","Abu Rafi' reported:I said the night prayer along with Abu Huraira and -as he recited:"" When the heaven burst asunder"
+"1305","This hadith has been narrated by Tamimi with the same chain of transmitters except for this that they made no mention of:"" Behind Abu'l-Qasim"" (ﷺ)"
+"1306","Abu Rafi' reported:I saw Abu Huraira performing prostration (while reciting this verse: )"" When the heaven burst asunder."" I said to him: Do you prostrate yourself (while reciting) i? He said: Yes"
+"1307","Abdullah b. Zubair narrated on the authority of his father:When the Messenger of Allah (ﷺ) sat in prayer. he placed the left foot between his thigh and shank and stretched the right foot and placed his left hand on his left knee and placed his right hand on his right thigh"
+"1308","Abdullah b. Zubair narrated on the authority of his father that when the Messenger of Allah (ﷺ) sat for supplication"
+"1309","Ibn 'Umar reported that when the Messenger of Allah (ﷺ) sat for tashahhud he placed his left hand on his left knee. and his right hand on his right knee. and he raised his right finger"
+"1310","Another version on the authority of Ibn Umar says:When the Messenger of Allah (ﷺ) sat for tashahhud"
+"1311","Ali b. 'Abual-Rahman al-Mu'awi reported:'Abdullah b. Umar saw me playing with pebbles during prayer. After finishing the prayer he forbade me (to do it) and said: Do as the Messenger of Allah (ﷺ) used to do. I said: How did Allah's Messenger (ﷺ) do? He said that he (the Messenger of Allah) sat at tashahhud"
+"1312","This hadith has been narrated by another chain of transmitters"
+"1313","Abu Ma'mar reported:There was an Amir in Mecca who pronounced taslim twice. Abdullah said: Where did he get this sunnah? Al-Hakam said: There is a hadith to the effect that the Messenger of Allah (ﷺ) did like It"
+"1314","Abdullah reported:An Amir or a person pronounced taslim twice. 'Abdullah said: Where did he get this sunnah?"
+"1315","Amir b. Sa'd reported:I saw the Messenger of Allah (may peace be open him) pronouncing taslim on his right and on his left till I saw the whiteness of his cheek"
+"1316","Ibn 'Abbas said:We used to know that Allah's Messenger (ﷺ) had finished his prayer when we heard the takbir (Allah-O-Akbar)"
+"1317","Ibn 'Abbas reported:We knew the finishing of the prayer of the Messenger of Allah (ﷺ) through takbir. 'Amr (b. Dinar) said: I made a mention of it to Abu Mas'ud. hue he rejected it and said: I never narrated it to you. 'Amr said: He did narrate it before this"
+"1318","Ibn 'Abbas reported:Dhikr (mentioning the name of Allah) in a loud voice after obligatory prayers was (a common practice) during the lifetime of the Messenger of Allah (ﷺ) ; and when I heard that I came to knew that they (the people) had finished the prayer"
+"1319","A'isha reported:The Prophet (ﷺ) entered my house when a Jewess was with me and she was saying: Do you know that you would be put to trial in the grave? The Messenger of Allah (ﷺ) trembled (on hearing this) and said: It is the Jews only who would-be put to trial. 'A'isha said: We passed some nights and then the Messenger of Allah (ﷺ) said: Do you know that it has been revealed to me:"" You would be put to trial in the grave""? 'A'isha said: 1 heard the Messenger of Allah (ﷺ) seeking refuge from the torment of the grave after this"
+"1320","Abu Huraira reported. I heard the Messenger of Allah (ﷺ) seeking refuge from the torment of the grave after this (after the revelation)"
+"1321","A'isha reported:There came to me two old women from the old Jewesses of Medina and said: The people of the grave are tormented in their graves. I contradicted them and I did not deem it proper to testify them. They went away and the Messenger of Allah (ﷺ) came to me and I said to him: Messenger of Allah I there came to me two old women from the old Jewesses of Medina and asserted that the people of the graves would be tormented therein. He (the Prophet) said: They told the truth; they would be tormented (so much) that the animals would listen to it. She ('A'isha) said: Never did I see him (the Holy Prophet) afterwards but seeking refuge from the torment of the grave in prayer"
+"1322","Masruq reported this hadith on the authority of 'A'isha who said:Never did he (the Holy Prophet) say prayer after this in which I did not hear him seeking refuge from the torment of the grave"
+"1323","A'isha reported:1 heard the Messenger of Allah (ﷺ) seeking refuge from the trial of Dajjal (Antichrist) in prayer"
+"1324","Abu Huraira reported:The Messenger of Allah (way peace be upon him) said: When any one of you utters tashahhud (in prayer) he must seek refuge with Allah from four (trials) and should thus say:"" O Allah! I seek refuge with Thee from the torment of the Hell"
+"1325","A'isha"
+"1326","Abu Huraira reported:The Messenger of Allah (ﷺ) said: When any one of you completes the last tashahhud. he should seek refuge with Allah from four (trials). I.e. from the torment of Hell"
+"1327","Abu Huraira reported:The Apostle of Allah (ﷺ) said: O Allah! I seek refuge with Thee from the torment of the grave"
+"1328","Abu Huraira reported the Messenger of Allah (ﷺ) as saying:Seek refuge with Allah from the torment of Hell"
+"1329","A hadith like this has been transmitted by Ibn Tawus from his father on the authority of AbuHuraira"
+"1330","A hadith like this has been transmitted by A'raj on the authority of Abu Huraira"
+"1331","Abu Huraira reported that the Messenger of Allah (ﷺ) used to seek refuge from the torment of the grave"
+"1332","Abu Huraira reported that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) used to seek refuge from the torment of the grave, torment of Hell and the trial of Dajjal.\n \nSahih Muslim Hadees: 1332 Arabic Hadees: 588"
+"1333","Ibn 'Abbas reported that the Messenger of Allah (ﷺ) used to teach them this supplication (in the same spirit) with which he used to teach them a surah of the Qur'an. He would thus instruct us:""Say"
+"1334","Thauban reported:When the Messenger of Allah (ﷺ) finished his prayer. He begged forgiveness three times and said: O Allah! Thou art Peace"
+"1335","A'isha reported:When the Messenger of Allah (ﷺ) pronounced salutation"
+"1336","Ibn Numair narrated it with the same chain of transmitters and said:O Possessor of Glory and Honour"
+"1337","A hadith like this has been transmitted by Abdullah b. Harith on the authority of A'isha except for the words that he (the Holy Prophet) used to say:"" 0 Possessor of Glory and Honour"
+"1338","Mughira b. Shu'ba wrote to Mu'awiya:When the Messenger of Allah (ﷺ) finished the prayer and pronounced salutation he uttered (this supplication):"" There is no god but Allah. He is alone"
+"1339","A hadith like this has been narrated by Mughira b. Shu'ba with another chain of transmitters. Abu Bakr and Abu Kuraib narrated in their narration (that Warrad reported):Mughira gave me dictation of it and 1 wrote it to Mu'awiya"
+"1340","Warrad"
+"1341","Warrad"
+"1342","Warrad"
+"1343","Abu Zubair reported:Ibn Zubair uttered at the end of every prayer after pronouncing salutation (these words):"" There is no god but Allah. He is alone. There is no partner with Him. Sovereignty belongs to Him and He is Potent over everything. There is no might or power except with Allah. There is no god but Allah and we do not worship but Him alone. To Him belong all bounties"
+"1344","Abu Zubair reported:Abdullah b Zubair used to say La ilaha il-Allah at the end of every prayer like the hadith narrated by Ibn Numair and he reported it in the end"
+"1345","Abu Zubair reported:I heard Abdullah b. Zubair addressing (people) on the pulpit and saying: When the Messenger of Allah (ﷺ) pronounced salutation at the end of the prayer or prayers"
+"1346","Abu Zubair al-Makki reported that he had heard 'Abdullah b. Zubair uttering (the words) like that of the hadith (narrated above) at the end of the prayer after pronouncing salutation. He at the conclusion also said that he was making a mention of that from the Messenger of Allah (ﷺ)"
+"1347","Abu Huraira reported:The poor amongst the emigrants came to the Messenger of Allah (ﷺ) and said: The possessors of great wealth have obtained the highest ranks and the lasting bliss. He (the Holy Prophet) said: How is that? They said: They pray as we pray"
+"1348","Abu Huraira narrated it from the Messenger of Allah (ﷺ) that they (the poor among the emigrants) said:Messenger of Allah"
+"1349","Ka'b b. 'Ujra reported Allah's Messenger (ﷺ) as saying:There are certain ejaculations"
+"1350","Ka'b b. 'Ujra reported Allah's Messenger (ﷺ) as saying:There are certain ejaculations"
+"1351","Same as Hadees 1350 \nSahih Muslim Hadees: 1351 Arabic Hadees: 596"
+"1352","Abu Huraira reported Allah's Messenger (ﷺ) as saying:If anyone extols Allah after every prayer thirty-three times"
+"1353","This hadith has been narrated by Abu Huraira by another chain of transmitters"
+"1354","Abu Huraira reported that Allah's Messenger (ﷺ) used to observe"
+"1355","Same as Hadees 1354 \nSahih Muslim Hadees: 1355 Arabic Hadees: 598"
+"1356","Abu Huraira reported that when the Messenger of Allah (ﷺ) stood up for the second rak'ah he opened it with the recitation of the praise of Allah"
+"1357","Anas reported:A man came panting and entered the row of worshippers and said: Praise be to Allah"
+"1358","Ibn 'Umar reported:While we said prayer with the Messenger of Allah (ﷺ)"
+"1359","Abu Huraira reported:I heard the Messenger of Allah (ﷺ) saying: When the Iqama has been pronounced for prayer"
+"1360","Abu Huraira reported that the Messenger of Allah (ﷺ) said:When the words of Iqama are pronounced"
+"1361","Abu Huraira reported ahadith from the Messenger of Allah (ﷺ)"
+"1362","Abu Huraira reported:The Messenger of Allah (ﷺ) said: When the words of Iqama are pronounced"
+"1363","Abdullah b. Abu Qatada reported on the authority of his father:While we said our prayer with the Messenger of Allah (ﷺ) he heard tumult. (At the end of the prayer) he (the Holy Prophet) said: What is the matter with you? They said: We hastened to prayer. He (the Holy Prophet) said: Don't do that; when you come for prayer"
+"1364","This hadith has been narrated by Shaiban with the same chain of transmitters"
+"1365","Abu Qatada reported:The Messenger of Allah (ﷺ) said: When the Iqama is pronounced do not get up till you see me Ibn Hatim was in doubt whether it was said:"" When the Iqama is pronounced"" or"" When call is made"
+"1366","Same as Hadees 1365 \nSahih Muslim Hadees: 1366 Arabic Hadees: 604"
+"1367","Abu Salama son of Abd al-Rahman b. Auf reported Abu Huraira as saying:Iqama was pronounced and we stood up and made rows straight till he (the Holy Prophet) stood at his place of worship (the place ahead of the rows where he stood to lead the prayer) before takbir tahrima. He reminded to (himself something) and went back saying that we should stand at our places and not leave them. We waited"
+"1368","Abu Salama reported Abu Huraira as saying:Iqama was pronounced. ant the people had formed themselves into rows. The Messenger of Allah (ﷺ) came out and stood at his place"
+"1369","Abu Salama reported on the authority of Abu Huraira that when Iqama was pronounced for the Messenger of Allah (ﷺ)"
+"1370","Jabir b. Samura reported:Bilal summoned to prayer as the sun declined but did not pronounce Iqama till the Messenger of Allah (ﷺ) came out and the Iqama was pronounced on seeing him"
+"1371","Abu Huraira reported the Messenger of Allah (ﷺ) as saying:He who finds a rak'ah of the prayer"
+"1372","Abu Huraira reported the Messenger of Allah (ﷺ) as saying:He who finds one rak'ah of the prayer with the Imam"
+"1373","This hadith has been narrated on the authority of Malik and there is no mention of"" along with the Imam"" and In the hadith transmitted by Abdullah the words are:"" he in fact finds the entire prayer"
+"1374","Abu Huraira reported:The Messenger of Allah (ﷺ) said: He who finds one rak'ah at dawn before the rising of the sun"
+"1375","This hadith is narrated by Abu Huraira with another chain of transmitters"
+"1376","A'isha reported:The Messenger of Allah (ﷺ) said: He who finds a prostration before sunset or at dawn (prayer) before the rising (of the sun) he in fact finds that (prayer)"
+"1377","Abu Huraira reported:The Messenger of Allah (ﷺ) said: He who finds (gets) a rak'ah of the afternoon (prayer) before the setting of the sun"
+"1378","This hadith has been reported by Ma'mar with another chain of transmitters"
+"1379","Ibn Shibab reported:'Umar b. 'Abd al-'Aziz deferred the afternoon prayer somewhat and 'Urwa said to him: Gabriel came down and he led the Messenger of Allah (ﷺ) in prayer. 'Umar said to him: O 'Urwa"
+"1380","Ibn Shihab reported:Umar b. 'Abd al-'Aziz one day deferred the prayer. 'Urwa b. Zubair came to him and informed him that one day as Mughira b. Shu'ba was in Kufa (as its governor)"
+"1381","Urwah (also) said:'A'isha?"
+"1382","A'isha reported:The Apostle of Allah (ﷺ) said the afternoon"" prayer as the sun shone in my apartment"
+"1383","A'isha"
+"1384","A'isha reported:The Messenger of Allah (ﷺ) said the afternoon prayer (at a time) when the (light) of the sun was there in my apartment"
+"1385","It was narrated from 'Abdullah bin 'Amr that the Prophet (ﷺ) said:""When you pray Fajr"
+"1386","Abdullah b. 'Amr reported the Apostle (ﷺ) saying:The time of the noon prayer (lasts) as long as it is not afternoon"
+"1387","Abu Bakr b Abu Shaiban and Yahya b Abu Bukair both of them narrated this hadith with the same chain of transmitters"
+"1388","Abdullah b. 'Amr reported:The Messenger of Allah (ﷺ) said: The time of the noon prayer is when the sun passes the meridian and a man's shadow is the same (length) as his height"
+"1389","Abdullah b. 'Amr b. al-'As reported:The Messenger of Allah (ﷺ) was asked about the times of prayers. He said: The time for the morning prayer (lasts) as long as the first visible part of the rising sun does not appear and the time of the noon prayer is when the sun declines from the zenith and there is not a time for the afternoon prayer and the time for the afternoon prayer is so long as the sun does not become pale and its first visible part does not set"
+"1390","Abdullah narrated it on the authority of his father Yahya:Knowledge cannot be acquired with sloth"
+"1391","Sulaiman b. Buraida narrated it on the authority of his father that a person asked the Messenger of Allah (ﷺ) about the time of prayer. Upon this he said:Pray with us these two"
+"1392","Buraida narrated on the authority of his father that a man came to the Prophet (ﷺ) and asked about the times of prayer. He said:You observe with us the prayer. He commanded Bilal"
+"1393","Abu Musa narrated on the authority of his father that a person came to the Messenger of Allah (ﷺ) for inquiring about the times of prayers. He (the Holy Prophet) gave him no reply (because he wanted to explain to him the times by practically observing these prayers). He then said the morning player when it was daybreak"
+"1394","Abu Musa reported on the authority of his father that an Inquirer came to the Prophet (ﷺ) and asked him about the times of prayers"
+"1395","Abu Huraira reported that the Messenger of Allah (may peace he upon him) said:When it is very hot"
+"1396","Another hadith like this has been transmitted by Abu Huraira"
+"1397","Abu Huraira reported:The Messenger of Allah (ﷺ) said: When it is a hot day"
+"1398","Abu Huraira reported that the Messenger of Allah (ﷺ) said:This heat is from the exhalation of Hell-fire"
+"1399","Hammam b. Munabbih reported:This is what Abu Huraira narrated to us from the Prophet and he transmitted some ahadith-one of them was that the Messenger of Allah (ﷺ) said: Let the heat become less severe before prayer"
+"1400","Abu Dharr reported:The Mu'adhdbin (the announcer of the hour of prayer) of the Messenger of Allah (ﷺ) called for the noon prayer. Upon this the Messenger of Allah (ﷺ) said: Let it cool down"
+"1401","Abu Huraira reported:The Messenger of Allah (ﷺ) said: The Fire made a complaint before the Lord saying."" O Lord"
+"1402","Abu Huraira reported:The Messenger of Allah (ﷺ) said: When it is hot"
+"1403","Abu Huraira reported that the Messenger of Allah (ﷺ) said:The Fire said to the Lord: O Lord! some parts of mine have consumed the others"
+"1404","Jabir b. Samura reported:The Apostle of Allah (ﷺ) used to offer the noon prayer when the sun declined"
+"1405","Khabbab reported:We complained to the Messenger of Allah (ﷺ) (the difficulty of) saying prayer on the intensely heated (ground or sand)"
+"1406","Khabbab reported:We came to the Messenger of Allah (ﷺ) and we complained to the Messenger of Allah (ﷺ) about (saying prayer) on the extremely heated ground (or sand)"
+"1407","Anas b. Malik reported:We used to say (the noonprayer) with the Messenger of Allah (ﷺ) in the intense heat"
+"1408","Anas b. Malik reported that the Messenger of Allah (ﷺ) used to pray the afternoon prayer when the sun was high and bright"
+"1409","This hadith that the Messenger of Allah (ﷺ) used to offer the afternoon prayer like the one narrated above has been transmitted by Anas b. Malik by another chain of transmitters"
+"1410","Anas b. Malik reported:We used to offer the 'Asr prayer"
+"1411","Anas b. Malik reported:We used to offer the afternoon prayer (at such a time) that a person would go to Bani 'Amr b. Auf and he would find them busy offering the afternoon prayer"
+"1412","Ala' b. 'Abd al-Rahman reported that they came to the house of Anas b. Malik in Basra after saying the noon prayer. His (Anas) house was situated by the side of the mosque. As revisited him he (Anas) said:Have you said the afternoon prayer? We said to him: It is just a few minutes before that we finished the noon prayer. He said: Offer the afternoon prayer. So we stood up and said our prayer. And when we completed it"
+"1413","Abu Umama b. Sahl reported:We offered the noon prayer with Umar b. 'Abd al-'Aziz. We then set out till we came to Anas b. Malik and found him busy in saying the afternoon prayer. I said to him: O uncle! which is this prayer that you are offering? He said: It is the afternoon prayer and this is the prayer of the Messenger of Allah (ﷺ) that we offered along with him"
+"1414","Anas b. Malik reported:The Messenger of Allah (ﷺ) led us in the afternoon prayer. When he completed it"
+"1415","Rafi' b. Khadij reported:We used to say the afternoon prayer with the Messenger of Allah (ﷺ)"
+"1416","This hadith has been reported by 'Auza'i with the same chain of transmitters:We used to slaughter the camel during the lifetime of the Messenger of Allah (ﷺ) after the 'Asr prayer"
+"1417","Ibn Umar reported that the Messenger of Allah (ﷺ) said:He who misses the afternoon prayer"
+"1418","This hadith has been narrated as Marfu by another chain of transmitters"
+"1419","Abdullah relates on the authority of his father. He who missed his afternoon prayer it is as though he was deprived of his family and property"
+"1420","Ali reported:When it was the day (of the Battle) of Ahzab"
+"1421","This hadith has been narrated by Hisham with the same chain of transmitters"
+"1422","Ali reported:The Messenger of Allah (ﷺ) said: On the day (of the Battle) of Ahzab we were diverted from the middle prayer"
+"1423","This hadith has heed narrated by Qatada with the same chain of transmitters. And he said:Their houses and their graves (be filled with fire)"
+"1424","Yahya heard 'Ali saying that the Messenger of Allah (ﷺ) said on the day (of the Battle) of Ahzab"
+"1425","Ali reported:The Messenger of Allah (ﷺ) said on the day (of the Battle) of Ahzab: They diverted us from saying the middle prayer"
+"1426","Abdullah (b. Mas'ud) reported that the polytheists detained the Messenger of Allah (ﷺ) from observing the afternoon prayer till the sun became red or it became yellow. Upon this the Messenger of Allah (ﷺ) said:They have diverted us from (offering) the middle prayer. i. e. the 'Asr prayer. May Allah fill their bellies and their graves with fire"
+"1427","Abu Yunus"
+"1428","Al-Bara' b. 'Azib reported:\nThis verse was revealed (in this way):   Guard the prayers and the 'Asr prayer.   We recited it (in this very way) so long as Allah desired. Allah, then, abrogated it and it was revealed:   Guard the prayers, and the middle prayer.   A person who was sitting with Shaqiq (one of the narrators in the chain of transmitters) said: Now it implies the 'Asr prayer. Upon this al-Bara' said: I have already informed you how this (verse) was revealed and how Allah abrogated it, and Allah knows best. \nSahih Muslim Hadees: 1428 Arabic Hadees: 630"
+"1429","Imam Muslim said:\nAshja'i narrated it from Sufyan al-Thauri, who narrated it from al-Aswad b. Qais, who narrated it from 'Uqba, who narrated it from al-Bara' b. 'Azib who said: We recited with the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) (the above-mentioned verse like this, i. e. instead of Salat al- Wusta, Salat al-'Asr) for a certain period. as It has been mentioned (in the above-quoted hadith). \nSahih Muslim Hadees: 1429 Arabic Hadees: 630"
+"1430","Jabir b. 'Abdullah reported that Umar b. al-Khattab had been cursing the pagans of the Quraish an the day (of the Battle) of Khandaq (Ditch). (He came to the Holy Prophet) and said:Messenger of Allah"
+"1431","This hadith has been reported by Yahya b. Abd Kathir with the same chain of transmitters"
+"1432","Abu Huraira reported:The Messenger of Allah (ﷺ) said: Angels take turns among you by night and by day"
+"1433","Abu Huraira reported Allah's Messenger (ﷺ) as saying:Angels take turns among you by night and by day"
+"1434","Jarir b. Abdullah is reported to have said:We were sitting with the Messenger of Allah (ﷺ) that he looked at the full moon and observed: You shall see your Lord as you are seeing this moon"
+"1435","Waki' reported (this hadith) with the same chain of transmitters (that the Holy Prophet) said:You will be soon presented before your Lord"
+"1436","Umara b. Ruwaiba is reported to have said on the authority of his father:I heard the Messenger of Allah (ﷺ) saying: He who observes prayer before the rising of the sun and its setting"
+"1437","Umara b. Ruwaiba reported on the authority of his father that the Messenger of Allah (ﷺ) said:He who said prayer before the rising of the sun and its setting would not enter the fire (of Hell)"
+"1438","Abu Bakr reported on the authority of his father that the Messenger of Allah (ﷺ) said:He who observed two prayers at two cool (hours) would enter Paradise"
+"1439","This hadith has been narrated by the same chain of transmitters by Hammam"
+"1440","Salama b. al-Akwa' reported that the Messenger of Allah (ﷺ) used to pray the evening prayer when the sun had set and disappeared (behind the horizon)"
+"1441","Rafi' b. Khadij reported:We used to observe the evening prayer with the Messenger of Allah (ﷺ) and then one of us would go away and he could see the (distant) place where his arrow would fall"
+"1442","A hadith like this"
+"1443","A'isha. the wife of the Messenger of Allah (ﷺ)"
+"1444","A hadith like this has been narrated by Ibn Shihab with the same chain of transmitters"
+"1445","A'isha reported:The Apostle of Allah (ﷺ) one night delayed (observing the 'Isya' prayer) till a great part of the night was over and the people in the mosque had gone to sleep. He (the Holy Prophet) then came out and observed prayer and said: This is the proper time for it; were it not that I would impose a burden on my people (I would normally pray at this time). In the hadith transmitters by 'Abd al-Razzaq (the words are):"" Were it not that it would impose burden on my people"
+"1446","Abdullah b. Umar reported:We waited one night in expectation of the Messenger of Allah (ﷺ) for the last prayer of the night"
+"1447","Abdullah b. 'Umar reported that the Messenger of Allah (ﷺ) was one night occupied (in some work) and he delayed it ('Isya' prayer) till we went to sleep in the mosque. We then woke up and again went to sleep and again woke up. The Messenger of Allah (ﷺ) then came to us and said:None among the people of the earth except you waits for prayer in the night"
+"1448","Thabit reported:They (the believers) asked Anas about the ring of the Messenger of Allah (ﷺ) and he said: One night the Messenger of Allah (ﷺ) delayed (observing) the 'Isya' prayer up to the midnight or midnight was about to be over. He then came and said: (Other) people have offered prayers and slept"
+"1449","Anas b. Malik reported:We waited for the Messenger of Allah (may peace be upon hi n) one night"
+"1450","This hadith has been narrated by Qurra with the same chain of transmitters"
+"1451","Abu Musa reported:I and my companions who had sailed along with me in the boat landed with me in the valley of Buthan while the Messenger of Allah (ﷺ) was staying in Medina. A party of people amongst them went to the Messenger of Allah (ﷺ) every night at the time of the 'Isya' prayer turn by turn. Abu Musa said: (One night) we (I and my companions) went to the Messenger of Allah (ﷺ) and he was occupied in some matter till there was a delay in prayer so much so that it was the middle of the night. The Messenger of Allah (ﷺ) then came out and led them (Musa's companions) in prayer. And when he had observed his prayer he said to the audience present: Take it easy"
+"1452","Ibn Juraij reported:I said to Ata': Which time do you deem fit for me to say the 'Isya' prayer"
+"1453","Jabir b. Samura reported that the Messenger of Allah (ﷺ) postponed the last 'Isha' prayer"
+"1454","Jabir b. Samura reported:The Messenger of Allah (ﷺ) used to observe prayers like your prayers"
+"1455","Abdullah b. 'Umar reported:I heard the Messenger of Allah (ﷺ) as saying: Let the bedouin not gain upper hand over you in regard to the name of your prayer. See I (The night prayer should be called) 'Isya' (and the bedouins call it Atama (because) they milk their camels late"
+"1456","Ibn 'Umar said:The Messenger of Allah (ﷺ) said: Let the bedouin not gain upper band over you In regard to the name of your prayer"
+"1457","A'isha reported:The believing women used to pray the morning prayer with the Messenger of Allah and then return wrapped in their mantles. No one could recognise them"
+"1458","A'isha"
+"1459","A'isha reported:The Messenger of Allah (ﷺ) used to observe the morning prayer"
+"1460","Muhammad b. 'Amr b. al-Hasan b. 'All reported:When Hajjaj came to Medina we asked Jabir b. Abdullah (about the timings of prayer as observed by the Holy Prophet). He said: The Messenger of Allah (ﷺ) used to pray afternoon prayer in the midday heat; the afternoon prayer when the sun was bright; the evening prayer when the sun had completely set; and as for the night prayer"
+"1461","Muhammad b. 'Amr al-Hasan b. 'All reported:Hajjaj used to delay the prayers"
+"1462","Sayyar b. Salama reported:I heard my father asking Abu Barza (al- Aslami) about the prayer of Allah's Messenger (ﷺ) I (Shu'ba"
+"1463","Sayyar b. Salama reported:I heard Abu Barza saying that the Messenger of Allah (ﷺ) did not mind some delay in the 'Isha' prayer even up to midnight and he did not like sleeping before (observing it) and talking after it. Shu'ba said: I again met him (Sayyar b. Salama) for the second time and he said: Even up to the third (part) of the night"
+"1464","Abu Barza b. Aslami is reported to have said:The Messenger of Allah (ﷺ) delayed the night prayer till a third of the night had passed and he did not approve of sleeping before it"
+"1465","Abu Dharr reported:The Messenger of Allah (ﷺ) said to me: How would you act when you are under the rulers who would delay the prayer beyond its prescribed time"
+"1466","Abu Dharr reported:The Messenger of Allah (ﷺ) said to me: O Abu Dharr"
+"1467","Abu Dharr reported:My friend (the Holy Prophet) bade me to hear and obey (the ruler) even if he is a slave having his feet and arms cut off"
+"1468","Abu Dharr reported:The Messenger of Allah (ﷺ) struck my thigh and said: How would you act if you survive among the people who would delay prayers beyond their (prescribed) time? He (Abu Dharr) said: What do you command (under this situation)? He (the Holy Prophet) slid: Observe prayer at its prescribed time"
+"1469","Abu'l-'Aliyat al-Bara reported:Ibn Ziyad delayed the prayer. 'Abdullah b. Samit came to me and I placed a chair for him and he sat in it and I made a mention of whit Ibn Ziyad had done. He bit hit lips (as a sign of extreme anger and annoyance) and struck at my thigh and said: I asked Abu Dharr as you have asked me"
+"1470","Abu Dharr reported:(The Messenger of Allah) said: How would you"
+"1471","Abu'l-'Aliyat al-Bara' reported:I said to 'Abdullah b. Samit: We say our Jumu'a prayer behind those rulers who defer the prayer. He ('Abdullah b. Samit)"
+"1472","Abu Huraira reported Allah's Messenger (ﷺ) as saying:Prayer said in a congregation is twenty-five degrees more excellent than prayer said by a single person"
+"1473","Abu Huraira reported Allah's Apostle (ﷺ) as saying:Prayer said in a congregation is twenty-five degrees more excellent than prayer said by a single person. He (Abu Huraira further) said: The angels of the night and the angels of the day meet together. Abu Huraira said: Recite it you like:"" Surely the recital of the Qur'an at dawn is witnessed"" (al-Qur'an"
+"1474","A hadith like this has been narrated by Abu Huraira with another chain of transmitters with a very slight change of words"
+"1475","Abu Huraira reported Allah's Messenger (ﷺ) as saying:Prayer said in a congregation is equivalent to twenty-five (prayers) as compared with the prayer said by a single person"
+"1476","Abu Huraira reported:The Messenger of Allah (way peace be upon him) said: Prayer along with the Imam is twenty-five times more excellent than prayer said by a single person"
+"1477","Ibn Umar reported Allah's Messenger (ﷺ) assaying:Prayer said in a congregation is twenty-seven degrees more excellent than prayer said by a single person"
+"1478","Ibn 'Umar reported Allah's Apostle (ﷺ) as saying:The prayer of a person in congregation is twenty-seven times in excess to the prayer said alone"
+"1479","Ibn Numair reported it on the authority of his father (a preference of) more than twenty (degrees) and Abu Bakr in his narration (has narrated it) twenty- seven degrees"
+"1480","Ibn 'Umar reported from the Messenger of Allah (ﷺ) as some and twenty (degrees)"
+"1481","Abu Huraira reported:The Messenger of Allah (ﷺ) found some people absenting from certain prayers and he said: I intend that I order (a) person to lead people in prayer"
+"1482","Abu Huraira reported Allah's Messenger (ﷺ) as saying:The most burdensome prayers for the hypocrites are the night prayer and the morning prayer. If they were to know the blessings they have in store"
+"1483","Hammam b. Munabbih reported:This is what Abu Huraira reported to us from the Messenger of Allah (ﷺ) and (in this connection) he narrated some ahadith"
+"1484","A hadith like this has been narrated by Abu Huraira"
+"1485","Abdullah reported Allah's Messenger (ﷺ) as saying about people who are absent from Jumu'a prayer:I intend that I should command a person to lead people in prayer"
+"1486","Abu Huraira reported:There came to the Messenger of Allah (ﷺ) a blind man and said: Messenger of Allah"
+"1487","Abdullah (b. Mas'ud) reported:I have seen the time when no one stayed away from prayer except a hypocrite"
+"1488","Abdullah (b. Mas'ud) reported:He who likes to meet Allah tomorrow as Muslim"
+"1489","Abu Sha'tha' reported:While we were sitting with Abu Huraira in a mosque a man went out of the mosque after the call to prayer had been announced. (A man stood up in the mosque and set off.) Abu Huraira's eyes followed him till he went out of the mosque. Upon this Abu Huraira said: This man has disobeyed Abu'l- Qasim (Muhammad) (ﷺ)"
+"1490","Abu Sha'tha' al-Muharibi reported on the authority of his father"
+"1491","Abd al-Rahman b. Abd 'Amr reported:'Uthman b. 'Affan (narrated the mosque after evening prayer and sat alone. I also sat alone with him"
+"1492","This hadith has been narrated by the chain of transmitters by Abu Sahl 'Uthman b. Hakim"
+"1493","Jundab b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:He who prayed the morning prayer (in congregation) he is in fact under the protection of Allah. And it can never happen that Allah should demand anything from you in connection with the protection (that He guarantees) and one should not get it. He would then throw him in the fire of Hell"
+"1494","Anas b. Sirin reported:I heard Jundab b. Qasri saying that the Messenger of Allah (ﷺ) said: He who observed the morning prayer (in congregation)"
+"1495","This hadith has been narrated by Jundab b. Sufyan in from the Messenger of Allah (ﷺ) with the same chain of transmitters"
+"1496","Mahmud b. al-Rabi' reported that 'Ibn b. Malik"
+"1497","Itban b. Malik reported:I came to the Messenger of Allah (ﷺ) and the rest of the hadith is the same as narrated (above) except this that a man said: Where is Malik b. Dukhshun or Dukhaishin"
+"1498","Mahmud b. Rabi' reported:I well remember the disgorge of the Messenger of Allah (ﷺ) that he did (with water) from a bucket of our house. Mahmud said: 'Itban b. Malik narrated it to me that he had said: Messenger of Allah"
+"1499","Anas b. Malik reported that his grandmother"
+"1500","Anas b. Malik reported that the Messenger of Allah (ﷺ) wits the best among people in character. On occasions"
+"1501","Thabit reported on the authority of Anas:The Apostle of Allah (ﷺ) came to us and there was none in our house but I"
+"1502","Abdullah b. al-Mukhtar heard Musa b. Anas narrating on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) led him"
+"1503","This hadith has also been narrated by Shu'ba with this chain of transmitters"
+"1504","Maimuna"
+"1505","Abu Sa'id al-Khudri reported that he went to the Messenger of Allah (ﷺ) and found him observing prayer on a mat and prostrating on that"
+"1506","Abu Huraira reported Allah's Messenger (ﷺ) as saying:A man's prayer in congregation is more valuable than twenty degrees and some above them as compared with his prayer in his house and his market"
+"1507","A hadith having the same meaning (as mentioned above) has been transmitted by A'mash"
+"1508","Abu Huraira reported Allah's Messenger (ﷺ) as saying:The angels invoke blessings on everyone among you so long as he is in a place of worship with these words: O Allah! pardon him"
+"1509","Abu Huraira reported Allah's Messenger (ﷺ) as saying:The servant is constantly in prayer so long as he is in a place of worship waiting for the prayer (to be observed in congregation)"
+"1510","Abu Huraira reported the Messenger of Allah (ﷺ) as saying:Everyone among you is constantly in prayer so long as the prayer detains him (for this noble objective) and nothing prevents him to return to his family but the prayer"
+"1511","Abu Huraira reported:The Messenger of Allah (ﷺ) said: Anyone amongst you who sat in a place of worship waiting for the prayer is in prayer and his ablution is not broken"
+"1512","A hadith like this has been narrated by Hammam b. Munabbih on the authority of Abu Huraira"
+"1513","Abu Musa reported Allah's Messenger (ﷺ) as saying:The most eminent among human beings (as a recipient of) reward (is one) who lives farthest away"
+"1514","Ubayy b. Ka'b reported:There was a man"
+"1515","This hadith has been transmitted by Taimi with the same chain of narrators"
+"1516","Ubayy b. Ka'b reported:There was a person among the Ansar whose house was situated at the farthest end of Medina"
+"1517","A hadith like this has been narrated by 'Asim with the same chain of transmitters"
+"1518","Jabir b. 'Abdullah narrated:Our houses were situated far away from the mosque; we"
+"1519","Jabir b. Abdullah reported:There were some plots vacant around the mosque. Banu Salama decided to shift (to this land) and come near the mosque. This (news) reached the Messenger of Allah (ﷺ) and he said to them (Banu Salama): I have received (information) that you intend to shift near the mosque. They said: Yes"
+"1520","Jabir b. Abdullah reported that Banu Salama decided to shift near the mosque (as there were) some plots vacant. This (news) reached the Messenger of Allah (ﷺ)"
+"1521","Abu Huraira reported:The Messenger of Allah (may peace be' upon him) said: He who purified himself in his house"
+"1522","In the hadith narrated of the authority of Abd Huraira the Messenger of Allah (ﷺ) is reported to have said. while in the hadith narrated by Bakr (the words are like this):He heard the Messenger of Allah (ﷺ) as saying: just see"
+"1523","Jabir b. 'Abdullah reported that the Messenger of Allah (ﷺ) said:The similitude of five prayers is like an overflowing river passing by the gate of one of you in which he washes five times daily Hasan said: No filthiness can remain on him"
+"1524","Ata' b. Yasar reported"
+"1525","Simak b. Harb reported:I said to Jabir b. Samura: Did you sit in the company of the Messenger of Allah (may peace he upon him)? He said: Yes"
+"1526","Simak narrated on the authority of Jabir b. Samura that when the Messenger of Allah (ﷺ) observed the dawn prayer"
+"1527","This hadith has been narrated by Simak with the same chain of transmitters"
+"1528","Abu Huraira reported that the Messenger of Allah (ﷺ) said:The parts of land dearest to Allah are its mosques"
+"1529","Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:When there are three persons"
+"1530","A hadith like this has been narrated by Qatida with the same chain of transmitters"
+"1531","This hadith has been narrated by Abu Sa'id al-Khudri by another chain of transmitters"
+"1532","Abu Mas'ud al-Ansari reported Allah's Messenger (ﷺ) as saying:The one who is most versed in Allah's Book should act as Imam for the people"
+"1533","A hadith like this has been narrated by A'mash by the same chain of transmitters"
+"1534","Abu Mas'ud al-Ansari reported:The Messenger of Allah (ﷺ) said to us: The one who is well grounded in Allah's Book and is distinguished among them in recitation should act as; Imam for the people. and if they are equally versed in reciting it"
+"1535","Malik b. Huwairith reported:We came to the Messenger of Allah (ﷺ) and we were all young men of nearly equal age. We stayed with him (the Holy Prophet) for twenty nights"
+"1536","This hadith has been transmitted by Ayyub with the same chain of narrator"
+"1537","Malik b. Huwairith Abu Sulaiman reported:I came to the Messenger of Allah (ﷺ) along with other persons and we were young men of nearly equal age"
+"1538","Malik b Huwairith reported:I came to the Messenger of Allah (ﷺ) along with a companion of mine"
+"1539","This hadith has been narrated with the same chain of transmitters"
+"1540","Abu Salama b. Abd al-Rahman b. 'Auf heard Abu Huraira say:(When) Allah's Messenger (ﷺ) (wished to invoke curse or blessing on someone"
+"1541","This hadith has been narrated on the authority of Abu Huraira by another chain of transmitters up to the words:"" And cause them a famine like that (which broke out at the time) of Joseph"
+"1542","Abu Salama reported it on the authority of Abu Huraira that the Messenger of Allah (ﷺ) recited Qunut after ruku' in prayer for one mouth at the time of reciting (these words):"" Allah listened to him who praised Him"
+"1543","Abu Salama narrated that Abu Huraira told him that when the Messenger of Allah (ﷺ) pronounced:"" Allah listened to him who praised Him."" and before prostration"
+"1544","Abu Salama b. 'Abd al-Rahman is reported to have said that he had heard Abu Huraira saying:I would say prayer along with you which is near to the prayer of the Messenger of Allah (ﷺ). and Abu Huraira recited Qunut in the noon and in the 'Isya' and in the morning prayer"
+"1545","Anas b. Malik reported that the Messenger of Allah (ﷺ) invoked curse in the morning (prayer) for thirty days upon those who killed the Companions (of the Holy Prophet) at Bi'r Ma'una. He cursed (the tribes) of Ri'l"
+"1546","Muhammad reported:I asked Anas whether the Messenger of Allah (ﷺ) observed Qunut in the dawn prayer. He said: Yes"
+"1547","Anas b. Malik reported:The Messenger of Allah (ﷺ) observed Qunut for a month in the dawn prayer after ruku' and invoked curse upon Ri'l"
+"1548","Anas b. Malik reported that the Messenger of Allah (ﷺ) observed Qunut for a month in the dawn prayer after ruku' and invoked curse upon Bani Usayya"
+"1549","Asim reported:I asked Anas whether Qunut was observed (by the Holy prophet) before ruku' or after ruku'. He replied: Before ruku'. I said: People conceive that the Messenger of Allah (ﷺ) observed Qunut after the ruku'. He said: The Messenger of Allah (ﷺ) observed Qunut (after the ruku' as the people conceive it) for a mouth invoking curse upon those persons who had killed men among his Companions who were called the reciter (of the Qur'an)"
+"1550","Asim reported - I heard Anas saying:Never did I ace the Messenger of Allah (ﷺ) so much grieved (at the loss of a) small army as I saw him grieved at those seventy men who were called"" reciters"" (and were killed) at Bi'r Ma'una; and he invoked curse for full one month upon their murderers"
+"1551","This hadith has been narrated by Anas with another chain of transmitters and with minor additions"
+"1552","Anas b. Malik reported that the Messenger of Allah (ﷺ) observed Qunut for one month Invoking curse upon Ri'l"
+"1553","A hadith like this has been transmitted by Anas from the Messenger of Allah (way peace be upon him)"
+"1554","Anas reported that the Messenger of Allah (ﷺ) observed Qunut for one month invoking curse upon some tribes of Arabia (those who were responsible for the murders in Bi'r Ma'una and Raji')"
+"1555","Al-Bari' b. 'Azib reported that the Messenger of Allah (ﷺ) observed Qunut in the morning and evening (prayers)"
+"1556","Al-Bari' reported that the Messenger of Allah (ﷺ) observed Qunut in the dawn and evening (prayers)"
+"1557","Khufaf b. Ima' al-Ghifari reported that the Messenger of Allah (ﷺ) aid in prayer:0 Allah I curse the tribes of Lihyan"
+"1558","Khufaf b. Ima' reported that the Messenger of Allah (may peace he upon him)"
+"1559","A hadith like this has been transmitted by Khufaf b. Ima' except this that he did not mention (these words):"" cursing of unbelievers got a sanctions"
+"1560","Abu Huraira reported that when the Messenger of Allah (ﷺ) returned from the expedition to Khaibar"
+"1561","Abu Huraira reported:We stopped for rest along with the Messenger of Allah (ﷺ) and did not awake till the sun rose. The Apostle of Allah (ﷺ) then told us that everybody should take hold of his camel's nosestring (get out of this ground) for it was the place where devil had visited us. We did accordingly. He then called for water and performed ablution and then performed two prostrations. Ya'qub said: Then he prayed (performed) two prostrations. then takbir was pronounced for prayer and then he offered the morning prayer (in congregation)"
+"1562","Abu Qatida reported:The Messenger of Allah (way peace be upon him) addressed us and said: You would travel In the evening and the might till (God willing) you would come in the morning to a place of water. So the people travelled (self absorbed) without paying any heed to one another"
+"1563","Imran b. Husain reported:I was with the Messenger of Allah (ﷺ) in a journey. We travelled the whole of the night"
+"1564","Imran b. Husain reported:We were with the Messenger of Allah (ﷺ) in a journey and we travelled throughout the night till at the end"
+"1565","Abu Qatada reported that when the Messenger of Allah (ﷺ) was in a journey he got down for rest at night"
+"1566","Qatada reported from Anas b. Malik that the Messenger of Allah (ﷺ) said:He who forgets the prayer should say it when he remembers it"
+"1567","This hadith has been narrated by Qatada"
+"1568","Qatada narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said:He who forgets the prayer"
+"1569","Qatada reported it on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said:When any one of you omits the prayer due to sleep or he forgets it"

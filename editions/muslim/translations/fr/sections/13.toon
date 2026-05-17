@@ -1,286 +1,401 @@
-hadiths[285]{hadithnumber,text}:
-2495,1079.01
-2496,1079.02
-2497,1079.03
-2498,1080.01
-2499,1080.02
-2500,1080.03
-2501,1080.04
-2502,1080.05
-2503,1080.06
-2504,1080.07
-2505,1080.08
-2506,1080.09
-2507,1080.10
-2508,1080.11
-2509,1080.12
-2510,1080.13
-2511,1080.14
-2512,1080.15
-2513,1080.16
-2514,1081.01
-2515,1081.02
-2516,1081.03
-2517,1081.04
-2518,1082.01
-2519,1082.02
-2520,1083
-2521,1084.01
-2522,1084.02
-2523,1085.01
-2524,1085.02
-2525,1086.01
-2526,1086.02
-2527,1086.03
-2528,1087
-2529,1088.01
-2530,1088.02
-2531,1089.01
-2532,1089.02
-2533,1090
-2534,1091.01
-2535,1091.02
-2536,1092.01
-2537,1092.02
-2538,1092.03
-2539,1092.04
-2540,1092.05
-2541,1093.01
-2542,1093.02
-2543,1093.03
-2544,1094.01
-2545,1094.02
-2546,1094.03
-2547,1094.04
-2548,1094.05
-2549,1095
-2550,1096.01
-2551,1096.02
-2552,1097.01
-2553,1097.02
-2554,1098.01
-2555,1098.02
-2556,1099.01
-2557,1099.02
-2558,1100
-2559,1101.01
-2560,1101.02
-2561,1101.03
-2562,1101.04
-2563,1102.01
-2564,1102.02
-2565,1102.03
-2566,1103.01
-2567,1103.02
-2568,1103.03
-2569,1103.04
-2570,1104.01
-2571,1104.02
-2572,1105
-2573,1106.01
-2574,1106.02
-2575,1106.03
-2576,1106.04
-2577,1106.05
-2578,1106.06
-2579,1106.07
-2580,1106.08
-2581,1106.09
-2582,1106.10
-2583,1106.11
-2584,1106.12
-2585,1106.13
-2586,1107.01
-2587,1107.02
-2588,1108
-2589,1109.01
-2590,1109.02
-2591,1109.03
-2592,1109.04
-2593,1110
-2594,1109.05
-2595,1111.01
-2596,1111.02
-2597,1111.03
-2598,1111.04
-2599,1111.05
-2600,1111.06
-2601,1112.01
-2602,1112.02
-2603,1112.03
-2604,1113.01
-2605,1113.02
-2606,1113.03
-2607,1113.04
-2608,1113.05
-2609,1113.06
-2610,1114.01
-2611,1114.02
-2612,1115.01
-2613,1115.02
-2614,1115.03
-2615,1116.01
-2616,1116.02
-2617,1116.03
-2618,1116.04
-2619,1117
-2620,1118.01
-2621,1118.02
-2622,1119.01
-2623,1119.02
-2624,1120
-2625,1121.01
-2626,1121.02
-2627,1121.03
-2628,1121.04
-2629,1121.05
-2630,1122.01
-2631,1122.02
-2632,1123.01
-2633,1123.02
-2634,1123.03
-2635,1123.04
-2636,1124
-2637,1125.01
-2638,1125.02
-2639,1125.03
-2640,1125.04
-2641,1125.05
-2642,1126.01
-2643,1126.02
-2644,1126.03
-2645,1126.04
-2646,1126.05
-2647,1126.06
-2648,1127.01
-2649,1127.02
-2650,1127.03
-2651,1127.04
-2652,1128
-2653,1129.01
-2654,1129.02
-2655,1129.03
-2656,1130.01
-2657,1130.02
-2658,1130.03
-2659,1130.04
-2660,1131.01
-2661,1131.02
-2662,1132.01
-2663,1132.02
-2664,1133.01
-2665,1133.02
-2666,1134.01
-2667,1134.02
-2668,1135
-2669,1136.01
-2670,1136.02
-2671,1137
-2672,1138
-2673,827.02
-2674,827.03
-2675,1139
-2676,1140
-2677,1141.01
-2678,1141.02
-2679,1142.01
-2680,1142.02
-2681,1143.01
-2682,1143.02
-2683,1144.01
-2684,1144.02
-2685,1145.01
-2686,1145.02
-2687,1146.01
-2688,1146.02
-2689,1146.03
-2690,1146.04
-2691,1146.05
-2692,1147
-2693,1148.01
-2694,1148.02
-2695,1148.03
-2696,1148.04
-2697,1149.01
-2698,1149.02
-2699,1149.03
-2700,1149.04
-2701,1149.05
-2702,1150
-2703,1151.01
-2704,1151.02
-2705,1151.03
-2706,1151.04
-2707,1151.05
-2708,1151.06
-2709,1151.07
-2710,1152
-2711,1153.01
-2712,1153.02
-2713,1153.03
-2714,1154.01
-2715,1154.02
-2716,1155
-2717,1156.01
-2718,1156.02
-2719,1156.03
-2720,1156.04
-2721,1156.05
-2722,1156.06
-2723,782.03
-2724,1157.01
-2725,1157.02
-2726,1157.03
-2727,1157.04
-2728,1158
-2729,1159.01
-2730,1159.02
-2731,1159.03
-2732,1159.04
-2733,1159.05
-2734,1159.06
-2735,1159.07
-2736,1159.08
-2737,1159.09
-2738,1159.10
-2739,1159.11
-2740,1159.12
-2741,1159.13
-2742,1159.14
-2743,1159.15
-2744,1160
-2745,1161.01
-2746,1162.01
-2747,1162.02
-2748,1162.03
-2749,1162.04
-2750,1162.05
-2751,1161.02
-2752,1161.03
-2753,1161.04
-2754,1161.05
-2755,1163.01
-2756,1163.02
-2757,1163.03
-2758,1164.01
-2759,1164.02
-2760,1164.03
-2761,1165.01
-2762,1165.02
-2763,1165.03
-2764,1165.04
-2765,1165.05
-2766,1165.06
-2767,1165.07
-2768,1166
-2769,1167.01
-2770,1167.02
-2771,1167.03
-2772,1167.04
-2773,1167.05
-2774,1167.06
-2775,1168
-2776,1169
-2777,762.04
-2778,762.05
-2779,1170
+hadiths[400]{hadithnumber,text}:
+"2379","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il y a sept personnes qu’Allah protégera sous Son ombre le jour où il n’y aura d’ombre que la Sienne : un dirigeant juste ; un jeune qui grandit dans l’adoration d’Allah ; une personne dont le cœur est attaché à la mosquée ; deux personnes qui s’aiment"
+"2380","Rapporté par Abu Huraira رضي الله عنه avec une variante : « Une personne dont le cœur reste attaché à la mosquée"
+"2382","Rapporté par Abu Huraira رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ et a demandé : « Ô Messager d’Allah"
+"2383","Rapporté par Abu Huraira رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ et a demandé : « Ô Messager d’Allah"
+"2384","Rapporté par Abu Huraira رضي الله عنه avec une variante de formulation : « Quelle aumône est la plus excellente ? »"
+"2385","Rapporté par Abdullah ibn Umar رضي الله عنه : Alors que le Messager d’Allah ﷺ était assis sur la chaire et parlait de l’aumône et du fait d’éviter de mendier"
+"2386","Rapporté par Hakim ibn Hizam رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La meilleure aumône est celle après laquelle tu restes à l’aise financièrement"
+"2387","Rapporté par Hakim ibn Hizam رضي الله عنه : J’ai demandé au Messager d’Allah ﷺ"
+"2388","Rapporté par Abu Umama رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ô fils d’Adam"
+"2389","Rapporté par Mu’awiya رضي الله عنه : Faites attention aux hadiths"
+"2390","Rapporté par Mu’awiya رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne forcez pas les choses"
+"2391","Rapporté par ‘Amr ibn Dinar d’après Wahb ibn Munabbih رضي الله عنه : Je suis allé chez lui à Sanaa"
+"2392","Rapporté par Abd al-Rahman ibn Awf رضي الله عنه : J’ai entendu Mu’awiya ibn Abu Sufyan dire dans un discours qu’il avait entendu le Messager d’Allah ﷺ dire : « Celui à qui Allah veut du bien"
+"2393","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le pauvre (miskin) n’est pas celui qui fait le tour des gens et repart avec une ou deux bouchées ou une ou deux dattes. » Les compagnons ont demandé : « Ô Messager d’Allah"
+"2394","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le miskin n’est pas celui qui repart avec une ou deux dattes"
+"2395","Rapporté par une autre chaîne de transmetteurs : (Hadith similaire au précédent)"
+"2396","Rapporté par Hamza"
+"2397","Rapporté par le frère de Zuhri : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"2398","Rapporté par Hamza ibn ‘Abdullah ibn Umar : Il a entendu son père dire que le Messager d’Allah ﷺ a dit : « Une personne continuera à mendier auprès des gens jusqu’à ce qu’au Jour de la Résurrection"
+"2399","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Celui qui mendie la richesse des autres pour augmenter la sienne ne demande en réalité que des braises ardentes. Qu’il en demande peu ou beaucoup. »"
+"2400","Rapporté par Abu Huraira : Il a entendu le Messager d’Allah ﷺ dire : « Il vaut mieux pour l’un d’entre vous de ramasser un fagot de bois sur son dos"
+"2401","Rapporté par Qais ibn Abu Hizam : Nous sommes allés voir Abu Huraira et il nous a rapporté que le Messager d’Allah ﷺ a dit : « Par Allah"
+"2402","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il vaut mieux pour l’un d’entre vous d’attacher un fagot de bois"
+"2403","Rapporté par Malik al-Ashja’i : Nous étions neuf"
+"2404","Rapporté par Qabisa ibn Mukhariq al-Hilali : J’étais endetté et je suis allé voir le Messager d’Allah ﷺ pour lui demander de l’aide à ce sujet. Il m’a dit : « Attends que nous recevions la sadaqa"
+"2405","Rapporté par Salim ibn Abdullah ibn ‘Umar"
+"2406","Rapporté par Salim ibn ‘Abdullah"
+"2407","Rapporté par Abdullah ibn al-Sa’di : Ce hadith a été rapporté par ‘Umar ibn al-Khattab رضي الله عنه"
+"2408","Rapporté par Ibn al-Sa’di Maliki : Omar ibn Khattab رضي الله عنه m’a nommé collecteur de la sadaqa. Quand j’ai terminé cette tâche et que je lui ai remis ce que j’avais collecté"
+"2409","Rapporté par Ibn al-Sa’di : Omar ibn Khattab رضي الله عنه m’a nommé collecteur de la sadaqa. Le reste du hadith est identique"
+"2410","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le cœur d’une personne âgée reste jeune pour deux choses : l’amour de la longue vie et l’amour de la richesse. »"
+"2411","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le cœur d’une personne âgée reste jeune pour deux choses : le désir de vivre longtemps et l’amour de la richesse. »"
+"2412","Rapporté par Anas : Le Messager d’Allah ﷺ a dit : « Le fils d’Adam vieillit"
+"2413","Rapporté par Anas : Un hadith similaire a été rapporté par Anas à travers une autre chaîne de transmetteurs"
+"2414","Rapporté par Anas : Ce hadith a été rapporté par Anas à travers une autre chaîne de transmetteurs"
+"2415","Rapporté par Anas : Le Messager d’Allah ﷺ a dit : « Si le fils d’Adam possédait deux vallées remplies de richesses"
+"2416","Rapporté par Anas ibn Malik : J’ai entendu le Messager d’Allah ﷺ dire cela"
+"2417","Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ a dit : « Si le fils d’Adam possédait deux vallées d’or"
+"2418","Rapporté par Ibn Abbas : Le Messager d’Allah ﷺ a dit : « Si le fils d’Adam avait une vallée remplie de richesses"
+"2419","Rapporté par Abu Harb ibn Abu al-Aswad"
+"2420","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « La vraie richesse ne se trouve pas dans l’abondance des biens matériels"
+"2421","Rapporté par Abu Sa’id al-Khudri : Le Messager d’Allah ﷺ s’est levé et a adressé ces paroles aux gens : « Ô gens"
+"2422","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ce que je crains le plus pour vous"
+"2423","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ était assis sur la chaire et nous étions autour de lui. Il a dit : « Ce que je crains pour vous après ma mort"
+"2424","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Des gens parmi les Ansar ont demandé l’aumône au Messager d’Allah ﷺ et il leur a donné. Ils ont redemandé et il leur a encore donné"
+"2425","Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"2426","Rapporté par ‘Amr b. al-‘As رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Est vraiment heureux celui qui a accepté l’islam"
+"2427","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ô Allah"
+"2428","Rapporté par Omar b. Khattab رضي الله عنه : Le Messager d’Allah ﷺ a distribué quelque chose. J’ai alors dit : « Ô Messager d’Allah"
+"2429","Rapporté par Anas b. Malik رضي الله عنه : Je marchais avec le Messager d’Allah ﷺ qui portait un manteau de Najran à bordure épaisse. Un bédouin l’a rencontré et a tiré si fort sur le manteau que j’ai vu la marque de la bordure sur la peau du cou du Messager d’Allah ﷺ. Le bédouin a dit : « Muhammad"
+"2430","Rapporté par Anas b. Malik رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs. Dans la version transmise par Ikrima b. ‘Ammir"
+"2431","Rapporté par Miswar b. Makhrama رضي الله عنه : Le Messager d’Allah ﷺ a distribué des manteaux mais n’en a pas donné à Makhrama. Makhrama a alors dit : « Ô mon fils"
+"2432","Rapporté par Miswar b. Makhrama رضي الله عنه : Des manteaux ont été offerts au Messager d’Allah ﷺ. Mon père Makhrama m’a dit : « Viens avec moi chez lui ; peut-être pourrons-nous obtenir quelque chose de ce lot de manteaux. » Mon père s’est tenu à la porte et a commencé à parler. Le Messager d’Allah ﷺ l’a reconnu à sa voix"
+"2433","Rapporté par Sa’d رضي الله عنه : Le Messager d’Allah ﷺ a offert des cadeaux à un groupe de personnes alors que j’étais assis parmi eux. Cependant"
+"2434","Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"2435","Rapporté par Muhammad b. Sa’d رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2436","Rapporté par Anas b. Malik رضي الله عنه : Le jour de Hunayn"
+"2437","Rapporté par Anas b. Malik رضي الله عنه : Lorsque Allah a accordé à Son Messager ﷺ les richesses de Hawazin (sans combat)"
+"2438","Rapporté par Anas b. Malik رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2439","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a rassemblé les Ansar et a dit : « Y a-t-il parmi vous quelqu’un d’étranger ? » Ils ont répondu : « Non"
+"2440","Rapporté par Anas b. Malik رضي الله عنه : Quand La Mecque a été conquise"
+"2441","Rapporté par Anas b. Malik رضي الله عنه : Le jour de Hunayn"
+"2442","Rapporté par Anas b. Malik رضي الله عنه : Nous avons conquis La Mecque"
+"2443","Rapporté par Rafi’ b. Khadij رضي الله عنه : Le Messager d’Allah ﷺ a donné à Abu Sufyan b. Harb"
+"2444","Rapporté par Sa’id b. Masruq رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs (avec les mots) : « Le Messager d’Allah ﷺ a distribué le butin de Hunayn"
+"2445","Rapporté par Sa’id رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"2446","Rapporté par Abdullah b. Zaid رضي الله عنه : Lorsque le Messager d’Allah ﷺ a conquis Hunayn"
+"2447","Rapporté par Abdullah رضي الله عنه : Le jour de Hunayn"
+"2448","Rapporté par Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a distribué le butin de guerre. Un homme a alors dit : « Cette distribution n’a pas été faite dans le but de plaire à Allah. » Je suis allé discrètement en informer le Messager d’Allah ﷺ. Il s’est mis très en colère et son visage est devenu rouge"
+"2449","Rapporté par Jabir ibn Abdullah رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ à Ji’rana"
+"2450","Rapporté par Jabir ibn Abdullah رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2451","Rapporté par Abu Saïd al-Khudri رضي الله عنه : ‘Ali رضي الله عنه a envoyé au Messager d’Allah ﷺ de l’or mêlé de poussière"
+"2452","Rapporté par Abu Saïd al-Khudri رضي الله عنه : ‘Ali ibn Abu Talib رضي الله عنه a envoyé du Yémen au Messager d’Allah ﷺ de l’or mêlé de terre"
+"2453","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2454","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2455","Rapporté par Abu Salama et ‘Ata’ ibn Yasar : Ils sont venus voir Abu Saïd al-Khudri رضي الله عنه et l’ont interrogé au sujet des Haruriya"
+"2456","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Alors que nous étions avec le Messager d’Allah ﷺ pendant qu’il distribuait le butin de guerre"
+"2457","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a parlé d’un groupe qui apparaîtra dans sa communauté"
+"2458","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un groupe se séparera de la communauté au moment de la division parmi les musulmans. Le groupe le plus proche de la vérité les combattra et les tuera. »"
+"2459","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il y aura deux groupes dans ma communauté"
+"2460","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un groupe se séparera au moment où il y aura des divisions parmi les gens"
+"2461","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit qu’un groupe (les Khawarij) émergera des différents partis (celui de ‘Ali et celui de Mu’awiya)"
+"2462","Rapporté par Ali رضي الله عنه : Chaque fois que je vous rapporte quelque chose du Messager d’Allah ﷺ"
+"2463","Rapporté par un autre transmetteur : Un hadith similaire a été rapporté par une autre chaîne de transmetteurs"
+"2464","Rapporté par un autre transmetteur : Ce hadith a été rapporté par A’mash avec la même chaîne de transmetteurs"
+"2465","Rapporté par ‘Abida"
+"2466","Rapporté par ‘Abida : Je ne vous rapporterai que ce que j’ai entendu de lui (‘Ali رضي الله عنه)"
+"2467","Rapporté par Zayd ibn Wahb al-Juhani رضي الله عنه : Il faisait partie de l’escadron commandé par ‘Ali رضي الله عنه pour combattre les Khawarij. ‘Ali رضي الله عنه a dit : « Ô gens"
+"2468","Rapporté par ‘Ubaydullah ibn Abu Rafi’"
+"2469","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il surgira de ma communauté après moi"
+"2470","Rapporté par Yousair ibn ‘Amr : Il a demandé à Sahl ibn Hunaif رضي الله عنه : « As-tu entendu le Messager d’Allah ﷺ parler des Khawarij ? » Il a répondu : « Je l’ai entendu dire (en pointant la main vers l’est) : “Ce sera un peuple qui récitera le Coran avec leur langue"
+"2471","Rapporté par Sulaiman Shaibani : Ce hadith a été transmis par la même chaîne de narrateurs (et les mots sont) : « Il surgira de ce groupe de nombreux groupes. »"
+"2472","Rapporté par Sahl b. Hunaif : Le Messager d’Allah ﷺ a dit : « Des gens viendront de l’est"
+"2473","Rapporté par Abu Huraira : Hasan b. ‘Ali a pris une des dattes de la sadaqa et l’a mise dans sa bouche. Le Prophète ﷺ lui a alors dit : « Laisse-la"
+"2474","Rapporté par Abu Huraira selon Shu‘ba : Le Prophète ﷺ a dit : « La sadaqa ne nous est pas permise. »"
+"2475","Rapporté par Abu Huraira selon Shu‘ba : Ce même hadith a été rapporté avec la même chaîne de transmission"
+"2476","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Je retourne auprès de ma famille et je trouve une datte sur mon lit. Je la prends pour la manger"
+"2477","Rapporté par Abu Huraira selon Hammam b. Munabbih : Le Messager d’Allah ﷺ a dit : « Je retourne auprès de ma famille et je trouve une datte sur mon lit ou dans ma maison. Je la prends pour la manger"
+"2478","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a trouvé une datte dans la rue et a dit : « Si elle n’était pas de la sadaqa"
+"2479","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a trouvé une datte sur le chemin et a dit : « Si elle ne venait pas de la sadaqa"
+"2480","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a trouvé une datte et a dit : « Si je ne craignais pas qu’elle fasse partie de la sadaqa"
+"2481","Rapporté par ‘Abd al-Muttalib b. Rabi‘a b. al-Harith : Rabi‘a b. al-Harith et Abbas b. Abd al-Muttalib se sont réunis et ont dit : « Par Allah"
+"2482","Rapporté par Rabi‘a b. Harith b. ‘Abd al-Muttalib et Abbas b. ‘Abd al-Muttalib : Ils ont dit à ‘Abd al-Muttalib b. Rabi‘a et Fadl b. Ibn Abbas : « Allez voir le Messager d’Allah ﷺ. » Le reste du hadith est similaire"
+"2483","Rapporté par Juwayriya (l’épouse du Messager d’Allah ﷺ) : Le Messager d’Allah ﷺ est venu me voir et a dit : « As-tu quelque chose à manger ? » J’ai répondu : « Messager d’Allah"
+"2484","Rapporté par Zuhri : Ce hadith a été rapporté avec la même chaîne de transmission"
+"2485","Rapporté par Anas b. Malik : Barira a offert au Messager d’Allah ﷺ un morceau de viande qui lui avait été donné en sadaqa. Le Prophète ﷺ a dit : « C’est une sadaqa pour elle et un cadeau pour nous. »"
+"2486","Rapporté par Aïcha رضي الله عنها : Un jour"
+"2487","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Nous avons appris trois décisions religieuses grâce à Barira. Les gens lui donnaient la sadaqa et elle nous en offrait une partie en cadeau. Nous en avons parlé au Messager d’Allah ﷺ"
+"2488","Rapporté par Aïcha رضي الله عنها : Ce hadith a été rapporté par une autre chaîne de transmission"
+"2489","Rapporté par Aïcha رضي الله عنها : Ce hadith a aussi été transmis par Aïcha"
+"2490","Rapporté par Umm ‘Atiyya : Le Messager d’Allah ﷺ m’a envoyé un morceau de mouton provenant de la sadaqa. J’en ai envoyé une part à Aïcha. Quand le Messager d’Allah ﷺ est venu chez Aïcha"
+"2491","Rapporté par Abu Huraira : Chaque fois qu’on présentait de la nourriture au Messager d’Allah ﷺ"
+"2492","Rapporté par ‘Abdullah b. Abu Aufa : Quand les gens apportaient la sadaqa au Messager d’Allah ﷺ"
+"2493","Rapporté par Shu‘ba : Ce hadith a été rapporté avec la même chaîne de transmission"
+"2494","Rapporté par Jarir b. ‘Abdullah : Quand le collecteur de la sadaqa (Zakat) vient chez vous"
+"2495","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand arrive le mois de Ramadan"
+"2496","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand vient le mois de Ramadan"
+"2497","Rapporté par Abu Huraira رضي الله عنه (avec une légère différence dans les mots) : Le Messager d’Allah ﷺ a dit : « Quand (le mois de) Ramadan commence. »"
+"2498","Rapporté par Ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit à propos de Ramadan : « Ne jeûnez pas avant d’avoir vu le croissant de lune"
+"2499","Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ a parlé de Ramadan et"
+"2500","Rapporté par Ubaidullah selon la même chaîne de transmetteurs : Il a dit : « Si le ciel est couvert pour vous"
+"2501","Rapporté par Ubaidullah selon la même chaîne de transmetteurs : Le Messager d’Allah ﷺ a parlé de Ramadan et a dit : « Le mois peut avoir vingt-neuf jours"
+"2502","Rapporté par Ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit : « Le mois de Ramadan peut avoir vingt-neuf jours. Donc"
+"2503","Rapporté par Abdullah ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit : « Le mois (de Ramadan) peut avoir vingt-neuf jours. Donc"
+"2504","Rapporté par Abdullah ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit : « Quand vous voyez le croissant de lune"
+"2505","Rapporté par Ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit : « Le mois peut avoir vingt-neuf nuits. Donc"
+"2506","Rapporté par Ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit : « Le mois est ainsi"
+"2507","Rapporté par Ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit : « Le mois peut avoir vingt-neuf jours. »"
+"2508","Rapporté par Abdullah ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit : « Le mois (de Ramadan) est ainsi"
+"2509","Rapporté par Ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit : « Le mois est ainsi"
+"2510","Rapporté par Ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit : « Le mois (de Ramadan) peut avoir vingt-neuf jours. » Shu’ba (un des rapporteurs) a montré comment le Prophète ﷺ l’a expliqué en ouvrant ses mains trois fois et en repliant son pouce la troisième fois. Uqba (un autre rapporteur de cette chaîne) a dit : « Je pense qu’il a dit que le mois compte trente jours et a ouvert sa paume trois fois. »"
+"2511","Rapporté par Ibn Umar (qu’Allah les agrée tous les deux) : Le Messager d’Allah ﷺ a dit : « Nous sommes un peuple illettré qui ne sait ni écrire ni compter. Le mois est ainsi"
+"2512","Rapporté par Aswad ibn Qais selon la même chaîne de transmetteurs : Mais ici"
+"2513","Rapporté par Sa’d ibn Ubaida : Ibn Umar (qu’Allah les agrée tous les deux) a entendu une personne dire : « Cette nuit est la moitié du mois. » Il lui a alors dit : « Comment sais-tu que c’est la moitié du mois ? Car j’ai entendu le Messager d’Allah ﷺ dire : “Le mois est ainsi et ainsi” (et il a montré avec ses dix doigts deux fois) “et ainsi” (c’est-à-dire la troisième fois"
+"2514","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Chaque fois que vous voyez le croissant de lune (du mois de Ramadan)"
+"2515","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Commencez le jeûne quand vous voyez (le croissant de lune) et rompez-le quand vous le voyez"
+"2516","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Commencez le jeûne quand vous voyez (le croissant de lune) et rompez-le quand vous le voyez. Mais si (à cause des nuages) la position du mois vous est cachée"
+"2517","Rapporté par Abu Huraira (qu’Allah l’agrée) : Le Messager d’Allah ﷺ a parlé du croissant de lune et a dit : « Commencez le jeûne quand vous le voyez (le croissant de lune) et rompez le jeûne quand vous le voyez (le croissant de Chawwal)"
+"2518","Rapporté par Abu Huraira (qu’Allah l’agrée) : Le Messager d’Allah ﷺ a dit : « Ne commencez pas le jeûne un jour ou deux avant Ramadan"
+"2519","Rapporté par Yahya ibn Abi Kathir selon la même chaîne de transmetteurs"
+"2520","Rapporté par Zuhri : (Un jour) le Messager d’Allah ﷺ a juré de ne pas aller voir ses épouses pendant un mois. Zuhri a dit que Urwa lui a rapporté d’Aïcha (qu’Allah l’agrée) qu’elle a dit : « Quand vingt-neuf nuits se sont écoulées"
+"2521","Rapporté par Jabir (qu’Allah l’agrée) : Le Prophète ﷺ s’est séparé de ses épouses pendant un mois. (Ses épouses ont dit :) « Il est venu chez nous le vingt-neuvième jour"
+"2522","Rapporté par Abu Zubair"
+"2523","Rapporté par Umm Salama رضي الله عنها : Le Messager d’Allah ﷺ a juré de ne pas aller chez certaines de ses épouses pendant tout un mois. Après vingt-neuf jours"
+"2524","Rapporté par Ibn Juraij avec la même chaîne de transmetteurs : Un hadith similaire a été rapporté"
+"2525","Rapporté par Sa’d ibn Abi Waqqas رضي الله عنه : Le Messager d’Allah ﷺ a frappé une main contre l’autre et"
+"2526","Rapporté par Muhammad ibn Sa’d d’après son père (Sa’d ibn Abi Waqqas رضي الله عنه) : Le Messager d’Allah ﷺ a dit : « Le mois est ainsi"
+"2527","Rapporté par Ibn Abu Khalid avec la même chaîne de transmetteurs : Un hadith similaire a été rapporté"
+"2528","Rapporté par Kuraib : Umm Fadl"
+"2529","Rapporté par Abu’l-Bakhtari : Nous sommes partis pour accomplir la ‘Umra et"
+"2530","Rapporté par Abu’l-Bakhtari : Nous avons vu le croissant de lune de Ramadan alors que nous étions à Dhit-i-‘Irq. Nous avons envoyé quelqu’un demander à Ibn ‘Abbas رضي الله عنهما si le fait de voir un croissant très fin posait problème. Ibn ‘Abbas رضي الله عنهما a répondu que le Messager d’Allah ﷺ avait dit : « En vérité"
+"2531","Rapporté par le fils d’Abu Bakra"
+"2532","Rapporté par ‘Abd ar-Rahman ibn Abu Bakra"
+"2533","Rapporté par ‘Adi ibn Hatim رضي الله عنه : Lorsque ce verset a été révélé : « Jusqu’à ce que le fil blanc de l’aube soit distinct du fil noir » (2 :187)"
+"2534","Rapporté par Sahl ibn Sa’d : Quand ce verset a été révélé : « Mangez et buvez jusqu’à ce que le fil blanc soit distinct du fil noir »"
+"2535","Rapporté par Sahl ibn Sa’d رضي الله عنه : Lorsque ce verset a été révélé : « Mangez et buvez jusqu’à ce que le fil blanc soit distinct du fil noir pour vous »"
+"2536","Rapporté par ‘Abdullah ibn Mas’ud رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Bilal fait l’appel à la prière à la fin de la nuit pour informer les gens de l’heure du sahur. Mangez et buvez jusqu’à entendre l’appel à la prière d’Ibn Umm Maktum"
+"2537","Rapporté par Abdullah ibn ‘Umar رضي الله عنهما : J’ai entendu le Messager d’Allah ﷺ dire : « Bilal fait l’appel à la prière pendant la nuit"
+"2538","Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ avait deux muezzins"
+"2539","Rapporté par ‘Aïsha رضي الله عنها : Un hadith similaire a été transmis"
+"2540","Rapporté par ‘Ubaidullah avec deux chaînes de transmetteurs : Un hadith similaire a été rapporté"
+"2541","Rapporté par Ibn Mas’ud رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’appel à la prière de Bilal ne doit empêcher personne parmi vous de manger le sahur (le dernier repas avant l’aube pendant Ramadan)"
+"2542","Rapporté par Sulaiman al-Taimi avec la même chaîne de transmetteurs (avec une légère variation dans les mots) : Le Prophète ﷺ a dit : « L’aube n’est pas comme ceci"
+"2543","Rapporté par Sulaiman Taimi avec la même chaîne de transmetteurs : À la fin du récit"
+"2544","Rapporté par Samura ibn Jundub : Muhammad ﷺ a dit : « L’appel de Bilal ne doit pas vous tromper (et vous faire arrêter de manger avant l’heure du jeûne)"
+"2545","Rapporté par Samura ibn Jundub : Le Messager d’Allah ﷺ a dit : « L’appel à la prière de Bilal ne doit pas vous tromper"
+"2546","Rapporté par Samura ibn Jundub رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’appel à la prière de Bilal ne doit pas vous tromper concernant votre nourriture au début du jeûne"
+"2547","Rapporté par Samura b. Jundub : Il a rapporté que le Messager d’Allah ﷺ a dit : « Ne vous laissez pas tromper par l’appel de Bilal ni par cette blancheur (de la fausse aube) jusqu’à ce que la véritable aube apparaisse (ou il a dit) jusqu’à ce que l’aube se lève. »"
+"2548","Rapporté par Samura b. Jundub : Un hadith similaire a été rapporté par Samura b. Jundub"
+"2549","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Prenez un repas peu avant l’aube"
+"2550","Rapporté par ‘Amr b. al-‘As : Le Messager d’Allah ﷺ a dit : « La différence entre notre jeûne et celui des gens du Livre"
+"2551","Rapporté par Mousa b. ‘Ali : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"2552","Rapporté par Zayd b. Thabit رضي الله عنه : Il a dit : « Nous avons pris le repas avant l’aube avec le Messager d’Allah ﷺ. Ensuite"
+"2553","Rapporté par Qatada : Ce hadith a aussi été transmis par Qatada"
+"2554","Rapporté par Sahl b. Sa’d رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les gens continueront à aller bien tant qu’ils s’empresseront de rompre le jeûne. »"
+"2555","Rapporté par Sahl b. Sa’d رضي الله عنه : Un hadith similaire a été transmis par Sahl b. Sa’d"
+"2556","Rapporté par Abu ‘Atiyya : Masruq et moi sommes allés voir ‘Aïsha رضي الله عنها et nous lui avons dit : « Mère des croyants"
+"2557","Rapporté par Abu ‘Atiyya : Masruq et moi sommes allés voir ‘Aïsha (la mère des croyants) رضي الله عنها et Masruq lui a dit : « Il y a deux personnes parmi les compagnons de Muhammad ﷺ"
+"2558","Rapporté par ‘Omar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand la nuit arrive"
+"2559","Rapporté par ‘Abdullah b. Abi Awfa : Nous étions avec le Messager d’Allah ﷺ en voyage pendant le mois de Ramadan. Quand le soleil s’est couché"
+"2560","Rapporté par Ibn Abi Awfa رضي الله عنه : Nous étions avec le Messager d’Allah ﷺ en voyage. Quand le soleil s’est couché"
+"2561","Rapporté par ‘Abdullah b. Abi Awfa رضي الله عنه : Nous avons voyagé avec le Messager d’Allah ﷺ alors qu’il jeûnait. Quand le soleil s’est couché"
+"2562","Rapporté par Ibn Abi Awfa رضي الله عنه : Ce hadith a été rapporté par une autre chaîne (avec une légère différence de mots) : Dans ce récit"
+"2563","Rapporté par Ibn ‘Omar رضي الله عنهما : Le Messager d’Allah ﷺ a interdit le jeûne continu sans interruption. Certains compagnons ont dit : « Mais toi"
+"2564","Rapporté par Ibn ‘Omar رضي الله عنه : Le Messager d’Allah ﷺ jeûnait sans interruption pendant le Ramadan et les gens faisaient de même. Mais il leur a interdit de le faire. On lui a dit : « Mais toi"
+"2565","Rapporté par Ibn ‘Omar رضي الله عنهما : Un hadith similaire a été transmis par Ibn ‘Omar"
+"2566","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a interdit à ses compagnons de jeûner sans interruption. L’un des musulmans a dit : « Messager d’Allah"
+"2567","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Abstenez-vous du jeûne continu (Saum Wisal). » Ses compagnons ont dit : « Messager d’Allah"
+"2568","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit (comme dans le hadith précédent)"
+"2569","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a interdit à ses compagnons de jeûner sans interruption (Saum Wisal)"
+"2570","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ priait pendant le Ramadan. Je suis venu et je me suis mis à côté de lui. Puis un autre homme est venu et il s’est aussi mis à côté de nous"
+"2571","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a observé le jeûne continu (Saum Wisal) au début du mois de Ramadan. Les musulmans ont aussi jeûné sans interruption. Quand il l’a appris"
+"2572","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ a interdit à ses compagnons de pratiquer le jeûne continu (Saum Wisal) par compassion pour eux. Ils ont dit : « Mais toi"
+"2573","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ a embrassé l’une de ses épouses alors qu’il jeûnait"
+"2574","Rapporté par Soufyan : J’ai demandé à Abd al-Rahman ibn Qasim : « As-tu entendu ton père rapporter d’Aïcha رضي الله عنها que le Prophète ﷺ l’a embrassée alors qu’il jeûnait ? » Abd al-Rahman est resté silencieux un moment"
+"2575","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ m’embrassait alors qu’il jeûnait ; et qui parmi vous peut maîtriser ses désirs comme le Messager d’Allah ﷺ le pouvait ?"
+"2576","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ embrassait ses épouses et les prenait dans ses bras alors qu’il jeûnait ; mais il était celui qui contrôlait le mieux ses désirs parmi vous"
+"2577","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ embrassait ses épouses alors qu’il jeûnait ; et il maîtrisait ses désirs mieux que vous tous"
+"2578","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ prenait ses épouses dans ses bras alors qu’il jeûnait"
+"2579","Rapporté par Aswad : Masruq et moi sommes allés voir Aïcha رضي الله عنها et nous lui avons demandé si le Messager d’Allah ﷺ prenait ses épouses dans ses bras pendant le jeûne. Elle a répondu : « Oui ; mais il contrôlait ses désirs mieux que vous"
+"2580","Rapporté par Aswad et Masruq : Ils sont allés voir la Mère des croyants et lui ont posé la question (et le reste du hadith est identique)"
+"2581","Rapporté par Urwa ibn Zubair : Aïcha"
+"2582","Un hadith similaire a été rapporté par Yahya ibn Abu Kathir avec la même chaîne de transmetteurs"
+"2583","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ l’embrassait pendant le mois du jeûne"
+"2584","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ embrassait ses épouses pendant le Ramadan alors qu’il jeûnait"
+"2585","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ embrassait ses épouses alors qu’il jeûnait"
+"2586","Rapporté par Hafsa رضي الله عنها : Le Messager d’Allah ﷺ embrassait ses épouses alors qu’il jeûnait"
+"2587","Un hadith similaire a été rapporté par Hafsa رضي الله عنها par une autre chaîne de transmetteurs"
+"2588","Rapporté par Omar ibn Abu Salama : Il a demandé au Messager d’Allah ﷺ : « Celui qui jeûne peut-il embrasser son épouse ? » Le Messager d’Allah ﷺ lui a dit : « Demande à Umm Salama. » Elle lui a appris que le Messager d’Allah ﷺ le faisait. Il a alors dit : « Messager d’Allah"
+"2589","Rapporté par Abu Bakr (Abu Bakr ibn Abd al-Rahman ibn Harith) : J’ai entendu Abu Huraira رضي الله عنه rapporter que celui qui est surpris par l’aube en état d’impureté majeure ne doit pas jeûner. J’en ai parlé à Abd al-Rahman ibn Harith (son père)"
+"2590","Rapporté par Aïcha"
+"2591","Rapporté par Abu Bakr : Marwan l’a envoyé demander à Umm Salama si une personne devait jeûner alors qu’elle est en état de grande impureté et que l’aube se lève sur elle. Elle a répondu que le Messager d’Allah ﷺ était parfois en état de grande impureté à cause d’un rapport et non d’un rêve"
+"2592","Rapporté par Abu Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham"
+"2593","Rapporté par Aïcha رضي الله عنها : Une personne est venue demander une fatwa au Messager d’Allah ﷺ. J’écoutais depuis derrière un rideau. Il a dit : « Messager d’Allah"
+"2594","Rapporté par Souleyman ibn Yassar : Il a demandé à Umm Salama si une personne qui se lève le matin en état de grande impureté doit jeûner. Elle a répondu : « Le Messager d’Allah ﷺ se levait parfois le matin en état de grande impureté"
+"2595","Rapporté par Abu Huraira رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ et a dit : « Messager d’Allah"
+"2596","Un hadith similaire a été rapporté par Muhammad ibn Muslim al-Zuhri avec la même chaîne de transmetteurs"
+"2597","Rapporté par Abu Huraira رضي الله عنه : Un homme a eu un rapport avec sa femme pendant le Ramadan (alors qu’il jeûnait). Il a demandé au Messager d’Allah ﷺ ce qu’il devait faire. Le Prophète ﷺ lui a dit : « Peux-tu affranchir un esclave ? » Il a répondu : Non. Le Prophète ﷺ a dit : « Peux-tu jeûner deux mois consécutifs ? » Il a répondu : Non. Le Prophète ﷺ a dit : « Alors nourris soixante pauvres. »"
+"2598","Rapporté par Zuhri avec la même chaîne de transmetteurs : Un homme a rompu son jeûne pendant le Ramadan"
+"2599","Rapporté par Humaid ibn ‘Abd al-Rahman : Abu Huraira رضي الله عنه lui a raconté que le Messager d’Allah ﷺ a ordonné à l’homme qui avait rompu son jeûne pendant le Ramadan d’affranchir un esclave"
+"2600","Rapporté par Zuhri avec la même chaîne de transmetteurs"
+"2601","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Un homme est venu voir le Messager d’Allah ﷺ et a dit : « Je suis perdu. » Le Messager d’Allah ﷺ lui a demandé : « Qu’as-tu fait ? » Il a répondu : « J’ai eu un rapport avec ma femme pendant la journée du Ramadan. » Le Prophète ﷺ a dit : « Fais l’aumône"
+"2602","Rapporté par ‘Abbad ibn Abdullah ibn Zubair : Il a entendu Aïsha رضي الله عنها dire : Un homme est venu voir le Messager d’Allah ﷺ"
+"2603","Rapporté par ‘Abbad ibn Abdullah ibn Zubair : Il a entendu Aïsha"
+"2604","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ est sorti pendant le mois de Ramadan l’année de la Victoire (lors de la conquête de La Mecque) et il jeûnait jusqu’à ce qu’il atteigne Kadid (un canal à environ soixante-dix kilomètres de La Mecque)"
+"2605","Rapporté par Zuhri avec la même chaîne de transmetteurs. Yahya (un des narrateurs) a dit que Sufyan (le narrateur) a précisé : « Je ne sais pas à qui appartient cette parole : “C’est la dernière parole du Messager d’Allah ﷺ qui est acceptée (car elle abroge les précédentes).” »"
+"2606","Rapporté par Zuhri avec la même chaîne de transmetteurs : Rompre le jeûne lors d’un voyage est le dernier des deux commandements (entre jeûner ou rompre le jeûne)"
+"2607","Rapporté par Ibn Shihab : Un hadith similaire a été transmis"
+"2608","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a voyagé pendant le mois de Ramadan en jeûnant jusqu’à ce qu’il atteigne ‘Usfan. Il a alors demandé qu’on lui apporte une coupe d’eau et il a bu devant tout le monde pour qu’ils le voient"
+"2609","Rapporté par Ibn Abbas رضي الله عنه : Ne blâmez pas celui qui jeûne ni celui qui ne jeûne pas pendant un voyage"
+"2610","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ est parti vers La Mecque pendant le Ramadan"
+"2611","Rapporté par Ja’far avec la même chaîne de transmetteurs"
+"2612","Rapporté par Jabir ibn Abdullah رضي الله عنه : Pendant un voyage"
+"2613","Rapporté par ‘Amr ibn al-Hasan : Il a entendu Jabir ibn Abdullah رضي الله عنه dire que le Messager d’Allah ﷺ a vu un homme. Le reste du hadith est identique à ce qui précède"
+"2614","Rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"2615","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Nous sommes sortis en expédition avec le Messager d’Allah ﷺ le 16e jour de Ramadan. Certains d’entre nous jeûnaient"
+"2616","Rapporté par Qatada avec la même chaîne de transmetteurs"
+"2617","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Nous sommes partis en expédition avec le Messager d’Allah ﷺ pendant le Ramadan"
+"2618","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Nous sommes partis en expédition avec le Messager d’Allah ﷺ pendant le Ramadan. Certains d’entre nous jeûnaient"
+"2619","Rapporté par Abu Nadra : Abu Sa’id al-Khudri et Jabir ibn Abdullah رضي الله عنهم ont dit : Nous avons voyagé avec le Messager d’Allah ﷺ. Certains jeûnaient"
+"2620","Rapporté par Humaid : On a demandé à Anas رضي الله عنه au sujet du jeûne pendant le Ramadan lors d’un voyage. Il a répondu : Nous avons voyagé avec le Messager d’Allah ﷺ pendant le Ramadan"
+"2621","Rapporté par Abu Khalid al-Ahmar d’après Humaid : Je suis parti en voyage en jeûnant ; on m’a dit : « Romps ton jeûne (littéralement : reviens"
+"2622","Rapporté par Anas رضي الله عنه : Nous étions avec le Messager d’Allah ﷺ en voyage. Certains d’entre nous jeûnaient"
+"2623","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ voyageait avec ses Compagnons. Certains jeûnaient"
+"2624","Rapporté par Qaza'a : Je suis allé voir Abu Sa'id al-Khudri رضي الله عنه alors qu’il était entouré de gens. Quand ils sont partis"
+"2625","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Hamza ibn ‘Amr al-Aslami a demandé au Messager d’Allah ﷺ au sujet du jeûne en voyage"
+"2626","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Hamza ibn ‘Amr al-Aslami a demandé au Messager d’Allah ﷺ : « Messager d’Allah"
+"2627","Rapporté par Hicham avec la même chaîne de transmetteurs"
+"2628","Rapporté par Hicham avec la même chaîne de transmetteurs"
+"2629","Rapporté par Hamza ibn ‘Amr al-Aslami رضي الله عنه : « Messager d’Allah"
+"2630","Rapporté par Abou Darda’ رضي الله عنه : Nous sommes partis pendant le mois de Ramadan avec le Messager d’Allah ﷺ sous une chaleur si intense que chacun de nous mettait sa main sur sa tête pour se protéger. Aucun de nous ne jeûnait"
+"2631","Rapporté par Abou Darda’ رضي الله عنه : Nous étions avec le Messager d’Allah ﷺ lors d’un de ses voyages"
+"2632","Rapporté par Umm al-Fadl bint al-Harith : Des gens se sont disputés au sujet du jeûne du Messager d’Allah ﷺ le jour de ‘Arafat. Certains disaient qu’il jeûnait"
+"2633","Ce hadith a été rapporté par Abou Nadr avec la même chaîne de transmetteurs"
+"2634","Ce hadith a été rapporté par Abou Nadr"
+"2635","Rapporté par Umm al-Fadl رضي الله عنها : Certains Compagnons du Messager d’Allah ﷺ doutaient au sujet du jeûne le jour de ‘Arafat alors que nous étions avec lui ce jour-là. J’ai envoyé une coupe de lait au Prophète ﷺ alors qu’il était à ‘Arafat"
+"2636","Rapporté par Kuraib"
+"2637","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Les Quraysh jeûnaient le jour de ‘Ashura avant l’Islam"
+"2638","Ce hadith est rapporté par Hicham avec la même chaîne de transmetteurs"
+"2639","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Avant l’Islam"
+"2640","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ avait ordonné de jeûner le jour de ‘Ashura avant que le jeûne du Ramadan ne soit obligatoire. Mais quand cela est devenu obligatoire"
+"2641","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Les Quraysh jeûnaient le jour de ‘Ashura avant l’Islam. Le Messager d’Allah ﷺ a alors ordonné de jeûner ce jour jusqu’à ce que le jeûne du Ramadan devienne obligatoire. Ensuite"
+"2642","Rapporté par Abdullah ibn ‘Umar رضي الله عنهما : (Les Arabes) d’avant l’Islam jeûnaient le jour de ‘Ashura"
+"2643","Un hadith similaire a été rapporté par Abdullah avec la même chaîne de transmetteurs"
+"2644","Rapporté par Ibn ‘Umar رضي الله عنهما : On a parlé du jour de ‘Ashura devant le Messager d’Allah ﷺ. Il a dit : « C’est un jour où les gens d’avant l’Islam jeûnaient. Que celui d’entre vous qui veut jeûner le fasse"
+"2645","Rapporté par Abdullah ibn ‘Umar رضي الله عنهما : Il a entendu le Messager d’Allah ﷺ dire à propos du jour de ‘Ashura : « C’est un jour où les gens d’avant l’Islam jeûnaient. Celui qui veut jeûner ce jour peut le faire"
+"2646","Rapporté par Abdullah ibn ‘Umar رضي الله عنهما : On a mentionné le jour de ‘Ashura devant le Messager d’Allah ﷺ"
+"2647","Rapporté par Abdullah ibn Umar رضي الله عنه : On mentionna le jour de ‘Ashura devant le Messager d’Allah ﷺ et il dit : « C’est un jour où les gens"
+"2648","Rapporté par Abd al-Rahman ibn Yazid : Lorsque al-Ash’ath ibn Qais entra chez Abdullah"
+"2649","Rapporté par Jarir"
+"2650","Rapporté par Qais ibn Sakan : Al-Ash’ath ibn Qais alla voir Abdullah le jour de ‘Ashura alors qu’il mangeait. Il lui dit : « Abu Muhammad"
+"2651","Rapporté par ‘Alqama : Al-Ash’ath ibn Qais alla voir Ibn Mas’ud alors qu’il mangeait le jour de ‘Ashura. Il lui dit : « Abu Abd al-Rahman"
+"2652","Rapporté par Jabir ibn Samura : Le Messager d’Allah ﷺ nous a ordonné de jeûner le jour de ‘Ashura"
+"2653","Rapporté par Abd al-Rahman : Il a entendu Mu’awiya ibn Abu Sufyan prononcer un sermon à Médine"
+"2654","Un hadith similaire a été rapporté par Ibn Shihab avec la même chaîne de transmetteurs"
+"2655","Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"2656","Rapporté par Ibn Abbas رضي الله عنهما : Lorsque le Messager d’Allah ﷺ arriva à Médine"
+"2657","Ce hadith a été rapporté par Ibn Bishr avec la même chaîne de transmetteurs"
+"2658","Rapporté par Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ arriva à Médine et trouva les Juifs en train de jeûner le jour de ‘Ashura. Il leur demanda : « Quelle est l’importance de ce jour pour que vous jeûniez ? » Ils répondirent : « C’est un jour très important : Allah a sauvé Moïse et son peuple"
+"2659","Ce hadith a été rapporté par Ayyub avec la même chaîne de transmetteurs"
+"2660","Rapporté par Abu Musa رضي الله عنه : Le jour de ‘Ashura était respecté par les Juifs"
+"2661","Rapporté par Abu Musa : Les habitants de Khaybar (la plupart étaient Juifs) jeûnaient le jour de ‘Ashura"
+"2662","On demanda à Ibn Abbas à propos du jeûne du jour de ‘Ashura. Il répondit : « Je ne connais pas de jour que le Messager d’Allah ﷺ ait choisi pour le jeûne ou considéré meilleur qu’un autre"
+"2663","Un hadith similaire a été rapporté par ‘Ubaidullah ibn Abi Yazid"
+"2664","Rapporté par Hakam ibn al-‘Araj : Je suis allé voir Ibn Abbas رضي الله عنهما alors qu’il était allongé"
+"2665","Rapporté par Hakam ibn ‘Araj : J’ai interrogé Ibn Abbas رضي الله عنهما alors qu’il était allongé près de Zamzam à propos du jeûne de ‘Ashura. Le reste du hadith est le même"
+"2666","Rapporté par Ibn Abbas رضي الله عنهما : Quand le Messager d’Allah ﷺ jeûna le jour de ‘Ashura et recommanda de jeûner ce jour-là"
+"2667","Rapporté par Abdullah ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Si je vis jusqu’à l’année prochaine"
+"2668","Rapporté par Salama ibn al-Akwa’ رضي الله عنه : Le Messager d’Allah ﷺ envoya un homme de la tribu d’Aslam le jour de ‘Ashura pour annoncer aux gens que ceux qui n’avaient pas encore commencé à jeûner devaient le faire"
+"2669","Rapporté par Rubayyi’"
+"2670","Rapporté par Khalid ibn Dhakwan : J’ai demandé à Rubayyi’"
+"2671","Rapporté par Abu Ubaid"
+"2672","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a interdit de jeûner ces deux jours : l’Aïd al-Adha et l’Aïd al-Fitr"
+"2673","Rapporté par Qaza'a d’après Abu Sa'id رضي الله عنه : J’ai entendu de lui un hadith qui m’a marqué"
+"2674","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a interdit de jeûner deux jours : le jour du Fitr et le jour du Sacrifice (Aïd al-Adha)"
+"2675","Rapporté par Ziyad b. Jubair : Un homme est venu voir Ibn 'Umar رضي الله عنهما et lui a dit : « J’ai fait le vœu de jeûner ce jour-là"
+"2676","Rapporté par Aïsha رضي الله عنها : Le Prophète ﷺ a interdit de jeûner deux jours : le jour du Fitr et le jour de l’Adha"
+"2677","Rapporté par Nubaisha al-Hudhali : Le Messager d’Allah ﷺ a dit : « Les jours de Tashriq sont des jours de nourriture et de boisson. »"
+"2678","Rapporté par Nubaisha : Khalid a dit : J’ai rencontré Abu Malih et je l’ai interrogé"
+"2679","Rapporté par Ibn Ka'b b. Malik"
+"2680","Rapporté par Ibrahim b. Tahman avec la même chaîne de transmetteurs"
+"2681","Rapporté par Muhammad b. 'Abbas b. Ja'far : J’ai demandé à Jabir b. 'Abdullah رضي الله عنه alors qu’il faisait le tawaf autour de la Ka'ba : « Le Messager d’Allah ﷺ a-t-il interdit de jeûner le vendredi ? » Il répondit : « Oui"
+"2682","Rapporté par Muhammad b. 'Abbas b. Ja'far : Il a demandé à Jabir b. Abdullah رضي الله عنه : « As-tu entendu cela du Messager d’Allah ﷺ ? »"
+"2683","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun d’entre vous ne doit jeûner le vendredi"
+"2684","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne réservez pas la nuit précédant le vendredi pour la prière"
+"2685","Rapporté par Salama b. Akwa' رضي الله عنه : Lorsque ce verset a été révélé : « Et pour ceux qui peuvent jeûner"
+"2686","Rapporté par Salama b. Akwa' : À l’époque du Messager d’Allah ﷺ"
+"2687","Rapporté par Abu Salama : J’ai entendu Aïsha رضي الله عنها dire : « Il m’arrivait de devoir rattraper des jours de jeûne du Ramadan"
+"2688","Rapporté par Yahya b. Sa'id avec la même chaîne de transmetteurs"
+"2689","Dans une autre version du hadith précédent"
+"2690","Ce hadith est rapporté par Yahya avec la même chaîne de transmetteurs"
+"2691","Rapporté par Aïsha رضي الله عنها : Si l’une d’entre nous devait rattraper des jours de jeûne (du Ramadan à cause des menstrues) du vivant du Messager d’Allah ﷺ"
+"2692","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Si quelqu’un meurt alors qu’il devait encore des jours de jeûne"
+"2693","Rapporté par Ibn 'Abbas رضي الله عنهما : Une femme est venue voir le Messager d’Allah ﷺ et a dit : « Ma mère est décédée et il lui restait un mois de jeûne à accomplir. » Il répondit : « Ne vois-tu pas que si elle avait une dette"
+"2694","Rapporté par Ibn 'Abbas رضي الله عنهما : Un homme est venu voir le Messager d’Allah ﷺ et a dit : « Messager d’Allah"
+"2695","Ce hadith a été rapporté par Ibn 'Abbas رضي الله عنهما du Messager d’Allah ﷺ"
+"2696","Rapporté par Ibn Abbas رضي الله عنهما : Une femme est venue voir le Messager d’Allah ﷺ et a dit : « Messager d’Allah"
+"2697","Rapporté par Abdullah b. Buraida رضي الله عنه d’après son père : Alors que nous étions assis avec le Messager d’Allah ﷺ"
+"2698","Rapporté par Abdullah b. Buraida رضي الله عنه d’après son père : J’étais assis avec le Messager d’Allah ﷺ ; le reste du hadith est identique"
+"2699","Rapporté par Ibn Buraida رضي الله عنه d’après son père : Une femme est venue voir le Messager d’Allah ﷺ"
+"2700","Ce hadith a été rapporté par Sufyan avec la même chaîne de transmetteurs"
+"2701","Rapporté par Buraida رضي الله عنه d’après son père : Un hadith similaire où une femme est venue voir le Messager d’Allah ﷺ"
+"2702","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si l’un d’entre vous est invité à un repas alors qu’il jeûne"
+"2703","Rapporté par Abu Huraira رضي الله عنه : Lorsque l’un d’entre vous se lève le matin en état de jeûne"
+"2704","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Allah"
+"2705","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le jeûne est une protection. »"
+"2706","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Allah"
+"2707","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Chaque bonne action du fils d’Adam sera multipliée"
+"2708","Rapporté par Abu Huraira et Abu Sa’id رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Allah"
+"2709","Un hadith similaire est rapporté par Abu Sinan avec la même chaîne de transmetteurs"
+"2710","Rapporté par Sahl b. Sa’d رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Au Paradis"
+"2711","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Tout serviteur d’Allah qui jeûne un jour pour Allah"
+"2712","Ce hadith a été rapporté par Suhail avec la même chaîne de transmetteurs"
+"2713","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui jeûne un jour pour Allah"
+"2714","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Un jour"
+"2715","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Un jour"
+"2716","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un oublie qu’il jeûne et mange ou boit"
+"2717","Rapporté par Abdullah b. Shaqiq : J’ai demandé à Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a-t-il jeûné un mois entier en dehors du Ramadan ? Elle a répondu : Je ne connais aucun mois où il ait jeûné entièrement"
+"2718","Rapporté par Abdullah b. Shaqiq : J’ai demandé à Aïsha رضي الله عنها : Le Messager d’Allah ﷺ jeûnait-il pendant un mois ? Elle a répondu : Je ne connais aucun mois où il ait jeûné entièrement"
+"2719","Rapporté par Abdullah b. Shaqiq : J’ai interrogé Aïsha رضي الله عنها au sujet du jeûne du Messager d’Allah ﷺ. Elle a dit : Il jeûnait parfois de façon si continue que nous pensions : « Il va jeûner tout le temps. » Et parfois il ne jeûnait pas pendant plusieurs jours"
+"2720","Un hadith similaire a été rapporté par Abdullah b. Shaqiq"
+"2721","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ jeûnait parfois de façon si continue que nous pensions qu’il ne s’arrêterait pas"
+"2722","Rapporté par Abu Salama : J’ai demandé à Aïcha رضي الله عنها au sujet du jeûne du Messager d’Allah ﷺ. Elle a répondu : « Il jeûnait parfois de façon si continue que nous pensions qu’il n’allait jamais arrêter"
+"2723","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ ne jeûnait dans aucun mois de l’année plus que dans le mois de Cha’ban"
+"2724","Rapporté par Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ n’a jamais jeûné un mois entier sauf pendant le Ramadan. Et quand il jeûnait"
+"2725","Rapporté par Abu Bishr : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"2726","Rapporté par Uthman ibn Hakim al-Ansari : J’ai demandé à Sa’id ibn Jubair au sujet du jeûne pendant le mois de Rajab"
+"2727","Rapporté par un autre transmetteur : Ce hadith"
+"2728","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ jeûnait parfois tellement qu’on disait qu’il allait continuer sans s’arrêter"
+"2729","Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنهما : On a informé le Messager d’Allah ﷺ que je pouvais prier toute la nuit et jeûner tous les jours tant que je vivrais. Le Messager d’Allah ﷺ m’a alors dit : « Est-ce toi qui as dit cela ? » J’ai répondu : « Messager d’Allah"
+"2730","Rapporté par Yahya : Moi et Abdullah ibn Yazid sommes allés voir Abu Salama. Nous avons envoyé quelqu’un pour l’informer de notre arrivée"
+"2731","Rapporté par Yahya ibn Abu Kathir : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"2732","Rapporté par Abdullah ibn Amr رضي الله عنهما : Le Messager d’Allah ﷺ m’a dit : « Récite tout le Coran chaque mois. » J’ai dit : « Je me sens capable de le faire en moins de temps. » Il a dit : « Alors récite-le en vingt nuits. » J’ai dit : « Je me sens capable de le faire en moins de temps encore. » Il a alors dit : « Récite-le en sept nuits"
+"2733","Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Abdullah"
+"2734","Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنهما : On a rapporté au Messager d’Allah ﷺ que je jeûnais sans interruption et que je priais toute la nuit. Il m’a fait venir"
+"2735","Rapporté par Ibn Juraij : Ce hadith a été rapporté avec la même chaîne de transmetteurs. L’imam Muslim a rapporté ce hadith d’après Abu Abbas al-Sa’ib ibn Farrukh"
+"2736","Rapporté par Abdullah ibn Amr رضي الله عنهما : Le Messager d’Allah ﷺ m’a dit : « Abdullah ibn Amr"
+"2737","Rapporté par Habib ibn Abu Thabit : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"2738","Rapporté par Abdullah ibn Amr رضي الله عنهما : Le Messager d’Allah ﷺ m’a dit : « On m’a informé que tu pries toute la nuit et que tu jeûnes tous les jours. » J’ai répondu : « C’est vrai. » Il a dit : « Si tu fais cela"
+"2739","Rapporté par Abdullah ibn Amr رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Auprès d’Allah"
+"2740","Rapporté par Abdullah ibn Amr ibn al-‘As : Le Messager d’Allah ﷺ a dit : « Le meilleur jeûne aux yeux d’Allah est celui de Dawud"
+"2741","Rapporté par Abu Qatada : Abu al-Malih m’a informé : Je suis allé avec ton père chez Abdullah ibn Amr"
+"2742","Rapporté par Abdullah ibn Amr رضي الله عنهما : Le Messager d’Allah ﷺ m’a dit : « Jeûne un jour et tu auras la récompense pour les autres jours. » J’ai dit : « Je peux faire plus que cela. » Il a dit : « Jeûne deux jours"
+"2743","Rapporté par Abdullah ibn Amr رضي الله عنهما : Le Messager d’Allah ﷺ m’a dit : « Abdullah ibn Amr"
+"2744","Rapporté par Mu’âdha al-‘Adawiyya : Elle a demandé à Aïcha"
+"2745","Rapporté par Imran ibn Husayn رضي الله عنهما : Le Messager d’Allah ﷺ lui a dit (ou il a dit à une autre personne alors qu’il écoutait) : « Untel"
+"2746","Rapporté par Abu Qatada : Un homme est venu voir le Messager d’Allah ﷺ et a demandé : « Comment jeûnes-tu ? » Le Messager d’Allah ﷺ a montré de l’agacement. Quand Omar رضي الله عنه a remarqué cela"
+"2747","Rapporté par Abu Qatada al-Ansari رضي الله عنه : Le Messager d’Allah ﷺ a été interrogé au sujet de son jeûne. Le Messager d’Allah ﷺ a montré de l’agacement. Omar رضي الله عنه a alors dit : « Nous sommes satisfaits qu’Allah soit notre Seigneur"
+"2748","Rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"2749","Rapporté par Ghailan b. Jarir avec la même chaîne de transmetteurs"
+"2750","Rapporté par Abu Qatada al-Ansari رضي الله عنه : Le Messager d’Allah ﷺ a été interrogé au sujet du jeûne du lundi"
+"2751","Rapporté par ‘Imran b. Husain رضي الله عنه : Le Messager d’Allah ﷺ lui a dit"
+"2752","Rapporté par ‘Imran b. Husain رضي الله عنه : Le Messager d’Allah ﷺ a dit à une personne : « As-tu jeûné au milieu de ce mois (Cha’ban) ? » Il répondit : « Non. » Le Messager d’Allah ﷺ dit alors : « Jeûne deux jours à la place (d’un jour de jeûne) lorsque tu auras terminé (les jeûnes de) Ramadan. »"
+"2753","Rapporté par ‘Imran b. Husain رضي الله عنه : Le Messager d’Allah ﷺ a dit à une personne : « As-tu jeûné au milieu de ce mois"
+"2754","Ce hadith est rapporté par ‘Abdullah b. Hani b. Akhi Mutarrif avec la même chaîne de transmetteurs"
+"2755","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le meilleur jeûne après Ramadan est celui du mois d’Allah"
+"2756","Rapporté par Abu Huraira رضي الله عنه : On a demandé au Messager d’Allah ﷺ quelle était la meilleure prière après les prières obligatoires"
+"2757","Un hadith similaire a été rapporté du Messager d’Allah ﷺ par ‘Abd al-Malik avec la même chaîne de transmetteurs concernant le jeûne"
+"2758","Rapporté par Abu Ayyub al-Ansari رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui jeûne le mois de Ramadan puis le suit de six jours de Chawwal"
+"2759","Rapporté par Abu Ayyub al-Ansari رضي الله عنه (par une autre chaîne de transmetteurs) : J’ai entendu le Messager d’Allah ﷺ dire cela"
+"2760","Rapporté par Abu Ayyub رضي الله عنه (par une autre chaîne de transmetteurs) : Un hadith similaire a été rapporté"
+"2761","Rapporté par Ibn ‘Umar رضي الله عنهما : Certains compagnons du Messager d’Allah ﷺ ont vu en rêve la Nuit du Destin (Laylat al-Qadr) durant la dernière semaine de Ramadan. Le Messager d’Allah ﷺ a alors dit : « Je vois que vos rêves concordent pour la dernière semaine ; que celui qui veut la chercher"
+"2762","Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Cherchez la Nuit du Destin (Laylat al-Qadr) durant la dernière semaine de Ramadan. »"
+"2763","Rapporté par Salim"
+"2764","Rapporté par Salim b. ‘Abdullah b. ‘Umar"
+"2765","Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Cherchez-la (Laylat al-Qadr) pendant les dix dernières nuits. Si l’un d’entre vous a été négligent ou faible au début du Ramadan"
+"2766","Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Celui qui tient à la chercher (Laylat al-Qadr)"
+"2767","Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Cherchez la Nuit du Destin (Laylat al-Qadr) dans les dix dernières nuits »"
+"2768","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « On m’a montré la Nuit du Destin (Laylat al-Qadr)"
+"2769","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a passé les dix nuits du milieu du mois de Ramadan en adoration (en i’tikaf). Quand vingt nuits furent passées et que la vingt-et-unième nuit arriva"
+"2770","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ s’est consacré à la prière pendant les dix nuits du milieu de Ramadan. Le reste du hadith est similaire"
+"2771","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a fait i’tikaf (s’est consacré à l’adoration et à la prière) pendant les dix premiers jours de Ramadan"
+"2772","Rapporté par Abu Salama : Nous avons discuté entre nous de la Nuit du Destin (Lailat-ul-Qadr). Je suis allé voir Abu Sa'id al-Khudri رضي الله عنه"
+"2773","Rapporté par Yahya b. Abu Kathir : Ce hadith a été rapporté avec la même chaîne de transmission (avec une légère variation des mots) : « J’ai vu le Messager d’Allah ﷺ après qu’il eut terminé la prière"
+"2774","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ faisait la retraite spirituelle (i’tikaf) pendant les dix jours du milieu du Ramadan pour chercher la Nuit du Destin"
+"2775","Rapporté par Abdullah b. Unais : Le Messager d’Allah ﷺ a dit : « On m’a montré la Nuit du Destin"
+"2776","Rapporté par Aïcha رضي الله عنها et Ibn Numair : Le Messager d’Allah ﷺ a dit : « Cherchez (et selon les mots de Waki"
+"2777","Rapporté par Zirr b. Habaish : J’ai alors demandé à Ubayy b. Ka'b رضي الله عنه : « Ton frère en foi Ibn Mas'ud dit : Celui qui prie la nuit toute l’année trouvera la Nuit du Destin. » Il répondit : « Qu’Allah lui fasse miséricorde ; il a dit cela pour que les gens ne comptent pas seulement sur une nuit"
+"2778","Rapporté par Zirr b. Hubaish : Ubayy b. Ka'b رضي الله عنه a dit à propos de la Nuit du Destin : « Par Allah"
+"2779","Rapporté par Abu Huraira رضي الله عنه : Nous parlions de la Nuit du Destin en présence du Messager d’Allah ﷺ"

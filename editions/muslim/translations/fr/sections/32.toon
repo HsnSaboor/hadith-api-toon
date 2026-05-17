@@ -1,179 +1,306 @@
-hadiths[178]{hadithnumber,text}:
-4519,1730.01
-4520,1730.02
-4523,1731.03
-4524,1731.04
-4525,1732
-4526,1733.01
-4527,1733.02
-4528,1734
-4529,1735.01
-4530,1735.02
-4531,1735.03
-4532,1735.04
-4533,1736.01
-4534,1736.02
-4535,1736.03
-4536,1737
-4537,1738.01
-4538,1738.02
-4539,1739
-4540,1740
-4541,1741
-4542,1742.01
-4543,1742.02
-4544,1742.03
-4545,1742.04
-4546,1743
-4547,1744.01
-4548,1744.02
-4549,1745.01
-4550,1745.02
-4551,1745.03
-4552,1746.01
-4553,1746.02
-4554,1746.03
-4555,1747
-4556,1748.01
-4557,1748.02
-4558,1749.01
-4559,1749.02
-4560,1749.03
-4561,1749.04
-4562,1749.05
-4563,1750.01
-4564,1750.02
-4565,1750.03
-4566,1751.01
-4567,1751.02
-4568,1751.03
-4569,1752
-4570,1753.01
-4571,1753.02
-4572,1754
-4573,1755
-4574,1756
-4575,1757.01
-4576,1757.02
-4577,1757.03
-4578,1757.04
-4579,1758
-4580,1759.01
-4581,1759.02
-4582,1759.03
-4583,1760.01
-4584,1760.02
-4585,1761
-4586,1762.01
-4587,1762.02
-4588,1763
-4589,1764.01
-4590,1764.02
-4591,1765
-4592,1766.01
-4593,1766.02
-4594,1767.01
-4595,1767.02
-4596,1768.01
-4597,1768.02
-4598,1769.01
-4599,1769.02
-4600,1769.03
-4601,1769.04
-4602,1770
-4603,1771.01
-4604,1771.02
-4605,1772.01
-4606,1772.02
-4607,1773.01
-4608,1773.02
-4609,1774.01
-4610,1774.02
-4611,1774.03
-4612,1775.01
-4613,1775.02
-4614,1775.03
-4615,1776.01
-4616,1776.02
-4617,1776.03
-4618,1776.04
-4619,1777
-4620,1778
-4621,1779
-4622,1780.01
-4623,1780.02
-4624,1780.03
-4625,1781.01
-4626,1781.02
-4627,1782.01
-4628,1782.02
-4629,1783.01
-4630,1783.02
-4631,1783.03
-4632,1784
-4633,1785.01
-4634,1785.02
-4635,1785.03
-4636,1785.04
-4637,1786.01
-4638,1786.02
-4639,1787
-4640,1788
-4641,1789
-4642,1790.01
-4643,1790.02
-4644,1790.03
-4645,1791
-4646,1792.01
-4647,1792.02
-4648,1793
-4649,1794.01
-4650,1794.02
-4651,1794.03
-4652,1794.04
-4653,1795
-4654,1796.01
-4655,1796.02
-4656,1797.01
-4657,1797.02
-4658,1797.03
-4659,1798.01
-4660,1798.02
-4661,1799
-4662,1800.01
-4663,1800.02
-4664,1801
-4665,1365.07
-4666,1365.08
-4667,1365.09
-4668,1802.01
-4669,1802.02
-4670,1803.01
-4671,1803.02
-4672,1804
-4673,1805.01
-4674,1805.02
-4675,1805.03
-4676,1805.04
-4677,1806
-4678,1807.01
-4679,1808
-4682,1810
-4683,1811
-4684,1812.01
-4685,1812.02
-4686,1812.03
-4687,1812.04
-4688,1812.05
-4689,1812.06
-4690,1812.07
-4691,1812.08
-4692,1254.02
-4693,1254.03
-4694,1813
-4695,1814.01
-4696,1814.02
-4697,1815.01
-4698,1815.02
-4699,1816
-4700,1817
+hadiths[305]{hadithnumber,text}:
+"4388","Rapporté par Alqama ibn Wa’il"
+"4389","Rapporté par Abu Huraira : Deux femmes de la tribu de Hudhail se sont disputées"
+"4390","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a jugé"
+"4391","Rapporté par Abu Huraira : Deux femmes de la tribu de Hudhail se sont battues"
+"4392","Rapporté par Abu Huraira : Deux femmes se sont battues – le reste du hadith est le même"
+"4393","Rapporté par Al-Mughira ibn Shu’ba : Une femme a frappé sa coépouse avec un piquet de tente alors qu’elle était enceinte"
+"4394","Rapporté par Al-Mughira ibn Shu’ba : Une femme a tué sa coépouse avec un piquet de tente. Son cas fut présenté au Messager d’Allah ﷺ"
+"4395","Rapporté par Mansur : Ce hadith a été rapporté par Mansur avec la même chaîne de transmetteurs"
+"4396","Rapporté par Mansur : Mansur a transmis ce hadith avec une légère variation dans les mots"
+"4397","Rapporté par Miswar ibn Makhrama : Omar ibn Khattab consulta les gens au sujet de la compensation (diyat) pour la fausse couche d’un enfant à naître. Mughira ibn Shu’ba dit : « Je témoigne qu’Allah’s Messager ﷺ a jugé qu’il fallait donner un esclave ou une esclave de bonne qualité pour cela. » Omar dit alors : « Amène quelqu’un qui puisse témoigner avec toi. » Muhammad ibn Maslama vint alors témoigner pour lui"
+"4398","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a coupé la main d’un voleur pour un quart de dinar ou plus"
+"4399","Ce hadith a été transmis par Zuhri"
+"4400","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « La main d’un voleur ne doit être coupée que pour un quart de dinar ou plus. »"
+"4401","Rapporté par Aïsha رضي الله عنها : J’ai entendu le Messager d’Allah ﷺ dire : « La main (d’un voleur) ne doit être coupée que pour un quart de dinar et plus. »"
+"4402","Rapporté par Aïsha رضي الله عنها : Elle a entendu le Messager d’Allah ﷺ dire : « La main du voleur ne peut être coupée que pour un quart de dinar ou plus. »"
+"4403","Rapporté par Yazid ibn Abdullah ibn al-Had : Un hadith semblable a été rapporté avec la même chaîne de transmetteurs"
+"4404","Rapporté par Aïsha رضي الله عنها : Du vivant du Messager d’Allah ﷺ"
+"4405","Rapporté par Hisham : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"4406","Rapporté par Ibn Omar رضي الله عنه : Le Messager d’Allah (que la paix soit sur lui) a coupé la main d’un voleur pour le vol d’un bouclier d’une valeur de trois dirhams"
+"4407","Rapporté par Ibn 'Umar : Ce hadith a été rapporté par Ibn 'Umar à travers d’autres chaînes de transmetteurs"
+"4408","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Qu’Allah maudisse le voleur qui vole un œuf et se fait couper la main"
+"4409","Rapporté par A'mash : Ce hadith est rapporté par A'mash avec la même chaîne de transmetteurs"
+"4410","Rapporté par Aïcha رضي الله عنها : Les Quraysh étaient préoccupés par la femme de la tribu de Makhzoum qui avait commis un vol et ils se demandaient : « Qui parlera au Messager d’Allah ﷺ à son sujet ? » Ils dirent : « Qui oserait"
+"4411","Rapporté par Aïcha (l’épouse du Messager d’Allah ﷺ) رضي الله عنها : Les Quraysh étaient préoccupés par la femme qui avait commis un vol du vivant du Messager d’Allah ﷺ"
+"4412","Rapporté par Aïcha رضي الله عنها : Une femme de la tribu de Makhzoum empruntait des objets puis niait les avoir pris. Le Messager d’Allah ﷺ ordonna qu’on lui coupe la main. Ses proches allèrent voir Usama ibn Zaid pour qu’il intercède en sa faveur. Il parla au Messager d’Allah ﷺ à son sujet. Le reste du hadith est identique"
+"4413","Rapporté par Jabir : Une femme de la tribu de Makhzoum commit un vol. Elle fut amenée devant le Messager d’Allah ﷺ et chercha la protection (l’intercession) d’Umm Salama"
+"4414","Rapporté par 'Ubada ibn as-Samit : Le Messager d’Allah ﷺ a dit : « Recevez l’enseignement de moi"
+"4415","Rapporté par un autre transmetteur : Le hadith ci-dessus est également rapporté par une autre chaîne de transmetteurs"
+"4416","Rapporté par 'Ubada ibn as-Samit : Chaque fois que le Messager d’Allah ﷺ recevait une révélation"
+"4417","Rapporté par Qatada : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"4418","Rapporté par Abdullah ibn Abbas : Omar ibn Khattab رضي الله عنه monta sur la chaire du Messager d’Allah ﷺ et dit : « En vérité"
+"4419","Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"4420","Rapporté par Abu Huraira : Un homme parmi les musulmans vint voir le Messager d’Allah ﷺ alors qu’il était à la mosquée. Il l’appela en disant : « Ô Messager d’Allah"
+"4421","Rapporté par Ibn Shihab : Quelqu’un qui avait entendu Jabir ibn Abdullah dire cela m’a informé ainsi : « J’étais parmi ceux qui l’ont lapidé. Nous l’avons lapidé à l’endroit de la prière (soit celle de l’Aïd"
+"4422","Rapporté par un autre transmetteur : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"4423","Rapporté par un autre transmetteur : Ce hadith a été rapporté par Abu Huraira à travers d’autres chaînes de transmetteurs"
+"4424","Rapporté par Jabir ibn Samura : Alors qu’on amenait Ma’iz ibn Malik devant le Messager d’Allah ﷺ"
+"4425","Rapporté par Jabir ibn Samura : On amena devant le Messager d’Allah ﷺ un homme de petite taille"
+"4426","Rapporté par Jabir ibn Samura : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"4427","Rapporté par Ibn Abbas : Le Messager d’Allah ﷺ demanda à Ma’iz ibn Malik : « Est-ce vrai ce que j’ai entendu à ton sujet ? » Il répondit : « Qu’as-tu entendu à mon sujet ? » Le Prophète ﷺ dit : « J’ai entendu dire que tu as commis l’adultère avec la servante d’untel. » Il répondit : « Oui. » Il témoigna alors quatre fois. Le Prophète ﷺ prononça le jugement et il fut lapidé à mort"
+"4428","Rapporté par Abu Sa’id : Un homme du clan d’Aslam"
+"4429","Rapporté par Dawud : Le hadith est rapporté avec la même chaîne de transmetteurs (et les mots sont) : Le Messager d’Allah ﷺ se leva le soir"
+"4430","Rapporté par Dawud : Ce hadith a été rapporté par Dawud avec la même chaîne de transmetteurs"
+"4431","Rapporté par Sulaiman ibn Buraida"
+"4432","Rapporté par Abdullah ibn Buraida"
+"4433","Rapporté par Imran ibn Husayn : Une femme de Juhaina vint voir le Messager d’Allah ﷺ alors qu’elle était enceinte à la suite d’un adultère. Elle dit : « Ô Messager d’Allah"
+"4434","Rapporté par Yahya ibn Abu Kathir : Ce hadith a été transmis par cette chaîne de rapporteurs"
+"4437","Rapporté par Abdullah ibn Umar : Un homme et une femme juifs furent amenés devant le Messager d’Allah ﷺ pour avoir commis l’adultère. Le Messager d’Allah ﷺ alla voir les Juifs et leur dit : « Que trouvez-vous dans la Torah pour celui qui commet l’adultère ? » Ils dirent : « Nous noircissons leurs visages"
+"4438","Rapporté par Ibn Umar : Le Messager d’Allah ﷺ a lapidé à mort les Juifs"
+"4439","Rapporté par Ibn Umar : Les Juifs amenèrent devant le Messager d’Allah ﷺ un homme et une femme qui avaient commis l’adultère. Le reste du hadith est identique"
+"4440","Rapporté par Al-Bara’ ibn Azib : Le Messager d’Allah ﷺ passa près d’un Juif au visage noirci et fouetté. Le Messager d’Allah ﷺ appela les Juifs et dit : « Est-ce la peine que vous trouvez dans votre Livre (la Torah) pour l’adultère ? » Ils dirent : « Oui. » Le Prophète ﷺ fit venir l’un de leurs savants et lui dit : « Je te demande"
+"4441","Rapporté par A’mash : Ce hadith a été rapporté jusqu’aux mots : « Le Messager d’Allah ﷺ prononça le jugement et il fut lapidé »"
+"4442","Rapporté par Jabir ibn Abdullah : Le Messager d’Allah ﷺ a lapidé à mort un homme des Banu Aslam"
+"4443","Rapporté par Juraij : Ce hadith a été transmis avec une légère variation dans les mots"
+"4444","Rapporté par Abu Ishaq Shaibani : J’ai demandé à Abdullah ibn Abu Aufa si le Messager d’Allah ﷺ avait appliqué la peine de lapidation. Il répondit : « Oui. » J’ai demandé : « Après la révélation de la sourate an-Nur ou avant ? » Il répondit : « Je ne sais pas. »"
+"4445","Rapporté par Abu Huraira : J’ai entendu le Messager d’Allah ﷺ dire : « Quand la servante de l’un d’entre vous commet l’adultère et que cela est prouvé"
+"4446","Rapporté par un autre transmetteur d’Abu Huraira : Ce hadith a été rapporté par une autre chaîne avec une légère variation dans les mots"
+"4447","Rapporté par Abu Huraira : On interrogea le Messager d’Allah ﷺ au sujet d’une servante qui avait commis l’adultère et n’était pas mariée. Il dit : « Si elle commet l’adultère"
+"4448","Rapporté par Abu Huraira et Zaid ibn Khalid al-Jubani : Ce hadith a été rapporté"
+"4449","Rapporté par Abu Huraira et Zaid ibn Khalid al-Juhani : Ce hadith a été transmis de la même façon que par Malik"
+"4450","Rapporté par Abd al-Rahman : Ali رضي الله عنه"
+"4451","Rapporté par as-Suddi : Ce hadith a été rapporté par la même chaîne"
+"4452","Rapporté par Anas ibn Malik : Un homme qui avait bu du vin fut amené au Messager d’Allah ﷺ. Il lui donna quarante coups avec deux fouets. Abu Bakr fit de même"
+"4453","Rapporté par un autre transmetteur d’Anas : Ce hadith a été rapporté par une autre chaîne"
+"4454","Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ a frappé avec des branches de palmier et des sandales"
+"4455","Rapporté par Hisham : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"4456","Rapporté par Anas : Le Messager d’Allah ﷺ frappait quarante fois avec des sandales et des branches de palmier (pour la consommation de vin). Le reste du hadith est identique"
+"4457","Rapporté par Hudain ibn al-Mundhir Abu Sasan : J’ai vu qu’on avait amené Walid devant Uthman ibn Affan parce qu’il avait prié deux unités de la prière de l’aube"
+"4458","Rapporté par Ali رضي الله عنه : Si j’applique la peine légale à quelqu’un et qu’il meurt pendant la punition"
+"4459","Rapporté par Sufyan : Ce hadith est rapporté de l’autorité de Sufyan"
+"4460","Rapporté par Abu Barda Ansari : Le Messager d’Allah ﷺ a dit : « Personne ne doit recevoir plus de dix coups de fouet"
+"4461","Rapporté par Ubida b. as-Samit : Alors que nous étions avec le Messager d’Allah ﷺ"
+"4462","Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmission"
+"4463","Rapporté par 'Ubida b. as-Samit : Le Messager d’Allah ﷺ a pris de nous un engagement"
+"4464","Rapporté par Ubida b. as-Samit : J’étais l’un de ceux qui ont prêté allégeance au Messager d’Allah ﷺ pour ne rien associer à Allah"
+"4465","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de compensation à payer pour une blessure causée par un animal"
+"4466","Rapporté par Zuhri : Un hadith similaire a été transmis par Zuhri"
+"4467","Rapporté par Abu Huraira : Un hadith similaire a été transmis par Abu Huraira"
+"4468","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de compensation pour une blessure causée par une chute dans un puits"
+"4469","Rapporté par Abu Huraira : Un hadith similaire a été transmis par Abu Huraira"
+"4470","Rapporté par Ibn Abbas : Le Messager d’Allah ﷺ a dit : « Si les gens recevaient ce qu’ils réclament"
+"4471","Rapporté par Ibn 'Abbas : Le Messager d’Allah ﷺ a jugé sur la base du serment du défendeur"
+"4472","Rapporté par Ibn 'Abbas : Le Messager d’Allah ﷺ a jugé sur la base d’un serment et d’un témoin (du plaignant)"
+"4473","Rapporté par Umm Salama (l’épouse du Prophète ﷺ) : Le Messager d’Allah ﷺ a entendu des personnes se disputer devant la porte de sa chambre. Il est sorti et a dit : « Je suis un être humain"
+"4474","Rapporté par Ma'mar : Ce hadith a été transmis par Ma'mar avec une légère variation dans les mots"
+"4475","Rapporté par Umm Salama : Le Messager d’Allah ﷺ a dit : « Vous venez à moi pour régler vos différends"
+"4476","Rapporté par Hisham : Ce hadith a été rapporté par Hisham avec la même chaîne de transmission"
+"4477","Rapporté par Aishah (la mère des croyants) رضي الله عنها : Hind"
+"4478","Ce hadith a été rapporté par Hisham avec la même chaîne de transmission"
+"4479","Rapporté par Aishah رضي الله عنها : Hind est venue auprès du Messager d’Allah ﷺ et a dit : « Ô Messager d’Allah"
+"4480","Rapporté par Aishah رضي الله عنها : Hind"
+"4481","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « En vérité"
+"4482","Rapporté par Suhail : Ce hadith a été rapporté par Suhail avec la même chaîne de transmission"
+"4483","Rapporté par Mughira b. Shu'ba : Le Messager d’Allah ﷺ a dit : « En vérité"
+"4484","Un hadith similaire a été transmis par l’autorité de Mansur avec une légère variation dans les mots"
+"4485","Rapporté par Sha'bi : Le secrétaire d’al-Mughira ibn Shu’ba a dit : Mu’awiya a écrit à Mughira : « Écris-moi quelque chose que tu as entendu du Messager d’Allah ﷺ. » Il a alors écrit : « J’ai entendu le Messager d’Allah ﷺ dire : “En vérité"
+"4486","Rapporté par Warrad : Al-Mughira a écrit à Mu’awiya : « Que la paix soit sur toi. Ensuite"
+"4487","Rapporté par ‘Amr ibn al-‘As : Il a entendu le Messager d’Allah ﷺ dire : « Lorsque qu’un juge rend un jugement en faisant de son mieux pour être juste et qu’il a raison"
+"4488","Rapporté par Abu Huraira : Ce hadith a été rapporté avec une autre chaîne de transmetteurs"
+"4489","Rapporté par Usama ibn al-Had al-Laithi : Ce hadith a été transmis par Usama ibn al-Had al-Laithi"
+"4490","Rapporté par Abd al-Rahman ibn Abu Bakra : Mon père a dicté (et j’ai écrit pour lui) à Ubaydullah ibn Abu Bakra alors qu’il était juge à Sijistan : « Ne rends pas de jugement entre deux personnes lorsque tu es en colère"
+"4491","Rapporté par Abd al-Rahman ibn Abu Bakra : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"4492","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Celui qui introduit une nouveauté dans notre religion sans raison valable (commet un péché) et cela sera rejeté. »"
+"4493","Rapporté par Sa’d ibn Ibrahim : J’ai demandé à Qasim ibn Muhammad à propos d’une personne qui possédait trois maisons et qui avait légué le tiers de chacune d’elles ; il (Qasim ibn Muhammad) a dit : « On peut tout rassembler dans une seule maison. » Puis il a ajouté : « Aïsha رضي الله عنها m’a informé que le Messager d’Allah ﷺ a dit : “Celui qui fait un acte qui n’a pas été prescrit par nous"
+"4494","Rapporté par Zayd ibn Khalid al-Juhani : Le Messager d’Allah ﷺ a dit : « Voulez-vous que je vous dise qui sont les meilleurs témoins ? C’est celui qui présente son témoignage avant même qu’on ne le lui demande. »"
+"4495","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Deux femmes marchaient avec leurs deux fils"
+"4496","Rapporté par Abu az-Zinad : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"4497","Rapporté par Hammim ibn Munabbih : Abu Huraira a rapporté de nombreux hadiths du Messager d’Allah ﷺ"
+"4498","Rapporté par Zayd ibn Khalid al-Juhani : Un homme est venu voir le Messager d’Allah ﷺ et lui a demandé ce qu’il fallait faire lorsqu’on trouve un objet perdu. Il a dit : « Reconnais bien son sac et sa corde"
+"4499","Rapporté par Zayd ibn Khalid al-Juhani : Un homme a demandé au Messager d’Allah ﷺ ce qu’il fallait faire lorsqu’on trouve un objet perdu. Il a répondu : « Annonce-le pendant un an"
+"4500","Rapporté par Rabi’a ibn Abu Abd al-Rahman : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"4501","Rapporté par Zayd ibn Khalid al-Juhani : Un homme est venu voir le Messager d’Allah ﷺ. Le reste du hadith est le même"
+"4502","Rapporté par Zayd ibn Khalid al-Juhani"
+"4503","Rapporté par Zayd ibn Khalid al-Juhani : Un homme a demandé au Messager d’Allah ﷺ au sujet d’un chameau perdu. Rabi’a a ajouté : Le Prophète ﷺ s’est tellement fâché que ses joues sont devenues rouges. Le reste du hadith est le même. Le narrateur a ajouté : « Si le propriétaire (de l’objet) se présente et reconnaît le sac"
+"4506","Rapporté par Salama ibn Kuhail : J’ai entendu Sowaid ibn Ghafala dire : Je suis parti avec Zayd ibn Suhan et Salman ibn Rabi’a pour le jihad"
+"4507","Rapporté par Shu’ba : Salama ibn Kuhail m’a informé"
+"4508","Rapporté par Salama ibn Kuhail : Ce hadith a été rapporté par différentes chaînes de transmetteurs. Dans leurs versions"
+"4509","Rapporté par Abd al-Rahman ibn Uthman al-Taimi : Le Messager d’Allah ﷺ a interdit de prendre en charge les objets perdus des pèlerins"
+"4510","Rapporté par Zayd ibn Khalid al-Juhani : Le Messager d’Allah ﷺ a dit : « Celui qui trouve un objet perdu s’égare lui-même s’il ne le signale pas. »"
+"4511","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun de vous ne doit traire l’animal d’autrui sans sa permission. Est-ce que l’un de vous aimerait qu’on entre de force dans sa chambre"
+"4512","Ce hadith a été rapporté par une autre chaîne de transmetteurs avec une légère variation dans les mots"
+"4513","Rapporté par Abd Shuraib al-Adawi : J’ai entendu de mes oreilles et vu de mes yeux quand le Messager d’Allah ﷺ a parlé et a dit : « Celui qui croit en Allah et au Jour dernier doit honorer son invité"
+"4514","Rapporté par Abu Shuriah al-Khuza'i : Le Messager d’Allah ﷺ a dit : « La durée de l’hospitalité pour un invité est de trois jours"
+"4515","Rapporté par Sa'id al-Maqburi : J’ai entendu Abu Shuraih al-Khuza'i dire : « Mes oreilles ont entendu"
+"4516","Rapporté par 'Uqba b. Amir : Nous avons dit au Messager d’Allah ﷺ : « Tu nous envoies chez des gens qui ne nous offrent pas l’hospitalité"
+"4517","Rapporté par Abu Sa'id al-Khudri : Alors que nous étions en voyage avec le Messager d’Allah ﷺ"
+"4518","Rapporté par Iyas b. Salama"
+"4519","Rapporté par Ibn 'Aun : J’ai écrit à Nafi' pour lui demander s’il fallait inviter les non-croyants à accepter l’islam avant de les combattre. Il m’a répondu que c’était nécessaire au début de l’islam. Le Messager d’Allah ﷺ a attaqué les Banu Mustaliq alors qu’ils ne s’y attendaient pas et que leurs troupeaux buvaient à l’eau. Il a tué ceux qui se sont battus et fait prisonniers les autres. Ce jour-là"
+"4520","Ce hadith a été rapporté par Ibn 'Aun"
+"4523","Rapporté par Sulaiman b. Buraida"
+"4524","Ce hadith a été transmis par Shu'ba"
+"4525","Rapporté par Abu Masa : Quand le Messager d’Allah ﷺ envoyait l’un de ses compagnons en mission"
+"4526","Rapporté par Sa'd b. Abu Burda"
+"4527","Ce hadith a été transmis par Buraida"
+"4528","Le Messager d’Allah ﷺ a été rapporté par Anas b. Malik comme ayant dit : « Soyez doux"
+"4529","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque Allah rassemblera tous les hommes"
+"4530","Ce hadith a été rapporté par Ibn 'Umar à travers d’autres chaînes de transmetteurs"
+"4531","Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"4532","Rapporté par Ibn Umar رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « Il y aura un drapeau pour chaque traître le Jour du Jugement. »"
+"4533","Rapporté par 'Abdullah رضي الله عنه : Le Prophète d’Allah ﷺ a dit : « Il y aura un drapeau pour chaque traître le Jour du Jugement"
+"4534","Ce hadith a été rapporté par Shu'ba avec une légère variation dans les mots"
+"4535","Rapporté par Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Pour chaque traître"
+"4536","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il y aura un drapeau pour chaque traître le Jour du Jugement"
+"4537","Rapporté par Abu Sa'id رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le Jour du Jugement"
+"4538","Rapporté par Abu Sa'id رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le Jour du Jugement"
+"4539","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La guerre est une ruse. »"
+"4540","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a aussi été rapporté par Abu Huraira"
+"4541","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne souhaitez pas rencontrer l’ennemi. Mais si vous le rencontrez"
+"4542","Rapporté par Abu Nadr"
+"4543","Rapporté par Ibn Abu Aufa رضي الله عنه : Le Messager d’Allah ﷺ a maudit les tribus (qui avaient marché contre Médine en l’an 5 de l’Hégire) et a dit : « Ô Allah"
+"4544","Rapporté par Ibn Abu Aufa رضي الله عنه : Ce hadith a été transmis par Ibn Abu Aufa avec une légère différence dans les mots"
+"4545","Rapporté par Ibn ‘Uyaina : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"4546","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a dit le jour de la bataille de Uhud : « Ô Allah"
+"4547","Rapporté par ‘Abdullah رضي الله عنه : Une femme a été retrouvée tuée lors d’une des batailles menées par le Messager d’Allah ﷺ. Il a désapprouvé le fait de tuer les femmes et les enfants"
+"4548","Rapporté par Ibn ‘Umar رضي الله عنه : Une femme a été retrouvée tuée lors de l’une de ces batailles"
+"4549","Rapporté par Sa'b b. Jaththama رضي الله عنه : Le Prophète d’Allah ﷺ"
+"4550","Rapporté par Sa'b b. Jaththama رضي الله عنه : Il a dit au Prophète ﷺ : « Ô Messager d’Allah"
+"4551","Rapporté par Sa'b b. Jaththama رضي الله عنه : Le Prophète ﷺ a demandé : « Qu’en est-il des enfants des polythéistes tués par la cavalerie lors d’attaques nocturnes ? » Il répondit : « Ils font partie d’eux. »"
+"4552","Rapporté par ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a ordonné de brûler et de couper les palmiers des Banu Nadir"
+"4553","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a fait couper et brûler les palmiers des Banu Nadir. À ce sujet"
+"4554","Rapporté par ‘Abdullah b. ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a brûlé les palmiers des Banu Nadir"
+"4555","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un des prophètes a mené une guerre sainte. Il a dit à ses compagnons : “Celui qui vient de se marier et n’a pas encore consommé son mariage"
+"4556","Rapporté par Mus'ab b. Sa'd رضي الله عنه"
+"4557","Rapporté par Mus'ab b. Sa'd رضي الله عنه"
+"4558","Rapporté par Ibn ‘Umar رضي الله عنه : Le Prophète ﷺ a envoyé une expédition à Najd et j’étais parmi les soldats. Ils ont obtenu beaucoup de chameaux comme butin. Onze ou douze chameaux sont revenus à chaque combattant"
+"4559","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a envoyé une expédition à Najd et Ibn ‘Umar était aussi parmi les soldats. Leur part du butin était de douze chameaux"
+"4560","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a envoyé une expédition à Najd"
+"4561","Rapporté par ‘Ubaidullah : Ce hadith a été rapporté par ‘Ubaidullah avec la même chaîne de transmetteurs"
+"4562","Rapporté par Ibn Aun : J’ai écrit à Nafi’ pour lui demander au sujet du butin (Nafl)"
+"4563","Rapporté par Salim"
+"4564","Rapporté par Ibn Shihab : J’ai appris par Ibn Umar que le Messager d’Allah ﷺ a donné une part du butin à la troupe. Le reste du hadith est identique"
+"4565","Rapporté par Abdullah ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de donner"
+"4566","Rapporté par Abu Muhammad al-Ansari"
+"4567","Rapporté par Abu Muhammad"
+"4568","Rapporté par Abu Qatada رضي الله عنه : Nous avons accompagné le Messager d’Allah ﷺ lors d’une expédition l’année de la bataille de Hunayn. Quand nous avons rencontré l’ennemi"
+"4569","Rapporté par Abd al-Rahman ibn Awf رضي الله عنه : Alors que je me tenais en rang lors de la bataille de Badr"
+"4570","Rapporté par Auf ibn Malik رضي الله عنه : Un homme de la tribu Himyar a tué un ennemi et voulait prendre le butin. Khalid ibn Walid"
+"4571","Rapporté par Auf ibn Malik al-Ashja’i رضي الله عنه : J’ai participé à l’expédition dirigée par Zayd ibn Haritha vers Muta"
+"4572","Rapporté par Salama ibn al-Akwa’ رضي الله عنه : Nous avons combattu à la bataille de Hawazin avec le Messager d’Allah ﷺ. Un jour"
+"4573","Rapporté par Salama ibn al-Akwa’ رضي الله عنه : Nous avons combattu contre les Fazara"
+"4574","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si vous arrivez dans une ville qui s’est rendue sans combat et que vous y séjournez"
+"4575","Rapporté par Omar رضي الله عنه : Les biens abandonnés par Banu Nadir étaient ceux qu’Allah a accordés à Son Messager ﷺ sans qu’aucune expédition ne soit menée"
+"4576","Ce hadith a été rapporté par sa chaîne"
+"4577","Rapporté par Zuhri"
+"4578","Le même hadith a été rapporté par une autre chaîne avec une légère différence : Omar ibn al-Khattab رضي الله عنه m’a fait appeler et a dit : « Des familles de ta tribu sont venues me voir » (puis suit le hadith précédent) par Malik"
+"4579","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Quand le Messager d’Allah ﷺ est décédé"
+"4580","Rapporté par Urwa ibn Zubair رضي الله عنه"
+"4581","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Fatima et Abbas sont allés voir Abu Bakr pour demander le transfert de l’héritage du Messager d’Allah ﷺ. À ce moment-là"
+"4582","Rapporté par Urwa ibn Zubair رضي الله عنه"
+"4583","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Mes héritiers ne peuvent même pas recevoir un dinar de mon héritage ; ce que je laisse après avoir payé la pension de mes épouses et la rémunération de mon gestionnaire doit être donné en aumône. »"
+"4584","Un hadith similaire a été rapporté par Abu Zinad à travers une autre chaîne de transmetteurs"
+"4585","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Nous n’avons pas d’héritiers ; ce que nous laissons est un bien de charité. »"
+"4586","Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ accordait deux parts du butin au cavalier et une part au fantassin"
+"4587","La même tradition a été rapportée par Ubaidullah à travers une autre chaîne de transmetteurs"
+"4588","Rapporté par Omar ibn al-Khattab رضي الله عنه : Le jour de la bataille de Badr"
+"4589","Rapporté par Abou Hourayra رضي الله عنه : Le Messager d’Allah ﷺ envoya des cavaliers vers Najd. Ils capturèrent un homme de la tribu de Banu Hanifa"
+"4590","Rapporté par Abou Hourayra رضي الله عنه : La même tradition a été rapportée par une chaîne de transmetteurs différente"
+"4591","Rapporté par Abou Hourayra رضي الله عنه : Nous étions assis dans la mosquée lorsque le Messager d’Allah ﷺ vint vers nous et dit : « Allons voir les Juifs. » Nous sommes sortis avec lui jusqu’à ce que nous arrivions auprès d’eux. Le Messager d’Allah ﷺ se leva et les interpella : « Ô assemblée de Juifs"
+"4592","Rapporté par Ibn Omar رضي الله عنه : Les Juifs de Banu Nadir et de Banu Quraiza combattirent le Messager d’Allah ﷺ. Il expulsa Banu Nadir"
+"4593","Rapporté par Ibn Omar رضي الله عنه : Un hadith similaire a été transmis par une chaîne différente"
+"4594","Rapporté par Omar ibn al-Khattab رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « J’expulserai les Juifs et les Chrétiens de la péninsule Arabique et je n’y laisserai que des musulmans. »"
+"4595","Rapporté par Zubair رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"4596","Rapporté par Abou Sa‘id al-Khudri رضي الله عنه : Les gens de Quraiza se sont rendus en acceptant la décision de Sa‘d ibn Mu‘adh à leur sujet. Le Messager d’Allah ﷺ fit venir Sa‘d"
+"4597","Rapporté par Abou Sa‘id al-Khudri رضي الله عنه : Par la même chaîne de transmetteurs"
+"4598","Rapporté par Aïcha رضي الله عنها : Sa‘d fut blessé le jour de la bataille du Fossé. Un homme des Quraysh"
+"4599","Rapporté par Hicham"
+"4600","Rapporté par Aïcha رضي الله عنها : La blessure de Sa‘d commença à sécher et à guérir"
+"4601","Rapporté par Hicham"
+"4602","Rapporté par Abdallah رضي الله عنه : Le jour où il revint de la bataille des Coalisés (Ahzab)"
+"4603","Rapporté par Anas ibn Malik رضي الله عنه : Lorsque les Mouhajiroun émigrèrent de La Mecque à Médine"
+"4604","Rapporté par Anas رضي الله عنه : (Après sa migration à Médine)"
+"4605","Rapporté par Abdallah ibn Mougafal رضي الله عنه : J’ai trouvé un sac contenant de la graisse le jour de la bataille de Khaybar. Je l’ai attrapé et j’ai dit : « Aujourd’hui"
+"4606","Rapporté par Abdallah ibn Mougafal رضي الله عنه : Cette tradition a été transmise par une autre chaîne de narrateurs"
+"4607","Rapporté par Ibn Abbas رضي الله عنه"
+"4608","Rapporté par Ibn Chihab رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"4609","Rapporté par Anas رضي الله عنه : Le Prophète d’Allah ﷺ écrivit à Chosroès (roi de Perse)"
+"4610","Rapporté par Anas ibn Malik رضي الله عنه : La tradition a été rapportée par une chaîne différente"
+"4611","Rapporté par Anas ibn Malik رضي الله عنه : Ce hadith a été rapporté par le même narrateur à travers une autre chaîne"
+"4612","Rapporté par Abbas رضي الله عنه : J’étais avec le Messager d’Allah ﷺ le jour de Hunayn. Moi et Abd Soufyan ibn Harith ibn Abd al-Muttalib sommes restés proches du Messager d’Allah ﷺ"
+"4613","Rapporté par un autre transmetteur : Dans cette version"
+"4614","Rapporté par ‘Abbas رضي الله عنه : J’étais avec l’Envoyé d’Allah ﷺ le jour de Hunayn. Le reste du hadith est identique"
+"4615","Rapporté par Abu Ishaq : Un homme a demandé à Bara’ ibn ‘Azib رضي الله عنه : « As-tu fui le jour de Hunayn"
+"4616","Rapporté par Abu Ishaq : Quelqu’un a demandé à Bara’ ibn ‘Azib رضي الله عنه : « Abu Umara"
+"4617","Rapporté par Abu Ishaq : J’ai entendu Bara’ رضي الله عنه"
+"4618","Rapporté par Bara’ رضي الله عنه : Ce hadith a été rapporté avec une autre chaîne de transmetteurs"
+"4619","Rapporté par Salama رضي الله عنه : Nous avons combattu aux côtés du Messager d’Allah ﷺ à Hunayn. Quand nous avons rencontré l’ennemi"
+"4620","Rapporté par Ibn ‘Amr رضي الله عنه : Le Messager d’Allah ﷺ a assiégé les habitants de Ta’if"
+"4621","Rapporté par Anas رضي الله عنه : Lorsque la nouvelle de l’avancée d’Abu Sufyan (à la tête d’une armée) lui est parvenue"
+"4622","Rapporté par ‘Abdullah ibn Rabah d’après Abu Huraira رضي الله عنه : De nombreuses délégations sont venues voir Mu’awiya"
+"4623","Rapporté par un autre transmetteur : Le récit contient les ajouts suivants : (i) Ensuite"
+"4624","Rapporté par ‘Abdullah ibn Rabah : Nous sommes venus en délégation chez Mu’awiya ibn Abu Sufyan"
+"4625","Rapporté par Ibn ‘Abdullah رضي الله عنه : Le Prophète ﷺ est entré à La Mecque. Il y avait trois cent soixante idoles autour de la Ka’ba. Il a commencé à les frapper avec le bâton qu’il tenait en main en disant : « La vérité est venue et le faux a disparu. Oui"
+"4626","Rapporté par Ibn Abu Najah : Ce récit a été transmis par une autre chaîne de transmetteurs jusqu’au mot « Zahaqa ». Cette version ne contient pas le second verset et remplace « Nusub » par « Sanam » (les deux mots signifient « idole » ou « image » adorée)"
+"4627","Rapporté par ‘Abdullah ibn Muti’ d’après son père رضي الله عنه : J’ai entendu le Prophète ﷺ dire le jour de la conquête de La Mecque : « Aucun Qurayshite ne sera tué"
+"4628","Rapporté par Zakariya avec la même chaîne de transmetteurs : Le même récit a été rapporté"
+"4629","Rapporté par al-Bara’ ibn ‘Azib رضي الله عنه : ‘Ali ibn Abu Talib a rédigé le traité entre le Prophète ﷺ et les polythéistes le jour de Hudaibiya. Il a écrit : « Ceci est ce que Muhammad"
+"4630","Rapporté par Abu Ishaq"
+"4631","Rapporté par Bara’ رضي الله عنه : Quand le Prophète ﷺ a été empêché d’entrer à la Ka’ba"
+"4632","Rapporté par Anas رضي الله عنه : Les Quraysh ont fait la paix avec le Prophète ﷺ. Parmi eux se trouvait Suhail ibn Amr. Le Prophète ﷺ a dit à ‘Ali : « Écris : “Au nom d’Allah"
+"4633","Rapporté par Abu Wa’il : Sahal ibn Hunaif رضي الله عنه s’est levé le jour de Siffin et a dit : « Ô gens"
+"4634","Rapporté par Shaqiq : J’ai entendu Sahl ibn Hunaif رضي الله عنه dire à Siffin : « Ô gens"
+"4635","Rapporté par une autre chaîne de transmetteurs"
+"4636","Rapporté par une autre chaîne de transmetteurs"
+"4637","Rapporté par Anas ibn Malik رضي الله عنه : Quand les compagnons du Prophète ﷺ ont été submergés de tristesse et de détresse à son retour de Hudaibiya"
+"4638","Rapporté par un autre transmetteur : Cette tradition a été rapportée par une chaîne différente de transmetteurs"
+"4639","Rapporté par Hudhayfa b. al-Yaman رضي الله عنه : Rien ne m’a empêché d’être présent à la bataille de Badr"
+"4640","Rapporté par Ibrahim al-Taimi d’après son père : Nous étions assis en compagnie de Hudhayfa. Un homme a dit : « Si j’avais vécu à l’époque du Messager d’Allah ﷺ"
+"4641","Rapporté par Anas b. Malik رضي الله عنه : Le jour de la bataille d’Uhud"
+"4642","Rapporté par Abd-ul-‘Aziz b. Abu Hazim"
+"4643","Rapporté par Abu Hazim"
+"4644","Rapporté par Sahl b. Sa’d رضي الله عنه : La même tradition a été rapportée par une chaîne différente de transmetteurs"
+"4645","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a eu ses dents de devant cassées le jour de la bataille d’Uhud et a été blessé à la tête. Il essuyait le sang de son visage en disant : « Comment ces gens peuvent-ils espérer le salut alors qu’ils ont blessé leur Prophète et lui ont cassé une dent"
+"4646","Rapporté par ‘Abdullah رضي الله عنه : Il me semblait voir le Messager d’Allah ﷺ raconter l’histoire d’un Prophète qui avait été frappé par son peuple"
+"4647","Rapporté par un autre transmetteur : Une version de cette tradition avec des mots légèrement différents a été rapportée par une autre chaîne de transmetteurs"
+"4648","Rapporté par Hammam b. Munabbih رضي الله عنه : Voici ce qu’Abu Huraira nous a rapporté du Messager d’Allah ﷺ. Parmi ces récits"
+"4649","Rapporté par Ibn Mas’ud رضي الله عنه : Alors que le Messager d’Allah ﷺ priait près de la Ka‘ba et qu’Abu Jahl était assis avec ses compagnons"
+"4650","Rapporté par Abdullah b. Mas’ud رضي الله عنه : Alors que le Messager d’Allah ﷺ était en prosternation pendant la prière"
+"4651","Rapporté par Abu Ishaq : Une tradition similaire a été rapportée par une chaîne différente"
+"4652","Rapporté par ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ s’est tourné vers la Ka‘ba et a invoqué contre six hommes de Quraysh"
+"4653","Rapporté par Aïcha (l’épouse du Prophète) رضي الله عنها : Elle demanda au Messager d’Allah ﷺ : « As-tu connu un jour plus terrible que celui d’Uhud ? » Il répondit : « J’ai subi bien des choses de la part de ton peuple"
+"4654","Rapporté par Jundub b. Sufyan رضي الله عنه : Un doigt du Messager d’Allah ﷺ a été blessé lors d’un combat. Il a dit : « Tu n’es qu’un petit doigt qui a saigné"
+"4655","Rapporté par Aswad b. Qais رضي الله عنه : Le Messager d’Allah ﷺ était dans une grotte (ou lors d’un raid) quand son doigt a été blessé"
+"4656","Rapporté par Aswad b. Qais : Il a entendu Jundub dire que Jibril a tardé à rendre visite au Messager d’Allah ﷺ. Les polythéistes commencèrent alors à dire : « Muhammad a été abandonné. » À ce moment-là"
+"4657","Rapporté par Aswad b. Qais رضي الله عنه : J’ai entendu Jundub b. Sufyan dire : Le Messager d’Allah ﷺ est tombé malade et ne s’est pas levé pour prier pendant deux ou trois nuits. Une femme est venue le voir et lui a dit : « Muhammad"
+"4658","Rapporté par Aswad b. Qais رضي الله عنه : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"4659","Rapporté par Usama b. Zaid رضي الله عنه : Le Prophète ﷺ montait un âne"
+"4660","Rapporté par Ibn Shihab : Une tradition similaire a été rapportée par une chaîne différente"
+"4661","Rapporté par Anas b. Malik رضي الله عنه : On a dit au Prophète ﷺ : « Pourquoi ne vas-tu pas voir Abdullah b. Ubayy pour le convaincre d’accepter l’islam ? » Le Prophète ﷺ s’est donc rendu chez lui"
+"4662","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit (après la bataille de Badr) : « Qui va nous rapporter ce qui est arrivé à Abu Jahl ? » Ibn Mas’ud est parti pour s’informer. Il a trouvé que les deux fils d’Afra’ l’avaient frappé et qu’il était à l’agonie. Il l’a attrapé par la barbe et lui a dit : « Es-tu Abu Jahl ? » Il a répondu : « Y a-t-il quelqu’un de plus important que celui que tu as tué"
+"4663","Rapporté par un autre transmetteur : Une tradition similaire a été rapportée par une chaîne différente"
+"4664","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Qui tuera Ka'b b. Ashraf ? Il a insulté Allah"
+"4665","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a attaqué Khaybar. Un matin"
+"4666","Rapporté par Anas رضي الله عنه : Le même jour"
+"4667","Rapporté par Anas b. Malik رضي الله عنه : Ce hadith a été rapporté par Anas b. Malik avec une légère différence dans les mots"
+"4668","Rapporté par Salama b. al-Akwa’ رضي الله عنه : Nous avons marché vers Khaybar avec le Messager d’Allah ﷺ. Nous avons voyagé de nuit. L’un des compagnons a dit à (mon frère) ‘Amir b. al-Akwa’ : « Ne veux-tu pas nous réciter quelques-uns de tes poèmes ? » ‘Amir était poète"
+"4669","Rapporté par Salama b. al-Akwa’ رضي الله عنه : Le jour de la bataille de Khaybar"
+"4670","Rapporté par al-Bara’ رضي الله عنه : Le Messager d’Allah ﷺ portait de la terre avec nous le jour d’al-Ahzab"
+"4671","Rapporté par Abu Ishaq : J’ai entendu al-Bara’ رضي الله عنه rapporter une tradition similaire"
+"4672","Rapporté par Sahl b. Sa'd رضي الله عنه : Le Messager d’Allah ﷺ est venu vers nous pendant que nous creusions la tranchée et portions la terre sur nos épaules. En voyant notre état"
+"4673","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ô Allah"
+"4674","Rapporté par Anas b. Malik رضي الله عنه"
+"4675","Rapporté par Anas b. Malik رضي الله عنه"
+"4676","Rapporté par Anas رضي الله عنه"
+"4677","Rapporté par Yazid b. Abu 'Ubaid رضي الله عنه : Il a entendu Salama b. al-Akwa' رضي الله عنه dire : Je suis sorti avant que l’appel à la prière du matin ne soit lancé. Les chamelles laitières du Messager d’Allah ﷺ paissaient à Dhu Qarad. L’esclave de ‘Abd al-Rahman b. Auf m’a rencontré et m’a dit : « Les chamelles laitières du Messager d’Allah ﷺ ont été emmenées. » J’ai demandé : « Qui les a prises ? » Il a répondu : « Des gens de la tribu de Ghatafan. » J’ai crié trois fois : « Au secours ! » Toute la ville entre les deux volcans a entendu mon cri. Puis je me suis lancé à leur poursuite jusqu’à les rattraper à Dhu Qarad"
+"4678","Rapporté par Ibn Salama رضي الله عنه"
+"4679","Rapporté par Anas b. Malik رضي الله عنه : Quatre-vingts habitants de la Mecque sont descendus du mont Tan’im pour attaquer le Messager d’Allah ﷺ et ses Compagnons par surprise"
+"4682","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a permis à Umm Sulaim et à d’autres femmes des Ansar de l’accompagner lors des expéditions militaires ; elles donnaient à boire aux soldats et soignaient les blessés"
+"4683","Rapporté par Anas ibn Malik رضي الله عنه : Le jour de Uhud"
+"4684","Rapporté par Yazid ibn Hurmuz : Najda écrivit à Ibn Abbas pour lui poser cinq questions. Ibn Abbas dit : « Si je n’avais pas eu peur de commettre un péché en cachant la connaissance"
+"4685","Rapporté par Yazid ibn Hurmuz : Ce récit a été rapporté par la même autorité (Yazid ibn Hurmuz) par une autre chaîne"
+"4686","Rapporté par Yazid ibn Hurmuz : Najda ibn Amir al-Haruri écrivit à Ibn Abbas pour lui demander si l’esclave et la femme recevaient une part du butin s’ils participaient au jihad ; s’il était permis de tuer les enfants ennemis pendant la guerre ; à partir de quand cesse-t-on d’être orphelin ; et qui sont les proches du Prophète ﷺ. Il dit à Yazid : « Écris-lui. (Si je ne craignais pas qu’il tombe dans l’erreur"
+"4687","Rapporté par Yazid ibn Hurmuz : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"4688","Rapporté par Yazid ibn Hurmuz : Najda écrivit à Ibn Abbas. J’étais assis auprès de lui lorsqu’il lut la lettre et rédigea la réponse. Ibn Abbas dit : « Si ce n’était pas pour l’empêcher de tomber dans l’égarement"
+"4689","Rapporté par Yazid ibn Hurmuz : Ce hadith a été transmis par Yazid ibn Hurmuz"
+"4690","Rapporté par Umm ‘Atiyya (l’Ansarie) رضي الله عنها : J’ai participé avec le Messager d’Allah ﷺ à sept batailles. Je restais à l’arrière du camp des hommes"
+"4691","Rapporté par Hisham ibn Hassan : Un récit similaire a été rapporté par une autre chaîne de transmetteurs"
+"4692","Rapporté par Abu Ishaq : ‘Abdullah ibn Yazid sortit avec des gens pour prier la prière de demande de pluie (Istisqa). Il fit deux unités de prière"
+"4693","Rapporté par Zayd ibn Arqam رضي الله عنه : Le Messager d’Allah ﷺ a mené dix-neuf batailles et"
+"4694","Rapporté par Abu Zubair"
+"4695","Rapporté par Buraida رضي الله عنه (qui l’a entendu de son père) : Le Messager d’Allah ﷺ a mené dix-neuf campagnes militaires et il a effectivement combattu dans huit d’entre elles"
+"4696","Rapporté par Buraida رضي الله عنه (qui l’a entendu de son père) : Il a participé avec le Messager d’Allah ﷺ à seize campagnes militaires"
+"4697","Rapporté par Salama رضي الله عنه : J’ai participé à sept expéditions militaires dirigées par le Messager d’Allah ﷺ lui-même"
+"4698","Rapporté par Hatim : Ce récit a aussi été rapporté par la même chaîne de transmetteurs"
+"4699","Rapporté par Abu Musa al-Ash‘ari رضي الله عنه : Nous sommes partis en expédition avec le Messager d’Allah ﷺ. Nous étions six et n’avions qu’un seul chameau"
+"4700","Rapporté par Aïsha (l’épouse du Prophète ﷺ) رضي الله عنها : Le Messager d’Allah ﷺ partit pour Badr. Lorsqu’il arriva à Harrat-ul-Wabara (à quatre miles de Médine)"

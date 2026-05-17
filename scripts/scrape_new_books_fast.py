@@ -60,18 +60,46 @@ def discover_chapters(book_slug):
     return sorted(chapters)
 
 
-def discover_hadiths_in_chapter(book_slug, chapter_id):
-    """Get all hadith IDs from a single chapter page."""
-    url = f"{BASE_URL}/hadees/{book_slug}/{chapter_id}/0"
-    html = fetch(url)
-    if not html:
-        return set()
+def extract_hadith_ids(book_slug, html):
     soup = BeautifulSoup(html, "html.parser")
     ids = set()
     for a in soup.find_all("a", href=True):
         m = re.search(rf"/{re.escape(book_slug)}/(\d+)$", a["href"])
         if m:
             ids.add(int(m.group(1)))
+    return ids
+
+
+def extract_pages(book_slug, chapter_id, html):
+    soup = BeautifulSoup(html, "html.parser")
+    pages = set([0])
+    for a in soup.find_all("a", href=True):
+        m = re.search(
+            rf"/hadees/{re.escape(book_slug)}/{int(chapter_id)}/(\d+)$",
+            a["href"],
+        )
+        if m:
+            pages.add(int(m.group(1)))
+    return sorted(pages)
+
+
+def discover_hadiths_in_chapter(book_slug, chapter_id):
+    """Get all hadith IDs from a single chapter page (with pagination)."""
+    url = f"{BASE_URL}/hadees/{book_slug}/{chapter_id}/0"
+    html = fetch(url)
+    if not html:
+        return set()
+
+    ids = set()
+    ids.update(extract_hadith_ids(book_slug, html))
+    pages = extract_pages(book_slug, chapter_id, html)
+    for page in pages:
+        if page == 0:
+            continue
+        page_html = fetch(f"{BASE_URL}/hadees/{book_slug}/{chapter_id}/{page}")
+        if not page_html:
+            continue
+        ids.update(extract_hadith_ids(book_slug, page_html))
     return ids
 
 

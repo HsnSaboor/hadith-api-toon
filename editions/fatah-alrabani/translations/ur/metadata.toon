@@ -2,5 +2,5 @@ metadata:
   language: ur
   language_name: "Urdu"
   script: "Arabic"
-  total_hadiths: 281
-  source: "Recovered from git history (56db4b8^)"
+  total_hadiths: 192
+  source: "Restructured from original data"

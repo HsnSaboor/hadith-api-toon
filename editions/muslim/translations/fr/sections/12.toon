@@ -1,230 +1,340 @@
-hadiths[229]{hadithnumber,text}:
-2263,979.01
-2264,979.02
-2265,979.03
-2266,979.04
-2267,979.05
-2268,979.06
-2269,979.07
-2270,979.08
-2271,980
-2272,981
-2273,982.01
-2274,982.02
-2275,982.03
-2276,982.04
-2277,983
-2278,984.01
-2279,984.02
-2280,984.03
-2281,984.04
-2282,984.05
-2283,985.01
-2284,985.02
-2285,985.03
-2286,985.04
-2287,985.05
-2288,986.01
-2289,986.02
-2290,987.01
-2291,987.02
-2292,987.03
-2293,987.04
-2294,987.05
-2296,988.01
-2297,988.02
-2298,989.01
-2299,989.02
-2300,990.01
-2301,990.02
-2302,991.01
-2303,991.02
-2304,94.03
-2305,94.04
-2306,992.01
-2307,992.02
-2308,993.01
-2309,993.02
-2310,994
-2311,995
-2312,996
-2313,997.01
-2314,997.02
-2315,998.01
-2316,998.02
-2317,999
-2318,1000.01
-2319,1000.02
-2320,1001.01
-2321,1001.02
-2322,1002.01
-2323,1002.02
-2324,1003.01
-2325,1003.02
-2326,1004.01
-2327,1004.02
-2328,1005
-2329,1006
-2330,1007.01
-2331,1007.02
-2332,1007.03
-2333,1008.01
-2334,1008.02
-2335,1009
-2336,1010
-2337,1011
-2338,1012
-2340,157.04
-2341,1013
-2342,1014.01
-2343,1014.02
-2344,1014.03
-2345,1014.04
-2346,1015
-2347,1016.01
-2348,1016.02
-2349,1016.03
-2350,1016.04
-2351,1017.01
-2352,1017.02
-2353,1017.03
-2354,1017.04
-2355,1018.01
-2356,1018.02
-2357,1019
-2358,1020
-2359,1021.01
-2360,1021.02
-2361,1021.03
-2362,1022
-2363,1023
-2364,1024.01
-2365,1024.02
-2366,1024.03
-2367,1024.04
-2368,1025.01
-2369,1025.02
-2370,1026
-2371,1027.01
-2372,1027.02
-2373,1027.03
-2374,1028
-2375,1029.01
-2376,1029.02
-2377,1029.03
-2378,1029.04
-2379,1031.01
-2380,1031.02
-2382,1032.01
-2383,1032.02
-2384,1032.03
-2385,1033
-2386,1034
-2387,1035
-2388,1036
-2389,1037.01
-2390,1038.01
-2391,1038.02
-2392,1037.02
-2393,1039.01
-2394,1039.02
-2395,1039.03
-2396,1040.01
-2397,1040.02
-2398,1040.03
-2399,1041
-2400,1042.01
-2401,1042.02
-2402,1042.03
-2403,1043
-2404,1044
-2405,1045.01
-2406,1045.02
-2407,1045.03
-2408,1045.04
-2409,1045.05
-2410,1046.01
-2411,1046.02
-2412,1047.01
-2413,1047.02
-2414,1047.03
-2415,1048.01
-2416,1048.02
-2417,1048.03
-2418,1049
-2419,1050
-2420,1051
-2421,1052.01
-2422,1052.02
-2423,1052.03
-2424,1053.01
-2425,1053.02
-2426,1054
-2427,1055
-2428,1056
-2429,1057.01
-2430,1057.02
-2431,1058.01
-2432,1058.02
-2433,150.05
-2434,150.06
-2435,150.07
-2436,1059.01
-2437,1059.02
-2438,1059.03
-2439,1059.04
-2440,1059.05
-2441,1059.06
-2442,1059.07
-2443,1060.01
-2444,1060.02
-2445,1060.03
-2446,1061
-2447,1062.01
-2448,1062.02
-2449,1063.01
-2450,1063.02
-2451,1064.01
-2452,1064.02
-2453,1064.03
-2454,1064.04
-2455,1064.05
-2456,1064.06
-2457,1065.01
-2458,1065.02
-2459,1065.03
-2460,1065.04
-2461,1065.05
-2462,1066.01
-2463,1066.02
-2464,1066.03
-2465,1066.04
-2466,1066.05
-2467,1066.06
-2468,1066.07
-2469,1067
-2470,1068.01
-2471,1068.02
-2472,1068.03
-2473,1069.01
-2474,1069.02
-2475,1069.03
-2476,1070.01
-2477,1070.02
-2478,1071.01
-2479,1071.02
-2480,1071.03
-2481,1072.01
-2482,1072.02
-2483,1073.01
-2484,1073.02
-2485,1074.01
-2486,1075.01
-2487,1075.02
-2488,1075.03
-2489,1075.04
-2490,1076
-2491,1077
-2492,1078.01
-2493,1078.02
-2494,989.03
+hadiths[339]{hadithnumber,text}:
+"2148","Rapporté par Anas : Lorsque ‘Umar b. Khattab fut blessé"
+"2151","Rapporté par ‘Amr"
+"2152","Rapporté par Abdullah b. ‘Umar : Le Messager d’Allah ﷺ a dit : « Le défunt est puni à cause des lamentations des vivants. »"
+"2153","Rapporté par Hisham b. ‘Urwa"
+"2154","Rapporté par Hisham"
+"2155","Rapporté par Ibn ‘Urwa : Ce hadith a été rapporté avec la même chaîne de transmetteurs. Le récit d’Abu Usama est plus complet"
+"2156","Rapporté par ‘Amra"
+"2157","Rapporté par ‘Ali b. Rabi’a : La première personne sur laquelle on s’est lamenté à Koufa fut Qaraza b. Ka’b. Mughira b. Shu’ba a dit : « J’ai entendu le Messager d’Allah ﷺ dire : “Celui pour qui on se lamente sera puni à cause de ces lamentations le Jour du Jugement.” »"
+"2158","Rapporté par Mughira b. Shu’ba : Un hadith semblable a été rapporté par Mughira b. Shu’ba du Messager d’Allah ﷺ"
+"2159","Rapporté par le Messager d’Allah ﷺ : Ce hadith a été rapporté du Messager d’Allah ﷺ par une autre chaîne de transmetteurs"
+"2160","Rapporté par Abu Malik al-Ash’ari : Le Messager d’Allah ﷺ a dit : « Il y a chez certains de mon peuple quatre habitudes de l’époque préislamique qu’ils n’abandonnent pas : se vanter de leur rang"
+"2161","Rapporté par ‘Aïcha : Quand on a annoncé au Messager d’Allah ﷺ que Ibn Haritha"
+"2162","Rapporté par Yahya b. Sa’id : Ce hadith a été rapporté avec la même chaîne de transmetteurs que celui de ‘Abd al-‘Aziz"
+"2163","Rapporté par Umm ‘Atiyya : Le Messager d’Allah ﷺ a pris de nous"
+"2164","Rapporté par Umm ‘Atiyya : Le Messager d’Allah ﷺ a pris de nous l’engagement (y compris cette promesse) de ne pas nous lamenter. Seules cinq d’entre nous ont tenu cette promesse"
+"2165","Rapporté par Hafsa"
+"2166","Rapporté par Umm 'Atiyya رضي الله عنها : Nous avons reçu l’interdiction de suivre le cortège funèbre"
+"2167","Rapporté par Umm 'Atiyya رضي الله عنها : On nous a déconseillé de suivre le cortège funèbre"
+"2168","Rapporté par Umm 'Atiyya رضي الله عنها : Le Messager d’Allah ﷺ est venu vers nous pendant que nous lavions sa fille"
+"2169","Rapporté par Umm 'Atiyya رضي الله عنها : Nous avons tressé ses cheveux en trois nattes"
+"2170","Rapporté par Umm 'Atiyya رضي الله عنها : L’une des filles du Messager d’Allah ﷺ est décédée. Selon la version transmise par Ibn 'Ulayya : Le Messager d’Allah ﷺ est venu vers nous pendant que nous lavions sa fille. Dans la version de Malik : Le Messager d’Allah ﷺ est entré chez nous lorsque sa fille est décédée. Le reste du hadith est identique à celui rapporté par Yazid b. Zurai' d’après Ayyub"
+"2171","Rapporté par Hafsa رضي الله عنها d’après Umm 'Atiyya رضي الله عنها : Un hadith similaire a été rapporté"
+"2172","Rapporté par Umm 'Atiyya رضي الله عنها : Nous l’avons lavée un nombre impair de fois"
+"2173","Rapporté par Umm 'Atiyya رضي الله عنها : Lorsque Zaynab"
+"2174","Rapporté par Umm 'Atiyya رضي الله عنها : Le Messager d’Allah ﷺ est venu vers nous pendant que nous lavions l’une de ses filles. Il a dit : « Lavez-la un nombre impair de fois"
+"2175","Rapporté par Umm 'Atiyya رضي الله عنها : Lorsque le Messager d’Allah ﷺ lui a demandé de laver sa fille"
+"2176","Rapporté par Umm 'Atiyya رضي الله عنها : Le Messager d’Allah ﷺ a dit aux femmes"
+"2177","Rapporté par Khabbab al-Aratt رضي الله عنه : Nous avons émigré avec le Messager d’Allah ﷺ pour la cause d’Allah"
+"2178","Rapporté par 'Uyaina d’après A'mash رضي الله عنهما : Un hadith similaire a été rapporté avec la même chaîne de transmission"
+"2179","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a été enveloppé dans trois tissus de coton blanc du Yémen provenant de Sahul"
+"2180","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a été enveloppé dans un tissu du Yémen appartenant à 'Abdullah b. Abu Bakr ; puis il a été retiré"
+"2181","Rapporté par Hisham رضي الله عنه : Ce hadith est rapporté avec la même chaîne de transmission"
+"2182","Rapporté par Abu Salama رضي الله عنه : J’ai demandé à Aïsha رضي الله عنها dans combien de vêtements le Messager d’Allah ﷺ a été enveloppé. Elle a répondu : « Dans trois tissus de Sahul. »"
+"2183","Rapporté par Aïsha رضي الله عنها : Lorsque le Messager d’Allah ﷺ est décédé"
+"2184","Rapporté par Zuhri رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmission"
+"2185","Rapporté par Jabir b. 'Abdullah رضي الله عنه : Un jour"
+"2186","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Dépêchez-vous lors des funérailles ; si le défunt était une bonne personne"
+"2187","Rapporté par un autre transmetteur : Ce hadith a été rapporté par une autre chaîne de transmission"
+"2188","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Dépêchez-vous lors des funérailles ; si le défunt était une bonne personne"
+"2189","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui assiste à la prière funéraire pour un défunt aura la récompense d’un qirat"
+"2190","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs jusqu’aux mots : « deux grandes montagnes. » Il n’est pas fait mention de la suite ; et dans la version transmise par 'Abd al-A'la"
+"2191","Rapporté par Abu Huraira رضي الله عنه par une autre chaîne de transmetteurs : « Celui qui a suivi le cortège funéraire jusqu’à ce que le défunt soit enterré. »"
+"2192","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui prie pour un défunt sans suivre le cortège funéraire aura la récompense d’un qirat"
+"2193","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui prie pour un défunt reçoit un qirat ; et celui qui suit le cortège jusqu’à ce qu’il soit mis dans la tombe reçoit deux qirats. » J’ai demandé à Abu Huraira : « Qu’est-ce qu’un qirat ? » Il répondit : « C’est comme la montagne d’Uhud. »"
+"2194","Rapporté par Nafi’ : On dit à Ibn ‘Umar que Abu Huraira avait rapporté avoir entendu le Messager d’Allah ﷺ dire : « Celui qui suit le cortège funéraire aura la récompense d’un qirat. » Ibn ‘Umar dit : « Abu Huraira l’a trop souvent rapporté. » Il envoya donc quelqu’un demander à ‘Aïsha de vérifier ce fait. Elle confirma le témoignage d’Abu Huraira. Ibn ‘Umar dit alors : « Nous avons manqué beaucoup de qirats. »"
+"2195","Rapporté par Dawud b. ‘Amir b. Sa’d b. Abu Waqqas"
+"2196","Rapporté par Thauban"
+"2197","Ce hadith a été rapporté par Qatada avec la même chaîne de transmetteurs. Et dans le hadith transmis par Sa’id et Hisham"
+"2198","Rapporté par ‘Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Si un groupe de cent musulmans prie pour un défunt"
+"2199","Rapporté par ‘Abdullah b. ‘Abbas رضي الله عنه : Son fils mourut à Qudaid ou ‘Usfan. Il demanda à Kuraib de voir combien de personnes étaient présentes pour ses funérailles. Kuraib revint l’informer du nombre de personnes rassemblées. Ibn ‘Abbas demanda : « Penses-tu qu’ils sont quarante ? » Kuraib répondit : « Oui. » Ibn ‘Abbas leur dit alors : « Sortez le corps"
+"2200","Rapporté par Anas b. Malik رضي الله عنه : Un cortège funéraire passa et il fut loué en de bons termes. Le Messager d’Allah ﷺ dit alors : « C’est confirmé"
+"2201","Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2202","Rapporté par Qatada b. Rib’i رضي الله عنه : Le Messager d’Allah ﷺ disait"
+"2203","Dans le hadith transmis par Yahya b. Sa’id d’après Qatada"
+"2204","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ annonça aux gens la mort du Négus le jour même de son décès. Il les fit sortir vers le lieu de prière et dirigea la prière funéraire avec quatre takbirs"
+"2205","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ nous annonça la mort du Négus"
+"2206","Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2207","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a prié pour Ashama"
+"2208","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aujourd’hui"
+"2209","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un de vos frères est décédé"
+"2210","Rapporté par ‘Imran b. Husain رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un de vos frères est décédé ; levez-vous et priez pour lui"
+"2211","Rapporté par Sha’bi رضي الله عنه : Le Messager d’Allah ﷺ a prié sur une tombe après que le défunt ait été enterré"
+"2212","Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2213","Le hadith tel que rapporté par Shaibani a été transmis par une autre chaîne de transmetteurs"
+"2214","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a prié sur une tombe"
+"2215","Rapporté par Abu Huraira رضي الله عنه : Une femme à la peau foncée avait l’habitude de balayer la mosquée. Le Messager d’Allah ﷺ remarqua son absence et demanda après elle. Les gens lui dirent qu’elle était décédée. Il demanda pourquoi on ne l’en avait pas informé"
+"2216","Rapporté par 'Abd al-Rahman b. Abu Laila : Zaid récitait quatre takbirs lors de nos funérailles"
+"2217","Rapporté par 'Amir Ibn Rabi'a رضي الله عنه : Le Prophète ﷺ a dit : « Chaque fois que vous voyez un cortège funéraire"
+"2218","Rapporté par 'Amir ibn Rabi'a رضي الله عنه : Le Prophète ﷺ a dit : « Si l’un d’entre vous croise un cortège funéraire et n’a pas l’intention de l’accompagner"
+"2219","Rapporté par Ibn Juraij : Le Prophète ﷺ a dit : « Si l’un d’entre vous voit un cercueil"
+"2220","Rapporté par Abu Sa'id al-Khudri : Le Prophète ﷺ a dit : « Quand vous suivez un cercueil"
+"2221","Rapporté par Abu Sa'id al-Khudri : Le Prophète ﷺ a dit : « Chaque fois que vous croisez un cercueil"
+"2222","Rapporté par Jabir ibn 'Abdullah : Un cercueil est passé et le Prophète ﷺ s’est levé"
+"2223","Rapporté par Ibn Juraij : Abu Zubair a entendu Jabir dire que le Prophète ﷺ est resté debout pour un cercueil jusqu’à ce qu’il disparaisse"
+"2224","Rapporté par Abu Zubair : Il a entendu Jabir dire que le Prophète ﷺ et ses Compagnons sont restés debout pour le cercueil d’un Juif jusqu’à ce qu’il disparaisse de leur vue"
+"2226","Rapporté par Ibn Abu Laila : Alors que Qais b. Sa'd et Sahl b. Hunaif étaient à Qadisiyya"
+"2227","Rapporté par Waqid : Nafi' b. Jubair m’a vu alors que nous étions debout pour un cercueil"
+"2228","Rapporté par Mas'ud b. al-Hakam al-Ansari : Il a informé Nafi' qu’il avait entendu Hadrat 'Ali رضي الله عنه"
+"2229","Ce hadith a été rapporté par Yahya b. Sa'id avec la même chaîne de transmetteurs"
+"2230","Rapporté par Muhammad b. Munkadir : Il a dit : J’ai entendu de Mas'ud b. al-Hakam"
+"2231","Ce hadith a été rapporté par Shu'ba avec la même chaîne de transmetteurs"
+"2233","Rapporté par Jubair b. Nufair : J’ai entendu 'Auf b. Malik dire que le Prophète ﷺ a fait la prière sur le corps d’un défunt"
+"2234","Un hadith similaire a été rapporté par une autre chaîne de transmetteurs"
+"2235","Rapporté par Samura b. Jundub : J’ai prié derrière le Messager d’Allah ﷺ et il a prié pour une femme décédée en accouchant. Il s’est placé devant sa taille"
+"2236","Ce hadith a été rapporté par Husain avec la même chaîne de transmetteurs"
+"2237","Rapporté par Samura b. Jundub : J’étais un jeune garçon à l’époque du Prophète ﷺ et j’ai retenu ce que j’ai appris de lui"
+"2238","Rapporté par Jabir ibn Samura : Un cheval sans selle a été amené au Prophète ﷺ et il est monté dessus après avoir accompli la prière funéraire d’Ibn Dahdah"
+"2239","Rapporté par Jabir ibn Samura : Le Prophète ﷺ a accompli la prière funéraire sur Ibn Dahdah ; puis on lui a amené un cheval sans selle et quelqu’un l’a attaché"
+"2240","Rapporté par 'Amir b. Sa'd b. Abu Waqqas : Sa'd b. Abu Waqqas a dit pendant la maladie dont il est décédé : « Faites-moi une niche sur le côté de la tombe et placez des briques au-dessus de moi"
+"2241","Rapporté par Ibn 'Abbas : Un morceau de tissu rouge a été placé dans la tombe du Messager d’Allah ﷺ"
+"2242","Rapporté par Thumama b. Shafayy : Lorsque nous étions avec Fadala b. 'Ubaid dans le pays des Romains"
+"2244","Rapporté par Abu’l-Hayyaj al-Asadi : Ali ibn Abi Talib رضي الله عنه lui a dit : « Ne veux-tu pas que je t’envoie accomplir la même mission que celle pour laquelle le Messager d’Allah ﷺ m’a envoyé ? Ne laisse aucune image sans l’effacer"
+"2245","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a interdit de recouvrir les tombes de plâtre"
+"2246","Rapporté par Jabir ibn Abdullah رضي الله عنه : Un hadith similaire a été transmis de sa part"
+"2247","Rapporté par Jabir رضي الله عنه : Il lui a été interdit de recouvrir les tombes de plâtre"
+"2248","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il vaudrait mieux que l’un d’entre vous s’assoie sur des braises ardentes qui brûleraient ses vêtements et toucheraient sa peau"
+"2249","Rapporté par Suhail رضي الله عنه : Un hadith semblable a été rapporté avec la même chaîne de transmetteurs"
+"2250","Rapporté par Abu Marthad al-Ghanawi رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne vous asseyez pas sur les tombes et ne priez pas en direction de celles-ci. »"
+"2251","Rapporté par Abu Marthad al-Ghanawi رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne priez pas en direction des tombes et ne vous asseyez pas dessus. »"
+"2252","Rapporté par ‘Abbad ibn ‘Abdullah ibn Zubair رضي الله عنه : Aïsha رضي الله عنها a ordonné qu’on apporte la civière de Sa’d ibn Abi Waqqas à la mosquée afin qu’elle puisse prier pour lui. Les gens ont désapprouvé son acte. Elle a dit : « Comme les gens oublient vite ! Le Messager d’Allah ﷺ n’a-t-il pas accompli la prière funéraire de Suhail ibn al-Baida’ dans une mosquée ? »"
+"2253","Rapporté par ‘Abbad ibn ‘Abdullah ibn Zubair رضي الله عنه d’après ‘Aïsha رضي الله عنها : Lorsque Sa’d ibn Abi Waqqas est décédé"
+"2254","Rapporté par Abu Salama ibn ‘Abd al-Rahman رضي الله عنه d’après ‘Aïsha رضي الله عنها : Quand Sa’d ibn Abi Waqqas est décédé"
+"2255","Rapporté par Aïcha رضي الله عنها : Chaque fois que c’était le tour du Messager d’Allah ﷺ de passer la nuit chez moi"
+"2256","Rapporté par Muhammad ibn Qais رضي الله عنه : Il dit aux gens : « Voulez-vous que je vous raconte un hadith du Prophète ﷺ de ma part et de celle de ma mère ? » Nous pensions qu’il parlait de sa propre mère. Puis il rapporta que c’était ‘Aïsha رضي الله عنها qui avait raconté ceci : « Voulez-vous que je vous parle de moi et du Messager d’Allah ﷺ ? » Nous avons dit : « Oui. » Elle raconta : « Quand c’était mon tour pour que le Messager d’Allah ﷺ passe la nuit chez moi"
+"2257","Rapporté par Sulaiman ibn Buraida رضي الله عنه d’après son père : Le Messager d’Allah ﷺ leur enseignait"
+"2258","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « J’ai demandé la permission de demander pardon pour ma mère"
+"2259","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a visité la tombe de sa mère et il a pleuré"
+"2260","Rapporté par Ibn Buraida رضي الله عنه d’après son père : Le Messager d’Allah ﷺ a dit : « Je vous avais interdit de visiter les tombes"
+"2261","Rapporté par un autre transmetteur : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2262","Rapporté par Jabir ibn Samura رضي الله عنه : Le corps d’une personne qui s’était suicidée avec une flèche à large pointe a été amené devant le Messager d’Allah ﷺ"
+"2263","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de zakat à payer pour moins de cinq wasqs (de dattes ou de céréales)"
+"2264","Rapporté par ‘Amr ibn Yahya رضي الله عنه : Un hadith similaire a été rapporté avec la même chaîne de transmetteurs"
+"2265","Rapporté par ‘Umara رضي الله عنه : J’ai entendu Abd Sa’id al-Khudri dire qu’il avait entendu le Messager d’Allah ﷺ faire ce geste avec ses cinq doigts"
+"2266","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de zakat à payer pour moins de cinq wasqs (de dattes ou de céréales)"
+"2267","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de zakat à payer pour moins de cinq wasqs de dattes ou de céréales. »"
+"2268","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de zakat à payer sur les céréales et les dattes tant que la quantité n’atteint pas cinq wasqs"
+"2269","Rapporté par Isma'il b. Umayya : Un hadith similaire a été rapporté par Isma'il b. Umayya avec la même chaîne de transmetteurs"
+"2270","Rapporté par Isma'il b. Umayya : Un hadith similaire a été rapporté par Isma'il b. Umayya avec la même chaîne de transmetteurs"
+"2271","Rapporté par Jabir b. 'Abdullah : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de Sadaqa à payer pour moins de cinq uqiyyas d’argent"
+"2272","Rapporté par Jabir b. Abdullah : Le Messager d’Allah ﷺ a dit : « On doit donner le dixième de la récolte arrosée par les rivières ou la pluie"
+"2273","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Un musulman n’a pas à donner la Sadaqa pour son esclave ou son cheval. »"
+"2274","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Un musulman n’a pas à donner la Sadaqa pour son esclave ou son cheval. »"
+"2275","Rapporté par Abu Huraira : Un hadith similaire a été rapporté par Abu Huraira à travers une autre chaîne de transmetteurs"
+"2276","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de Sadaqa à donner pour un esclave"
+"2277","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a envoyé Omar pour collecter la Sadaqa (zakat)"
+"2278","Rapporté par Ibn Umar : Le Messager d’Allah ﷺ a prescrit le paiement de la Zakat-ul-Fitr à la rupture du jeûne de Ramadan pour chaque homme libre ou esclave"
+"2279","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a prescrit la Zakat-ul-Fitr : un sa‘ de dattes ou un sa‘ d’orge pour chaque esclave ou homme libre"
+"2280","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a prescrit la Sadaqa de Ramadan (Sadaqat-al-Fitr) : un sa‘ de dattes ou un sa‘ d’orge pour chaque homme libre ou esclave"
+"2281","Rapporté par Abdullah b. Umar : Le Messager d’Allah ﷺ a ordonné le paiement de la Zakat-ul-Fitr : un sa‘ de dattes ou un sa‘ d’orge. Ibn ‘Umar a ajouté : Ensuite"
+"2282","Rapporté par Ibn Umar : Le Messager d’Allah ﷺ a prescrit la Zakat-ul-Fitr de Ramadan : un sa‘ de dattes ou un sa‘ d’orge pour chaque personne parmi les musulmans"
+"2283","Rapporté par Sa’d b. Abu Sarh : Abu Sa’id al-Khudri disait : « Nous sortions comme Zakat de Fitr un sa‘ de blé"
+"2284","Rapporté par Abu Sa’id al-Khudri : Nous"
+"2285","Rapporté par Sa’d b. Abu Sarh : Abu Sa’id al-Khudri disait : « Nous"
+"2286","Rapporté par Abu Sa’id al-Khudri : Nous sortions la Zakat de Fitr sous trois formes : fromage"
+"2287","Rapporté par Abu Sa’id al-Khudri : Quand Mu’awiya a prescrit qu’un demi-sa‘ de blé équivalait à un sa‘ de dattes"
+"2288","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a ordonné que la Sadaqat-ul-Fitr soit donnée avant que les gens ne sortent pour la prière"
+"2289","Rapporté par Abdullah b. 'Umar : Le Messager d’Allah ﷺ a ordonné de donner la Sadaqat-ul-Fitr avant que les gens ne partent pour la prière"
+"2290","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Si quelqu’un possède de l’or ou de l’argent et ne paie pas ce qu’il doit"
+"2291","Rapporté par Zaid b. Aslam : Ce hadith a été rapporté par Zaid b. Aslam avec la même chaîne de transmetteurs"
+"2292","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Aucun propriétaire de trésor qui ne paie pas la Zakat ne sera épargné : ses biens seront chauffés dans le Feu de l’Enfer et transformés en plaques avec lesquelles ses flancs et son front seront marqués"
+"2293","Rapporté par Suhail b. Abu Salih : Ce hadith a été rapporté par Suhail b. Abu Salih avec la même chaîne de transmetteurs"
+"2294","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand une personne ne donne pas ce qui est dû à Allah ou la sadaqa de ses chameaux… » Le reste du hadith est identique"
+"2296","Rapporté par Jabir ibn Abdullah al-Ansari رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le propriétaire d’un chameau qui ne donne pas ce qui est dû sera puni ainsi : au Jour de la Résurrection"
+"2297","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun propriétaire de chameaux"
+"2298","Rapporté par Jabir ibn Abdullah رضي الله عنه : Des gens parmi les Bédouins vinrent voir le Messager d’Allah ﷺ et dirent : « Les collecteurs de sadaqa viennent chez nous et nous traitent injustement. » Le Messager d’Allah ﷺ répondit : « Satisfaites vos collecteurs. » Jarir a dit : « Depuis que j’ai entendu cela du Messager d’Allah ﷺ"
+"2299","Rapporté par Muhammad ibn Isma’il رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"2300","Rapporté par Abu Dharr رضي الله عنه : Je suis allé voir le Messager d’Allah ﷺ alors qu’il était assis à l’ombre de la Ka’ba. Lorsqu’il m’a vu"
+"2301","Rapporté par Abu Dharr رضي الله عنه : Je suis allé voir le Messager d’Allah ﷺ alors qu’il était assis à l’ombre de la Ka’ba"
+"2302","Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Rien ne me réjouirait plus que d’avoir la montagne d’Uhud en or pour moi"
+"2303","Rapporté par Abu Huraira رضي الله عنه : Il a rapporté la même chose du Prophète ﷺ"
+"2304","Rapporté par Abu Dharr رضي الله عنه : J’ai marché avec le Messager d’Allah ﷺ sur le sol pierreux de Médine un après-midi"
+"2305","Rapporté par Abu Dharr رضي الله عنه : Une nuit"
+"2306","Rapporté par Ahnaf ibn Qais رضي الله عنه : Je suis venu à Médine et"
+"2307","Rapporté par Ahnaf ibn Qais رضي الله عنه : Alors que j’étais avec les notables de Quraysh"
+"2308","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit qu’Allah"
+"2309","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit qu’Allah lui a dit : « Dépense"
+"2310","Rapporté par Thauban رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le meilleur dinar est celui qu’une personne dépense pour sa famille"
+"2311","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Parmi les dinars que tu dépenses pour la cause d’Allah"
+"2312","Rapporté par Khaithama رضي الله عنه : Alors que nous étions assis en compagnie de ‘Abdullah ibn ‘Umar"
+"2313","Rapporté par Jabir رضي الله عنه : Un homme des Banu ‘Udhra a affranchi un esclave après sa mort. Cette nouvelle est parvenue au Messager d’Allah ﷺ. Il a demandé : « As-tu des biens en dehors de cela ? » Il a répondu : « Non. » Le Prophète ﷺ a alors dit : « Qui veut acheter cet esclave de moi ? » Nulaim ibn Abdullah l’a acheté pour huit cents dirhams"
+"2314","Rapporté par Jabir رضي الله عنه : Un homme parmi les Ansar"
+"2315","Rapporté par Anas ibn Malik رضي الله عنه : Abu Talha était l’un des Ansar de Médine qui possédait le plus de biens"
+"2316","Rapporté par Anas رضي الله عنه : Quand ce verset a été révélé : « Vous n’atteindrez la piété que lorsque vous donnerez de ce que vous aimez »"
+"2317","Rapporté par Maymouna bint Harith رضي الله عنها : Elle a affranchi une esclave du vivant du Messager d’Allah ﷺ et en a parlé au Messager d’Allah ﷺ. Il lui a dit : « Si tu l’avais donnée à tes oncles maternels"
+"2318","Rapporté par Zaynab"
+"2319","Rapporté par Zaynab"
+"2320","Rapporté par Umm Salama رضي الله عنها : J’ai demandé au Messager d’Allah ﷺ s’il y avait une récompense pour moi si je dépensais pour les enfants d’Abu Salama"
+"2321","Rapporté par Ibn 'Urwa : Ce hadith a été rapporté par Ibn 'Urwa avec la même chaîne de transmetteurs"
+"2322","Rapporté par Abu Mas'ud رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsqu’un musulman dépense pour sa famille en cherchant la récompense auprès d’Allah"
+"2323","Rapporté par Shu'ba : Ce hadith a été rapporté par Shu'ba avec la même chaîne de transmetteurs"
+"2324","Rapporté par Asma’"
+"2325","Rapporté par Asma’ bint Abu Bakr رضي الله عنها : Ma mère"
+"2326","Rapporté par Aishah (la mère des croyants) رضي الله عنها : Une personne est venue voir le Messager d’Allah ﷺ et a dit : « Ma mère est morte soudainement sans avoir laissé de testament. Je pense qu’elle aurait sûrement fait l’aumône si elle avait pu parler. Aura-t-elle une récompense si je donne l’aumône à sa place ? » Il ﷺ a répondu : « Oui. »"
+"2327","Rapporté par Hisham : Ce hadith a été rapporté par Hisham avec la même chaîne de transmetteurs. Et dans le hadith transmis par Abu Usama"
+"2328","Rapporté par Hudhayfa et Abu Shaiba رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Chaque bonne action est une aumône (sadaqa). »"
+"2329","Rapporté par Abu Dharr رضي الله عنه : Certains compagnons du Messager d’Allah ﷺ lui ont dit : « Ô Messager d’Allah"
+"2330","Rapporté par Aishah (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Chacun des enfants d’Adam a été créé avec trois cent soixante articulations. Celui qui proclame la gloire d’Allah"
+"2331","Ce hadith a été rapporté par Zaid avec la même chaîne de transmetteurs"
+"2332","Rapporté par Aishah (la mère des croyants) رضي الله عنها : Ce hadith a été rapporté par Aishah à travers une autre chaîne de transmetteurs"
+"2333","Rapporté par Sa’id b. Abu Burda"
+"2334","Rapporté par Shu'ba : Ce hadith a été rapporté par Shu'ba avec la même chaîne de transmetteurs"
+"2335","Rapporté par Hammam b. Munabbih رضي الله عنه : Ceci fait partie des hadiths qu’Abu Huraira nous a rapportés du Prophète Muhammad ﷺ. En mentionnant les hadiths du Messager d’Allah ﷺ"
+"2336","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Chaque matin"
+"2337","Rapporté par Haritha b. Wahb رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Donnez l’aumône"
+"2338","Rapporté par Abu Musa رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il viendra un temps où une personne parcourra la terre avec une aumône d’or"
+"2340","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’Heure ne viendra pas tant que la richesse ne sera pas abondante et débordante"
+"2341","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La terre fera sortir de longues masses de son intérieur"
+"2342","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un donne en aumône ne serait-ce qu’une datte provenant d’un gain licite — car Allah n’accepte que ce qui est licite — Allah la prend de Sa main droite"
+"2343","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Personne ne donne en aumône une datte provenant d’un gain honnête sans qu’Allah ne la prenne de Sa main droite"
+"2344","Rapporté par Rauh et Sulaiman : Ce hadith a été rapporté par une autre chaîne de transmetteurs avec des mots différents. Dans le hadith transmis par Rauh"
+"2345","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été transmis par une autre chaîne"
+"2346","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ô gens"
+"2347","Rapporté par ‘Adi b. Hatim رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « Celui d’entre vous qui peut se protéger du Feu"
+"2348","Rapporté par ‘Adi b. Hatim رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Allah parlera à chacun d’entre vous sans aucun intermédiaire. La personne regardera à sa droite et ne verra que les actions qu’elle a faites"
+"2349","Rapporté par ‘Adi b. Hatim رضي الله عنه : Le Messager d’Allah ﷺ a parlé du Feu. Il a détourné son visage et détourné son attention"
+"2350","Rapporté par ‘Adi b. Hatim رضي الله عنه : Le Messager d’Allah ﷺ a parlé du Feu et a cherché refuge auprès d’Allah contre lui. Il a détourné son visage trois fois"
+"2351","Rapporté par Mundhir b. Jarir رضي الله عنه d’après son père : Alors que nous étions avec le Messager d’Allah ﷺ tôt le matin"
+"2352","Rapporté par Mundhir رضي الله عنه selon une autre chaîne : Dans la version transmise par Ibn Mu’adh"
+"2353","Rapporté par Mundhir b. Jarir رضي الله عنه d’après son père : Alors que nous étions assis avec le Messager d’Allah ﷺ"
+"2354","Rapporté par Jarir b. ‘Abdullah رضي الله عنه : Des gens sont venus voir le Messager d’Allah ﷺ"
+"2355","Rapporté par Abu Mas’ud رضي الله عنه : On nous a ordonné de donner l’aumône"
+"2356","Rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"2357","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui offre à sa famille une chamelle laitière"
+"2358","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a interdit certaines choses"
+"2359","Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a comparé celui qui dépense ou donne l’aumône à une personne qui porte deux tuniques ou deux cottes de mailles"
+"2360","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a comparé l’avare et le généreux à deux personnes portant des cottes de mailles"
+"2361","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’avare et le généreux sont comme deux personnes portant des cottes de mailles ; quand le généreux veut donner"
+"2362","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : Un homme a voulu donner l’aumône"
+"2363","Rapporté par Abu Musa رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le dépositaire musulman honnête qui dépense (ou qui donne) ce qu’on lui a demandé de donner"
+"2364","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Quand une femme donne en aumône une partie de la nourriture de sa maison"
+"2365","Rapporté par Mansur avec la même chaîne de transmetteurs"
+"2366","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Quand une femme dépense (en aumône) une partie des biens de son mari sans causer de tort"
+"2367","Ce hadith a été rapporté par A’mash avec la même chaîne de transmetteurs"
+"2368","Rapporté par Umair"
+"2369","Rapporté par Umair"
+"2370","Rapporté par Hammam b. Munabbih رضي الله عنه : Voici quelques hadiths de Muhammad"
+"2371","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un donne en aumône une paire de quelque chose pour Allah"
+"2372","Rapporté par Zuhri par une autre chaîne de transmetteurs : (Hadith similaire au précédent)"
+"2373","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui donne des paires de choses pour Allah"
+"2374","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Qui parmi vous a jeûné aujourd’hui ? » Abu Bakr رضي الله عنه a répondu : « Moi. » Le Prophète ﷺ a demandé : « Qui parmi vous a suivi un cortège funéraire aujourd’hui ? » Abu Bakr رضي الله عنه a répondu : « Moi. » Le Prophète ﷺ a demandé : « Qui parmi vous a nourri un pauvre aujourd’hui ? » Abu Bakr رضي الله عنه a répondu : « Moi. » Le Prophète ﷺ a demandé : « Qui parmi vous a rendu visite à un malade aujourd’hui ? » Abu Bakr رضي الله عنه a répondu : « Moi. » Alors le Messager d’Allah ﷺ a dit : « Celui qui réunit toutes ces bonnes actions entrera sûrement au Paradis. »"
+"2375","Rapporté par Asma’"
+"2376","Rapporté par Asma’ رضي الله عنها : Le Messager d’Allah ﷺ m’a dit : « Dépense et ne sois pas avare"
+"2377","Rapporté par Asma’ par une autre chaîne de transmetteurs : (Hadith similaire au précédent)"
+"2378","Rapporté par Asma’"
+"2379","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il y a sept personnes qu’Allah protégera sous Son ombre le jour où il n’y aura d’ombre que la Sienne : un dirigeant juste ; un jeune qui grandit dans l’adoration d’Allah ; une personne dont le cœur est attaché à la mosquée ; deux personnes qui s’aiment"
+"2380","Rapporté par Abu Huraira رضي الله عنه avec une variante : « Une personne dont le cœur reste attaché à la mosquée"
+"2382","Rapporté par Abu Huraira رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ et a demandé : « Ô Messager d’Allah"
+"2383","Rapporté par Abu Huraira رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ et a demandé : « Ô Messager d’Allah"
+"2384","Rapporté par Abu Huraira رضي الله عنه avec une variante de formulation : « Quelle aumône est la plus excellente ? »"
+"2385","Rapporté par Abdullah ibn Umar رضي الله عنه : Alors que le Messager d’Allah ﷺ était assis sur la chaire et parlait de l’aumône et du fait d’éviter de mendier"
+"2386","Rapporté par Hakim ibn Hizam رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La meilleure aumône est celle après laquelle tu restes à l’aise financièrement"
+"2387","Rapporté par Hakim ibn Hizam رضي الله عنه : J’ai demandé au Messager d’Allah ﷺ"
+"2388","Rapporté par Abu Umama رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ô fils d’Adam"
+"2389","Rapporté par Mu’awiya رضي الله عنه : Faites attention aux hadiths"
+"2390","Rapporté par Mu’awiya رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne forcez pas les choses"
+"2391","Rapporté par ‘Amr ibn Dinar d’après Wahb ibn Munabbih رضي الله عنه : Je suis allé chez lui à Sanaa"
+"2392","Rapporté par Abd al-Rahman ibn Awf رضي الله عنه : J’ai entendu Mu’awiya ibn Abu Sufyan dire dans un discours qu’il avait entendu le Messager d’Allah ﷺ dire : « Celui à qui Allah veut du bien"
+"2393","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le pauvre (miskin) n’est pas celui qui fait le tour des gens et repart avec une ou deux bouchées ou une ou deux dattes. » Les compagnons ont demandé : « Ô Messager d’Allah"
+"2394","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le miskin n’est pas celui qui repart avec une ou deux dattes"
+"2395","Rapporté par une autre chaîne de transmetteurs : (Hadith similaire au précédent)"
+"2396","Rapporté par Hamza"
+"2397","Rapporté par le frère de Zuhri : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"2398","Rapporté par Hamza ibn ‘Abdullah ibn Umar : Il a entendu son père dire que le Messager d’Allah ﷺ a dit : « Une personne continuera à mendier auprès des gens jusqu’à ce qu’au Jour de la Résurrection"
+"2399","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Celui qui mendie la richesse des autres pour augmenter la sienne ne demande en réalité que des braises ardentes. Qu’il en demande peu ou beaucoup. »"
+"2400","Rapporté par Abu Huraira : Il a entendu le Messager d’Allah ﷺ dire : « Il vaut mieux pour l’un d’entre vous de ramasser un fagot de bois sur son dos"
+"2401","Rapporté par Qais ibn Abu Hizam : Nous sommes allés voir Abu Huraira et il nous a rapporté que le Messager d’Allah ﷺ a dit : « Par Allah"
+"2402","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il vaut mieux pour l’un d’entre vous d’attacher un fagot de bois"
+"2403","Rapporté par Malik al-Ashja’i : Nous étions neuf"
+"2404","Rapporté par Qabisa ibn Mukhariq al-Hilali : J’étais endetté et je suis allé voir le Messager d’Allah ﷺ pour lui demander de l’aide à ce sujet. Il m’a dit : « Attends que nous recevions la sadaqa"
+"2405","Rapporté par Salim ibn Abdullah ibn ‘Umar"
+"2406","Rapporté par Salim ibn ‘Abdullah"
+"2407","Rapporté par Abdullah ibn al-Sa’di : Ce hadith a été rapporté par ‘Umar ibn al-Khattab رضي الله عنه"
+"2408","Rapporté par Ibn al-Sa’di Maliki : Omar ibn Khattab رضي الله عنه m’a nommé collecteur de la sadaqa. Quand j’ai terminé cette tâche et que je lui ai remis ce que j’avais collecté"
+"2409","Rapporté par Ibn al-Sa’di : Omar ibn Khattab رضي الله عنه m’a nommé collecteur de la sadaqa. Le reste du hadith est identique"
+"2410","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le cœur d’une personne âgée reste jeune pour deux choses : l’amour de la longue vie et l’amour de la richesse. »"
+"2411","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le cœur d’une personne âgée reste jeune pour deux choses : le désir de vivre longtemps et l’amour de la richesse. »"
+"2412","Rapporté par Anas : Le Messager d’Allah ﷺ a dit : « Le fils d’Adam vieillit"
+"2413","Rapporté par Anas : Un hadith similaire a été rapporté par Anas à travers une autre chaîne de transmetteurs"
+"2414","Rapporté par Anas : Ce hadith a été rapporté par Anas à travers une autre chaîne de transmetteurs"
+"2415","Rapporté par Anas : Le Messager d’Allah ﷺ a dit : « Si le fils d’Adam possédait deux vallées remplies de richesses"
+"2416","Rapporté par Anas ibn Malik : J’ai entendu le Messager d’Allah ﷺ dire cela"
+"2417","Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ a dit : « Si le fils d’Adam possédait deux vallées d’or"
+"2418","Rapporté par Ibn Abbas : Le Messager d’Allah ﷺ a dit : « Si le fils d’Adam avait une vallée remplie de richesses"
+"2419","Rapporté par Abu Harb ibn Abu al-Aswad"
+"2420","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « La vraie richesse ne se trouve pas dans l’abondance des biens matériels"
+"2421","Rapporté par Abu Sa’id al-Khudri : Le Messager d’Allah ﷺ s’est levé et a adressé ces paroles aux gens : « Ô gens"
+"2422","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ce que je crains le plus pour vous"
+"2423","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ était assis sur la chaire et nous étions autour de lui. Il a dit : « Ce que je crains pour vous après ma mort"
+"2424","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Des gens parmi les Ansar ont demandé l’aumône au Messager d’Allah ﷺ et il leur a donné. Ils ont redemandé et il leur a encore donné"
+"2425","Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"2426","Rapporté par ‘Amr b. al-‘As رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Est vraiment heureux celui qui a accepté l’islam"
+"2427","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ô Allah"
+"2428","Rapporté par Omar b. Khattab رضي الله عنه : Le Messager d’Allah ﷺ a distribué quelque chose. J’ai alors dit : « Ô Messager d’Allah"
+"2429","Rapporté par Anas b. Malik رضي الله عنه : Je marchais avec le Messager d’Allah ﷺ qui portait un manteau de Najran à bordure épaisse. Un bédouin l’a rencontré et a tiré si fort sur le manteau que j’ai vu la marque de la bordure sur la peau du cou du Messager d’Allah ﷺ. Le bédouin a dit : « Muhammad"
+"2430","Rapporté par Anas b. Malik رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs. Dans la version transmise par Ikrima b. ‘Ammir"
+"2431","Rapporté par Miswar b. Makhrama رضي الله عنه : Le Messager d’Allah ﷺ a distribué des manteaux mais n’en a pas donné à Makhrama. Makhrama a alors dit : « Ô mon fils"
+"2432","Rapporté par Miswar b. Makhrama رضي الله عنه : Des manteaux ont été offerts au Messager d’Allah ﷺ. Mon père Makhrama m’a dit : « Viens avec moi chez lui ; peut-être pourrons-nous obtenir quelque chose de ce lot de manteaux. » Mon père s’est tenu à la porte et a commencé à parler. Le Messager d’Allah ﷺ l’a reconnu à sa voix"
+"2433","Rapporté par Sa’d رضي الله عنه : Le Messager d’Allah ﷺ a offert des cadeaux à un groupe de personnes alors que j’étais assis parmi eux. Cependant"
+"2434","Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"2435","Rapporté par Muhammad b. Sa’d رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2436","Rapporté par Anas b. Malik رضي الله عنه : Le jour de Hunayn"
+"2437","Rapporté par Anas b. Malik رضي الله عنه : Lorsque Allah a accordé à Son Messager ﷺ les richesses de Hawazin (sans combat)"
+"2438","Rapporté par Anas b. Malik رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2439","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a rassemblé les Ansar et a dit : « Y a-t-il parmi vous quelqu’un d’étranger ? » Ils ont répondu : « Non"
+"2440","Rapporté par Anas b. Malik رضي الله عنه : Quand La Mecque a été conquise"
+"2441","Rapporté par Anas b. Malik رضي الله عنه : Le jour de Hunayn"
+"2442","Rapporté par Anas b. Malik رضي الله عنه : Nous avons conquis La Mecque"
+"2443","Rapporté par Rafi’ b. Khadij رضي الله عنه : Le Messager d’Allah ﷺ a donné à Abu Sufyan b. Harb"
+"2444","Rapporté par Sa’id b. Masruq رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs (avec les mots) : « Le Messager d’Allah ﷺ a distribué le butin de Hunayn"
+"2445","Rapporté par Sa’id رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"2446","Rapporté par Abdullah b. Zaid رضي الله عنه : Lorsque le Messager d’Allah ﷺ a conquis Hunayn"
+"2447","Rapporté par Abdullah رضي الله عنه : Le jour de Hunayn"
+"2448","Rapporté par Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a distribué le butin de guerre. Un homme a alors dit : « Cette distribution n’a pas été faite dans le but de plaire à Allah. » Je suis allé discrètement en informer le Messager d’Allah ﷺ. Il s’est mis très en colère et son visage est devenu rouge"
+"2449","Rapporté par Jabir ibn Abdullah رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ à Ji’rana"
+"2450","Rapporté par Jabir ibn Abdullah رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2451","Rapporté par Abu Saïd al-Khudri رضي الله عنه : ‘Ali رضي الله عنه a envoyé au Messager d’Allah ﷺ de l’or mêlé de poussière"
+"2452","Rapporté par Abu Saïd al-Khudri رضي الله عنه : ‘Ali ibn Abu Talib رضي الله عنه a envoyé du Yémen au Messager d’Allah ﷺ de l’or mêlé de terre"
+"2453","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2454","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2455","Rapporté par Abu Salama et ‘Ata’ ibn Yasar : Ils sont venus voir Abu Saïd al-Khudri رضي الله عنه et l’ont interrogé au sujet des Haruriya"
+"2456","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Alors que nous étions avec le Messager d’Allah ﷺ pendant qu’il distribuait le butin de guerre"
+"2457","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a parlé d’un groupe qui apparaîtra dans sa communauté"
+"2458","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un groupe se séparera de la communauté au moment de la division parmi les musulmans. Le groupe le plus proche de la vérité les combattra et les tuera. »"
+"2459","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il y aura deux groupes dans ma communauté"
+"2460","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un groupe se séparera au moment où il y aura des divisions parmi les gens"
+"2461","Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit qu’un groupe (les Khawarij) émergera des différents partis (celui de ‘Ali et celui de Mu’awiya)"
+"2462","Rapporté par Ali رضي الله عنه : Chaque fois que je vous rapporte quelque chose du Messager d’Allah ﷺ"
+"2463","Rapporté par un autre transmetteur : Un hadith similaire a été rapporté par une autre chaîne de transmetteurs"
+"2464","Rapporté par un autre transmetteur : Ce hadith a été rapporté par A’mash avec la même chaîne de transmetteurs"
+"2465","Rapporté par ‘Abida"
+"2466","Rapporté par ‘Abida : Je ne vous rapporterai que ce que j’ai entendu de lui (‘Ali رضي الله عنه)"
+"2467","Rapporté par Zayd ibn Wahb al-Juhani رضي الله عنه : Il faisait partie de l’escadron commandé par ‘Ali رضي الله عنه pour combattre les Khawarij. ‘Ali رضي الله عنه a dit : « Ô gens"
+"2468","Rapporté par ‘Ubaydullah ibn Abu Rafi’"
+"2469","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il surgira de ma communauté après moi"
+"2470","Rapporté par Yousair ibn ‘Amr : Il a demandé à Sahl ibn Hunaif رضي الله عنه : « As-tu entendu le Messager d’Allah ﷺ parler des Khawarij ? » Il a répondu : « Je l’ai entendu dire (en pointant la main vers l’est) : “Ce sera un peuple qui récitera le Coran avec leur langue"
+"2471","Rapporté par Sulaiman Shaibani : Ce hadith a été transmis par la même chaîne de narrateurs (et les mots sont) : « Il surgira de ce groupe de nombreux groupes. »"
+"2472","Rapporté par Sahl b. Hunaif : Le Messager d’Allah ﷺ a dit : « Des gens viendront de l’est"
+"2473","Rapporté par Abu Huraira : Hasan b. ‘Ali a pris une des dattes de la sadaqa et l’a mise dans sa bouche. Le Prophète ﷺ lui a alors dit : « Laisse-la"
+"2474","Rapporté par Abu Huraira selon Shu‘ba : Le Prophète ﷺ a dit : « La sadaqa ne nous est pas permise. »"
+"2475","Rapporté par Abu Huraira selon Shu‘ba : Ce même hadith a été rapporté avec la même chaîne de transmission"
+"2476","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Je retourne auprès de ma famille et je trouve une datte sur mon lit. Je la prends pour la manger"
+"2477","Rapporté par Abu Huraira selon Hammam b. Munabbih : Le Messager d’Allah ﷺ a dit : « Je retourne auprès de ma famille et je trouve une datte sur mon lit ou dans ma maison. Je la prends pour la manger"
+"2478","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a trouvé une datte dans la rue et a dit : « Si elle n’était pas de la sadaqa"
+"2479","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a trouvé une datte sur le chemin et a dit : « Si elle ne venait pas de la sadaqa"
+"2480","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a trouvé une datte et a dit : « Si je ne craignais pas qu’elle fasse partie de la sadaqa"
+"2481","Rapporté par ‘Abd al-Muttalib b. Rabi‘a b. al-Harith : Rabi‘a b. al-Harith et Abbas b. Abd al-Muttalib se sont réunis et ont dit : « Par Allah"
+"2482","Rapporté par Rabi‘a b. Harith b. ‘Abd al-Muttalib et Abbas b. ‘Abd al-Muttalib : Ils ont dit à ‘Abd al-Muttalib b. Rabi‘a et Fadl b. Ibn Abbas : « Allez voir le Messager d’Allah ﷺ. » Le reste du hadith est similaire"
+"2483","Rapporté par Juwayriya (l’épouse du Messager d’Allah ﷺ) : Le Messager d’Allah ﷺ est venu me voir et a dit : « As-tu quelque chose à manger ? » J’ai répondu : « Messager d’Allah"
+"2484","Rapporté par Zuhri : Ce hadith a été rapporté avec la même chaîne de transmission"
+"2485","Rapporté par Anas b. Malik : Barira a offert au Messager d’Allah ﷺ un morceau de viande qui lui avait été donné en sadaqa. Le Prophète ﷺ a dit : « C’est une sadaqa pour elle et un cadeau pour nous. »"
+"2486","Rapporté par Aïcha رضي الله عنها : Un jour"
+"2487","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Nous avons appris trois décisions religieuses grâce à Barira. Les gens lui donnaient la sadaqa et elle nous en offrait une partie en cadeau. Nous en avons parlé au Messager d’Allah ﷺ"
+"2488","Rapporté par Aïcha رضي الله عنها : Ce hadith a été rapporté par une autre chaîne de transmission"
+"2489","Rapporté par Aïcha رضي الله عنها : Ce hadith a aussi été transmis par Aïcha"
+"2490","Rapporté par Umm ‘Atiyya : Le Messager d’Allah ﷺ m’a envoyé un morceau de mouton provenant de la sadaqa. J’en ai envoyé une part à Aïcha. Quand le Messager d’Allah ﷺ est venu chez Aïcha"
+"2491","Rapporté par Abu Huraira : Chaque fois qu’on présentait de la nourriture au Messager d’Allah ﷺ"
+"2492","Rapporté par ‘Abdullah b. Abu Aufa : Quand les gens apportaient la sadaqa au Messager d’Allah ﷺ"
+"2493","Rapporté par Shu‘ba : Ce hadith a été rapporté avec la même chaîne de transmission"
+"2494","Rapporté par Jarir b. ‘Abdullah : Quand le collecteur de la sadaqa (Zakat) vient chez vous"

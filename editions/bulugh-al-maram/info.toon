@@ -1,16 +1,22 @@
 
 translations[2]{language,sections,path}:
-en,36,translations/en
-ur,4,translations/ur
+"en","36","translations/en"
+"ur","4","translations/ur"
 
 sections[16]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-  1,"The Book of Purification","كتاب الطهارة","পবিত্রতার বই","The Book of Purification","Le Livre de la Purification","Kitab Thaharah","Книга Очищения","Taharet Kitabı","طہارت کی کتاب",1,178,1,178
-  2,"The Book of Prayer","كتاب الصلاة","নামাজের বই","The Book of Prayer","Le Livre de la Prière","Kitab Shalat","Книга Молитвы","Namaz Kitabı","نماز کی کتاب",179,639,179,639
-  3,"Funerals","كتاب الجنائز","জানাজা","Funerals","Funérailles","Kitab Jenazah","Похороны","Cenaze Kitabı","جنازہ",640,705,640,705
-  4,"The Book of Zakah","كتاب الزكاة","যাকাতের বই","The Book of Zakah","Le Livre de la Zakat","Kitab Zakat","Книга Закята","Zekat Kitabı","زکوٰۃ کی کتاب",706,756,706,756
-  5,"Fasting","كتاب الصيام","রোজা","Fasting","Jeûne","Kitab Puasa","Пост","Oruç Kitabı","روزہ",757,814,757,814
-  6,"Hajj","كتاب الحج","হজ্জ","Hajj","Pèlerinage","Kitab Haji","Паломничество","Hac Kitabı","حج",815,888,815,888
-  7,"Business Transactions","كتاب البيوع","ব্যবসায়িক লেনদেন","Business Transactions","Transactions Commerciales","Kitab Jual Beli","Коммерческие Сделки","Ticaret Kitabı","کاروباری معاملات",889,1121,889,1121
-  8,"Marriage","كتاب النكاح","বিবাহ","Marriage","Mariage","Kitab Nikah","Брак","Evlilik Kitabı","نکاح",1122,1277,1122,1277
-  9,"Divorce","كتاب الطلاق","তালাক","Divorce","Divorce","Kitab Talak","Развод","Talak Kitabı","طلاق",1278,1395,1278,1395
-  10,"Food and Drink","كتاب الأطعمة والأشربة","খাদ্য ও পানীয়","Food and Drink","Nourriture et Boissons","Kitab Makanan dan Minuman","Еда и Напитки","Yiyecek ve İçecek","کھانا اور پینا",1396,1767,1396,1767
+"1","The Book of Purification","كتاب الطهارة","পবিত্রতার বই","The Book of Purification","Le Livre de la Purification","Kitab Thaharah","Книга Очищения","Taharet Kitabı","طہارت کی کتاب","1","179","1","179"
+"2","The Book of Prayer","كتاب الصلاة","নামাজের বই","The Book of Prayer","Le Livre de la Prière","Kitab Shalat","Книга Молитвы","Namaz Kitabı","نماز کی کتاب","180","640","180","640"
+"3","Funerals","كتاب الجنائز","জানাজা","Funerals","Funérailles","Kitab Jenazah","Похороны","Cenaze Kitabı","جنازہ","641","706","641","706"
+"4","The Book of Zakah","كتاب الزكاة","যাকাতের বই","The Book of Zakah","Le Livre de la Zakat","Kitab Zakat","Книга Закята","Zekat Kitabı","زکوٰۃ کی کتاب","707","757","707","757"
+"5","Fasting","كتاب الصيام","রোজা","Fasting","Jeûne","Kitab Puasa","Пост","Oruç Kitabı","روزہ","758","815","758","815"
+"6","Hajj","كتاب الحج","হজ্জ","Hajj","Pèlerinage","Kitab Haji","Паломничество","Hac Kitabı","حج","816","889","816","889"
+"7","Business Transactions","كتاب البيوع","ব্যবসায়িক লেনদেন","Business Transactions","Transactions Commerciales","Kitab Jual Beli","Коммерческие Сделки","Ticaret Kitabı","کاروباری معاملات","890","1122","890","1122"
+"8","Marriage","كتاب النكاح","বিবাহ","Marriage","Mariage","Kitab Nikah","Брак","Evlilik Kitabı","نکاح","1123","1344","1123","1344"
+"9","Crimes (Qisas or Retaliation)","كتاب الجنايات","","Crimes (Qisas or Retaliation)","","","","","جرائم","1345","1391","1345","1391"
+"10","Hudud","كتاب الحدود","","Hudud","","","","","حدود","1392","1448","1392","1448"
+"11","Jihad","كتاب الجهاد","","Jihad","","","","","جہاد","1449","1511","1449","1511"
+"12","Food","كتاب الأطعمة","","Food","","","","","کھانا","1512","1555","1512","1555"
+"13","Oaths and Vows","كتاب الأيمان والنذور","","Oaths and Vows","","","","","قسمیں اور نذریں","1556","1578","1556","1578"
+"14","Judgments","كتاب القضاء","","Judgments","","","","","قضاء","1579","1614","1579","1614"
+"15","Emancipation","كتاب العتق","","Emancipation","","","","","آزادی","1615","1634","1615","1634"
+"16","The Comprehensive Book","كتاب الجامع","","The Comprehensive Book","","","","","جامع کتاب","1635","1767","1635","1767"

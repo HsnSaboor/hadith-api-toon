@@ -1,434 +1,615 @@
-hadiths[433]{hadithnumber,text}:
-93,8.01
-94,8.02
-95,8.03
-96,8.04
-97,8.05
-98,9
-99,10
-100,11.01
-101,11.02
-102,12.01
-103,12.02
-104,13.01
-105,13.02
-106,14.01
-107,14.02
-108,15.01
-109,15.02
-110,15.03
-111,16.01
-112,16.02
-113,16.03
-114,16.04
-115,17.01
-116,17.02
-117,17.03
-118,18.01
-119,18.02
-120,18.03
-121,19.01
-122,19.02
-123,19.03
-124,20
-125,21.01
-126,21.02
-127,21.03
-129,22
-130,23.01
-131,23.02
-132,24.01
-133,24.02
-134,25.01
-135,25.02
-136,26.01
-137,26.02
-138,27.01
-139,27.02
-141,28.02
-142,29
-143,30.01
-144,30.02
-145,30.03
-146,30.04
-147,31
-148,32
-149,33.01
-150,33.02
-151,34
-152,35.01
-153,35.02
-154,36.01
-155,36.02
-156,37.02
-157,37.03
-158,37.01
-159,38
-160,39
-161,40
-162,41
-163,42.01
-164,42.02
-165,43.01
-166,43.02
-167,43.03
-168,44.01
-169,44.02
-170,45.01
-171,45.02
-172,46
-173,47.01
-174,47.02
-175,47.03
-176,48
-177,49.01
-178,49.02
-179,50.01
-180,50.02
-181,51
-182,52.01
-183,52.02
-184,52.03
-185,52.04
-186,52.05
-187,52.06
-188,52.07
-189,52.08
-190,52.09
-191,52.10
-192,52.11
-193,53
-194,54.01
-195,54.02
-196,55.01
-197,55.02
-198,55.03
-199,56.01
-200,56.02
-201,56.03
-202,57.01
-203,57.02
-204,57.03
-205,57.04
-206,57.05
-207,57.06
-208,57.07
-210,58
-211,59.01
-212,59.02
-213,59.03
-214,59.04
-215,60.01
-216,60.02
-217,61
-218,62
-219,63.01
-220,63.02
-221,64.01
-222,64.02
-223,65
-224,66.01
-225,66.02
-226,66.03
-227,67
-228,68
-230,70
-231,71
-232,72.01
-233,72.02
-235,74.01
-236,74.02
-237,75
-238,76
-239,77
-240,78
-241,79.01
-242,79.02
-243,80.01
-244,81.01
-245,81.02
-246,82.01
-247,82.02
-249,83
-250,84.01
-251,84.02
-252,85.01
-253,85.02
-254,85.03
-255,85.04
-256,85.05
-257,86.01
-258,86.02
-259,87
-260,88.01
-261,88.02
-262,89
-263,90.01
-264,90.02
-265,91.01
-266,91.02
-267,91.03
-268,92
-269,93.01
-270,93.02
-271,93.03
-272,94.01
-273,94.02
-274,95.01
-275,95.02
-276,95.03
-277,96.01
-278,96.02
-279,97
-280,98
-281,99
-282,100
-283,101
-284,102
-285,103.01
-286,103.02
-287,104.01
-288,104.02
-289,104.03
-290,105.01
-291,105.02
-292,105.03
-293,106.01
-294,106.02
-295,106.03
-296,107
-297,108.01
-298,108.02
-299,108.03
-300,109.01
-301,109.02
-302,110.01
-303,110.02
-304,110.03
-305,111
-306,112
-307,113.01
-308,113.02
-309,114
-310,115
-311,116
-312,117
-313,118
-314,119.01
-315,119.02
-316,119.03
-317,119.04
-318,120.01
-319,120.02
-320,120.03
-321,121
-322,122
-323,123.01
-324,123.02
-325,123.03
-326,123.04
-327,124.01
-328,124.02
-329,125
-330,126
-331,127.01
-332,127.02
-333,127.03
-334,128.01
-335,128.02
-336,129
-337,130
-338,131.01
-339,131.02
-340,132.01
-341,132.02
-342,133
-343,134.01
-344,134.02
-345,134.03
-346,134.04
-347,135.01
-348,135.02
-349,135.03
-350,135.04
-351,136.01
-352,136.02
-353,137.01
-354,137.02
-355,138.01
-356,138.02
-357,138.03
-358,139.01
-359,139.02
-360,140
-361,141.01
-362,141.02
-363,142.01
-364,142.02
-365,142.03
-366,142.04
-367,143.01
-368,143.02
-369,144.01
-370,144.02
-371,144.03
-372,145
-373,146
-374,147
-375,148.01
-376,148.02
-377,149
-378,150.01
-379,150.02
-380,150.03
-381,150.04
-382,151.01
-383,151.02
-385,152
-386,153
-387,154.01
-389,155.01
-390,155.02
-391,155.03
-392,155.04
-393,155.05
-394,155.06
-395,156
-396,157.01
-397,157.02
-398,158
-399,159.01
-400,159.02
-401,159.03
-402,159.04
-403,160.01
-404,160.02
-405,160.03
-406,161.01
-407,161.02
-408,161.03
-409,161.04
-410,161.05
-411,162.01
-412,162.02
-413,162.03
-414,162
-415,163
-416,164.01
-417,164.02
-418,165.01
-419,165.02
-420,166.01
-421,166.02
-422,166.03
-423,167
-424,168
-425,169.01
-426,169.02
-427,169.03
-428,170
-429,171
-430,172
-431,173
-432,174.01
-433,174.02
-434,174.03
-435,175
-436,176.01
-437,176.02
-438,176.03
-439,177.01
-440,177.02
-441,177.03
-442,177.04
-443,178.01
-444,178.02
-445,179.01
-446,179.02
-447,179.03
-448,180
-449,181.01
-450,181.02
-451,182.01
-452,182.02
-453,182.03
-454,183.01
-455,183.02
-456,183.03
-457,184.01
-458,184.02
-459,185.01
-460,185.02
-461,186.01
-462,186.02
-463,187
-464,188
-465,189.01
-466,189.02
-467,190.01
-468,190.02
-469,191.01
-470,191.02
-471,191.03
-472,191.04
-473,191.05
-474,192
-475,193.01
-476,193.02
-477,193.03
-478,193.04
-479,193.05
-480,194.01
-481,194.02
-482,195
-483,196.01
-484,196.02
-485,196.03
-486,197
-487,198.01
-488,198.02
-489,198.03
-490,198.04
-491,199.01
-492,199.02
-493,199.03
-494,200.01
-495,200.02
-496,200.03
-497,200.04
-498,201
-499,202
-500,203
-501,204.01
-502,204.02
-503,205
-504,206.01
-505,206.02
-506,207.01
-507,207.02
-508,208.01
-509,208.02
-510,209.01
-511,209.02
-512,209.03
-513,210
-514,211
-515,212
-516,213.01
-517,213.02
-518,214
-519,215
-520,216.01
-521,216.02
-522,216.03
-523,217
-524,218.01
-525,218.02
-526,219
-527,220.01
-528,220.02
-529,221.01
-530,221.02
-531,221.03
-532,222.01
-533,222.02
+hadiths[614]{hadithnumber,text}:
+"1","Know - may Allah, exalted is He, grant you success – that what is obligatory upon everyone who is aware of the distinction between the Sahīh transmissions and their weak, the trustworthy narrators from those who stand accused, is to not transmit from them except what is known for the soundness of its emergence and the protection of its narrators; and that they fear what may be from those accused (of deficiency in narrating) and the stubborn people of innovation. \n\nThe proof that what we have said is required above what opposes it is in the verse: {Oh you who believe! If a sinful person comes to you with news, then verify it lest you afflict people through ignorance then you become sorry about what you did}[al-Hujurāt: 6]; and the verse: {… from whom you are pleased with from the witnesses}[al-Baqarah: 282] and the verse: {And let two who possess integrity among you bare witness}[at-Talāq: 2]. Thus it demonstrates what we mentioned from these two verses that the report of the sinful is dropped and not accepted, and that the testimony [Shahādah] of one who does not possess integrity is rejected, and the report [Khabar] as well- even though its significance is separated from the meaning of testimony in some respects, they are in agreement regarding the overall conditions they share since the report of the sinful is not acceptable according to Ahl ul-Ilm just as his testimony is rejected according to all of them . The Sunnah demonstrates the prohibition of transmitting abominable transmissions just as in the example from the Qur’ān regarding the prohibition of the report of the sinful. \n\nThere is a famous narration on authority of the Messenger of Allah, peace and blessings of Allah upon him, that: ‘Whoever relates on my authority a narration while aware that it is a lie, then he is one of the liars’ . Abū Bakr ibn Abī Shaybah narrated it to us that Wakī narrated to us, on authority of Shu’bah, on authority of al-Hakam, on authority of Abd ir-Rahman ibn Abī Laylā, on authority of Samurah bin Jundab. And also Abū Bakr ibn Abī Shaybah narrated to us, that Wakī narrated to us, on authority of Shu’bah and Sufyān, on authority of Habīb, on authority of Maymūn ibn Abī Shabīb, on authority of al-Mughīrat ibn Shu’bah, they both said that the Messenger of Allah, peace and blessings of Allah upon him, said the same thing. \nSahih Muslim Hadees: 1 Arabic Hadees: 1"
+"2","Abū Bakr ibn Abī Shaybah narrated to us that Ghundar narrated to us, on authority of Shu’bah; and Muhammad bin ul-Muthannā and Ibn Bashār both narrated to us, they said:\nMuhammad bin Ja’far narrated to us, Shu’bah narrated to us, on authority of Mansūr, on authority of Rab’iy ibn Hirāsh, that he heard Alī, may Allah be pleased with him, giving a Khutbah and he said that the Messenger of Allah, peace and blessings of Allah upon him, said: ‘Do not lie upon me; indeed whoever lies upon me will enter the Fire’. \nSahih Muslim Hadees: 2 Arabic Hadees: 1"
+"3","Zuhayr bin Harb narrated to me"
+"4","Muhammad bin Ubayd il-Ghubarī narrated to us"
+"5","Muhammad bin Abd Allah ibn Numayr narrated to us, my father narrated to us, Sa’īd bin Ubayd narrated to us, Alī bin Rabī’ah narrated to us, he said:\n‘I arrived at the Masjid and al-Mughīrah, the Amīr of al-Kūfah said: ‘I heard the Messenger of Allah, peace and blessings of Allah upon him, saying, ‘Indeed a lie upon me is not like a lie upon anyone else, for whoever lies upon me intentionally, then he shall take his seat in the Fire’.’\n’ \nSahih Muslim Hadees: 5 Arabic Hadees: 4"
+"6","Alī bin Hujr as-Sa’dī narrated to us, Alī bin Mushir narrated to us, Muhammad bin Qays il-Asadī informed us, on authority of Alī ibn Rabī’at al-Asadī, on authority of al-Mughīrat ibn Shu’bah, on authority of the Prophet, peace and blessings of Allah upon him a similar narration, however he did not mention the words ‘Indeed a lie upon me is not like a lie upon anyone else’. \nSahih Muslim Hadees: 6 Arabic Hadees: 4"
+"7","Ubayd Allah bin Mu’ādh al-Anbarī narrated to us, my father narrated to us; and Muhammad bin ul-Muthannā narrated to us, Abd ur-Rahman bin Mahdī both narrated to us:\nShu’bah narrated to us, on authority of Khubayb bin Abd ir-Rahman, on authority of Hafs bin Āsim, on authority of Abī Hurayrah, he said, the Messenger of Allah, peace and blessings of Allah upon him, said: ‘It is enough of a lie for a man to narrate everything he hears’. \nSahih Muslim Hadees: 7 Arabic Hadees: 5"
+"8","Abū Bakr bin Abī Shaybah narrated to us, Alī bin Hafs narrated to us, Shu’bah narrated to us, on authority of Khubayb bin Abd ir-Rahman, on authority of Hafs bin Āsim, on authority of Abī Hurayrah, on authority of the Prophet, peace and blessings of Allah upon him, the same as that. \nSahih Muslim Hadees: 8 Arabic Hadees: 5"
+"9","Yahyā bin Yahyā narrated to us, Hushaym informed us, on authority of Sulaymān at-Taymī, on authority of Abī Uthmān an-Nahdī, he said, Umar bin ul-Khattāb, may Allah be pleased with him, said:\n‘It is enough of a lie for a man that he narrates everything he hears’. \nSahih Muslim Hadees: 9 Arabic Hadees: 5"
+"10","Abūt-Tāhir Ahmad bin Amr bin Sarh narrated to me, he said, Ibn Wahb narrated to us, he said, Mālik said to me:\n‘Know that a man who relates everything he hears is not safe, and he can never be an Imām, as long as he narrates everything he hears’. \nSahih Muslim Hadees: 10 Arabic Hadees: 5"
+"11","Muhammad bin ul-Muthannā narrated to us, he said Abd ur-Rahman narrated to us, he said Sufyān narrated to us, on authority of Abī Ishāq, on authority of Abīl-Ahwas, on authority of Abd Illah, he said:\n‘It is enough of a lie for a man that he narrates everything he hears’. \nSahih Muslim Hadees: 11 Arabic Hadees: 5"
+"12","Muhammad bin ul-Muthannā narrated to us, he said I heard Abd ar-Rahman bin Mahdī saying:\n‘A man cannot be an Imām whose example is followed until he withholds from some of what he hears’. \nSahih Muslim Hadees: 12 Arabic Hadees: 5"
+"13","Yahyā bin Yahyā narrated to us, Umar bin Alī bin Muqaddam informed us, on authority of Sufyān bin Husayn, he said:\n‘Iyās bin Mu’āwiyah asked me saying: ‘Indeed I see that you love knowledge of the Qur’ān, so recite for me a Sūrah and explain it until I can reflect on what you know’. [Sufyān] said, so I did that, and [Iyās] said to me: ‘Memorize from me what I am about to say to you- Beware of abominations in Ḥadīth for indeed rarely does anyone convey them except he lowers himself and his Ḥadīth are denied’.’ \nSahih Muslim Hadees: 13 Arabic Hadees: 5"
+"14","Abūt-Tāhir and Harmalah bin Yahyā narrated to me, they said Ibn Wahb narrated to us, he said Yūnus informed me, on authority of Ibn Shihāb, on authority of Ubayd Allah bin Abd Allah bin Utbah, that Abd Allah bin Mas’ūd said:\n‘It is the case that you do not relate to the people a narration which their minds cannot grasp except that it becomes a Fitnah for some of them’. \nSahih Muslim Hadees: 14 Arabic Hadees: 5"
+"15","Muhammad bin Abd Allah bin Numayr and Zuhayr bin Harb narrated to me"
+"16","Harmalah bin Yahyā bin Abd Allah bin Harmalah bin Imrān at-Tujībī narrated to me, he said Ibn Wahb narrated to us, he said Abū Shurayh narrated to me that he heard Sharāhīl bin Yazīd saying ‘Muslim bin Yasār informed me that he heard Abā Hurayrah saying, the Messenger of Allah, peace and blessings of Allah upon him, said:\n‘There will be in the end of time charlatan liars coming to you with narrations that you nor your fathers heard, so beware of them lest they misguide you and cause you tribulations’.’ \nSahih Muslim Hadees: 16 Arabic Hadees: 7"
+"17","Abū Sa’īd al-Ashajj narrated to me, Wakī’ narrated to us, al-A’mash narrated to us, on authority of al-Musayyab bin Rāfi’, on authority of Āmir bin Abdah, he said, Abd Allah [bin Mas’ūd] said:\n‘Indeed Satan will appear in the form of a man and he will come to the people, narrating to them false Ḥadīth, and they will then depart. Then a man among them will say: ‘I heard a man whose face I recognize but I do not know his name narrating [such and such]…’ \nSahih Muslim Hadees: 17 Arabic Hadees: 7"
+"18","Muhammad bin Rāfi’ narrated to me, Abd ur-Razzāq narrated to us, Ma’mar informed us, on authority of Ibn Tāwus, on authority of his father, on authority Abd Allah bin Amr bin al-Ās, he said:\n‘Indeed in the sea are devils chained up, whom Sulaymān shackled and they are at the point of emerging. Then they will recite a Qur’ān upon the people.’ \nSahih Muslim Hadees: 18 Arabic Hadees: 7"
+"19","Muhammad bin Abbād and Sa’īd bin Amr al-Ash’athī narrated to me on authority of Ibn Uyaynah; Sa’īd said Sufyān informed us on authority of Hishām bin Hujayr, on authority of Tāwus, he said (Bushayr bin Ka’b) came to Ibn Abbās so he set about narrating to him. Ibn Abbās said to him:\n‘Go back to such-and-such narration‘. Then [Bushayr] returned to it and narrated it. So [Ibn Abbās] said to him: ‘Go back to such-and-such narration’. Then [Bushayr] returned to it and narrated it. Thus [Bushayr] said to him: ‘I do not know whether you know all of my Ḥadīth and you reject this one and that, or if you reject all of my Ḥadīth and know this one and that?’ Ibn Abbās said to him: ‘Indeed we would be narrated to on authority of the Messenger of Allah, peace and blessings of Allah upon him, at a time when one would not lie upon him, however when the people took the difficult [Munkar] and the docile [Sahīh], we abandoned listening to Ḥadīth from them’. \nSahih Muslim Hadees: 19 Arabic Hadees: 7"
+"20","Muhammad bin Rāfi’ narrated to me, Abd ur-Razzāq narrated to us, Ma’mar informed us, on authority of Ibn Tāwus, on authority of his father, on authority of Ibn Abbās, he said:\n‘Indeed we would take Ḥadīth and they would be taken on authority of the Messenger of Allah, peace and blessings of Allah upon him. However if you take every difficult and docile [narration] then how far that is [from being upright]! \nSahih Muslim Hadees: 20 Arabic Hadees: 7"
+"21","Abū Ayyūb Sulaymān bin Ubayd Allah al-Ghaylānī narrated to us, Abū Āmir, meaning al-Aqadī, narrated to us, Rabāh narrated to us, on authority of Qays bin Sa’d, on authority of Mujāhid, he said Bushayr ul-Adawī came to Ibn Abbās then he set about narrating to him, saying:\n‘The Messenger of Allah, peace and blessings of Allah upon him, said…’, ‘the Messenger of Allah, peace and blessings of Allah upon him, said…’. Then it seemed that Ibn Abbās was not listening to his Ḥadīth and not reflecting on them, so [Bushayr] said: ‘Oh Ibn Abbās, why is it that I see you not listening to my Ḥadīth? I narrate to you on authority of the Messenger of Allah, peace and blessings of Allah upon him, however you are not listening’. Ibn Abbās said: ‘Indeed once upon a time we would listen to a man saying, ‘the Messenger of Allah, peace and blessings of Allah upon him, said…’ rushing towards him with our eyes and harkening towards him with our ears; then when the people took the difficult and the docile we no longer took from people except those whom we knew’. \nSahih Muslim Hadees: 21 Arabic Hadees: 7"
+"22","Dāwud bin Amr aḍ-Ḍabbī narrated to us, Nāfi’ bin Umar narrated to us, on authority of Ibn Abī Mulaykah, he said:\n‘I wrote to Ibn Abbās asking him to write something [pertaining to knowledge] for me and he withheld from me quite a bit, and said: ‘As [if he were] a sincere child, I will write for him something especially suited to his status withholding from him what would not benefit him’. [Ibn Abī Mulaykah] said: ‘So [Ibn Abbās] called for the judgment of Alī [bin Abī Tālib which was a book with which Alī would pass verdicts in Kuffah], and he began to write from it [with respect to the request of Ibn Abī Mulaykah] and he came upon something [not appropriate to the station of Alī regarding the science of verdicts]. So [Ibn Abbās] said: ‘By Allah, Alī did not give judgment according to this unless he was astray’.’ \nSahih Muslim Hadees: 22 Arabic Hadees: 7"
+"23","Amr an-Nāqid narrated to us, Sufyān bin Uyaynah narrated to us, on authority of Hishām bin Hujayr, on authority of Tāwus, he said:\n‘A book was brought to Ibn Abbās which contained the verdicts of Alī, may Allah be pleased with him, and he effaced but a small amount,’ and Sufyān bin Uyaynah indicated with his arm [the amount]. \nSahih Muslim Hadees: 23 Arabic Hadees: 7"
+"24","Hasan bin Alī al-Hulwānī narrated to us, Yahyā bin Ādam narrated to us, Ibn Idrīs narrated to us, on authority of al-A’mash, on authority of Abī Ishāq who said:\n‘When they narrated these things after Alī, may Allah be pleased with him, a man from the companions of Alī said: ‘May Allah curse them. Did they corrupt every [type of] knowledge!?’ \nSahih Muslim Hadees: 24 Arabic Hadees: 7"
+"25","Alī bin Khashram narrated to us, Abū Bakr, meaning Ibn Ayyāsh, informed us, he said ‘I heard al-Mughīrah saying:\n‘There are no Ḥadīth on authority of Alī, may Allah be pleased with him, that are confirmed except from the companions of Abd Allah bin Mas’ūd.’ \nSahih Muslim Hadees: 25 Arabic Hadees: 7"
+"26","Hasan bin ur-Rabī’ narrated to us, Hammād bin Zayd narrated to us, on authority of Ayyūb and Hishām [bin Hassān], on authority of Muhammad [bin Sīrīn] ; and Fuḍayl [bin Īyāḍ] narrated to us on authority of Hishām [bin Hassān]; he said Mukhlad bin Husayn narrated to us, on authority of Hishām [bin Hassān], on authority of Muhammad bin Sīrīn , that he said:\n‘Indeed this knowledge is faith, so carefully consider from whom you take your faith’. \nSahih Muslim Hadees: 26 Arabic Hadees: 7"
+"27","Abū Ja’far Muhammad bin us-Sabbāh narrated to us, Ismā’īl bin Zakariyyā’ narrated to us, on authority of Āsim il-Ahwal, on authority of Ibn Sīrīn that he said:\n‘They would not ask about the chains of narration, and when the Fitnah occurred, they said: ‘Name for us your men’. So Ahl us-Sunnah would be regarded, and their Ḥadīth were then taken, and Ahl ul-Bi’dah would be regarded, and their Ḥadīth were not taken’. \nSahih Muslim Hadees: 27 Arabic Hadees: 7"
+"28","Ishāq bin Ibrāhīm al-Hanthalī narrated to us, Īsā, and he is Ibn Yūnus, informed us, al-Awzā’ī narrated to us, on authority of Sulyamān bin Mūsā, he said:\n‘I came across Tāwus and said: ‘So-and-so narrated to me such-and-such’. Then he said: ‘If your companion is trustworthy, then take from him.’ \nSahih Muslim Hadees: 28 Arabic Hadees: 7"
+"29","Abd Allah bin Abd ir-Rahman ad-Dārimī narrated to us, Marwān, meaning Ibn Muhammad ad-Dimashqī informed us, Sa’īd bin Abd il-Azīz narrated to us, on authority of Sulaymān bin Mūsā, he said, I said to Tāwus:\n‘So-and-so narrated to me like this-and-that’. He said: ‘If your companion is trustworthy, then take from him.’ \nSahih Muslim Hadees: 29 Arabic Hadees: 7"
+"30","Nasr bin Alī al-Jahdhamī narrated to us, al-Asma’ī narrated to us, on authority of Ibn Abī-Zinād, on authority of his father, he said:\n‘I met one hundred [transmitters] in al-Madīnah, each of whom were reliable. Narrations were not taken from one about who it was said, ‘he is not from its people’.’ \nSahih Muslim Hadees: 30 Arabic Hadees: 7"
+"31","Muhammad bin Abī Umar al-Makkī narrated to us, Sufyān narrated to us; and Abū Bakr bin Khallād al-Bāhilī narrated to us – and the wording is his, he said, I heard Sufyān bin Uyaynah, on authority of Mis’ar, he said, I heard Sa’d bin Ibrāhīm saying:\n‘There is to be no narrating on authority of the Messenger of Allah, may Allah send blessings and peace upon him, except by trustworthy narrators (Thiqāt)’. \nSahih Muslim Hadees: 31 Arabic Hadees: 7"
+"32","Muhammad bin Abd Allah bin Quhzādh from the people of Marw narrated to us, he said I heard Abdān bin Uthmān saying, I heard Abd Allah bin al-Mubārak saying:\n‘The chain of narration is from the Dīn, and were it not for the chain of narration whoever wished could say what he wanted’. \n\nMuhammad bin Abd Allah said, al-Abbās bin Abī Rizmah narrated to me, he said I heard Abd Allah [bin al-Mubārak] saying: ‘Between us and the people are ‘the legs’ (meaning the chain of narration, i.e. if a Ḥadīth was like a creature)’. \n\nMuhammad said, I heard Abā Ishāq Ibrāhīm bin Īsā at-Tālqānī say, I said to Abd Allah bin al-Mubārak: ‘Oh Abā Abd ir-Rahman! How is the Ḥadīth which goes ‘Indeed from al-Birr after al-Birr is that you pray for your parents after you pray for yourself and you fast for them both after you fast for yourself’? So [Ibn al-Mubārak] said: ‘Oh Abā Ishāq! On whose authority is this?’ I said to him: ‘This is a Ḥadīth from Shihāb bin Khirāsh’. [Ibn al-Mubārak] said: ‘[He is] trustworthy. On whose authority [did he transmit]?’ I said: ‘on authority of al-Hajjāj bin Dīnār’. [Ibn al-Mubārak] said: ‘[He is] trustworthy. On whose authority [did he transmit]?’ I said: ‘He [al-Hajjāj said] the Messenger of Allah, peace and blessings of Allah upon him, said…’ [Ibn al-Mubārak] said: ‘Oh Abā Ishāq! Indeed between al-Hajjāj bin Dīnār and the Prophet, peace and blessings of Allah upon him, is a wilderness in which the necks of the mounts are severed, however, there is no difference of opinion regarding charity [offered on behalf of one’s parents]’.\nMuhammad said, I heard Alī bin Shaqīq saying, I heard Abd Allah bin al-Mubārak saying in front of the people:\n‘Abandon the Ḥadīth of Amr bin Thābit for indeed he would curse the Salaf [i.e., the Companions, may Allah be pleased with them]’. \nSahih Muslim Hadees: 32 Arabic Hadees: 7"
+"33","Abū Bakr ibn in-Naḍr bin Abīn-Naḍr narrated to me, he said Abūn-Naḍr Hāshim bin ul-Qāsim narrated to me, Abū Aqīl, companion of Buhayyah, narrated to us, he said:\n‘I was sitting near al-Qāsim bin Ubayd Allah and Yahyā bin Sa’īd [bin Qays al-Madanī al-Qāḍī], when Yahyā said to al-Qāsim: ‘Oh Abā Muhammad! Indeed it is gravely harmful for the likes of you to be asked about something from the affair of this Dīn, and then knowledge of it is not found with you, and no relief [in the form of an answer]’ -or- ‘…knowledge and no articulation’. So al-Qāsim said [to Yahyā bin Sa’īd]: ‘Where did that come from?’ [Yahyā] said: ‘It is because you are the son of two Imāms of guidance- a descendent of Abu Bakr and Umar.’ [al-Qāsim] said to him: ‘More harmful than that- according to whoever reflects about Allah- is to speak without knowledge or to take [Ḥadīth] from someone who is not trustworthy’. [Abū Aqīl] said: ‘So [Yahyā bin Sa’īd] was quiet and did not respond to him’. \nSahih Muslim Hadees: 33 Arabic Hadees: 7"
+"34","Bishr bin ul-Hakam al-Abdī narrated to me, he said, I heard Sufyān bin Uyaynah saying, they informed me on authority of Abī Aqīl, companion of Buhayyah, that a descendent of Abd Allah bin Umar was asked about something that he did not have knowledge about, so Yahyā bin Sa’īd said to him:\n‘By Allah, indeed it is a grave matter that the likes of you, a descendent of two Imāms of guidance – meaning Umar and Ibn Umar – is asked about a matter and you have no knowledge of it’. So [al-Qāsim] said: ‘By Allah, more grave than that according to Allah, and to whoever reflects about Allah, is to speak without knowledge or to report on authority of one who is not trustworthy’. [Ibn Uyaynah] said that Abū Aqīl Yahyā bin al-Mutawakkil witnessed them both when they said that. \nSahih Muslim Hadees: 34 Arabic Hadees: 7"
+"35","Amr bin Alī Abū Hafs narrated to us, he said I heard Yahyā bin Sa’īd, he said:\n‘I asked Sufyān ath-Thawrī , Shu’bah, Mālik, and Ibn Uyaynah about a man who is not reliable (Thabt) in Ḥadīth, and someone comes and asks me about him, and they said: ‘Inform [others] against him that he is not reliable’.’ \nSahih Muslim Hadees: 35 Arabic Hadees: 7"
+"36","Ubayd Allah bin Sa’īd narrated to us, he said, I heard an-Naḍr saying:\n‘Ibn Awn was asked about the Ḥadīth of Shahr and he was standing at the threshold of the door, so [Ibn Awn] said: ‘Indeed they criticized Shahr, indeed they criticized Shahr’. Muslim, may Allah have mercy on him, said ‘He means- the tongues of men were busy criticizing him’.’ \nSahih Muslim Hadees: 36 Arabic Hadees: 7"
+"37","Hajjāj bin ush-Shā’ir narrated to me, Shabābah narrated to us, he said, Shu’bah said:\n‘I had met Shahr then abandoned transmitting from him’. \nSahih Muslim Hadees: 37 Arabic Hadees: 7"
+"38","Muhammad bin Abd Allah bin Quhzādh, from the people of Marw, narrated to me, he said Alī bin Husayn bin Wāqid informed me, he said Abd Allah bin al-Mubārak said, I said to Sufyān ath-Thawrī:\n‘Indeed Abbād bin Kathīr, about whose condition you are aware, when he related [narrations] he introduced a grave matter- do you believe that it should be said to the people ‘Do not take from him?’ Sufyān said: ‘Indeed!’ Abd Allah [bin al-Mubārak] said: ‘So when I was in an assembly and Abbād was mentioned there, I praised him regarding his Dīn and said: ‘Do not take from him.’ \n\nMuhammad said, Abd Allah bin Uthmān narrated to us, he said, my father said, Abd Allah bin al-Mubārak said: ‘I ended up in an assembly of Shu’bah, and he said: ‘This is Abbād bin Kathīr so be warned against him.’ \nSahih Muslim Hadees: 38 Arabic Hadees: 7"
+"39","Al-Faḍl bin Sahl narrated to me, he said, I asked Mu’allā ar-Rāzī about Muhammad bin Sa’īd whom Abbād transmitted from, so he informed me about what Īsā bin Yūnus said:\n‘I was at his door and Sufyān was with [Muhammad bin Sa’īd], then when he came out I asked [Sufyān] about him. So he informed me that he was a liar.’ \nSahih Muslim Hadees: 39 Arabic Hadees: 7"
+"40","Muhammad bin Abī Attāb narrated to me, he said Affān narrated to me, on authority of Muhammad bin Yahyā bin Sa’īd al-Qattān, on authority of his father, he said:\n‘We do not see the righteous more false in anything than they are regarding Ḥadīth’. \n\nIbn Abī Attāb said: ‘So Muhammad bin Yahyā bin Sa’īd al-Qattān and I met and I asked him about it and he said on authority of his father: ‘You will not see the people of good (Ahl ul-Khayr) more false in anything than they are regarding Ḥadīth.’ Muslim said: ‘He was saying that falsehood flows upon their tongues although they do not intend to lie’. \nSahih Muslim Hadees: 40 Arabic Hadees: 7"
+"41","Al-Faḍl bin Sahl narrated to me, he said Yazīd bin Hārūn narrated to us, he said Khalīfah bin Mūsā informed me, he said:\n‘I entered upon Ghālib bin Ubayd Allah so he began dictating to me ‘Mak’hūl narrated to me this’ and ‘Mak’hūl narrated to me that’. So he prepared to answer the call of nature and stood up, then I looked in his notebook and in it was ‘Abān narrated to me, on authority of Anas’ and ‘Abān on authority of so-and-so’. So I abandoned [listening to his Ḥadīth] and stood up [to leave]’. \n\nI heard al-Hasan bin Alī al-Hulwānī saying: ‘I saw in one of the books of Affān a Ḥadīth of Hishām Abīl-Miqdām meaning a Ḥadīth of Umar bin Abd il-Azīz. [In it was written] ‘Hishām said: ‘A man said to be Yahyā bin so-and-so narrated to me, on authority of Muhammad bin Ka’b…’ [Al-Hulwānī] said, I said to Affān: ‘They would say Hishām heard it [directly] from Muhammad bin Ka’b’. So [Affān] said: ‘Indeed Hishām was stricken [with accusations of lying] with regards to this Ḥadīth for he would say ‘Yahyā narrated to me on authority of Muhammad’, then he claimed afterwards that he heard it from Muhammad [directly]’.’ \nSahih Muslim Hadees: 41 Arabic Hadees: 7"
+"42","Muhammad bin Abd Allah bin Quhzādh narrated to me, he said I heard Abd Allah bin Uthmān bin Jabalah saying, I said to Abd Allah bin al-Mubārak:\n‘Who is this man from whom you transmit the Ḥadīth of Abd Allah bin Amr, ‘The day of Fitr is the day of prizes…’?’ [Abd Allah] said: ‘Sulaymān bin al-Hajjāj. Look at what I placed in your hands [of praise] about him’. \n\nIbn Quhzādh said I heard Wahb bin Zam’ah mentioning about Sufyān bin Abd il-Mālik, he said, Abd Allah –meaning Ibn al-Mubārak- said: ‘I saw Rawh bin Ghutayf, the companion of blood the amount of a Dirham , and I took a seat in one of his audiences. Then I began to become ashamed for my companions to see me sitting with him while his Ḥadīth are disapproved of.’ \nSahih Muslim Hadees: 42 Arabic Hadees: 7"
+"43","Ibn Quhzādh narrated to me, he said, I heard Wahb [bin Zam’ah] saying, on authority of Sufyān [bin Abd il-Mālik], on authority of Ibn al-Mubārak, he said:\n‘Baqiyyah [bin al-Walīd] is truthful of tongue however he transmits [Ḥadīth] from those who approach [the Muhaddithīn, i.e. are trustworthy] and from those who turn their backs on [the Muhaddithīn, i.e. and are weak]’. \nSahih Muslim Hadees: 43 Arabic Hadees: 7"
+"44","Qutaybah bin Sa’īd narrated to us, Jarīr narrated to us, on authority of Mughīrah, on authority of ash-Sha’bī, he said:\n‘al-Hārith al-A’war ul-Hamdānī narrated to me, and he is a liar’. \nSahih Muslim Hadees: 44 Arabic Hadees: 7"
+"45","Abū Āmir Abd Allah bin Barrād al-Ash’arī narrated to us, Abū Usāmah narrated to us, on authority of Mufaḍḍal, on authority of Mughīrah, he said I heard ash-Sha’bī saying:\n‘al-Hārith al-A’war narrated to me,’ and he [ash-Sha’bī] was testifying that he was one of the liars’. \nSahih Muslim Hadees: 45 Arabic Hadees: 7"
+"46","Qutaybah bin Sa’īd narrated to us, Jarīr narrated to us, on authority of Mughīrah, on authority of Ibrāhīm [bin Yazīd an-Nakhā’ī], he said, Alqamah said:\n‘I memorized the Qur’ān in two years’. Al-Hārith said: ‘The Qur’ān is easy; the revelation [i.e. the secret revelation to Alī in the belief of the Shī’ah] is more difficult ’. \nSahih Muslim Hadees: 46 Arabic Hadees: 7"
+"47","Hajjāj bin ash-Shā’ir narrated to me, Ahmad- meaning Ibn Yūnus- narrated to us, Zā’idah narrated to us, on authority of al-A’mash, on authority of Ibrāhīm that al-Hārith said:\n‘I studied the Qur’ān for three years and the revelation for two years’; or he said: ‘…the revelation in three years and the Qur’ān in two years  \nSahih Muslim Hadees: 47 Arabic Hadees: 7"
+"48","Hajjāj narrated to me, he said Ahmad- and he is Ibn Yūnus- narrated to me, Zā’idah narrated to us, on authority of Mansūr and al-Mughīrah, on authority of Ibrāhīm that al-Hārith was imputed. \nSahih Muslim Hadees: 48 Arabic Hadees: 7"
+"49","Qutaybah bin Sa’īd narrated to us, Jarīr narrated to us, on authority of Hamzah az-Zayyāt, he said:\n‘Murrah al-Hamdānī heard something from al-Hārith and said to him: ‘sit by the door’. [Hamzah] said: ‘So Murrah went inside and took his sword and al-Hārith sensed evil and left’. \nSahih Muslim Hadees: 49 Arabic Hadees: 7"
+"50","Ubayd Allah bin Sa’īd narrated to me, Abd ur-Rahman- meaning Ibn Mahdī- narrated to us, Hammād bin Zayd narrated to us, on authority of Ibn Awn, he said, Ibrāhīm said to us:\n‘Beware of al-Mughīrah bin Sa’īd and Abū Abd ar-Rahīm for they are both liars’. \nSahih Muslim Hadees: 50 Arabic Hadees: 7"
+"51","Abū Kāmil al-Jahdarī narrated to us, Hammād- and he is Ibn Zayd- narrated to us, he said Āsim [bin Bahdalah] narrated to us, he said:\n‘We would catch up with Abū Abd ar-Rahman as-Sulamī and at the time we were young men, so he would say to us: ‘Do not sit with story-tellers other than Abūl-Ahwas and beware of Shaqīq [Abū Abd ar-Rahīm]’. [Muslim] said: ‘This Shaqīq held the view of the Khawārij and is not Abū Wā’il [Shaqīq bin Salamah, the righteous Tabi’ī]’. \nSahih Muslim Hadees: 51 Arabic Hadees: 7"
+"52","Abū Ghassān Muhammad bin Amr ar-Rāzī narrated to us, he said, I heard Jarīr [bin Abd al-Hamīd bin Qurt aḍ-Ḍabbī] saying:\n‘I met Jābir bin Yazīd al-Ju’fī and did not write [Ḥadīth] from him; he believed in ar-Raj’ah’ [A Rāfiḍī belief regarding Alī returning]. \nSahih Muslim Hadees: 52 Arabic Hadees: 7"
+"53","Al-Hasan al-Hulwānī narrated to us, Yahyā bin Ādam narrated to us, Mis’ar narrated to us, he said:\n‘Jābir bin Yazīd narrated to us before there took place what happened [i.e. before his false beliefs] ’. \nSahih Muslim Hadees: 53 Arabic Hadees: 7"
+"54","Salamah bin Shabīb narrated to me, al-Humaydī narrated to us, Sufyān narrated to us, he said:\n‘The people would transmit from Jābir before there appeared what appeared, then when there appeared what appeared, the people imputed him in his Ḥadīth and some of the people abandoned him’. So it was said to [Sufyān]: ‘What appeared?’ [Sufyān] said: ‘Belief in ar-Raj’ah’. \nSahih Muslim Hadees: 54 Arabic Hadees: 7"
+"55","Hasan al-Hulwānī narrated to us, Abū Yahyā al-Himmānī narrated to us, Qabīsah and his brother [Sufyān bin Uqbah] narrated to us, that they heard al-Jarrāh bin Malīh saying, I heard Jābir say:\n‘I have 70,000 Ḥadīth all of which are on authority of Abū Ja’far on authority of the Prophet, peace and blessings upon him’. \nSahih Muslim Hadees: 55 Arabic Hadees: 7"
+"56","Hajjāj bin ash-Shā’ir narrated to me, Ahmad bin Yūnus narrated to us, he said, I heard Zuhayr saying, Jābir said, or, I heard Jābir saying:\n‘Indeed I have fifty thousand Ḥadīth that I have not narrated from at all’. [Zuhayr] said: ‘Then that day he related a Ḥadīth and said, ‘This is from the fifty thousand’. \nSahih Muslim Hadees: 56 Arabic Hadees: 7"
+"57","Ibrāhīm bin Khālid al-Yashkurī narrated to me, he said, I heard Abūl-Walīd saying, I heard Sallām bin Abī Mutī’ saying, I heard Jābir al-Ju’fī saying:\n‘I have fifty thousand Ḥadīth on authority of the Prophet, peace and blessings upon him’. \nSahih Muslim Hadees: 57 Arabic Hadees: 7"
+"58","Salamah bin Shabīb narrated to me, al-Humaydī narrated to us, Sufyān narrated to us, he said, I heard a man ask Jābir about the verse:\n{Thus I will never depart from the land until my father permits me or Allah decides for me, and He is the best of Judges}[Yūsuf: 80]. Jābir said: ‘An interpretation has not come to me about these [verses]’. Sufyān said: ‘He lied’. We said to Sufyān: ‘What did he mean by this?’ [Sufyān] said: ‘Indeed the Rāfiḍah say, ‘Alī is in the clouds and we will not emerge along with he who will emerge from his children [the Khalīfah] until a caller calls from the heaven, meaning Alī: ‘Ride out along with so-and-so [meaning the promised Mahdī]’. Jābir said, ‘that is an interpretation for these verses’, and he would lie as they were regarding the brothers of Yūsuf, peace be upon him’. \nSahih Muslim Hadees: 58 Arabic Hadees: 7"
+"59","Salamah narrated to me, al-Humaydī narrated to us, Sufyān narrated to us, he said:\n‘I heard Jābir talking about something like 30,000 Ḥadīth [that] I did not regard as permissible to mention anything from, and that to me was like this and that [Ḥadīth].’ \n\nMuslim said, I heard Abū Ghassān Muhammad bin Amr ar-Rāzī say, ‘I asked Jarīr bin Abd il-Hamīd: ‘Did you meet al-Hārith bin Hasīrah? He said: ‘Yes, [he is a] Shaykh of lengthy silence; he persisted in a grave matter.’ \nSahih Muslim Hadees: 59 Arabic Hadees: 7"
+"60","wrong same as 59 \nSahih Muslim Hadees: 60 Arabic Hadees: 7"
+"61","Hajjāj bin ash-Shā’ir narrated to me, Sulaymān bin Harb narrated to us, Hammād bin Zayd narrated to us, he said, Ayyūb said:\n‘Indeed I have a neighbor’ and he mentioned some of his virtues, [and continued] ‘…even if he testified to me about two dates I would not see his testimony as permissible’. \nSahih Muslim Hadees: 61 Arabic Hadees: 7"
+"62","Muhammad bin Rāfi’ and Hajjāj bin ash-Shā’ir narrated to me, they said Abd ur-Razzāq narrated to us, he said Ma’mar said:\n‘I did not see Ayyūb speaking ill of anyone, ever, except for Abd al-Karīm- meaning Abū Umayyah’. So he mentioned him and said, may Allah have mercy on him ‘He is not trustworthy- he had asked me about a Ḥadīth of Ikrimah then said ‘I heard from Ikrimah’ [when relating the Ḥadīth].’ \nSahih Muslim Hadees: 62 Arabic Hadees: 7"
+"63","Al-Faḍl bin Sahl narrated to me, he said Affān bin Muslim narrated to us, Hammām narrated to us, he said, Abū Dāwud al-A’mā came to us and began saying:\n‘Al-Barā’ [bin Āzib, the Companion] narrated to us’; he said: ‘Zayd bin Arqam narrated to us’- and he mentioned that [those chains] to Qatādah. [Qatādah] said ‘He lied; he did not hear from them. He would beg the people asking [about Ḥadīth] at the time of the plague’ [circa 67H]. \nSahih Muslim Hadees: 63 Arabic Hadees: 7"
+"64","Hasan bin Alī al-Hulwānī narrated to me, he said Yazīd bin Hārūn narrated to us, Hammām informed us, he said ‘Abū Dāwud al-A’mā entered upon Qatādah and when he stood, they said:\n‘Indeed this one alleges he has met eighteen of the warriors of the battle of Badr’. Qatādah said: ‘This one was barely asking [about Ḥadīth] before the plague; he did not attend to anything from [seeking Ḥadīth] and he did not speak [to any scholars] regarding it. By Allah, al-Hasan did not narrate to us from a witness of the battle of Badr without an intermediary; and Sa’īd bin al-Musayyib did not narrate to us from a witness of the battle of Badr without an intermediary except from Sa’d bin Mālik’. \nSahih Muslim Hadees: 64 Arabic Hadees: 7"
+"65","Uthmān bin Abī Shaybah narrated to us, Jarīr narrated to us, on authority of Raqabah that ‘Abū Ja’far al-Hāshimī al-Madanī was fabricating narrations with words of truth, and they were not from the narrations of the Prophet, peace and blessings of Allah upon him, though he was transmitting them on authority of the Prophet, peace and blessings of Allah upon him.’ \nSahih Muslim Hadees: 65 Arabic Hadees: 7"
+"66","Al-Hasan al-Hulwānī narrated to us, he said Nu’aym bin Hammād narrated to us, he said Abū Ishāq Ibrāhīm bin Muhammad bin Sufyān said; and Muhammad bin Yahyā narrated to us, he said, Nu’aym bin Hammād narrated to us, Abū Dāwud at-Tayālisī narrated to us, on authority of Shu’bah, on authority of Yūnus bin Ubayd, he said:\n‘Amr bin Ubayd would lie regarding Ḥadīth’. \nSahih Muslim Hadees: 66 Arabic Hadees: 7"
+"67","Amr bin Alī Abū Hafs narrated to me, he said I heard Mu’ādh bin Mu’ādh saying, I said to Awf bin Abī Jamīlah ‘Indeed Amr bin Ubayd narrated to us on authority of al-Hasan that the Messenger of Allah, peace and blessings of Allah upon him, said:\n‘Whoever carries arms against us then he is not from us’. [Awf bin Abī Jamīlah] said ‘Amr lied, by Allah. Rather he intended it as a way to permit his filthy opinion.’ \nSahih Muslim Hadees: 67 Arabic Hadees: 7"
+"68","Ubayd Allah bin Umar al-Qawārīrī narrated to us, Hammād bin Zayd narrated to us, he said:\n‘A man kept company with Ayyūb and listened [to Ḥadīth] from him, but then Ayyūb did not find him [one day]. [When Ayyūb asked, the people] said: ‘Oh Abā Bakr, indeed he keeps company with Amr bin Ubayd [now]’. Hammād said: ‘One day we were with Ayyūb, and we went to the market early in the morning. A man came to meet Ayyūb so he gave Salām to him, asked how he was doing, and then Ayyūb said to him: ‘It reached me that you kept company with that man’. Hammād said: ‘[Ayyūb] designated him, that is to say ‘Amr’.’ [The man] said: ‘Yes, Oh Abā Bakr. Indeed he came to us with strange things [i.e. reports]’. Ayyūb said to him: ‘Indeed we flee…’ or ‘…we fear from these strange things [transmissions]’. \nSahih Muslim Hadees: 68 Arabic Hadees: 7"
+"69","Hajjāj bin ash-Shā’ir narrated to me, Sulaymān bin Harb narrated to us, Ibn Zayd, rather Hammād, narrated to us, he said, it was said to Ayyūb, ‘Indeed Amr bin Ubayd transmitted on authority of al-Hasan that he said:\n‘There is no flogging the one who gets drunk from Nabīdh’.’ [Ayyūb] said: ‘He lied, for I heard al-Hasan saying, ‘Flog the one who gets drunk from Nabīdh’.’ \nSahih Muslim Hadees: 69 Arabic Hadees: 7"
+"70","Hajjāj narrated to me, Sulaymān bin Harb narrated to us, he said, I heard Sallām bin Abī Mutī’ saying, it reached Ayyūb that I would go to Amr so he turned to me and said:\n‘Have you seen a man whose Dīn you do not trust- how do you trust him regarding Ḥadīth?’ \nSahih Muslim Hadees: 70 Arabic Hadees: 7"
+"71","Salamah bin Shabīb narrated to me, al-Humaydī narrated to us, Sufyān narrated to us, he said I heard Abū Mūsā [Isrā’īl bin Mūsā al-Basrī] saying:\n‘Amr bin Ubayd narrated to us before what happened’ [i.e. before he became Mu’tazilī]. \nSahih Muslim Hadees: 71 Arabic Hadees: 7"
+"72","Ubayd Allah bin Mu’ādh al-Anbarī narrated to me, my father narrated to us, he said:\n‘I wrote to Shu’bah asking him about Abū Shaybah , a judge of Wāsit, so he wrote to me: ‘Do not write anything from him [of Ḥadīth] and tear up my letter [to you about this]’. \nSahih Muslim Hadees: 72 Arabic Hadees: 7"
+"73","Al-Hulwānī narrated to us, he said, I heard Affān [bin Muslim] say:\n‘I narrated to Hammād bin Salamah [bin Dīnār al-Basrī], on authority of Sālih al-Murrī , a Ḥadīth on authority of Thābit [bin Aslam al-Banānī], then [Hammād] said: ‘[Sālih] lied’. I also narrated to Hammām on authority of Sālih al-Murrī a Ḥadīth then [Hammām] said: ‘[Sālih] lied’. \nSahih Muslim Hadees: 73 Arabic Hadees: 7"
+"74","Mahmūd bin Ghaylān narrated to us, Abū Dāwud narrated to us, he said, Shu’bah said to me:\n‘Go to Jarīr bin Hāzim and say to him, ‘It is not allowed for you to transmit from al-Hasan bin Umārah for indeed he lies’.’ Abū Dāwud said, I said to Shu’bah: ‘And how do you know that?’ So [Shu’bah] said: ‘He narrated to us on authority of al-Hakam things that were not found to have any basis’. [Abū Dāwud] said: ‘What things?’ [Shu’bah] said, I said to al-Hakam: ‘Did the Prophet, peace and blessings of Allah upon him, pray over the martyrs of Uhud?’ [al-Hakam] said: ‘He did not pray over them’. Al-Hasan bin Umārah said, on authority of al-Hakam, on authority of Miqsam, on authority of Ibn Abbās: ‘Indeed the Prophet, peace and blessings of Allah upon him, prayed over them and buried them ’. I [Shu’bah] said to al-Hakam: ‘What do you say about the children born from fornication?’ [Al-Hakam] said: ‘Pray over them ’. I [Shu’bah] said: ‘From whose Ḥadīth is it transmitted?’ [Al-Hakam] said: ‘It is transmitted on authority of al-Hasan al-Basrī’.’ Al-Hasan bin Umārah said: ‘Al-Hakam narrated to us, on authority of Yahyā bin al-Jazzār, on authority of Alī. \nSahih Muslim Hadees: 74 Arabic Hadees: 7"
+"75","Al-Hasan al-Hulwānī narrated to us, he said, I heard Yazīd bin Hārūn mention Ziyād bin Maymūn, and he said:\n‘I swore that I would not transmit anything from him or Khālid bin Mahdūj’. [Yazīd] said: ‘I met Ziyād bin Maymūn and asked him about a Ḥadīth, so he narrated it to me on authority of Bakr al-Muzanī, then I returned to him and he narrated [the same Ḥadīth] to me on authority of Muwarriq; then I returned to him and he narrated it to me on authority of al-Hasan.’ [Al-Hulwānī said]: ‘He [Yazīd] would charge both of them with lying [i.e. Ziyād bin Maymūn and Khālid bin Mahdūj].’ Al-Hulwānī said: ‘I heard [Ḥadīth] from Abd as-Samad and I mentioned Ziyād bin Maymūn near him and he charged him with lying’. \nSahih Muslim Hadees: 75 Arabic Hadees: 7"
+"76","Mahmūd bin Ghaylān narrated to us, he said, I said to Abū Dāwud at-Tayālisī:\n‘You transmit a great deal on authority of Abbād bin Mansūr - so how is it that you did not hear the Ḥadīth of ‘the lady perfume seller’ from him which an-Naḍr bin Shumayl transmitted to us?’ [Abū Dāwud] said to me: ‘Be quiet, for Abd ar-Rahma bin Mahdī and I met Ziyād bin Maymūn and asked him, saying to him, ‘Are these Ḥadīth you transmit on authority of Anas?’ [Ziyād] said: ‘Have you seen a man sin and then repent- does Allah not turn to him?’ [Abū Dāwud] said: ‘We said, ‘Yes’.’ [Ziyād] said: ‘I did not hear from Anas whether a little or a lot; if the people did not know, then you two would not know that I did not meet Anas’. Abū Dāwud said: ‘So it reached us afterwards that he was transmitting [from Anas], then Abd ar-Rahman and I went to him and he said: ‘I repented’. Then afterwards he was narrating [again in the same fashion] so we abandoned him ’. \nSahih Muslim Hadees: 76 Arabic Hadees: 7"
+"77","Hasan al-Hulwānī narrated to us, he said, I heard Shabābah say:\n‘Abd ul-Quddūs was narrating to us saying,‘Suwayd bin Aqalah said…’ [when it should be ‘bin Ghafalah’] Shabābah said: ‘And I heard Abd ul-Quddūs saying, ‘The Messenger of Allah, peace and blessings of Allah upon him, prohibited taking a Rawḥ by accident’. [Shabābah] said: ‘So it was said to him, ‘What does this mean?’ [Abd ul-Quddūs] said: ‘It means to make an opening in a wall [thus letting] a breeze enter [by accident]’.’ [He changed the original Ḥadīth, switching ‘Rūḥ’ meaning ‘soul’ to ‘Rawḥ’ or ‘breeze’, and he switched ‘Gharaḍān’ meaning ‘as a target’ to ‘Arḍān’ or ‘accidentally’. All simply by changing a few letters in the words] \n\nMuslim said, I heard Ubayd Allah bin Umar al-Qawārīrī saying, I heard Hammād bin Zayd saying to a man after he sat with Mahdī bin Hilāl for days: ‘What is this salty well [i.e. useless or harmful] which has sprung up in your direction?’ He said: ‘Yes, oh Abā Ismā’īl [in agreement]’. \nSahih Muslim Hadees: 77 Arabic Hadees: 7"
+"78","Al-Hasan al-Hulwānī narrated to us, he said, I heard Affān say, I heard Abū Awānah say:\n‘A Ḥadīth did not reach me on authority of al-Hasan except I presented it to Abān bin Abī Ayyāsh , then he read it to me ’. \nSahih Muslim Hadees: 78 Arabic Hadees: 7"
+"79","Suwayd bin Sa’īd narrated to us, Alī bin Mus’hir narrated to us, he said:\n‘Hamzah az-Zayyāt and I heard from Abān bin Abī Ayyāsh something like one thousand Ḥadīth’. Alī said: ‘So I met Hamzah then he informed me that he saw the Prophet, peace and blessings of Allah upon him, [in a dream], and he produced for him what he heard from Abān. However he [the Prophet] didn’t recognize any except a small amount [like] five or six [Ḥadīth]’. \nSahih Muslim Hadees: 79 Arabic Hadees: 7"
+"80","Abd Allah bin Abd ar-Rahman ad-Dārimī narrated to us, Zakariyyā’ bin Adī informed us, he said, Abū Ishāq al-Fazarī said to me:\n‘Write from Baqiyyah what he transmits on authority of those who are well-known, and do not write from him what he transmits on authority of those who are not; do not write from Ismā’īl bin Ayyāsh what he transmits on authority of those who are well-known or otherwise ’. \nSahih Muslim Hadees: 80 Arabic Hadees: 7"
+"81","Ishāq bin Ibrāhīm al-Hanthalī [bin Rāhwayh] narrated to us, he said, I heard one of the companions of Abd Allah [bin al-Mubārak] say, Ibn al-Mubārak said:\n‘What an excellent man is Baqiyyah, if it were not for the fact that he would provide a nickname for [those who were better-known by] the birth name, and he would provide the birth name for [those who were better-known by] a nickname. For a long time he would narrated to us on authority of Abī Sa’īd al-Wuhāthī, then when we investigated [we were surprised that] he was Abd ul-Quddūs ’. \nSahih Muslim Hadees: 81 Arabic Hadees: 7"
+"82","Ahmad bin Yūsuf al-Azdī narrated to me, he said, I heard Abd ar-Razzāq saying:\n‘I did not see Ibn al-Mubārak express so plainly the charge of ‘lying’ except towards Abd ul-Quddūs; for indeed I heard him saying to him ‘[You are] a liar’.’ \nSahih Muslim Hadees: 82 Arabic Hadees: 7"
+"83","Abd Allah bin Abd ar-Rahman ad-Dārimī narrated to me, he said:\n‘I heard Abū Nu’aym and he mentioned al-Mu’allā bin Urfān, so [Abū Nu’aym] said, [al-Mu’allā] said: ‘Abū Wā’il narrated to us, he said ‘Ibn Mas’ūd attacked us on the day of Siffīn’. So Abū Nu’aym said: ‘Do you think he was raised after death? [Ibn Mas’ūd passed away in 32 or 33H, several years before the day in question] \nSahih Muslim Hadees: 83 Arabic Hadees: 7"
+"84","Amr bin Alī and Hasan al-Hulwānī narrated to me, both of them on authority of Affān bin Muslim, he said:\n‘We were near Ismā’īl bin Ulayyah, and a man narrated on authority of another man, so I said: ‘Indeed this is not reliable (Thabt)’. So the man said: ‘Are you backbiting him?’ Ismā’īl said: ‘He is not backbiting him; rather he is judging him unreliable’. \nSahih Muslim Hadees: 84 Arabic Hadees: 7"
+"85","Abū Ja’far ad-Dārimī narrated to us, Bishr bin Umar narrated to us, he said:\n‘I asked Mālik bin Anas about Muhammad bin Abd ar-Rahman who transmits on authority of Sa’īd bin al-Musayyib, so he said: ‘He is not trustworthy ‘. I asked him about Sālih, a freed slave of at-Taw’amah, then he said: ‘He is not trustworthy’. I asked him about Abūl-Huwayrith , and he said: ‘He is not trustworthy’. I asked him about Shu’bah on whose authority Ibn Abī Dhi’b transmitted, and he said: ‘He is not trustworthy’. I asked him about Harām bin Uthmān , and he said ‘He is not trustworthy’. I asked Mālik about these five and he said: ‘They are not trustworthy in terms of their Ḥadīth’. I asked him about another man whose name I forget just now, and he said: ‘Did you see him in my book?’ I said: ‘No’. [Then] he said: ‘If he was trustworthy you would see him in my book’. \nSahih Muslim Hadees: 85 Arabic Hadees: 7"
+"86","Al-Faḍl bin Sahl narrated to me, he said:\n‘Yahyā bin Ma’īn narrated to me, Hajjāj narrated to us, Ibn Abī Dhi’b narrated to us on authority of Shurahbīl bin Sa’d , and he was imputed [with lying regarding Ḥadīth near the end of his life]’. \nSahih Muslim Hadees: 86 Arabic Hadees: 7"
+"87","Muhammad bin Abd Allah bin Quhzādh narrated to me, he said, I heard Abū Ishāq at-Tālqānī saying, I heard Ibn al-Mubārak saying:\n‘If I had to choose between entering Paradise and meeting Abd Allah bin Muharrar, I would have chosen to meet him, then enter Paradise. Then when I saw him, dung was more preferred to me than him’. \nSahih Muslim Hadees: 87 Arabic Hadees: 7"
+"88","Al-Faḍl bin Sahl narrated to me, Walīd bin Sālih narrated to us, he said, Ubayd Allah bin Amr said, Zayd- meaning Ibn Abī Unaysah – said:\n‘Do not take [Ḥadīth] from my brother ’. \nSahih Muslim Hadees: 88 Arabic Hadees: 7"
+"89","Ahmad bin Ibrāhīm ad-Dawraqī narrated to me, he said, Abd us-Salām al-Wābisī narrated to me, he said, Abd Allah bin Ja’far ar-Raqqī narrated to me, on authority of Ubayd Allah bin Amr, he said:\n‘Yahyā bin Abī Unaysah was a liar’. \nSahih Muslim Hadees: 89 Arabic Hadees: 7"
+"90","Ahmad bin Ibrāhīm narrated to me, he said, Sulaymān bin Harb narrated to me, on authority of Hammād bin Zayd, he said, Farqad was mentioned near Ayyūb, so he said:\n‘Indeed Farqad is not a companion of Ḥadīth’. \nSahih Muslim Hadees: 90 Arabic Hadees: 7"
+"91","Abd ur-Rahman bin Bishr al-Abdī narrated to me, he said, I heard Muhammad bin Abd Allah bin Ubayd bin Umayr al-Laythī was mentioned near Yahyā bin Sa’īd al-Qattān, so he weakened him severely. Then it was said to Yahyā:\n‘More weak than Ya’qūb bin Atā ’?’ He said: ‘Yes’. Then he said: ‘I did not see anyone transmitting on authority of Muhammad bin Abd Allah bin Ubayd bin Umayr’. \nSahih Muslim Hadees: 91 Arabic Hadees: 7"
+"92","Bishr bin al-Hakam narrated to me, he said, I heard Yahyā bin Sa’īd al-Qattān weaken Hakīm bin Jubayr and Abd al-A’lā; and he weakened Yahyā Mūsā bin Dīnār [there is no ‘bin’ between ‘Yahyā’ and ‘Mūsā’]; [Yahyā] said:\n‘His Ḥadīth are Rīh or ‘wind’ [i.e., not established and weak]. [Yahyā] weakened Mūsā bin Dihqān and Īsā bin Abī Īsā al-Madanī. [Muslim] said, ‘I heard al-Hasan bin Īsā saying ‘Ibn al-Mubārak said to me: ‘When you go to Jarīr then write down all of his knowledge except the Ḥadīth of 3 [people] - do not write the Ḥadīth of Ubaydah bin Mu’attib, as-Sarī bin Ismā’īl, or Muhammad bin Sālim’.’ \nSahih Muslim Hadees: 92 Arabic Hadees: 7"
+"93","It is narrated on the authority of Yahya b. Ya'mur that the first man who discussed qadr (Divine Decree) in Basra was Ma'bad al-Juhani. I along with Humaid b. 'Abdur-Rahman Himyari set out for pilgrimage or for 'Umrah and said:Should it so happen that we come into contact with one of the Companions of the Messenger of Allah (peace be upon him) we shall ask him about what is talked about taqdir (Divine Decree). Accidentally we came across Abdullah ibn Umar ibn al-Khattab"
+"94","It is narrated on the authority of Yahya b. Ya'mur that when Ma'bad discussed the problem pertaining to Divine Decree"
+"95","It is narrated on the authority of Yahya b. Ya'mur and Humaid b. 'Abdur-Rahman that they said:We met Abdullah b. 'Umar and we discussed about the Divine Decree"
+"96","The same hadith is mentioned through a different chain"
+"97","Abu Huraira reported:One day the Messenger of Allah (ﷺ) appeared before the public so a man came to him and then said: Prophet of Allah"
+"98","This hadith is narrated to us on the authority of Muhammad b. 'Abdullah b. Numair"
+"99","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:Ask me (about religious matters)"
+"100","It is reported on the authority of Talha b. 'Ubaidullah that a person with dishevelled hair"
+"101","Another hadith"
+"102","It is reported on the authority of Anas b. Malik that he said:We were forbidden that we should ask anything (without the genuine need) from the Holy Prophet. It"
+"103","It is narrated on the authority of Thabit that Anas said:We were forbidden in the Holy Qur'an that we should ask about anything from the Messenger of Allah (ﷺ) and then Anas reported the hadith in similar words"
+"104","It is narrated on the authority of Abu Ayyub Ansari that once during the journey of the Prophet (may peace of Allah be upon him) a bedouin appeared before him and caught hold of the nosestring of his she-camel and then said"
+"105","This hadith is transmitted by Muhammad b. Hatim on the authority of Abu Ayyub Ansari"
+"106","It is narrated on the authority of Abu Ayyub that a man came to the Prophet (ﷺ) and said:Direct me to a deed which draws me near to Paradise and takes me away from the Fire (of Hell). Upon this he (the Holy Prophet) said: You worship Allah and never associate anything with Him"
+"107","It is reported on the authority of Abu Huraira that a bedouin came to the Messenger of Allah (ﷺ) and said:Messenger of Allah"
+"108","It is narrated on the authority of Jabir that Nu'man b. Qaufal came to the Prophet (ﷺ) and said:Would I enter Paradise if I say the obligatory prayers and deny myself that which is forbidden and treat that as lawful what has been made permissible (by the Shari'ah)? The Prophet (ﷺ) replied in the affirmative"
+"109","A similar hadith is narrated on Jabir's authority in which the following words are added:I will do nothing more"
+"110","It is narrated on the authority of Jabir that a man once said to the Messenger of Allah (ﷺ):Shall I enter Paradise in case I say the obligatory prayers"
+"111","It is narrated on the authority of ('Abdullah) son of Umar (may Allah be pleased with them) that the Prophet (may peace of Allah be upon him) said:(The superstructure of) al-Islam is raised on five (pillars)"
+"112","It is narrated on the authority of ('Abdullah) son of 'Umar"
+"113","It is narrated on the authority of 'Abdullah son of 'Umar that the Messenger of Allah (ﷺ) said:(The superstructure of) al-Islam is raised on five (pillars)"
+"114","It is reported on the authority of Ta'us that a man said to 'Abdullah son of 'Umar (may Allah be pleased with him). Why don't you carry out a military expedition? Upon which he replied:I heard the messenger of Allah (ﷺ) say: Verily"
+"115","It is narrated on the authority of Ibn 'Abbas that a delegation of Abdul Qais came to the Messenger of Allah (ﷺ) and said:Messenger of Allah"
+"116","Abu Jamra reported:I was an interpreter between Ibn Abbas and the people"
+"117","There is another hadith narrated on the authority of Ibn Abbas (the contents of which are similar to the one) narrated by Shu'ba in which the Prophet (ﷺ) said:I forbid you to prepare nabidh in a gourd"
+"118","It is reported on the authority of Qatada that one among the delegates of the 'Abdul-Qais tribe narrated this tradition to him. Sa'id said that Qatada had mentioned the name of Abu Nadra on the authority of Abu Sa'id Khudri who narrated this tradition:That people from the- tribe of 'Abdul-Qais came to the Messenger of Allah (ﷺ) and said: Messenger of Allah"
+"119","The above hadith has been mentioned with a different chain and slightly different wording"
+"120","It is narrated on the authority of Abu Said al-Khudri that when the delegation of the tribe of Abdul-Qais came to the Prophet of Allah (ﷺ)"
+"121","It is reported on the authority of Ibn 'Abbas that Mu'adh said:The Messenger of Allah sent me (as a governor of Yemen) and (at the time of departure) instructed me thus: You will soon find yourself in a community one among the people of the Book"
+"122","The above hadith has been mentioned with a different chain with a slightly different wording at the beginning"
+"123","It is narrated on the authority of Ibn 'Abbas that when the Messenger of Allah (ﷺ) sent Mu'adh towards Yemen (as governor) he said to him:Verily you would reach a community of the people of the Book"
+"124","It is narrated on the authority of Abu Huraira that when the Messenger of Allah (ﷺ) breathed his last and Abu Bakr was appointed as his successor (Caliph)"
+"125","It is reported on the authority of Abu Huraira that the Messenger of Allah said:I have been commanded to fight against people so long as they do not declare that there is no god but Allah"
+"126","It is reported on the authority of Abu Huraira that he heard the Messenger of Allah say:I have been commanded to fight against people"
+"127","It is narrated on the authority of Jabir that the Messenger of Allah said:I have been commanded that I should fight against people till they declare that there is no god but Allah"
+"128","Abu Malik narrated on the authority of his father that he heard the Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) say:\nHe who held belief in the unity of Allah, and then narrated what has been stated above. \nSahih Muslim Hadees: 128 Arabic Hadees: 21"
+"129","It has been narrated on the authority of Abdullah b. 'Umar that the Messenger of Allah said:I have been commanded to fight against people till they testify that there is no god but Allah"
+"130","It Is narrated on the authority of Abu Malik:I heard the Messenger of Allah (ﷺ) say: He who professed that there is no god but Allah and made a denial of everything which the people worship beside Allah"
+"131","Abu Malik narrated on the authority of his father that he heard the Apostle (ﷺ) say:He who held belief in the unity of Allah"
+"132","It is reported by Sa'id b. Musayyib who narrated it on the authority of his father (Musayyib b. Hazm) that when Abu Talib was about to die"
+"133","The same hadith is mentioned through a different chain except it ends where it mentions that Allah revealed the verses and it does not mention the verses. There is also a slight variation in words"
+"134","It is narrated on the authority of Abu Huraira that the Messenger of Allah said to his uncle at the time of his death:Make a profession of it that there is no god but Allah and I will bear testimony (of your being a Muslim) on the Day of judgment. But he (Abu Talib) refused to do so. Then Allah revealed this verse: "" Verily thou canst not guide to the right path whom thou lovest. And it is Allah Who guideth whom He will and He knoweth best who are the guided"" (xxviii)"
+"135","It is narrated on the authority of Abu Huraira that the Messenger of Allah said to his uncle (at the time of his death):Make a profession of it that there is no god but Allah and I will bear testimony (of your being a Muslim) on the Day of judgment. He (Abu Talib) said: Were it not the fear of the Quraysh blaming me (and) saying that it was the fear of (approaching death) that induced me to do so"
+"136","It is narrated on the authority of 'Uthman that the Messenger of Allah (ﷺ) said. He who died knowing (fully well) that there is no god but Allah entered Paradise"
+"137","It is narrated on the authority of Humran that he heard Uthman saying this:I heard the Messenger of Allah (ﷺ) uttering these words (as stated above)"
+"138","It is narrated on the authority of Abu Huraira:We were accompanying the Apostle (ﷺ) in a march (towards Tabuk). He (the narrator) said: The provisions with the people were almost depleted. He (the narrator) said: (And the situation became so critical) that they (the men of the army) decided to slaughter some of their camels. He (the narrator) said: Upon this Umar said: Messenger of Allah"
+"139","It is narrated either on the authority of Abu Huraira or that of Abu Sa'id Khudri. The narrator A'mash has narrated this hadith with a little bit of doubt (about the name of the very first narrator who was in direct contact with the Holy Prophet. He was either Abu Huraira or Abu Sa'id Khudri. Both are equally reliable transmitters of the traditions). He (the narrator) said:During the time of Tabuk expedition"
+"141","It is narrated on the authority of Umar b. Hani with the same chain of transmitters with the exception of these words:Allah would make him (he who affirms these truths) enter Paradise through one of the eight doors which he would like"
+"142","It is narrated on the authority of Sunabihi that he went to Ubada b. Samit when he was about to die. I burst into tears. Upon this he said to me:Allow me some time (so that I may talk with you). Why do you weep? By Allah"
+"143","It is narrated on the authority of Mu'adh b. Jabal:I was riding behind the Prophet (ﷺ) and there was nothing between him and me but the rear part of the saddle"
+"144","It is narrated on the authority of Mu'adh b. Jabal that he observed:I was riding behind the Messenger of Allah (ﷺ) on an ass known as 'Ufair. He (Mu'adh) observed: He (the Holy Prophet) said: Mu'adh"
+"145","It is narrated on the authority of Mu'adh b. Jabal that the Messenger of Allah (ﷺ) said:Mu'adh"
+"146","It is narrated on the authority of Aswad b. Hilal that he heard Mu'adh say this:The Messenger of Allah (ﷺ) called"
+"147","It is reported on the authority of Abu Huraira:We were sitting around the Messenger of Allah (may peace and blessings be upon him). Abu Bakr and Umar were also there among the audience. In the meanwhile the Messenger of Allah got up and left us"
+"148","It is reported on the authority of Anas b. Malik that the Prophet of Allah (may peace and blessings be upon him) addressed Mu'adh b. Jabal as he was riding behind him to which he replied:At thy beck and call"
+"149","It is narrated on the authority of 'Itban b. Malik that he came to Medina and said:Something had gone wrong with my eyesight. I"
+"150","It is narrated on the authority of Anas that 'Itban b. Malik told him that he became blind. He sent a message to the Messenger of Allah (ﷺ) that he should come and mark a place of worship for him. Thereupon came the Messenger of Allah (ﷺ) and his people and then there was a discussion among them about a man who was known as Malik b. Dukhshum"
+"151","It is narrated on the authority of 'Abbas b. 'Abdul-Muttalib that he heard the Messenger of Allah saying:He has found the taste of faith (iman) who is content with Allah as his Lord"
+"152","It is narrated on the authority of Abu Huraira that the Prophet (ﷺ) said:Iman has over seventy branches"
+"153","It is narrated on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) said:Faith has over seventy branches or over sixty branches"
+"154","Salim reported on the authority of his father that the Prophet (may peace and blessings be upon him) heard a man censuring his brother regarding modesty. Upon this the Prophet remarked:Modesty is part of Iman (faith)"
+"155","Zuhri has narrated this hadith with the addition of these words:He (the Holy Prophet) happened to pass by a mass of Ansar who was instructing his brother (about modesty)"
+"156","It is narrated on the authority of Qatada. We were sitting with 'Imran b. Husain in a company and Bushair ibn Ka'b was also amongst us. 'Imran narrated to us that on a certain occasion the Messenger of Allah (may peace and blessings be upon him) said:Modesty is a virtue through and through"
+"157","Ishaq b. Ibrahim narrates this hadith of the Prophet on the authority of Imran b. Husain"
+"158","It is narrated on the authority of 'Imran b. Husain that the Prophet (may peace and blessings be upon him) said:Modesty brings forth nothing but goodness. Bushair b. Ka'b said: It is recorded in the books of wisdom"
+"159","It is narrated on the authority of Sufyan b. 'Abdulla al-Thaqafi that he said:I asked the Messenger of Allah to tell me about Islam a thing which might dispense with the necessity of my asking anybody after you. In the hadith of Abu Usama the (words) are: other than you. He (the Holy Prophet) remarked: Say I affirm my faith in Allah and then remain steadfast to it"
+"160","It is narrated on the authority of 'Abdullah b. 'Amr that a man asked the Messenger of Allah (may peace and blessings be upon him) which of the merits (is superior) in Islam. He (the Holy Prophet) remarked:That you provide food and extend greetings to one whom you know or do not know"
+"161","Abdullah b. Amr b. al-As is reported to have said:Verily a person asked the Messenger of Allah (may peace and blessings be upon him) who amongst the Muslims was better. Upon this (the Holy Prophet) remarked: From whose hand and tongue the Muslims are safe"
+"162","It is narrated on the authority of Jabir that he heard the (Holy Prophet) say:A Muslim is he from whose hand and tongue the Muslims are safe"
+"163","It is narrated on the authority of Abu Musa Ash'ari:I asked the Messenger of Allah which (attribute) of Islam is more excellent. Upon this he remarked: One in which the Muslims are safe"
+"164","Ibrahim b. Sa'id al-Jauhari has narrated this hadith with the same words in addition to these. The Messenger of Allah (may peace and blessings be upon him) was asked as to who amongst the Muslims is better"
+"165","It is reported on the authority of Anas that the Prophet of Allah (may peace and blessings be upon him ) said:There are three qualities for which anyone who is characterised by them will relish the sweetness of faith: he to whom Allah and His Messenger are dearer than all else; he who loves a man for Allah's sake alone; and he who has as great an abhorrence of returning to unbelief after Allah has rescued him from it as he has of being cast into Hell"
+"166","It is reported on the authority of Anas that the Messenger of Allah (ﷺ) said:There are three qualities for which any one who is characterised by them will relish the savour of faith: that he loves man and he does not love him but for Allah's sake alone; he is to whom Allah and His Messenger are dearer than all else; he who prefers to be thrown into fire than to return to unbelief after Allah has rescued him out of it"
+"167","A similar hadith has been reported on the authority of Anas (with another chain of transmitters) with the exception of these words:that he again becomes a Jew or a Christian"
+"168","It is reported on the authority of Anas that the Messenger of Allah (ﷺ) said:No bondsman believes"
+"169","It is reported on the authority of Anas b. Malik that the Messenger of Allah said:None of you is a believer until I am dearer to him than his child"
+"170","It is narrated on the authority of Anas b. Malik that the Prophet (may peace and blessings be upon him) observed:""None amongst you believes (truly) until he loves for his brother"" - or he said ""for his neighbour"" - ""that which he loves for himself"
+"171","It is narrated on the authority of Anas that the Prophet (may peace blessings be upon him) observed:By Him in whose Hand is my life"
+"172","It is narrated on the authority of Abu Huraira that the Messenger of Allah (may peace and blessing be upon him) observed:He will not enter Paradise whose neighbour is not secure from his wrongful conduct"
+"173","It is reported on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:He who believes in Allah and the Last Day should either utter good words or better keep silence; and he who believes in Allah and the Last Day should treat his neighbour with kindness and he who believes in Allah and the Last Day should show hospitality to his guest"
+"174","It is reported on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) observed:He who believes in Allah and the Last Day does not harm is neighbour"
+"175","Another hadith similar to one narrated (above) by Abu Husain is also reported by Abu Huraira with the exception of these words:He (the Prophet) said: He should do good to the neighbour"
+"176","It is narrated on the authority of Abu Shuraih al-Khuzai' that the Prophet (may peace and blessings of Allah be upon him) observed:He who believes in Allah and the Last Day should do good to his neighbour and he who believes in Allah and the Last Day should show hospitality to the guest and he who believes in Allah and the Last Day should either speak good or better remain silent"
+"177","It is narrated on the authority of Tariq b. Shihab:It was Marwan who initiated (the practice) of delivering khutbah (address) before the prayer on the 'Id day. A man stood up and said: Prayer should precede khutbah. He (Marwan) remarked"
+"178","The same hadith of the Prophet (may peace and blessings be upon him) has been reported by Abu Sa'id al-Khudri in connection with the story of Marwan"
+"179","It is narrated on the authority 'Abdullah b. Mas'ud that the Messenger of Allah (may peace and blessings be upon him) observed:Never a Prophet had been sent before me by Allah towards his nation who had not among his people (his) disciples and companions who followed his ways and obeyed his command. Then there came after them their successors who said whatever they did not practise"
+"180","The same hadith has been transmitted by another chain of narrators on the authority of 'Abdullah b. Mas'ud who observed:Never was there one among the prophets who had had not disciples who followed his direction and followed his ways. The remaining part of the hadith is like that as narrated by Salih but the arrival of Ibn Mas'ud and the meeting of Ibn 'Umar with him is not mentioned"
+"181","It is narrated on the authority of Ibn Mas'ud that the Messenger of Allah (may peace and blessings be upon him) pointed towards Yemen with his hand and said:Verily Iman is towards this side"
+"182","It is narrated on the authority of Abu Huraira that the Messenger of Allah observed:There have come the people of Yemen; they are tender of hearts"
+"183","Abu Huraira reported the same hadith which is transmitted to us by another chain of transmitters"
+"184","Abu Huraira reported:The Messenger of Allah (may peace and blessings be upon him) observed: There came to you the people from Yemen; they are tender of hearts and mild of feelings"
+"185","It is narrated on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) remarked:The summit of unbelief is towards the East and the pride and conceitedness is found among the owners of horses and camels who are rude and uncivil"
+"186","It is narrated on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) observed:The belief is among the Yemenites"
+"187","It is reported on the authority of Abu Huraira:I heard the Messenger of Allah saying this: Pride and conceitedness is found among the uncivil owners of the camels and tranquillity is found among the owners of sheep and goats"
+"188","The same hadith has been narrated by Zuhri with the same chain of authorities with the addition:The belief is among the Yemenites"
+"189","Abu Huraira said:I heard the Prophet (may peace and blessings be upon him) saying: There came the people of Yemen"
+"190","It is reporter on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) observed:There came the people of Yemen who are soft of hearts"
+"191","Qutaiba b. Sa'id and Zubair b. Harb say:Jarir narrated this on the authority of A'mash with the same chain of narrators (as mentioned above)"
+"192","Shu'ba narrated the hadith as reported by Jarir with the same chain of narrators with this addition:Pride and conceitedness is among the owners of the camels and tranquillity and sobriety is found amongst the owners of sheep"
+"193","It is reported on the authority of Jabir b. Abdullah that the Messenger of Allah (may peace and"
+"194","Abu Huraira reported:The Messenger of Allah (may peace and blessing be upon him) observed: You shall not enter Paradise so long as you do not affirm belief (in all those things which are the articles of faith) and you will not believe as long as you do not love one another. Should I not direct you to a thing which"
+"195","Zuhair b. Harb said:Jarir reported on the authority of A'mash with this chain of transmitters that the Messenger of Allah (ﷺ) observed: By him in Whose hand is my life"
+"196","It is narrated on the authority of Tamim ad-Dari that the Prophet (ﷺ) said:""The Religion is sincerity."" We said"
+"197","Muhammad b. Hatim and others narrate the same hadith of the Apostle (may peace and blessings be upon him) on the authority of Tamim ad-Dari"
+"198","Umayya b. Bistam narrates the same hadith of the Messenger of Allah (may peace and blessings be upon him) on the authority of Tamim ad-Dari"
+"199","It is narrated on the authority of Jarir that he observed I gave pledge of allegiance to the Messenger of Allah (may peace and blessings be upon him) on the observance of prayer"
+"200","(Sufyan narrated on the authority of Ziyad b. 'Ilaqa that he heard Jarir b. 'Abdullah saying:I pledged allegiance to the Messenger of Allah may peace and blessings be upon him) on sincerity and well-wishing for every Muslim"
+"201","It is narrated on the authority of Jarir that he observed:I owed allegiance to the Messenger of Allah (may peace and blessings be upon him) on hearing ( is commands) and obeying (them) and the Prophet) instructed me (to act) as lay in my power"
+"202","Abu Huraira reported that the Messenger of Allah observed:The fornicator who fornicates is not a believer so long as he commits it and no thief who steals is a believer as long as he commits theft"
+"203","Abdul-Malik b. Shu'aib narrated this hadith on the authority of Abu Huraira that he observed:The Messenger of Allah said that a fornicator does not fornicate"
+"204","Muhammad b. Mihran narrates this hadith on the authority of Abu Huraira and made mention of plundering but did not talk of (a thing) having value"
+"205","Imam Muslim has reported this hadith by Hasan b. 'Ali al-Halwani and other traditions"
+"206","It is reported on the authority of Qutaiba b. Sa'id who reported on the authority of Abu Huraira the hadith like that narrated from Zuhri with this exception that in the hadith narrated by 'Ala ' and Safwan b. Sulaim there is no mention of:People raise there eyes towards him"
+"207","It is narrated on the authority of Abu Huraira:A fornicator who fornicates is not a believer as long as he commits fornication"
+"208","Muhammad b. Rafi'"
+"209","Muhammad b. Rafi', Abdur-Razzaq, Sufyan, A'mash narrated this hadith like one narrated by Shu'ba, on the authority of Abu Huraira tracing, it (right to the Holy Prophet).\n \nSahih Muslim Hadees: 209 Arabic Hadees: 57"
+"210","It is narrated on the authority of Abdullah b. 'Amr that the Prophet observed:""There are four characteristics"
+"211","It is reported on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) said:Three are the signs of a hypocrite: when he spoke he told a lie"
+"212","Abu Huraira reported that the Messenger of Allah (may peace and blessings be upon him) observed:There are three characteristics of a hypocrite: when he spoke he told a lie"
+"213","Uqba b. Mukarram al-'Ami reported that he heard 'Ala' b. 'Abdur-Rahman narrating this hadith with this chain of transmitters and he said:Three are the signs of a hypocrite"
+"214","It is reported on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings of Allah be upon him) made observations like them embodied in the hadith narrated by Yahya b. Muhammad on the authority of 'Ala'"
+"215","It is reported on the authority of Ibn 'Umar that the Apostle (may peace and blessings be upon him) observed:When a man calls his brother an unbeliever"
+"216","It is reported on the authority of Ibn 'Umar that the Messenger of Allah (may peace and blessings be upon him) said:Any person who called his brother: ""O unbeliever"" (has in fact done an act by which this unbelief) would return to one of them. If it were so"
+"217","It is reported on the authority of Abu Dharr that he heard the Messenger of Allah (may peace and blessings be upon him) saying:No person who claimed knowingly anyone else as his father besides (his own) committed nothing but infidelity"
+"218","It is narrated on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) observed:Do not detest your fathers; he who detested his father committed infidelity"
+"219","It is reported on the authority of Sa'd b. Abi Waqqas:Both of my ears heard the Messenger of Allah saying this: He who claimed the fatherhood of anyone else besides his real father knowingly (committed a great sin) ;Paradise is forbidden to him. Abu Bakra asserted that he too heard it from the Messenger of Allah (may peace be upon him)"
+"220","Sa'd and Abu Bakra each one of them said:My ears heard and my hearing preserved it that Muhammad (peace and blessings be upon him) observed: He who claimed for another one his fatherhood besides his own father knowingly that he was not his father-to him Paradise is forbidden"
+"221","It is narrated on the authority of 'Abdullah b. Mas'ud that the Messenger of Allah (may peace and blessings be upon him) observed:Abusing a Muslim is an outrage and fighting against him is unbelief. Zubaid said: I asked Abu Wa'il: Did you hear it from Abdullah narrating if from the Messenger of Allah (may peace and blessings be upon him)? He replied: Yes. But there is mention of the talk between Zubaid and Abu Wa'il in the hadith narrated by Shu'ba"
+"222","Abu Bakr b. Abu Shaiba narrated a hadith like this from the Apostle (may peace and blessings be upon him) on the authority of Abdullah"
+"223","It is narrated on the authority of Jarir b. 'Abdullah that the Messenger of Allah (may peace and blessings be upon him) asked him on the occasion of the Farewell Pilgrimage to make the people silent and then said:Do not return to unbelief after me by striking the necks of one another"
+"224","Abdullah b. Mu'adh narrated from the Apostle (may peace and blessings be upon him) a hadith like this on the authority on Ibn Umar"
+"225","It is narrated on the authority of Abdullah b. Umar that the Apostle (may peace and blessings be upon him) observed on the occasion of the Farewell Pilgrimage Woe unto you distress unto you! Don't turn back as unbelievers after me by striking the necks of one another"
+"226","Harmala b. Yahya"
+"227","It is narrated on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) observed:Two (things) are found among men which are tantamount to unbelief: slandering one's lineage and lamentation on the dead"
+"228","It is narrated on the authority of Jarir that he heard (the Holy Prophet) saying"
+"230","Jarir b. Abdullah reported it from the Holy Prophet:When the slave runs away from his master"
+"231","It is narrated on the authority of Zaid b. Khalid al-Juhani:The Messenger of Allah (may peace and blessings be upon him) led the morning prayer at Hudaybiya. There were some marks of the rainfall during the night. At the conclusion of prayer he turned towards people and observed: Do you know what your Lord has said? They replied: Allah and His Messenger know best. Upon this he (the Holy Prophet) remarked: He (Allah) said: Some of My bondsmen entered the morning as My believers and some as unbelievers. He who said: We have had a rainfall due to the Blessing and Mercy of Allah"
+"232","It is reported on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) said:Don't you know what your Lord said? He observed: I have never endowed My bondsmen with a favor"
+"233","It is reported on the authority of Abu Huraira that the Messenger of Allah (may peace and blessing be upon him) observed:Allah does not shower His blessings from the heaven that in the morning a group of men disbelieve it (to be a blessing from Allah). Allah sends down rain"
+"235","It is reported on the authority of Anas that the Messenger of Allah (may peace and blessings Be upon him) observed:The sign of a hypocrite is the hatred against the Ansar and the sign of a believer is the love for the Ansar"
+"236","It is narrated on the authority of Anas that the Apostle (may peace and blessings be upon him) said:The love of the Ansar is the sign of faith and hatred against them is the sign of dissemblance"
+"237","Al-Bara reported from the Messenger (may peace and blessing be upon him) that he remarked with regard to the Ansar:""None but the believer loves them"
+"238","It is reported on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) said:A person who believes in Allah and the Last Day never nurses a grudge against the Ansar"
+"239","It is narrated on the authority of Abu Sa'id Khudri that the Messenger of Allah observed:The person who believes in Allah and the Last Day never nurses a grudge against the Ansar"
+"240","Zirr reported:'Ali observed: By Him Who split up the seed and created something living"
+"241","It is narrated on the authority of 'Abdullah b. Umar that the Messenger of Allah observed:O womenfolk"
+"242","This hadith has been narrated on the authority of Abu Tahir with this chain of transmitters"
+"243","A hadith like this as narrated by Ibn 'Umar has also been transmitted by Abu Sa'id al-Khudri"
+"244","It is narrated on the authority of Abu Huraira that when"
+"245","A'mash narrated this hadith with the same chain of transmitters"
+"246","It is narrated on the authority of Jabir that he heard the Apostle (may peace and blessings be upon him) saying. Verily between man and between polytheism and unbelief is the negligence of prayer"
+"247","It is narrated on the authority of Abu Zubair that he heard Jabir b. 'Abdullah saying. I heard the Messenger of Allah (may peace and blessings be upon him) observing this:Between man and polytheism and unbelief is the abandonment of salat"
+"248","Abu Huraira reported:\nThe Messenger of Allah was asked about the best of deeds. He observed: Belief in Allah. He (the inquirer) said: What next? He (the Holy Prophet) replied: Jihad (struggle to the utmost) in the cause of Allah. He (the inquirer) again said: What next? He (the Holy Prophet) replied: Pilgrimage accepted into the grace of the Lord. In the. tradition narrated on the authority of Muhammad b. Ja'far (the words are) that he (the Holy Prophet) said: Belief in Allah and His Messenger.  \nSahih Muslim Hadees: 248 Arabic Hadees: 83"
+"249","Abu Huraira reported:The Messenger of Allah was asked about the best of deeds. He observed: Belief in Allah. He (the inquirer) said: What next? He (the Holy Prophet) replied: Jihad (struggle to the utmost) in the cause of Allah. He (the inquirer) again said: What next? He (the Holy Prophet) replied: Pilgrimage accepted into the grace of the Lord. In the. tradition narrated on the authority of Muhammad b. Ja'far (the words are) that he (the Holy Prophet) said: Belief in Allah and His Messenger. Muhammad b. Rafi and 'Abd b. Humaid"
+"250","Abu Dharr reported:I said: Messenger of Allah"
+"251","Muhammad b. Abu Rafi' narrated the hadith on the authority of Abu Dharr with a slight difference"
+"252","It is narrated on the authority of 'Abdullah b. Mas'ud that he observed. I asked the Messenger of Allah (ﷺ) which deed was the best. He (the Holy Prophet) replied:Prayer at its appointed hour. I (again) said: Then what? He (the Holy Prophet) replied: Kindness to the parents. I (again) said: Then what? He replied: Earnest endeavour (Jihad) in the cause of Allah. And I would have not ceased asking more questions but out of regard (for his feelings)"
+"253","Abdullah b. Mas'ud reported:I said: Messenger of Allah"
+"254","It was heard from Abu 'Amr Shaibani that"
+"255","This hadith has been transmitted by Muhammad b. Bashshar"
+"256","It is reported on the authority of 'Abdullah that the Messenger of Allah observed:The best of' the deeds or deed is the (observance of) prayer at its proper time and kindness to the parents"
+"257","Abdullah reported:I asked the Messenger of Allah (ﷺ): Which sin is the gravest in the eye of Allah? He (the Holy Prophet) replied: That you associate a partner with Allah (despite the fact) that He has created you. He (the reporter) said: I told him (the"
+"258","It is narrated on the authority of Abdullah b. Mas'ud that a man said:Messenger of Allah"
+"259","It is narrated on the authority of 'Abdur-Rahman b. Abu Bakra that his father said:We were in the company of the Messenger of Allah (ﷺ) that he observed: Should I not inform you about the most grievous of the grave sins? (The Holy Prophet) repeated it three times"
+"260","Anas narrated from the Apostle (ﷺ) about the major sins. He (the Holy Prophet) observed:Associating anyone with Allah"
+"261","Ubaidullah b. Abu Bakr said:I heard Anas b. Malik saying: The Messenger of Allah (ﷺ) talked about the major sins"
+"262","It is reported on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:Avoid the seven noxious things. It was said (by the hearers): What are they"
+"263","It is narrated on the authority of 'Abdullah b. Amr b. al-'As that the Messenger of Allah (ﷺ) observed:Abusing one's parents is one of the major sins. They (the hearers) said: Messenger of Allah"
+"264","This hadith has also been transmitted on the authority of Sa'd b. Ibrahim with this chain of narrators"
+"265","It Is narrated on the authority of Abdullah b. Mas'ud that the Messenger of Allah (ﷺ)"
+"266","It is narrated on the authority of 'Abdullah b. Mas'ud that the Messenger of Allah (ﷺ) observed:None shall enter the Fire (of Hell) who has in his heart the weight of a mustard seed of Iman and none shall enter Paradise who has in his heart the weight of a mustard seed of pride"
+"267","It is narrated on the authority of 'Abdullah that the Messenger of Allah (ﷺ) observed:He who has in his heart the weight of a mustard seed of pride shall not enter Paradise"
+"268","It is narrated on the authority of Abdullah b. Mas'ud that Waki told (him) that the Messenger of Allah had observed and Ibn Numair asserted:I heard the Messenger of Allah (ﷺ) saying: He who dies associating anything with Allah would enter the Fire (of Hell). 'Abdullah b. Mas'ud said: I say that he who died without associating anything with Allah entered Paradise"
+"269","It is narrated on the authority of Jabir that a man came to the Messenger of Allah (ﷺ) and said:Messenger of Allah"
+"270","It is narrated on the authority of Jabir b. Abdullah:I heard the Messenger of Allah (ﷺ) saying: He who met Allah without associating anything with Allah entered Paradise and he who met Him associating (anything) with Him entered Fire"
+"271","The same hadith has been narrated by Ishaq b. Mansur on the authority of Jabir with another chain of transmitters"
+"272","I heard Abu Dharr narrating it from the Apostle (ﷺ) that he observed:Gabriel came to me and gave me the tidings: Verily he who died amongst your Ummah without associating anything with Allah would enter Paradise. I (the narrator) said: Even if he committed adultery and theft. He (the Holy Prophet) said: (Yes)"
+"273","Abu Dharr reported"
+"274","It is narrated on the authority of Miqdad b. Aswad that he said. Messenger of Allah"
+"275","The same hadith has been transmitted by the same chain of narrators. The hadith transmitted by Auza'i and Ibn Juraij contains these words:I embraced Islam for Allah's sake. and in the hadith narrated by Ma'mar the words are: I knelt down to kill him"
+"276","It is narrated by Miqdad"
+"277","It is narrated on the authority of Usama b. Zaid that the Messenger of Allah (ﷺ) sent us in a raiding party. We raided Huraqat of Juhaina in the morning. I caught hold of a man and he said:There is no god but Allah"
+"278","(It is narrated on the authority of Usama b. Zaid:The Messenger of Allah may peace be upon him) sent us to Huraqat"
+"279","It is narrated by Safwan b. Muhriz that Jundab b. 'Abdullah al-Bajali during the stormy days of Ibn Zubair sent a message to 'As'as b. Salama:Gather some men of your family so that I should talk to them. He ('As'as) sent a messenger to them (to the members of his family). When they had assembled"
+"280","It is narrated on the authority of Abdullah b. Umar who narrates from the Prophet of Allah (ﷺ) who said:He who took up arms against us is not of us"
+"281","Iyas b. Salama narrated from his father that the Apostle (ﷺ) observed:He who draws the sword against us is not of us"
+"282","It is narrated on the authority of Abu Musa Ash'ari:He who took up arms against us is not of us"
+"283","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:He who took up arms against us is not of us and he who acted dishonestly towards us is not of us"
+"284","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) happened to pass by a heap of eatables (corn). He thrust his hand in that (heap) and his fingers were moistened. He said to the owner of that heap of eatables (corn):What is this? He replied: Messenger of Allah"
+"285","It is narrated on the authority of Abdullah b. Mas'ud that the Prophet observed:He is not one of us (one among the Ummah of Islam) who beat the cheeks or tore the front opening of the shirt or uttered the slogans of (the days of) Jahiliya (ignorance). Ibn Numair and Abu Bakr said (instead of the word"" au"" (or) it is"" wa"" [and] the words are) and tore and uttered (the slogans) of Jahiliya without"" alif"
+"286","This hadith has been narrated by A'mash with the same chain of narrators and the transmitters said:He tore and called"
+"287","It is narrated on the authority of Abu Burda b. Abu Musa that Abu Musa was afflicted with grave pain and he became unconscious and his head was in the lap of a lady of his household. One of the women of his household walled. He (Abu Musa) was unable (because of weakness) to say anything to her. But when he was a bit recovered he said:I have no concern with one with whom the Messenger of Allah (ﷺ) has no concern"
+"288","It is narrated on the authority of Abu Burda that Abu Musa fell unconscious and his wife Umm Abdullah came there and wailed loudly. When he felt relief he said:Don't you know? -and narrated to her: Verily the Messenger of Allah (ﷺ) said: I have no concern with one who shaved her hair"
+"289","This hadith is narrated on the authority of Abu Musa with this change only:That (the Holy Prophet) did not say that he had no concern but said: He is not one of us"
+"290","It is reported from Hudhaifa that news reached him (the Holy Prophet) that a certain man carried tales. Upon this Hudhaifa remarked:I heard Allah's Messenger (ﷺ) saying: The tale-bearer shall not enter Paradise"
+"291","It is reported on the authority of Hammam b"
+"292","It is narrated on the authority of Hammam b. al-Harith:We were sitting with Hudhaifa in the mosque. A man came and sat along with us. It was said to Hudhaifa that he was the man who carried tales to the ruler. Hudhaifa remarked with the intention of conveying to him: I have heard the Messenger of Allah (ﷺ) saying: The tale-bearer will not enter Paradise"
+"293","It is narrated o the authority of Abu Dharr that the Messenger of Allah (may ace he upon him) observed:Three are the (persons) with whom Allah would neither speak on the Day of Resurrection"
+"294","It is narrated on the authority of Abu Dharr who narrates that the Prophet (ﷺ) observed:Three are the persons with whom Allah would not speak on the Day of Resurrection: the bestower of gift who does not give anything but by laying obligation on him"
+"295","Bishr b. Khalid has narrated this hadith on the authority of Sulaiman with the same chain of transmitters with this addition:Allah shall neither speak nor look at nor absolve then"
+"296","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:Three (are the persons) with whom Allah would neither speak"
+"297","Abu Huraira narrated on the authority of Abu Bakr that the Messenger of Allah (ﷺ) said:Three are the persons with whom Allah would neither speak on the Day of Resurrection"
+"298","The same hadith has been transmitted by another chain of transmitters with the exception of these words:He offered for sale a commodity to another person"
+"299","This hadith has been narrated on the authority of Abu Huraira that he (the Messenger of Allah) observed:Three are the persons with whom Allah would neither speak (on the Day of Resurrection) nor would He look at them"
+"300","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:He who killed himself with steel (weapon) would be the eternal denizen of the Fire of Hell and he would have that weapon in his hand and would be thrusting that in his stomach for ever and ever"
+"301","This hadith has been narrated by another chain of transmitters"
+"302","Thabit b. Dahhak reported that he pledged allegiance to the Messenger of Allah (ﷺ) under the Tree"
+"303","It is narrated on the authority of Thabit b. al-Dahhak that the Messenger of Allah (ﷺ) observes:None is obliged to give votive offering (of a thing) which is not in his possession and the cursing of a believer is tantamount to killing him"
+"304","It is narrated on the authority of Thabit b. Dahhak that the Messenger of Allah (ﷺ) observed:He who took deliberately a false oath on a religion other than Islam would become that which he had professed. And he who killed himself with anything Allah would torment him with that in the Fire of Hell"
+"305","It is narrated on the authority of Abu Huraira:We participated in the Battle of Hunain along with the Messenger of Allah (ﷺ). He (the Holy Prophet) said about a man who claimed to be a Muslim that he was one of the denizens of the Fire (of Hell). When we were in the thick of the battle that man fought desperately and was wounded. It was said: Messenger of Allah"
+"306","It is reported on the authority of Sahl b. Sa'd al-Sa'idi that there was an encounter between the Messenger of Allah (ﷺ) and the polytheists"
+"307","It is reported on the authority of Hasan:A person belonging to the people of the past suffered from a boil"
+"308","It is reported on the authority of Hasan:Jundab b. 'Abdullah al-Bajali narrated this hadith in this mosque which we can neither forget and at the same time we have no apprehension that Jundab could attribute a lie to the Messenger of Allah (ﷺ). He (the Holy Prophet) observed: A person belonging to the people of the past suffered from a boil"
+"309","It is narrated on the authority of 'Umar b. Khattab that when it was the day of Khaibar a party of Companions of the Apostle (ﷺ) came there and said:So and so is a martyr"
+"310","It is narrated on the authority of Abu Huraira:We went to Khaibar along with the Apostle (ﷺ) and Allah granted us victory. We plundered neither gold nor silver but laid our hands on goods"
+"311","It is narrated on the authority of Jabir that Tufail son of Amr al-Dausi came to the Apostle (ﷺ) and said:Do you need strong"
+"312","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:Verily Allah would make a wind to blow from the side of the Yemen more delicate than silk and would spare none but cause him to die who"
+"313","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:Be prompt in doing good deeds (before you are overtaken) by turbulence which would be like a part of the dark night. During (that stormy period) a man would be a Muslim in the morning and an unbeliever in the evening or he would be a believer in the evening and an unbeliever in the morning"
+"314","It is narrated on the authority of Anas b. Malik that when this verse:"" O ye who believe I raise not your voices above the voice of the Prophet"
+"315","This hadith has been narrated on the authority of Anas b. Malik by another chain of transmitters in which these words are found:Thabit b. Qais was the orator of the Ansar"
+"316","This hadith is also transmitted by Ahmad b. Sa'id"
+"317","This hadith is narrated on the authority of Anas by another chain of transmitters in which there is no mention of Sa'd b. Mu'adh"
+"318","It is narrated on the authority of Abdullah b. Mas'ud that some people said to the Messenger of Allah (ﷺ):Messenger of Allah"
+"319","It is narrated on the authority of Abdullah b. Mas'ud:We once said: Messenger of Allah"
+"320","This hadith has been transmitted by Minjab b. al-Harith Tamimi with the same chain of transmitters"
+"321","It is narrated on the authority of Ibn Shamasa Mahri that he said:We went to Amr b. al-As and he was about to die. He wept for a long time and turned his face towards the wall. His son said: Did the Messenger of Allah (may peace be upon him not give you tidings of this? Did the Messenger of Allah (ﷺ) not give you tidings of this? He (the narrator) said: He turned his face (towards the audience) and said: The best thing which we can count upon is the testimony that there is no god but Allah and that Muhammad is the Messenger of Allah. Verily I have passed through three phases. (The first one) in which I found myself averse to none else more than I was averse to the Messenger of Allah (ﷺ) and there was no other desire stronger in me than the one that I should overpower him and kill him. Had I died in this state"
+"322","It is narrated on the authority of Ibn 'Abbas that some persons amongst the polytheist had committed a large number of murders and had excessively indulged in fornication. Then they came to Muhammad (ﷺ) and said:Whatever you assert and whatever you call to is indeed good. But if you inform us that there is atonement of our past deeds (then we would embrace Islam). Then it was revealed: And those who call not unto another god along with Allah and slay not any soul which Allah has forbidden except in the cause of justice"
+"323","Hakim b. Hizam reported to 'Urwa b. Zubair that he said to the Messenger of Allah:Do you think that there is any thing for me (of he reward with the Lord) for the deed of religious purification that I did in the state of ignorance? Upon this he (the Messenger of Allah) said to him: You accepted Islam with all the previous virtues that you practised"
+"324","Hakim b. Hizam reported to 'Urwa b. Zubair that he said to the Messenger of Allah (ﷺ):Messenger of Allah"
+"325","It is narrate on the authority of Hakim b. Hizam:I said: Messenger of Allah"
+"326","Hisham b. Urwa narrated it on the authority of his father:Hakim b. Hizam freed one hundred slave and donated one hundred camels (for the sake of Allah) during the state of ignorance. Then he freed one hundred slaves and donated one hundred camel (for the sake of Allah) after) he had embraced Islam. He subsequently came to the Apostle (ﷺ). The rest of the hadith is the same as narrated above"
+"327","It is narrated on the authority of 'Abdullah (b. Mas'ud) that when this verse was revealed:"" It is those who believe and confound not their belief with wrongdoing"" (vi. 82)"
+"328","This hadith is narrated by another chain of transmitters"
+"329","It is reported on the authority of Abu Huraira that when it was revealed to the Messenger of Allah (ﷺ):To Allah belongs whatever is in the heavens and whatever is in the earth and whether you disclose that which is in your mind or conceal it"
+"330","It is narrated on the authority of Ibn 'Abbas:When this verse:"" Whether you disclose that which is in your mind or conceal it"
+"331","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:Verily Allah forgave my people the evil promptings which arise within their hearts as long as they did not speak about them or did not act upon them"
+"332","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:Verily the Great and Mighty Allah forgave my people the evil promptings arising in their minds"
+"333","The same hadith has been narrated by Zuhair b. Harb"
+"334","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:The Great and the Glorious Lord said (to angels): Whenever My bondsman intends to corn it an evil"
+"335","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:Allah"
+"336","Abu Huraira reported that Muhammad"
+"337","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:He who intended to do good"
+"338","It is narrated on the authority of Ibn Abbas that the Messenger of Allah (ﷺ) transmitted it from the Blessed and Great Lord:Verily Allah recorded the good and the evil and then made it clear that he who intended good but did not do it"
+"339","This hadith has been narrated with another chain of transmitters with the addition of these words:Allah would even wipe out (the evil committed by a man) and Allah does not put to destruction anyone except he who is doomed to destruction"
+"340","It is narrated on the authority of Abu Huraira that some people from amongst the Companions of the Apostle (ﷺ) came to him and said:Verily we perceive in our minds that which every one of us considers it too grave to express. He (the Holy Prophet) said: Do you really perceive it? They said: Yes. Upon this he remarked: That is the faith manifest"
+"341","The same hadith has been transmitted by Muhammad b. 'Amr"
+"342","It is narrated on the authority of 'Abdullah b. Mas'ud that the Apostle (ﷺ) was asked about evil prompting"
+"343","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:Men will continue to question one another till this is propounded: Allah created all things but who created Allah? He who found himself confronted with such a situation should say: I affirm my faith in Allah"
+"344","This hadith has been transmitted by Mahmud b. Ghailan by another chain of transmitters (and the words are):The Messenger of Allah (ﷺ) said: The Satan will come to everyone of you and say: Who created the heaven"
+"345","(It is narrated on the authority of Abu Huraira that the Messenger of Allah may peace be upon him) observed:The Satan comes to everyone. of you and says: Who created this and that? till he questions: Who created your Lord? When he comes to that"
+"346","This hadith is transmitted by Urwa b. Zubair on the authority of Abu Huraira (and the words are):The Satan comes to the bondsman (of Allah) and says: Who created this and that? The remaining part of the hadith is the same"
+"347","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:People will constantly ask you questions pertaining to knowledge till they would say: Allah created us"
+"348","It is narrated on the authority of Abu Huraira that he said:The people will constantly"
+"349","Abu Huraira reported:The Messenger of Allah (ﷺ) said to me: they (the people) till constantly ask you"
+"350","Yazid b. al-Asamm said:I heard Abu Huraira saying that the Messenger of Allah (ﷺ) observed: people will certainly ask you about everything till they will propound: Allah created every thing"
+"351","Anas b. Malik transmitted it from the Messenger of Allah (ﷺ) that the Great and Glorious Allah said:Verily your people would constantly question about this and that till they would say: Well"
+"352","This hadith has been narrated by another chain of transmitters with the exception that Ishaq made no mention of this:Allah said: Verily your people"
+"353","It is narrated on the authority of Abu Umama that the Messenger of Allah (ﷺ) observed:He who appropriated the right of a Muslim by (swearing a false) oath"
+"354","This hadith has been transmitted by another chain of narrators:Abu Bakr b. Abi Shaiba"
+"355","It is narrated on the authority of Abdullah (b. Umar) that the Messenger of Allah (ﷺ) observed:He who perjured with a view to appropriating the property of a Muslim"
+"356","It is narrated on the authority of Abdullah that he heard the Prophet (ﷺ) saying:He who took an oath in order to entitle himself (to the possession) of a property"
+"357","Ibn Mas'ud says:I heard the Messenger of Allah observing: He who took an oath on the property of a Muslim without legitimate right would meet Allah and He would be angry"
+"358","It is narrated on the authority of Wa'il that there came a person from Hadramaut and another one from Kinda to the Apostle (ﷺ). One who had come from Hadramaut said:Messenger of Allah"
+"359","Wa'il reported it on the authority of his father Hujr:I was with the Messenger of Allah (ﷺ) that two men came there disputing over a piece of land. One of them said: Messenger of Allah"
+"360","Abu Huraira reported:A person came to the Messenger of Allah (ﷺ) and said: Messenger of Allah"
+"361","It is narrated on the authority of Thabit"
+"362","This hadith has been narrated by Muhammad b. Hatim"
+"363","Hasan reported:'Ubaidullah b. Ziyad paid a visit to Ma'qil b. Yasar Muzani in his illness of which he (later on) died. (At this juncture) Ma'qil said: I am going to narrate to you a hadith which I have heard from the Messenger of Allah (ﷺ) and which I would not have transmitted if I knew that I would survive. Verily I have heard the Messenger of Allah (ﷺ) say: There is none amongst the bondsmen who was entrusted with the affairs of his subjects and he died in such a state that he was dishonest in his dealings with those over whom he ruled that the Paradise is not forbidden for him"
+"364","Hasan reported:Ubaidullah b. Ziyad went to see Ma'qil b. Yasir and he was ailing. He ('Ubaidullah) inquired (about his health) to which he (Ma'qil) replied: I am narrating to you a hadith which I avoided narrating to you (before). Verily the Messenger of Allah (ﷺ) observed: Allah does not entrust to his bondsman the responsibility of managing the affairs of his subjects and he dies as a dishonest (ruler) but Paradise is forbidden by Allah for such a (ruler). He (Ibn Ziyad) said: Why did you not narrate it to me before this day? He replied: I (in fact) did not narrate it to you as it was not (fit) for me to narrate that to you"
+"365","Hasan reported:We were with Ma'qil b. Yasar inquiring about his health that Ubaidullah b. Ziyad came there. Ma'qil said to him: Verily I am going to narrate to you a hadith which I heard from the Messenger of Allah (ﷺ). Then he narrated the hadith like those two (mentioned above)"
+"366","It is narrated on the authority of Abu Malih that Ubaidullah b. Ziyad visited Ma'qil b. Yasar in his illness. Ma'qil said to him:I am narrating to you a hadith which I would have never narrated to you had I not been in death-bed. I heard Allah's apostle (ﷺ) say: A ruler who has been entrusted with the affairs of the Muslims but he makes no endeavors ( for the material and moral uplift) and does not sincerely mean (their welfare) would not enter Paradise along with them"
+"367","Hudhaifa reported:The Messenger of Allah (ﷺ) narrated to us two ahadith. I have seen one (crystallized into reality)"
+"368","This hadith has been transmitted by another chain of transmitters:Ibn Numair"
+"369","It is narrated on the authority of Hudhaifa:We were sitting in the company of Umar and he said: Who amongst you has heard the Messenger of Allah (ﷺ) talking about the turmoil? Some people said: It is we who heard it. Upon this be remarked: Perhaps by turmoil you presume the unrest of man in regard to his household or neighbour"
+"370","It is narrated on the authority of Rib'i (b. Hirash). When Hudhaifa came from 'Umar he sat down to narrate to us and said:Verily yesterday when I was sitting with the Commander of the believers he asked his companions: When amongst you retains in his memory the utterance of the Messenger of Allah (ﷺ) with regard to the turmoil? -and he cited the hadith like the hadith narrated on the authority of Abu Khalid"
+"371","It is transmitted by Rib'i b. Hirash. who narrated it on the authority of Hudhaifa that verily 'Umar said:Who would narrate to us or who amongst you would narrate to us (and Hudhaifa was one amongst them) what the Messenger of Allah (ﷺ) had said about the turmoil? Hudhaifa said: I will"
+"372","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:Islam initiated as something strange"
+"373","It is narrated on the authority of Ibn 'Umar ('Abdullah b. 'Umar) that the Messenger of Allah (ﷺ) observed:Verily Islam started as something strange and it would again revert (to its old position) of being strange just as it started"
+"374","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:Verily the faith would recede to Medina just as the serpent crawls back into its hole"
+"375","It is narrated on the authority of Anas that verily the Messenger of Allah (ﷺ) said:""The Hour (Resurrection) will not occur until 'Allah"
+"376","It is narrated on the authority of Anas that the Messenger of Allah (ﷺ) said:""The Hour (Resurrection) will not occur as long as anyone says: 'Allah"
+"377","Hudhaifa reported:We were in the company of the Messenger of Allah (ﷺ) when he said. Count for me those who profess al-Islam. We said: Messenger of Allah"
+"378","Sa'd narrated it on the authority of his father (Abi Waqqas) that he observed:The Messenger of Allah (ﷺ) distributed shares (of booty among his Companions). I said: Messenger of Allah! Give it to so and so"
+"379","It is narrated on the authority of Sa'd that the Messenger of Allah (ﷺ) bestowed upon a group of persons (things)"
+"380","Sa'd reported:The Messenger of Allah (ﷺ) bestowed upon a group of persons (booty) and I was sitting with them. The remaining part of the hadith is the same as mentioned (above) with the additionI stood up and went to the Messenger of Allah (ﷺ) and whispered to him: Why did you omit such and such a man?"
+"381","The same hadith has been narrated on the authority of Muhammad b Sa'd and these words (are also there):The Messenger of Allah (ﷺ) gave a stroke on my neck or between my two shoulders and said: Sa'd"
+"382","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:We have more claim to doubt than Ibrahim (ﷺ) when he said: My Lord! Show me how Thou wilt quicken the dead. He said: Believeth thou not? He said: Yes! But that my heart may rest at ease. He (the Holy Prophet) observed: May Lord take mercy on Lot"
+"383","Abdullah b. Muhammad narrated the same hadith on the authority of Abu Huraira and in the transmission by Malik the words are that he (the Holy Prophet) recited the verse:"" but that my heart may rest at ease"" and completed it. This hadith has also been narrated by Abd b. Humaid Ya'qub"
+"385","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:There has never been a Prophet amongst the prophets who was not bestowed with a sign amongst the signs which were bestowed (on the earlier prophets). Human beings believed in it and verily I have been conferred upon revelation (the Holy Qur'an) which Allah revealed to me. I hope that I will have the greatest following on the Day of Resurrection"
+"386","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:By Him in Whose hand is the life of Muhammad"
+"387","It is narrated on the authority of Sha'bi that one among the citizens of Khurasan asked him:0 Abu! some of the people amongst us who belong to Khurasan say that a person who freed his bondswoman and then married her is like one who rode over a sacrificial animal. Sha'bi said: Abu Burda b. Abi Musa narrated it to me on the authority of his father that verily the Messenger of Allah (ﷺ) said: There are three (classes of persons) who would be given a double reward. One who is amongst the People of the Book and believed in his apostle and (lived) to see the time of Apostle Muhammad (ﷺ) and affirmed his faith in him and followed him and attested his truth"
+"389","Abu Huraira reported that the Messenger of Allah (ﷺ) said:By Him in Whose hand is my life"
+"390","The same hadith is transmitted from Zuhri with the same chain of transmission. But in the tradition narrated by Ibn 'Uyaina the words are:"" impartial leader and just judge"" and in the tradition narrated by Yunus: the"" judge judging with justice"" and"" impartial leader"" are not mentioned. And in the hadith narrated by Salih like the one transmitted by Laith the words are:"" impartial judge"". And in the hadith transmitted by Ziyad the words are:"" Till one sajda is better than the worldand what it contains. Then Abu Huraira used to say"
+"391","It is narrated on the authority of Abu Huraira that the Messenger or Allah (ﷺ) observed:I swear by Allah that the son of Mary will certainly descend as a just judge and he would definitely break the cross"
+"392","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:What will be your state when the son of Mary descends amongst you and there will be an Imam amongst you?"
+"393","It is narrated on the authority of Abu Huraira that he heard the Messenger of Allah (ﷺ) as saying:What would you do when the son of Mary would descend and lead you?"
+"394","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:What would you do when the son of Mary would descend amongst you and would lead you as one amongst you? Ibn Abi Dhi'b on the authority of Abu Huraira narrated: Your leader amongst you. Ibn Abi Dhi'b said: Do you know what the words:"" He would lead as one amongst you"" mean? I said: Explain these to me. He said: He would lead you according to the Book of your: Lord (hallowed be He and most exalted) and the Sunnah of your Apostle (ﷺ)"
+"395","Jabir b. 'Abdullah reported:I heard the Messenger of Allah (ﷺ) say: A section of my people will not cease fighting for the Truth and will prevail till the Day of Resurrection. He said: Jesus son of Mary would then descend and their (Muslims') commander would invite him to come and lead them in prayer"
+"396","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:The (Last) Hour shall not came till the sun rises from the place of its setting And on the day when it rises from the place of its setting even if all the people together affirmed their faith"
+"397","This hadith has been narrated by another chain of transmitters"
+"398","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) observed:When three things appear faith will not benefit one who has not previously believed or has derived no good from his faith: the rising of the sun in its place of setting"
+"399","It is narrated on the authority of Abu Dharr that the Messenger of Allah (ﷺ) one day said:Do you know where the sun goes? They replied: Allah and His Apostle know best. He (the Holy Prophet) observed: Verily it (the sun) glides till it reaches its resting place under the Throne. Then it falls prostrate and remains there until it is asked: Rise up and go to the place whence you came"
+"400","It is narrated on the authority of Abu Dharr that the Messenger of Allah (ﷺ) one day said:Do you know where the sun goes? The remaining part of the hadith is the same"
+"401","Abu Dharr reported:I entered the mosque and the Messenger of Allah (ﷺ) was sitting there. When the sun disappeared (from the sight) he said: O Abu Dharr! Do you know where it goes? He (the narrator) said: Allah and His Apostle know best. He (the Holy Prophet) said. Verily it goes and begs permission"
+"402","Abu Dharr reported:I asked the Messenger of Allah (ﷺ) the (implication of the) words of Allah"
+"403","A'isha"
+"404","This hadith has been narrated on the authority of 'A'isha with another chain of narrators like one transmitted by Yunus"
+"405","This hadith has been reported from 'A'isha by another chain of transmitters and the words are:He (the Holy Prophet) came to Khadija an his heart was trembling. The rest of the hadith has been narrated like one transmitted by Yunus and Ma'mar"
+"406","Jabir b. 'Abdullah al-Ansari who was one of the Companions of the Messenger of Allah (ﷺ) reportedThe Messenger of Allah (ﷺ) told about the intermission of revelation and narrated While I was walking I heard a voice from the sky"
+"407","It is narrated on the authority of Jabir b. Abdullah that he heard the Messenger of Allah (ﷺ) says:The wahi was intermitted for me for a small span of time and while I was walking"
+"408","This hadith"
+"409","Yahya reported:I asked Abu Salama what was revealed first from the Qur'an. He said:"" 0"
+"410","Yahya b Abi Kathir has reported this hadith with the same chain of transmitters and narrated:And there he was sitting on the Throne between the heaven and the earth"
+"411","It is narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said:I was brought al-Buraq Who is an animal white and long"
+"412","It is narrated on the the outhority of Anas b. Malik that the Messenger of Allah (ﷺ) said:(the angels) came to me and took me to the Zamzam and my heart was opened and washed with the water of Zamzam and then I was left (at my place)"
+"413","Anas b. Malik reported that Gabriel came to the Messenger of Allah (ﷺ) while he was playing with his playmates. He took hold of him and lay him prostrate on the ground and tore open his breast and took out the heart from it and then extracted a blood-clot out of it and said:That was the part of Satan in thee. And then he washed it with the water of Zamzam in a golden basin and then it was joined together and restored to it place. The boys came running to his mother"
+"414","Anas b. Malik"
+"415","Anas b. Malik reported:Abu Dharr used to relate that the Messenger of Allah (ﷺ) said: The roof of my house was cleft when I was in Mecca and Gabriel descended and opened my heart and then washed it with the water of Zamzam. He then brought a gold basin full of wisdom and faith and after emptying it into my breast"
+"416","Anas b. Malik reported on the authority of Malik b. Sa sa'"
+"417","It is reported on the authority of Malik b. Sa'sa' that the Messenger of Allah (ﷺ) narrated the hadith (mentioned above) and added to it:I was brought a gold basin full of wisdom and faith"
+"418","Qatada reported that he heard Abu al-'Aliya saying that the cousin of your Prophet (ﷺ)"
+"419","Abu al-'Aliya reported:Ibn Abbas"
+"420","Abu al-'Aliya narrated it on the authority of Ibn 'Abbas that the Messenger of Allah (ﷺ) passed through the valley of Azraq"
+"421","Abu al-'Aliya narrated it on the authority of Ibn 'Abbas that he said:We travelled with the Messenger of Allah (ﷺ) between Mecca and Medina and we passed by a valley. He (the Holy Prophet) asked: Which valley is this? They said: This is the valley of Azraq Upon this he (the Holy Prophet) remarked: (I feel) as if I am seeing Moses (peace be upon him)"
+"422","It is narrated on the authority of Mujahid that he said:We were with Ibn 'Abbas and (the people) talked about al-Dajjal. (One of them remarked. There is written between his eyes (the word) Kafir (infidel). The narrator said: Ibn 'Abbas remarked: I did not hear him (the Holy Prophet) say it"
+"423","It is narrated on the authority of Jabir that the Messenger of Allah (ﷺ) said:There appeared before me the apostles"
+"424","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:When I was taken for the night journey I met Moses peace be upon him). The Apostle of Allah (ﷺ) gave his description thus: He was a man"
+"425","It is narrated on the authority of 'Abdullah b. Umar that the Messenger of Allah (ﷺ) said:I found myself one night near the Ka'bah"
+"426","It is narrated on the authority of 'Abdulldh b. Umar that one day the Messenger of Allah (ﷺ) mentioned in the presence of people about al-Masih al-Dajjal. He said:Verily Allah (hallowed be He and High) is not blind of one eye. Behold"
+"427","It is narrated on the authority of Ibn 'Umar that the Messenger of Allah (ﷺ) said:I saw near the Ka'bah a man of fair complexion with straight hair"
+"428","It is narrated on the authority of Jabir b. 'Abdullah that the Messenger of Allah (ﷺ) said:When the Quraish belied me"
+"429","Abdullah reported on the authority of his father 'Umar b. Khattab that he heard from the Messenger of Allah (may peace he upon him) say:I was sleeping when I saw myself making circuit around the Ka'bah"
+"430","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:I found myself in Hijr and the Quraish were asking me about my might journey. I was asked about things pertaining to Bait-ul-Maqdis which I could not preserve (in my mind). I was very much vexed"
+"431","It is narrated on the authority of Abdullah (b. Umar) that when the Messenger of Allah (ﷺ) was taken for the Night journey"
+"432","Al-Shaibini reported to us:I asked Zirr b. Hubaish about the words of Allah (the Mighty and Great):"" So he was (at a distance) of two bows or nearer"" (al-Qur'an"
+"433","Al-Shaibani narrated on the authority of Zirr who narrated it on this authority of Abdullah that the (words of Allah):"" The heart belied not what he saw"" (al Qur'an"
+"434","Zirr b. Hubaish narrated it on the authority of 'Abdullah (that the words of Allah):"" Certainly he saw of the greatest signs of Allah"" (al-Qur'an"
+"435","It is narrated on the authority of Abu Huraira that the (words of Allah):"" And certainly he saw him in another descent"" (al-Qur'an"
+"436","It is narrated on the authority of Ibn 'Abbas that he (the Holy Prophet) saw (Allah) with"
+"437","It is narrated on the authority of Ibn Abbas that the words:"" The heart belied not what he saw"" (al-Qur'an"
+"438","Abu Bakr b. Abi Shaiba narrated it on the same authorities"
+"439","It is narrated on the authority of Masruq that he said:I was resting at (the house of) 'A'isha that she said: O Abu 'A'isha (kunya of Masruq)"
+"440","Dawud reported on the same authorities the hadith as narrated above by Ibn 'Uliyya and added:She ('A'isha) said: If Muhammad were to conceal anything which was sent to him"
+"441","Masruq reported:I asked 'A'isha if Muhammad (ﷺ) had seen his Lord. She replied: Hallowed be Allah"
+"442","Masruq reported:I said to 'A'isha: What about the words of Allah:"" Then he drew nigh and came down"
+"443","It is narrated on the authority of Abu Dharr:I asked the Messenger of Allah (ﷺ): Did you see thy Lord? He said: (He is) Light; how could I see Him?"
+"444","Abdullah b. Shaqiq reported:I said to Abu Dharr: Had I seen the Messenger of Allah"
+"445","Abu Musa reported:The Messenger of Allah (ﷺ) was standing amongst us and he told us five things. He said: Verily the Exalted and Mighty God does not sleep"
+"446","A'mash has narrated this hadith on the same authority and said:The Messenger of Allah (ﷺ) was standing amongst us and he told us four things. He then narrated the hadith like the one reported by Abu Mua'wiya"
+"447","Abu Musa reported:The Messenger of Allah (ﷺ) was standing amongst us and (he said) four (things): Verily Allah does not sleep and it does not befit Him to sleep. He raises the scale and lowers it. The deeds of the day are presented to Him in the night and the deeds of the night in the day"
+"448","Abdullah b. Qais transmitted on the authority of his father (Abu Musa Ash'ari) that the Apostle (ﷺ) said:There would be two gardens (in Paradise) the vessels and contents of which would be of silver"
+"449","Suhaib reported the Apostle (ﷺ) saying:When those deserving of Paradise would enter Paradise"
+"450","Hammad b. Salama narrated it on the same authority and added:He then recited the verse:"" Those who do good will have the best reward and even more"" (x)"
+"451","Abu Haraira reported:The people said to the Messenger of Allah (ﷺ): Messenger of Allah"
+"452","Abu Huraira reported:The people said to the Messenger of Allah (ﷺ): Messenger of Allah I shall we see our Lord on the Day of Resurrection? The rest of the hadith was narrated according to the narration of Ibrahim b. Sa'd"
+"453","Hammam b. Munabbih said:This is what Abu Huraira transmitted to us from the Messenger of Allah (ﷺ)"
+"454","Abu Sa'id al-Khudri reported:Some people during the lifetime of the Messenger of Allah (ﷺ) said: Messenger of Allah! shall we see our Lord on the Day of Resurrection? The Messenger of Allah (ﷺ) said: Yes"
+"455","It is narrated on the authority of Abu Sa'id al-Khudri:We said: Messenger of Allah"
+"456","Abu Bakr b. Abi Shaiba"
+"457","Abu Sa'id al-Khudri reported:Verily the Messenger of Allah (ﷺ) said: Allah will admit into Paradise those deserving of Paradise"
+"458","This hadith is transmitted by 'Amr b. Yahya with the same chain of transmitters who narrated:They would be cast into the river which is called (the river of) life"
+"459","It is reported by Abu Sa'id that the Messenger of Allah (ﷺ) said:The (permanent) inhabitants of the Fire are those who are doomed to it"
+"460","Abu Nadra narrated it from Abu Sa'id al-Khudri who reported it from the Apostle (ﷺ) a similar (hadith) up to the words:"" in the mud of the flood"
+"461","Abdullah b. Mas'ud reported that the Messenger of Allah (ﷺ) said:I know the last of the inhabitants of Fire to be taken out therefrom"
+"462","It is narrated on the authority of Abdullah b. Mas'ud that the Messenger of Allah (may peace be upon him said:I recognise the last of the inhabitants of Fire to be taken out thereof. A man will come out of it crawling. It will be said to him: Go and enter Paradise. He (the Holy Prophet) said: He would go there to enter Paradise"
+"463","Ibn Mas'ud reported:Verily the Messenger of Allah said: The last to enter Paradise would be a man who would walk once and stumble once and be burnt by the Fire once. Then when he gets beyond it"
+"464","It is transmitted from Abu Sa'id al-Khudri that"
+"465","The same hadith has been by AlMughirah bin Shu’bah attributing it to the Messenger of Allah (ﷺ)"
+"466","It is reported on the authority of al-Mughira b. Shu'ba that the Messenger of Allah (ﷺ) said:Moses asked his Lord: Who amongst the inhabitants of Paradise is the lowest to rank? He (Allah) said: The person who would be admitted into Paradise last of all among those deserving of Paradise who are admitted to it. I would be said to him: Enter Paradise. He would say: O my Lord! how (should I enter) while the people have settled in their apartments and taken the shares (portions)? It would be said to him: Would you be pleased if there be for you like the kingdom of a king amongst the kings of the world? He would say: I am pleased my Lord. He (Allah) would say: For you is that"
+"467","Abu Dharr reported that Allah's Messenger (ﷺ) said:I know the last of the inhabitants of Paradise to enter it and the last of the inhabitants of Hell to come out of it. He is a man who would be brought on the Day of Resurrection and it will be said: Present his minor sins to him"
+"468","This hadith is also narrated by another chain of narrators"
+"469","It is reported on the authority of Abu Zubair that he heard from Jabir b 'Abdullah"
+"470","Jabir reported that he had heard with his ears the Apostle (ﷺ) saying:Allah will bring out people from the Fire and admit them into Paradise"
+"471","Hammad b. Zaid"
+"472","Jabir b. 'Abdullah repotted:The Messenger of Allah (ﷺ) said: Verily people would be brought out from the Fire"
+"473","Yazid al-Faqir said:This view of the Khawarij (i.e. those who commit major sins and would be eternally doomed to Hell) had obsessed me"
+"474","It is narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said:Four persons would be brought out from the Fire and would be presented to Allah. One of them would turn (towards the He) ) ) and say: O my Lord"
+"475","Anas b Malik reported:The Messenger of Allah (ﷺ) said: Allah would gather people on the Day of Resurrection and they would be concerned about it"
+"476","Anas reported:The Messenger of Allah (ﷺ) said: The believers would gather on the Day of Resurrection"
+"477","Anas b. Malik reported:The Prophet of Allah (may peace be"
+"478","Anas b. Malik reported:Verily the Apostle (ﷺ) said: He who professed: There is no god but Allah"
+"479","Ma'bad b. Hilal al 'Anazi reported:We went to Anas b. Malik through Thabit and reached there (his house) while he was offering the forenoon prayer. Thabit sought permission for us and we entered"
+"480","Abu Huraira reported:Meat was one day brought to the Messenger of Allah (ﷺ) and a foreleg was offered to him"
+"481","It is reported on the authority of Abu Huraira that there was placed before the Messenger of Allah a cup of soft bread"
+"482","It is narrated on the authority of Abu Huraira and Hudhaifa that the Messenger of Allah (ﷺ) said:Allah"
+"483","Anas b. Malik reported:The Messenger of Allah (ﷺ) said: I would be the first among people to intercede in the Paradise and amongst the apostles I would have the largest following (on the Day of Resurrection)"
+"484","Anas b. Malik reported:The Messenger of Allah (ﷺ) said: Amongst the apostles I would have the largest following on the Day of Resurrec tion"
+"485","Anas b. Malik said:The Apostle of Allah (ﷺ) said: I would be the first intercessor in the Paradise and no apostle amongst the apostles has been testified (by such a large number of people) as I have been testified. And verily there woald be an apostle among the apostles who would be testified to by only one man from his people"
+"486","Anas b. Malik reported:The Messenger of Allah (ﷺ) said: I will come to the gate of Paradise on the Day of Resurrection. and would seek its opening. and the keeper would say: Who art thou? I would say: Muhammad. He would then say: It is for thee that I have been ordered"
+"487","Abu Huraira reported:Verity the Messenger of Allah (ﷺ) said: There is for every apostle a (special) prayer with which he would pray. I wish I could reserve"
+"488","Abu Huraira reported:The Messenger of Allah (ﷺ) said: There is for every apostle a prayer"
+"489","Amr b. Abu Sufyan transmitted a hadith like this from Abu Huraira who narrated it from the Messenger of Allah (ﷺ)"
+"490","Amr b. Abu Sufyan reported:Abu Huraira said to Ka'b al-Ahbar that the Messenger of Allah (ﷺ) had said: For every apostle there Is a (special) prayer by which he would pray (to his Lord). I"
+"491","Abu Huraira said:The Prophet of Allah (ﷺ) said: There is for every apostle a prayer which is granted"
+"492","Abu Huraira said:The Messenger of Allah (ﷺ) said: Every Messenger is endowed with a prayer which is granted and by which he would (pray to his Lord) and it would he granted for him. I have"
+"493","Abu Huraira reported:The Messenger of Allah (ﷺ) said: There was for every apostle a prayer with which he prayed for his Ummah and it was granted to him; but I wish"
+"494","Anas b. Malik reported:Verily the Messenger of Allah (ﷺ) said: There is for every apostle a prayer with which he prays (to Allah) for his Ummah. I have reserved my prayer for the intercession of my Ummah on the Day of Resurrection"
+"495","This hadith is narrated with the same chain of narrators by Qatada"
+"496","Mis'ar transmitted it with the same chain of narrators from Qatada except that in the hadith narrated by Waki' (the Prophet) said:"" He was endowed"
+"497","Muhammad b. 'Abd al-A'la reported it to me:Mu'tamir narrated to us on the authority of his father who transmitted it liom Anas that verity the Messenger of Allah (ﷺ) said"
+"498","Abu Zubair heard Jabir b. Abdullah reporting it from the Messenger of Allah (ﷺ):For every apostle was a prayer with which he prayed (to his Lord) for his Ummah"
+"499","Abdullah b. Amr b. al-'As reported:Verily the Messenger of Allah (ﷺ) recited the words of Allah"
+"500","Anas reported:Verily"
+"501","Abu Huraira reported:When this verse was revealed:"" And warn thy nearest kindred (al-Qur'an"
+"502","The same hadith is narrated by Ubaidallah b. Umar al-Qawariri from Abu 'Uwana"
+"503","It is narrated on the authority of 'A'isha that when this verse was revealed:"" And warn thy nearest kindred"
+"504","Abu Huraira reported:When (this verse) was revealed to him:"" Warn your nearest kinsmen."" the Messenger of Allah (ﷺ) said: O people of Quraish"
+"505","This hadith is narrated from the Apostle (ﷺ) by another chain of narrators"
+"506","Qabisa b. al-Mukhariq and Zuhair b. 'Amr reported:When this verse was revealed:"" And warn thy nearest kindred"
+"507","This hadith is narrated from the Messenger of Allah (ﷺ) by another chain of narrators"
+"508","It is reported on the authority of Ibn 'Abbas that when this verse was revealed:"" And warn thy nearest kindred"" (and thy group of selected people among them) the Messenger of Allah (ﷺ) set off till he climbed Safa' and called loudly: Be on your guard! They said: Who is it calling aloud? They said: Muhammad. They gathered round him"
+"509","This hadith was narrated by A'mash on the authority of the same chain of narrators and he said:One day the Messenger of Allah (ﷺ) climbed the hill of Safa' and said: Be on your guard"
+"510","It is reported on the authority of 'Abbas b. Abd al-Muttalib that he said:Messenger of Allah"
+"511","Abdullah b. al-Harith reported:I heard Abbas say: I said: Messenger of Allah"
+"512","This hadith is narrated from the Apostle (ﷺ) like one narrated by Abu 'Uwana on the authority of the chain of transmitters like Muhammad b. Hatim"
+"513","Abu Sa'id al-Khudri reported:A mention was made of his uncle Abu Talib before the Messenger of Allah (ﷺ) He said: My intercession may benefit him on the Day of Resurrection and he may be placed in the shallow part of the Fire which would reach his ankles and his brain would be boiling"
+"514","Abu Sa'id al-Khudri reported:Verily"
+"515","Ibn 'Abbas reported:The Prophet (ﷺ) said: Among the inhabitants of the Fire Abu Talib would have the least suffering"
+"516","Nu'man b. Bashir was delivering an address and saying:I heard the Messenger of Allah (ﷺ) say: the least suffering for the inhabitants of Hell on the Day of Resurrection would be for the man under whose soles would be placed two embers and his brain would boil on account of them"
+"517","Nu'man b. Bashir reported:The Messenger of Allah (ﷺ) said: Verily the least suffering for the inhabitants of Fire would be for him who would have two shoes and two laces of Fire (on his feet)"
+"518","A'isha reported:I said: Messenger of Allah"
+"519","Amr b. 'As reported:I heard it from the Messenger of Allah (ﷺ) quite audibly and not secretly: Behold! the posterity of my fathers"
+"520","It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:Seventy thousand (persons) of my Ummah would enter Paradise without rendering an account. Upon this a person said: Messenger of Allah. pray to Allah that He make me one of them. He (the Holy Prophet) said: O Allah! make him one of them. Then another stood up and said: Messenger of Allah"
+"521","Muhammad b. Ziyad reported:I heard Abu Huraira narrate this: I heard it from the Messenger of Allah (ﷺ) saying a hadith like one narrated by al-Rabi"
+"522","Abu Huraira reported:I heard it from the Messenger of Allah (ﷺ) saying: A group of my Ummah consisting of seventy thousand persons would enter Paradise; their faces would be as bright as the brightness of the full moon. Abd Huraira said: 'Ukkasha b. Mihsan al-Asadi then stood up wrapping the blanket around him and said: Messenger of Allah"
+"523","Abu Huraira reported:The Messenger of Allah (ﷺ) said: Seventy thousand (persons) would enter Paradise as one group and among them (there would be people) whom faces would be bright like the moon"
+"524","It is reported on the authority of 'Imran that the Messenger of Allah (ﷺ) said:Seventy thousand people of my Ummah would be admitted into Paradise without rendering any account. They (the companions) said: Who would be of those (fortunate persons)? He (the Holy Prophet) said: Those who do not cauterise and practise charm"
+"525","Imran b. Husain reported:Verily the Messenger of Allah (ﷺ) said: Seventy thousand men of my Ummah would enter Paradise without rendering account. They (the companions of the Holy Prophet) said: Who would be those"
+"526","Abu Hazim narrated it on the authority of Ibn Sa'd that the Messenger of Allah (ﷺ) said:Seventy thousand persons or seven hundred thousand persons (Abu Hazim does not remember the exact number) would enter Paradise holding and supporting one another"
+"527","Husain b. 'Abd al-Rahman reported:I was with Sa'id b. Jubair when he said: Who amongst you saw a star shooting last night? I said: It was I; then I said: I was in fact not (busy) in prayer"
+"528","Ibn 'Abbas reported:The Messenger of Allah (ﷺ) said: Peoples would be presented to me (on the Day of Resurrection)"
+"529","Abdullah b. Mas'ud reported:The Messenger of Allah (ﷺ) addressing us said: Aren't you pleased that you should constitute one-fourth of the inhabitants of Paradise? He (the narrator) said: We glorified (our Lord"
+"530","Abdullah (b. Mas'ud) reported:We"
+"531","Abdullah b Mas'ud reported:The Messenger of Allah (ﷺ) addressed us and then supported his back (by reclining) against a leather tent and said: Behold"
+"532","Abu Sa'id reported:The Messenger of Allah (ﷺ) said: Allah"
+"533","The same hadith has been narrated from A'mash on the authority of the same chain of transmitters with the exception of these words:You would be no more among men (on the Day of Resurrection) but like a white hair on (the body of) a black ox"
+"7369","Uqba b. 'Amr Abu Mas'ud al-Ansari reported:I went to Hudhaifa b. Yaman and said to him: Narrate what you have heard from Allah's Messenger (ﷺ) pertaining to the Dajjal. He said that the Dajjal would appear and there would be along with him water and fire and what the people would see as water that would be fire and that would burn and what would appear as fire that would be water and any one of you who would see that should plunge in that which he sees as fire for it would be sweet"
+"7370","Hudhaifa and Ibn Mas'ud met together. Hudhaifa said:I know more than you as to what there would be along with the Dajjal. There would be along with him two canals (one flowing with water) and the other one (having) fire (within it)"
+"7371","Same as Hadees 7370 \nSahih Muslim Hadees: 7371 Arabic Hadees: 2935"
+"7372","Abu Huraira reported Allah's Messenger (ﷺ) as saying:May I not inform you about the Dajjal what no Apostle of Allah narrated to his people? He would be blind and he would bring along with him an Image of Paradise and Hell-Fire and what he would call as Paradise that would be Hell-Fire and I warn you as Noah warned his people"
+"7373","An-Nawwas b. Sam`an reported that Allah's Messenger (ﷺ) made a mention of the Dajjal one day in the morning. He (ﷺ) sometimes described him to be insignificant and sometimes described (his turmoil) as very significant (and we felt) as if he were in the cluster of the date-palm trees. When we went to him (to the Holy Prophet) in the evening and he read (the signs of fear) in our faces"
+"7374","This hadith has been narrated on the authority of Jabir with the same chain of transmitters but with this addition that Gog and Magog would walk until they would reach the mountain of al-Khamar and it is a mountain of Bait-ul-Maqdis and they would say:We have killed those who are upon the earth. Let us now kill those who are In the sky and they would throw their arrows towards the sky and the arrows would return to them besmeared with blood. And in the narration of Ibn Hujr (the words are):"" I have sent such persons (Gog and Magog) that none would dare fight against them"
+"7375","Abu Sa'id al-Khudri reported that Allah's Messenger (ﷺ) one day gave a detailed account of the Dajjal and in that it was also included:He would come but would not be allowed to enter the mountain passes to Medina. So he will alight at some of the barren tracts near Medina"
+"7376","This hadith has been narrated by Zuhri with the same chain of transmitters"
+"7377","Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:The Dajjal would come forth and a person from amongst the believers would go towards him and the armed men of the Dajjal would meet him and they would say to him: Where do you intend to go? He would say: I intend to go to this one who is coming forth. They would say to him: Don't you believe in our Lord? He would say: There is nothing hidden about our Lord. They would say: Kill him. Then some amongst them would say: Has your master (Dajjal) not forbidden you to kill anyone without (his consent)? And so they would take him to the Dajjal and when the believer would see him"
+"7378","Mughira b. Shu'ba reported:No one asked Allah's Messenger (ﷺ) more about Dajjil than I asked him. He said: He should not be a source of worry to you for he would not be able to do any harm to you. I said: Allah's Messenger"
+"7379","Mughira b. Shu'ba reported that none asked Allah's Apostle (ﷺ) about Dajjal more than I asked him. I (one of the narrators other than Mughira b. Shu'ba) said:What did you ask? Mughira replied: I said that the people alleged that he would have a mountain load of bread and mutton and rivers of water. Thereupon he said: He would be more insignificant in the eye of Allah compared with all this"
+"7380","This hadith has been narrated on the authority of Isma'il through other chains of transmitters with a slight variation of wording"
+"7381","Abdullah b. 'Amr reported that a person came to him and said:What is this hadith that you narrate that the Last Hour would come at such and such time? Thereupon he said: Hallowed be Allah"
+"7382","Ya'qub b. 'Asim b. Urwa b. Mas'ud reported:I heard a person saying to 'Abdullah b. Amr: You say that the Last Hour would come at such and such time"
+"7383","Abdullah b. `Amr reported:I committed to memory a hadith from Allah's Messenger (ﷺ) and I did not forget it after I had heard Allah's Messenger (ﷺ) as saying: The first sign (out of the signs of the appearance of the Dajjal) would be the appearance of the sun from the west"
+"7384","Abu Zur'a reported that three persons amongst Muslims had been sitting in Medina in the presence of Marwan b. Hakam and they heard him narrate these signs from him and the first amongst them was the appearance of the Dajjal. 'Abdullah b. 'Amr reported that Marwin said nothing (particular in this connection). I"
+"7385","Abu Zur'a reported that there was a discussion in the presence of Marwan about the Last Hour"
+"7386","Amir b. Sharahil Sha'bi Sha'b Hamdan reported that he asked Fatima"
+"7387","Al-Sha'bi reported:We visited Fatima b. Qais and she served us fresh dates which are called rutab and she also served us barley. I asked her about that woman in whose case three divorces had been pronounced as to how much time she should count as the waiting period. She said: My husband pronounced three divorces in my case and Allah's Messenger (ﷺ) permitted me to spend any waiting period in my family. (It was during this period) that announcement was made for the people to observe prayer in the bigger Mosque. I went there along with people and I was in the front row meant for women and it was adjacent to the last row of men and I heard Allah's Messenger (ﷺ) deliver sermon sitting on the pulpit. He said: The cousin of Tamim (Dari) sailed in the ocean. The rest of the hadith is the same but with this addition:"" (I see) as if I am looking to Allah's Apostle (ﷺ) pointing his rod towards the land (and saying): It is Taiba"
+"7388","Tamim Dari came to Allah's Messenger (ﷺ) and informed Allah's Messenger (ﷺ) that he sailed in an ocean and his ship lost direction and thus landed at an island. They moved about in that land in search of water. There they saw a person who had been pulling his hair. The rest of the hadith is the same. And he (Dajjal) said:If I were to be permitted to set out I would have covered all the lands except Taiba. Then Allah's Messenger (ﷺ) brought (Tamim Dari) before the public and he narrated to them and said: That is Taiba and that is the Dajjal"
+"7389","Fatima b. Qais reported that Allah's Messenger (ﷺ) sat on the pulpit and said:O people"
+"7390","Anas b. Malik reported that Allah's Messenger (ﷺ) said:There will be no land which would not be covered by the Dajjal but Mecca and Medina"
+"7391","This hadith has been transmitted on the authority of Anas that Allah's Messenger (ﷺ) said this but with this addition that (the Dajjal would come) and pitch his tent in the waste-land of Juruf and thus there would come out of (the city) every hypocrite"
+"7392","Anas b. Malik reported that Allah's Messenger (ﷺ) said:The Dajjal would be followed by seventy thousand Jews of Isfahan wearing Persian shawls"
+"7393","Umm Sharik reported:I heard Allah's Messenger (ﷺ) as saying: The people would run away from the Dajjal seeking shelter in the mountains. She said: Where would be the Arabs then in that day? He said: They would be small in number"
+"7394","This hadith has been narrated on the authority of Ibn Juraij with the same chain of transmitters"
+"7395","Abu Qatada reported:We used to go to Imran b. Husain passing in front of Hisham b. 'Amir. He"
+"7396","This hadith has been transmitted on the authority of 'Imran b. Husain with a slight variation of wording"
+"7397","Abu Huraira reported Allah's Messenger (ﷺ) having said:Hasten to do good deeds before six things happen: the rising of the sun from the west"
+"7398","Abu Huraira reported Allah's Messenger (ﷺ) as saying:Hasten in performing these good deeds (before these) six things (happen): (the appearance) of the Dajjal"
+"7400","Ma'qil b. Yasar reported Allah's Apostle (ﷺ) as saying:Worshiping during the period of widespread turmoil is like emigration towards me"
+"7401","The previous hadith is narrated through Abu Kamil from Hammad with the same chain"
+"7402","Abdullah reported Allah's Apostle (ﷺ) as saying:The Last Hour would affect (most terribly) the wicked persons"
+"7403","This hadith has been reported by Sahl b. Sa'd that he heard Allah's Messenger (ﷺ) as saying:I and the Last Hour are (close to each other) like this (and he"
+"7404","Anas b. Malik reported that Allah's Messenger (way peace be upon him) said:I and the Last Hour have been sent like this. Shu'ba said: I heard Qatada as saying in his narration: The excellence of one over the other. And I do not know whether he narrated it from Anas or Qatada himself said so"
+"7406","This hadith has been narrated on the authority of Anas through another chain of transmitters"
+"7407","Anas reported Allah's Apostle (ﷺ) as saying like this"
+"7408","Anas reported Allah's Messenger (ﷺ) as saying:I and the Last Hour have been sent like this and (he while doing it) joined the forefinger with the middle finger"
+"7410","Anas reported that a person asked Allah's Messenger (ﷺ) as to when the Last Hour would come. He had in his presence a young boy of the Ansar who was called Muhammad. Allah's Messenger (ﷺ) said:If this young boy lives"
+"7411","Anas b. Malik reported that a person asked Allah's Apostle (ﷺ):When would the Last Hour come? Thereupon Allah's Messenger (way peace be upon him) kept quiet for a while. Then looked at a young boy in his presence belonging to the tribe of Azd Shanu'a and he said: If this boy lives he would not grow very old till the Last Hour would come to you. Anas said that this young boy was of our age during those days"
+"7412","Anas reported:A young boy of Mughira b. Shu'ba happened to pass by (the Holy Prophet) and he was of my age. Thereupon Allah's Apostle (ﷺ) said: If he lives long he would not grow very old till the Last Hour would come (to the old people of this generation)"
+"7413","Abu Huraira reported Allah's Messenger (ﷺ) as saying:The Last Hour would come (so sudden) that a person would be milking the she- camel and the (milk) would not reach the brim of the vessel that the Last Hour would come"
+"7414","Abu Huraira reported Allah's Messenger (ﷺ) as saying:Between the two blowings of the trumpet (there would be an interval of forty). They said: Abu Huraira"
+"7415","Abu Huraira reported Allah's Messenger (ﷺ) as saying:The earth would consume all of the son of Adam except his tailbone. From it he was created"
+"7416","Abu Huraira reported so many ahadith from Allah's Apostle (ﷺ) and amongst these one was this that Allah's Messenger (ﷺ) said:There is a bone in the human being which the earth would never consume and it is from this that new bodies would be reconstituted (on the Day of Resurrection). They said: Allah's Messenger"
+"7417","Abu Huraira reported Allah's Messenger (ﷺ) as saying:The world is a prison-house for a believer and Paradise for a non-believer"
+"7418","Jabir b. Abdullah reported that Allah's Apostle (ﷺ) happened to walk through the bazar coming from the side of 'Aliya and the people were on both his sides. There he found a dead lamb with very short ears. He took hold of his ear and said:Who amongst you would like to have this for a dirham? They said: We do not like to have it even for less than that as it is of no use to us. He said: Do you wish to have it (free of any cost)? They said: By Allah"
+"7419","Jabir reported Allah's Apostle (ﷺ) narrating a hadith like this with a slight variation of wording"
+"7420","Mutarrif reported on the authority of his father:I came to Allah's Apostle (ﷺ) as he was reciting:"" Abundance diverts you"" (cii. 1). He said: The son of Adam claims: My wealth"
+"7421","Mutarrif reported on the authority of his father:I went to Allah's Apostle (ﷺ). The rest of the hadith is the same"
+"7422","Abu Huraira reported Allah's Messenger (ﷺ) as saying:A servant says"
+"7423","This hadith has been narrated on the authority of al-'Ala' b. 'Abd al-Rahman with the same chain of transmitters"
+"7424","Anas b. Malik reported Allah's Messenger (ﷺ) as saying:Three things follow the bier of a dead man. Two of them come back and one is left with him: the members of his family"
+"7425","Amr b. `Auf"
+"7427","Abdullah b. `Amr b. al-`As reported that Allah's Messenger (ﷺ) said:How would you be"
+"7428","Abu Huraira reported that Allah's Messenger (ﷺ) said:When one of you looks at one who stands at a higher level than you in regard to wealth and physical structure he should also see one who stands at a lower level than you in regard to these things (in which he stands) at a higher level (as compared to him)"
+"7429","This hadith has been narrated on the authority of Abu Huraira through another chain of transmitters"
+"7430","Abu Huraira reported Allah's Messenger (ﷺ) as saying:Look at those who stand at a lower level than you but don't look at those who stand at a higher level than you"
+"7431","Abu Huraira"
+"7432","It is reported on the authority of Amir b. Sa'd that Sa'd b. Abi Waqqas was in the fold of his camels that his son 'Umar came to him. When Sa'd saw him he said:I seek refuge with Allah from the mischief of this rider. And as he got down he said to him: You are busy with your camels and your sheep and you have abandoned people who are contending with one another for kingdom. Sa'd struck his chest and said: Keep quite. I heard Allah's Messenger (ﷺ) as saying: Allah loves the servant who is God-conscious and is free from want and is hidden (from the view of people)"
+"7433","Sa'd b. Abu Waqqas is reported to have"
+"7434","This hadith has been narrated on the authority of Isma'il b. Khalid with the same chain of transmitters and the words are:"" One amongst us would relieve himself as the goats do without anything mixing with its excrement"
+"7435","Umair al-'Adawi reported:'Utba b. Ghazwan delivered us a sermon and he praised Allah and lauded Him"
+"7436","Khalid b. 'Umair reported and he had seen the pre-Islamic days also"
+"7437","Khalid b. Umair reported:I heard Uqba b. Ghazwan as saving: I found myself as the seventh amongst the seven who had been along with Allah's Messenger (ﷺ). We had nothing to eat but the leaves of hubla (a wild tree) until the corners of our mouths were injured"
+"7438","Abu Huraira reported that they (the Companions of the Holy Prophet) said:Allah's Messenger"
+"7439","Anas b. Malik reported:We were in the company of Allah's Messenger (ﷺ) when he smiled"
+"7440","Abu Huraira reported Allah's Messenger (ﷺ) as saying:O Allah"
+"7441","Abu Huraira reported Allah's Messenger (ﷺ) as saying:0 Allah"
+"7442","Umara b. al-Qa'qa' reported this hadith with the same chain of transmitters but instead of the word"" qut"" (bare subsistence) there has been used the word"" Kafaf"" (adequate means to meet the needs)"
+"7443","A'isha reported:Never had the family of Muhammad (ﷺ) eaten to the fill since their"
+"7445","A'isha reported:Never did the family of Muhammad (ﷺ) eat to the fill the bread of barley for two successive days until Allah's Messenger (ﷺ) died"
+"7446","A'isha reported:Never could the family of Muhammad (ﷺ) (afford to eat to the fill) the bread of wheat beyond three days (successively)"
+"7447","A'isha reported:\nNever could the family of Muhammad (may peace. be upon him) (afford to eat) the bread of wheat for three (successive days) until he ran the course of his life \nSahih Muslim Hadees: 7447 Arabic Hadees: 2970"
+"7448","A'isha reported:\nNever could the family of Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) (afford to eat) the bread of wheat for two days successively. Even (out of these two days) one (was such wherein he could get) only a date. \nSahih Muslim Hadees: 7448 Arabic Hadees: 2971"
+"7449","A'isha reported:\nWe the family of Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) used to spend (the whole) month in which we (did not need to) kindle the fire as (we had nothing to cook) ; we had only dates and water (to fill our bellies). \nSahih Muslim Hadees: 7449 Arabic Hadees: 2972"
+"7450","This hadith has been narrated on the authority of 'Urwa with the same chain of transmitters (and the words are):\n   We used to spend-   And he did not make a mention of the family of Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), and Abu Kuraib made this addition to his hadith which was transmitted on the authority of Ibn Numair (and the words are):   But this that there was brought to us some meat.   \nSahih Muslim Hadees: 7450 Arabic Hadees: 2972"
+"7451","`A'isha reported that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) died (in such a state) that there had been nothing in my wooden tub which a living being could afford to eat but a handful of barley. I had been eating out of that for a fairly long duration when I thought of measuring it and it was almost finished.\n \nSahih Muslim Hadees: 7451 Arabic Hadees: 2973"
+"7452","A'isha used to say to 'Urwa:\nSon of my sister, by Allah, I used to see the new moon, then the new moon, then the new moon, i. e. three moons in two months, and fire was not kindled in the house of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). I ('Urwa) said: Auntie, then what were your means of sustenance? She said: Dates and water. But it (so happened) that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had some Ansar as his neighbours and they had milch animals and they used to send to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) some milk of their (animals) and he served that to us. \nSahih Muslim Hadees: 7452 Arabic Hadees: 2972"
+"7453","Urwa b. Zubair reported on the authority of 'A'isha, the wife of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), that she said:\nAllah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) died (in a state) that it never happened that he could eat to his fill the bread with olive oil twice during a day. \nSahih Muslim Hadees: 7453 Arabic Hadees: 2974"
+"7454","A'isha reported this hadith through other chains of transmitters also (and the words are) that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) died (in a state) when the people could afford to eat only the dates and water.\n \nSahih Muslim Hadees: 7454 Arabic Hadees: 2975"
+"7455","A'isha reported that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had died in a state that they could afford to eat two things only:\nwater and dates. \nSahih Muslim Hadees: 7455 Arabic Hadees: 2975"
+"7456","This hadith has been transmitted on the authority of Sufyan and the words are:\n   We could not afford to eat to the fill even dates and water.   \nSahih Muslim Hadees: 7456 Arabic Hadees: 2975"
+"7457","Abu Huraira reported:\nBy Him in Whose Hand is my life and Ibn 'Abbad also said: By One in Whose hand is the life of Abu Huraira, Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) could not afford to provide adequate food to his family which could (fill their bellies) with bread and wheat for three days successively until he left the world. \nSahih Muslim Hadees: 7457 Arabic Hadees: 2976"
+"7458","Abu Hazim reported:\nI saw Abu Huraira point with his finger many a time and saying: By One in Whose Hand is the life of Abu Huraira, Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) could not eat to his fill and provide his family bread of wheat beyond three days successively until he left the world. \nSahih Muslim Hadees: 7458 Arabic Hadees: 2976"
+"7459","Nu'man b. Bashir said:\nDon't you eat and drink according to your heart's desire, whereas I saw that your Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) (at times) could not find even an inferior quality of the dates with which he could fill his belly? Qutaiba, however, did not make a mention of It. \nSahih Muslim Hadees: 7459 Arabic Hadees: 2977"

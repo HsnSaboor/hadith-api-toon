@@ -1,57 +1,69 @@
-hadiths[56]{hadithnumber,text}:
-4342,1669.01
-4343,1669.02
-4344,1669.03
-4345,1669.04
-4346,1669.05
-4347,1669.06
-4348,1669.07
-4349,1669.08
-4350,1670.01
-4351,1670.02
-4352,1670.03
-4353,1671.01
-4354,1671.02
-4355,1671.03
-4356,1671.04
-4357,1671.05
-4358,1671.06
-4359,1671.07
-4360,1671.08
-4361,1672.01
-4362,1672.02
-4363,1672.03
-4364,1672.04
-4365,1672.05
-4366,1673.01
-4367,1673.02
-4368,1673.03
-4369,1674.01
-4370,1673.04
-4371,1674.02
-4372,1674.03
-4373,1674.04
-4374,1675
-4375,1676.01
-4376,1676.02
-4377,1676.03
-4378,1676.04
-4379,1677.01
-4380,1677.02
-4381,1678.01
-4382,1678.02
-4383,1679.01
-4384,1679.02
-4385,1679.03
-4386,1679.04
-4387,1680.01
-4388,1680.02
-4389,1681.01
-4390,1681.02
-4391,1681.03
-4392,1681.04
-4393,1682.01
-4394,1682.02
-4395,1682.03
-4396,1682.04
-4397,1683
+hadiths[68]{hadithnumber,text}:
+"4212","Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Al Hasan bin Musa] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Simak bin Harb] telah menceritakan kepadaku [Mush'ab bin Sa'd] dari [Ayahnya] dia berkata"
+"4214","Dan telah menceritakan kepadaku [Al Qasim bin Zakaria] telah menceritakan kepada kami [Hunain bin Ali] dari [Zaidah] dari [Abdul Malik bin 'Umair] dari [Mush'ab bin Sa'd] dari [Ayahnya] dia berkata"
+"4215","Telah menceritakan kepada kami [Muhammad bin Abu Umar Al Makki] telah menceritakan kepada kami [Ats Tsaqafi] dari [Ayyub As Sakhtiyani] dari ['Amru bin Sa'id] dari [Humaid bin Abdurrahman Al Himyari] dari [ketiga anak Sa'd] semuanya telah menceritakan kepadanya dari [Ayahnya]"
+"4218","Telah menceritakan kepadaku [Ibrahim bin Musa Ar Razi] telah mengabarkan kepada kami [Isa] -yaitu Ibnu Yunus-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Numair] semuanya dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Ibnu Abbas] dia berkata"
+"4219","Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ali bin Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- dari [Al 'Ala'] dari [Ayahnya] dari [Abu Hurairah]"
+"4220","Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam bin 'Urwah] telah mengabarkan kepadaku [Ayahku] dari ['Aisyah]"
+"4222","Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Hisyam] dari [Ayahnya] dari ['Aisyah]"
+"4223","Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] -yaitu Ibnu Sa'id- dan [Ibnu Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- dari [Al 'Ala'] dari [Ayahnya] dari [Abu Hurairah]"
+"4224","Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Sulaim bin Ahdlar] dari [Ibnu 'Aun] dari [Nafi'] dari [Ibnu Umar] dia berkata"
+"4227","Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Abdurrahman bin Mahdi] dari [Malik bin Mi'wal] dari [Thalhah bin Musharif] dia berkata"
+"4229","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dan [Abu Mu'awiyah] dari [Al A'masy]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Ayahku] dan [Abu Mu'awiyah] keduanya berkata; telah menceritakan kepada kami [Al A'masy] dari [Abu Wail] dari [Masruq] dari ['Aisyah] dia berkata"
+"4231","Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan ini adalah lafadz Yahya"
+"4232","Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] dan ['Amru An Naqid] dan ini lafadz Sa'id"
+"4233","Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Waki'] dari [Malik bin Mighwal] dari [Thalhah bin Musharif] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa dia pernah berseru"
+"4234","Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abd bin Humaid]"
+"4236","Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Muhammad bin Rumh bin Muhajir] keduanya berkata; telah mengabarkan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] bahwa dia berkata"
+"4237","Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Ishaq bin Ibrahim] dan Ishaq berkata; telah mengabarkan kepada kami"
+"4238","Telah menceritakan kepada kami Muhammad bin Yahya telah menceritakan kepada kami [Yazid bin Abu Hakim] dari [Sufyan] dari [Abdullah bin Dinar] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam"
+"4239","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Mutsanna] dan [Ibnu Basysyar] dan ini adalah lafadz Ibnu Mutsanna"
+"4241","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz] -yaitu Ad Darawardi- dari [Al 'Ala'] dari [Ayahnya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Janganlah kalian bernadzar"
+"4242","Dan telah menceritakan kepada kami [Muhammad bin Mutsanna] dan [Ibnu Basysyar] keduanya berkata"
+"4243","Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] serta [Ali bin Hujr] mereka berkata"
+"4245","Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ali bin ujr As Sa'di] sedangkan lafadznya dari Zuhair keduanya berkata"
+"4247","Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Humaid] dari [Tsabit] dari [Anas]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu Umar] dan ini adalah lafadz dia"
+"4248","Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- dari ['Amru] -yaitu Ibnu Abu 'Amru- dari [Abdurrahman Al A'raj] dari [Abu Hurairah]"
+"4251","Dan telah menceritakan kepada kami [Zakaria bin Yahya bin Shalih Al Mishri] telah menceritakan kepada kami [Al Mufadlal] -yaitu Ibnu Fadlalah- telah menceritakan kepadaku [Abdullah bin 'Ayyasy] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin Amir] bahwa dia berkata"
+"4252","Dan telah menceritakan kepada kami [Zakaria bin Yahya bin Shalih Al Mishri] telah menceritakan kepada kami [Al Mufadlal] -yaitu Ibnu Fadlalah- telah menceritakan kepadaku [Abdullah bin 'Ayyasy] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin Amir] bahwa dia berkata"
+"4253","Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] dan [Yunus bin Abdul A'la] dan [Ahmad bin Isa]"
+"4255","Telah menceritakan kepadau [Abu At Thahir Ahmad bin 'Amru bin Sarh] telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [ayahnya] dia berkata; aku mendengar [Umar bin Khattab] berkata"
+"4257","Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] sedangkan lafadznya dari dia"
+"4259","Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] serta [Qutaibah] dan [Ibnu Hujr]"
+"4261","Telah menceritakan kepadaku [Abu At Thahir] telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Humaid bin Abdurrahman bin 'Auf] bahwa [Abu Hurairah] berkata"
+"4262","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la] dari [Hisyam] dia berkata"
+"4263","Telah menceritakan kepada kami [Khalf bin Hisyam] dan [Qutaibah bin sa'id] dan [Yahya bin Habib Al Haritsi] dan ini adalah lafadz Half"
+"4264","Telah menceritakan kepada kami [Abdullah bin Barrad Al Asy'ari] dan [Muhammad bin Al 'Ala' Al Hamdani] dan lafadznya saling berdekatan"
+"4265","Telah menceritakan kepadaku [Abu Rabi' Al Ataki] telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- dari [Ayyub] dari [Abu Qilabah] dan dari [Qasim bin 'Ashim] dari [Zahdam Al Jarmi] -Ayyub berkata; dan aku lebih hafal dengan hadits Abu Qilabah- dia berkata"
+"4342","Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Yahya] -yaitu Ibnu Sa'id- dari [Busyair bin Yasar] dari [Sahal bin Abu Hatsmah] - [Yahya] berkata; dan aku mengira dia berkata- dari [Rafi' bin Khadij] bahwa keduanya berkata"
+"4343","telah menceritakan kepadaku ['Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Busyair bin Yasar] dari [Sahl bin Abu Hatsmah] dan [Rafi' bin Khadij]"
+"4346","Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman bin Bialal] dari [Yahya bin Sa'id] dari [Busyair bin Yasar]"
+"4349","Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Bisr bin Umar] dia berkta; aku pernah mendengar [Malik bin Anas] berkata; telah menceritakan kepadaku [Abu Laila Abdullah bin Abdurrahman bin Sahal] dari [Sahal bin Abu Hatsmah]"
+"4350","Telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah bin Yahya] dia berkata; Abu Thahir mengatakan; telah menceritakan kepada kami"
+"4353","Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dab [Abu Bakar bin Abu Syaibah] keduanya dari [Husyaim] dan ini adalah lafadz Yahya"
+"4354","Telah menceritakan kepada kami [Abu Ja'far Muhammad bin As Shabah] dan [Abu Bakar bin Abu Syaibah] dan ini adalah lafadz Abu Bakar"
+"4360","Telah menceritakan kepadaku [Al Fadl bin Sahal Al A'raj] telah menceritakan kepada kami [Yahya bin Ghailan] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Sulaiman At Taimi] dari [Anas] dia berkata"
+"4361","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar] dan ini adalah lafadz Ibnu Mutsanna"
+"4363","Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] dari [Abu Qilabah] dari [Anas]"
+"4365","Dan telah menceritakan kepada kami [Haddab bin Khalid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Anas bin Malik]"
+"4366","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Zurarah] dari ['Imran bin Hushain] dia berkata"
+"4368","Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Mu'adz] -yaitu Ibnu Hisyam- telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Zurarah bin Aufa] dari ['Imran bin Hushain]"
+"4369","Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Budail] dari ['Atha bin Abu Rabah] dari [Shafwan bin Ya'la]"
+"4370","Telah menceritakan kepada kami [Ahmad bin Utsman An Naufali] telah menceritakan kepada kami [Quraiys bin Anas] dari [Ibnu 'Aun] dari [Muhammad bin Sirin] dari ['Imran bin Hushain]"
+"4371","Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami ['Atha] dari [Shafwan bin Ya'la bin Munabbih] dari [Ayahnya] dia berkata"
+"4372","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Ibnu Juraij] telah menceritakan kepadaku ['Atha] telah menceritakan kepadaku [Shafwan bin Ya'la bin Umayyah] dari [Ayahnya] dia berkata"
+"4374","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Tsabit] dari [Anas]"
+"4375","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dan [Abu Mu'awiyah] dan [Waki'] dari [Al A'masy] dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah] dia berkata"
+"4377","Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Muhammad bin Al Mutsanna] dan ini adalah lafadz Ahmad"
+"4379","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Abdullah bin Numair] dan ini adalah lafadz Ibnu Abu Syaibah"
+"4382","Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan [Muhammad bin Abdullah bin Numair] semuanya dari [Waki'] dari [Al A'masy]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Abdah bin Sulaiman] dan [Waki'] dari [Al A'masy] dari [Abu Wa`il] dari [Abdullah] dia berkata"
+"4383","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Yahya bin Habib Al Haristi] sedangkan lafadznya saling berdekatan"
+"4384","Telah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Abdullah bin 'Aun] dari [Muhammad bin Sirin] dari [Abdurrahman bin Abu Bakrah] dari [Ayahnya] dia berkata"
+"4387","Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Abu Yunus] dari [Simak bin Harb] bahwa ['Alqamah bin Wa`il] telah menceritakan kepadanya"
+"4388","Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Sa'id bin Sulaiman] telah menceritakan kepada kami [Husyaim] telah menceritakan kepada kami [Isma'il bin Salim] dari ['Alqamah bin Wa`il] dari [Ayahnya] dia berkata"
+"4389","Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku membacakan di hadapan [Malik]; dari [Ibnu Syihab] dari [Abu Salamah] dari [Abu Hurairah]"
+"4390","Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Ibnu Musayyab] dari [Abu Hurairah] bahwa dia berkata"
+"4391","Telah menceritakan kepadaku [Abu At Thahir] telah menceritakan kepada kami [Ibnu Wahb]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harmalah bin Yahya At Tajibi] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] dari [Ibnu Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata"
+"4393","Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari ['Ubaid bin Nudlailah Al Khuza'i] dari [Mughirah bin Syu'bah] dia berkata"
+"4394","Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Mufadlal] dari [Manshur] dari [Ibrahim] dari ['Ubaid bin Nushailah] dari [Mughirah bin Syu'bah]"
+"4397","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan [Ishaq bin Ibrahim] dan ini adalah lafadz Abu Bakar. [Ishaq] berkata; telah mengabarkan kepada kami"

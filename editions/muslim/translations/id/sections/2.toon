@@ -1,144 +1,174 @@
-hadiths[143]{hadithnumber,text}:
-534,223
-535,224.01
-536,224.02
-537,225
-538,226.01
-539,226.02
-540,227.01
-541,227.02
-542,227.03
-543,228
-544,229
-545,230
-546,231.01
-547,231.02
-548,232.01
-549,232.02
-550,233.01
-551,233.02
-552,233.03
-553,234.01
-554,234.02
-555,235.01
-556,235.02
-557,235.03
-558,235.04
-559,236
-560,237.01
-561,237.02
-562,237.03
-563,237.04
-564,238
-565,239
-566,240.01
-567,240.02
-568,240.03
-569,240.04
-570,241.01
-571,241.02
-572,241.03
-573,242.01
-574,242.02
-575,242.03
-576,243
-577,244
-578,245
-579,246.01
-580,246.02
-581,247.01
-582,247.02
-583,248
-584,249.01
-585,249.02
-586,250
-587,251.01
-588,251.02
-589,252
-590,253.01
-591,253.02
-592,254
-593,255.01
-594,255.02
-595,255.03
-596,256
-597,257.01
-598,257.02
-599,258
-600,259.01
-601,259.02
-602,259.03
-603,260
-604,261.01
-605,261.02
-606,262.01
-607,262.02
-608,263
-609,264
-610,265
-611,266.01
-612,266.02
-613,267.01
-614,267.02
-615,267.03
-616,268.01
-617,268.02
-618,269
-619,270
-620,271.01
-621,271.02
-622,272.01
-623,272.02
-624,273.01
-625,273.02
-626,274.01
-627,274.02
-628,274.03
-629,274.04
-630,274.05
-631,274.06
-632,274.07
-633,274.08
-634,274.09
-635,274.10
-636,274.11
-639,276.01
-640,276.02
-641,276.03
-642,277
-643,278.01
-644,278.02
-645,278.03
-646,278.04
-647,278.05
-648,279.01
-649,279.02
-650,279.03
-651,279.04
-652,279.05
-653,280.01
-654,280.02
-655,281
-656,282.01
-657,282.02
-658,283
-659,284.01
-660,284.02
-661,285
-662,286.01
-663,286.02
-664,286.03
-665,287.01
-666,287.02
-667,287.03
-668,288.01
-669,288.02
-670,288.03
-671,288.04
-672,289.01
-673,289.02
-674,290
-675,291.01
-676,291.02
-677,292.01
-678,292.02
+hadiths[173]{hadithnumber,text}:
+"442","Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Zakariya'] dari [Ibnu Asywa'] dari [Amir] dari [Masruq] dia berkata"
+"443","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Yazid bin Ibrahim] dari [Qatadah] dari [Abdullah bin Syaqiq] dari [Abu Dzar] dia berkata"
+"444","Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepada kami [bapakku]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Hajjaj bin asy-Sya'ir] telah menceritakan kepada kami [Affan bin Muslim] telah menceritakan kepada kami [Hammam] keduanya dari [Qatadah] dari [Abdullah bin Syaqiq] dia berkata"
+"445","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata"
+"447","Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata"
+"448","Telah menceritakan kepada kami [Nashr bin Ali al-Jahdlami] dan [Abu Ghassan al-Masma'i] dan [Ishaq bin Ibrahim] semuanya dari [Abdul Aziz bin Abd ash-Shamad] dan lafazh tersebut milik Ghassan. Dia berkata"
+"449","Telah menceritakan kepada kami [Ubaidullah bin Maisarah] dia berkata"
+"451","Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Bapakku] dari [Ibnu Syihab] dari [Atha' bin Yazid al-Laitsi] bahwa [Abu Hurairah] mengabarkan kepadanya"
+"453","Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata"
+"454","Dan telah menceritakan kepadaku [Suwaid bin Sa'id] dia berkata"
+"457","Dan telah menceritakan kepadaku [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahb] dia berkata"
+"459","Dan telah menceritakan kepadaku [Nashr bin Ali al-Jahdlami] telah menceritakan kepada kami [Bisyr] -yaitu Ibnu al-Mufadldlal- dari [Abu Maslamah] dari [Abu Nadlrah] dari [Abu Sa'id] dia berkata"
+"461","Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim al-Hanzhali] keduanya meriwayatkan dari [Jarir]"
+"462","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan lafzhnya milik Abu Kuraib keduanya berkata"
+"463","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit] dari [Anas] dari [Ibnu Mas'ud] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Orang yang terakhir kali masuk surga adalah seorang laki-laki"
+"464","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Abu Bukair] telah menceritakan kepada kami [Zuhair bin Muhammad] dari [Suhail bin Abu Shalih] dari [an-Nu'man bin Abu 'Ayyasy] dari [Abu Sa'id al-Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sesungguhnya penghuni surga yang paling rendah kedudukannya adalah orang yang dipalingkan wajahnya dari neraka ke arah surga"
+"465","Telah menceritakan kepada kami [Sa'id bin Amru Al Asy'atsi] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Mutharrif] dan [Ibnu Abjar] dari [Asy Sya'bi] dia berkata; aku mendengar dari [Al Mughirah bin Syu'bah] insyaallah secara periwayatan. (dalam jalur lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Mutharrif bin Tharif] dan [Abdul Malik bin Sa'id] keduanya mendengar [Asy Sya'bi] mengabarkan dari [Al Mughirah bin Syu'bah] dia berkata"
+"469","Telah menceritakan kepadaku [Ubaidulah bin Sa'id] dan [Ishaq bin Manshur] keduanya meriwayatkan dari [Rauh] [Ubaidullah] berkata"
+"470","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru] dia mendengar [Jabir] menceritakan apa yang dia dengar dari Nabi shallallahu 'alaihi wasallam dengan telinganya"
+"471","Telah menceritakan kepada kami [Abu ar-Rabi'] telah menceritakan kepada kami [Hammad bin Zaid] dia berkata"
+"473","Dan telah menceritakan kepada kami [Hajjaj bin asy-Syair] telah menceritakan kepada kami [al-Fadll bin Dukain] telah menceritakan kepada kami [Abu 'Ashim] -yaitu Muhammad bin Abu Ayyub- dia berkata"
+"474","Telah menceritakan kepada kami [Haddab bin Khalid al-Azdi] telah menceritakan kepada kami [Hammad bin Salamah] dari [Abu Imran] dan [Tsabit] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Ada empat manusia yang keluar dari neraka"
+"478","Dan telah menceritakan kepada kami [Muhammad bin Minhal adl-Dlarir] telah menceritakan kepada kami [Yazid bin zurai'] telah menceritakan kepada kami [Sa'id bin Abu 'Arubah] dan [Hisyam] kawan ad-Dastawai"
+"479","Telah menceritakan kepada kami [Abu ar-Rabi' al-'Ataki] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ma'bad bin Hilal al-'Anazi] -pada jalur lain"
+"480","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Abdullah bin Numair] dan keduanya bersepakat dalam susunan kalimat hadits"
+"483","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ishaq bin Ibrahim] berkata [Qutaibah] telah menceritakan kepada kami [Jarir] dari [al-Mukhtar bin Fulful] dari [Anas bin Malik] dia berkata"
+"484","Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala'] telah menceritakan kepada kami [Mu'awiyah bin Hisyam] dari [Sufyan] dari [Mukhtar bin Fulful] dari [Anas bin Malik] dia berkata"
+"485","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Za'idah] dari [al-Mukhtar bin Fulful] dia berkata; [Anas bin Malik] berkata"
+"486","Dan telah menceritakan kepadaku [Amru an-Naqid] dan [Zuhair bin Harb] keduanya berkata"
+"487","Telah menceritakan kepadaku [Yunus bin Abdul A'la] telah mengabarkan kepada kami [Abdullah bin Wahab] dia berkata"
+"488","Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Abd bin Humaid]"
+"490","Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Amru bin Abu Sufyan bin Asid bin Jariyah ats-Tsaqafi] telah mengabarkan kepadanya"
+"491","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan lafazh tersebut milik Abu Kuraib"
+"492","Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Umarah] -yaitu Ibnu al-Qa'qa'- dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata"
+"493","Telah menceritakan kepada kami [Ubaidullah bin Mu'adz al-Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Muhammad] -yaitu Ibnu Ziyad- dia berkata"
+"494","Telah menceritakan kepadaku [Abu Ghassan al-Misma'i] dan [Muhammad bin al-Mutsanna] serta [Ibnu Basysyar] telah menceritakan kepada kami"
+"498","Dan telah menceritakan kepada kami [Muhammad bin Ahmad bin Abu Khalaf] telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Ibnu Juraij] dia berkata"
+"499","Telah menceritakan kepada kami [Yunus bin Abdul A'la ash-Shadafi] telah mengabarkan kepada kami [Ibnu Wahb] dia berkata"
+"500","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwa seorang laki-laki bertanya"
+"501","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb] keduanya berkata"
+"503","Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Waki'] dan [Yunus bin Bukair] keduanya berkata"
+"504","Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] dia berkata"
+"506","Telah menceritakan kepada kami [Abu Kamil al-Jahdari] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [at-Taimi] dari [Abu Utsman] dari [Qabishah bin al-Mukhariq] dan [Zuhair bin Amru] keduanya berkata"
+"508","Dan telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala] telah menceritakan kepada kami [Abu Usamah] dari [al-A'masy] dari [Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata"
+"510","Dan telah menceritakan kepada kami [Ubaidullah bin Umar al-Qawariri] dan [Muhammad bin Abu Bakar al-Muqaddami] serta [Muhammad bin Abdul Malik al-Umawi] mereka berkata"
+"511","Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abdul Malik bin Umair] dari [Abdullah bin al-Harits] dia berkata"
+"513","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu al-Had] dari [Abdullah bin Khabbab] dari [Abu Sa'id al-Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam pernah disebutkan di sisinya tentang pamannya"
+"514","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Abu Bukari] telah menceritakan kepada kami [Zuhair bin Muhammad] dari [Suhail bin Abu Shalih] dari [an-Nu'man bin Abu Ayyasy] dari [Abu Sa'id al-Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sungguh"
+"515","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit] dari [Abu Utsman an-Nahdi] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Penduduk neraka yang siksanya paling ringan adalah Abu Thalib"
+"516","Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] dan lafazh tersebut milik Ibnu al-Mutsanna"
+"517","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [al-A'masy] dari [Abu Ishaq] dari [an-Nu'man bin Basyir] dia berkata"
+"518","Telah menceritakan kepadaku [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafs bin Ghiyats] dari [Dawud] dari [asy-Sya'bi] dari [Masruq] dari [Aisyah] dia berkata"
+"519","Telah menceritakan kepadaku [Ahmad bin Hambal] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Ismail bin Abu Khalid] dari [Qais] dari [Amru bin al-'Ash] dia berkata"
+"520","Telah menceritakan kepada kami [Abdurrahman bin Sallam bin Ubaidullah al-Jumahi] telah menceritakan kepada kami [ar-Rabi'] -yaitu Ibnu Muslim- dari [Muhammad bin Ziyad] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: ""Tujuh puluh ribu orang dari umatku akan masuk Surga tanpa dihisab."" Lalu seorang lelaki berkata"
+"522","Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] dia berkata"
+"523","Telah menceritakan kepada kami [Harmalah bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Haiwah] dia berkata"
+"524","Telah menceritakan kepada kami [Yahya bin Khalaf al-bahili] telah menceritakan kepada kami [al-Mu'tamir] dari [Hisyam bin Hassan] dari [Muhammad] -yaitu Ibnu Sirin- dia berkata"
+"525","Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdushshamad bin Abdul Warits] telah menceritakan kepada kami [Hajib bin Umar Abu Husyainah ats-Tsaqafi] telah menceritakan kepada kami [al-Hakam bin al-'A'raj] dari [Imran bin Hushain] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Akan masuk surga dari golongan umatku sebanyak tujuh puluh ribu orang tanpa hisab."" Mereka bertanya"
+"526","Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz] -yaitu Ibnu Abu Hazim- dari [Abu Hazim] dari [Sahl bin Sa'd] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sungguh akan masuk surga dari umatku sebanyak tujuh puluh ribu orang"
+"527","Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Hushain bin Abdurrahman] dia berkata"
+"529","Telah menceritakan kepada kami [Hannad bin as-Sari] telah menceritakan kepada kami [Abu al-Ahwash] dari [Abu Ishaq] dari [Amru bin Maimun] dari [Abdullah] dia berkata"
+"530","Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Muhammad bin Basysyar] dan lafazh milik Ibnu al-Mutsanna"
+"531","Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Malik dan dia Ibnu Mighwal] dari [Abu Ishaq] dari [Amru bin Maimun] dari [Abdullah] dia berkata"
+"532","Telah menceritakan kepada kami [Utsman bin Abu syaibah al-'Absyi] telah menceritakan kepada kami [Jarir] dari [al-A'masy] dari [Abu Shalih] dari [Abu Sa'id] dia berkata"
+"534","Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Habban bin Hilal] telah menceritakan kepada kami [Aban] telah menceritakan kepada kami [Yahya] bahwa [Zaid] telah menceritakan kepadanya"
+"535","Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] serta [Abu kamil al-Jahdari] sedang lafazh milik Said"
+"537","Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq bin Hammam] telah menceritakan kepada kami [Ma'mar bin Rasyid] dari [Hammam bin Munabbih] saudara Wahab bin Munabbih"
+"538","Telah menceritakan kepadaku [Abu Ath Thahir Ahmad bin Amru bin Abdullah bin Amru bin Sarh] dan [Harmalah bin Yahya At Tujibi] keduanya berkata"
+"539","Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [bapakku] dari [Ibnu syihab] dari ['Atha' bin Yazid al-Laitsi] dari [Humran] budak Utsman"
+"540","Telah menceritakan kepada kami [Qutaibah bin sa'id] dan [Utsman bin Muhammad bin Abu Syaibah] dan [Ishaq bin Ibrahim al-Hanzhali] sedangkan lafazh tersebut milik Qutaibah"
+"542","Dan telah menceritakan kepada kami [Zuhair bin harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [bapakku] dari [Shalih]"
+"543","Telah menceritakan kepada kami [Abd bin Humaid] dan [Hajjaj bin asy-Syair] keduanya meriwayatkan dari [Abu al-Walid]"
+"544","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ahmad bin 'Abdahadl-Dlabbi] keduanya berkata"
+"545","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] sedangkan lafazhnya milik Qutaibah dan Abu Bakar"
+"546","Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala] dan [Ishaq bin Ibrahim] semuanya meriwayatkan dari [Waki']"
+"547","Telah menceritakan kepada kami [Ubaidullah bin Muadz] telah menceritakan kepada kami [bapakku]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata"
+"548","Telah menceritakan kepada kami [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahab] dia berkata"
+"549","Dan telah menceritakan kepada kami [Abu ath-Thahir] dan [Yunus bin Abdul A'la] keduanya berkata"
+"550","Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] serta [Ali bin Hujr] semuanya dari [Ismail]"
+"551","Telah menceritakan kepadaku [Nashr bin Ali al-Jahdlami] telah mengabarkan kepada kami [Abdul A'la] telah menceritakan kepada kami [Hisyam] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam"
+"552","Telah menceritakan kepada kami [Abu ath-Thahir] dan [Harun bin Sa'id al-Aili] keduanya berkata"
+"553","Telah menceritakan kepadaku [Muhammad bin Hatim bin Maimun] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Muawiyah bin Shalih] dari [Rabi'ah] -yaitu Ibnu Yazid- dari [Abu Idris al-Khaulani] dari [Uqbah bin Amir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepadaku [Abu Utsman] dari [Jubair bin Nufair] dari [Uqbah bin Amir] dia berkata"
+"555","Telah menceritakan kepadaku [Muhammad bin ash-Shabbah] telah menceritakan kepada kami [Khalid bin Abdullah] dari [Amru bin Yahya bin Umarah] dari [bapaknya] dari [Abdullah bin Zaid bin 'Ashim al-Anshari] salah seorangh sahabat"
+"559","Telah menceritakan kepada kami [Harun bin Ma'ruf]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Harun bin Sa'id al-Aili] dan [Abu ath-Thahir] mereka berkata"
+"560","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Amru an-Naqid] serta [Muhammad bin Abdullah bin Numair] semuanya meriwayatkan dari [Ibnu Uyainah]"
+"561","Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq bin Hammam] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata"
+"563","Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata"
+"564","Telah menceritakan kepadaku [Bisyr bin al-Hakam al-Abdi] telah menceritakan kepada kami [Abdul Aziz] -yakni ad-Darawardi- dari [Ibnu al-Had] dari [Muhammad bin Ibrahim] dari [Isa bin Thalhah] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: ""Apabila salah seorang dari kalian bangun dari tidurnya maka hendaklah dia beristintsar (mengeluarkan air dari hidung) tiga kali"
+"565","Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Rafi'] berkata Ibnu Rafi' telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu az-Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata"
+"567","Telah menceritakan kepada kami [Harun bin Sa'id al-Aili] dan [Abu ath-Thahir] serta [Ahmad bin Isa] mereka berkata"
+"570","Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Hilal bin Yisaf] dari [Abu Yahya] dari [Abdullah bin Amru] dia berkata"
+"572","Telah menceritakan kepada kami [Syaiban bin Farrukh] dan [Abu Kamil al-Jahdari] semuanya dari [Abu Awanah]"
+"573","Telah menceritakan kepada kami [Abdurrahman bin Sallam al-Jumahi] telah menceritakan kepada kami [ar-Rabi'] -yaitu bin Muslim- dari [Muhammad] -yaitu Ibnu Ziyad- dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam melihat seorang laki-laki belum mencuci kedua tumitnya"
+"574","Telah menceritakan kepada kami [Qutaibah] dan [Abu Bakar bin Abu Syaibah] serta [Abu Kuraib] mereka berkata"
+"575","Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] dia berkata"
+"576","Telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [al-Hasan bin Muhammad bin A'yan] telah menceritakan kepada kami [Ma'qil] dari [Abu az-Zubair] dari [Jabir] telah mengabarkan kepadaku [Umar bin al-Khaththab]"
+"577","Telah menceritakan kepada kami [Suwaid bin Sa'id] dari [Malik bin Anas]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu ath-Thahir] dan lafazh tersebut miliknya"
+"578","Telah menceritakan kepada kami [Muhammad bin Ma'mar bin Rib'i al-Qaisi] telah menceritakan kepada kami [Abu Hisyam al-Makhzumi] dari [Abdul Wahid] -yaitu Ibnu Ziyad- telah menceritakan kepada kami [Utsman bin Hakim] telah menceritakan kepada kami [Muhammad bin al-Munkadir] dari [Humran] dari [Utsman bin Affan] dia berkata"
+"579","Telah menceritakan kepadaku [Abu Kuraib Muhammad Ibnul 'Ala`] dan [al Qasim bin Zakariya bin Dinar] dan [Abd bin Humaid] mereka berkata; telah menceritakan kepada kami [Khalid bin Makhlad] dari [Sulaiman bin Bilal] telah menceritakan kepadaku [Umarah bin Ghaziah al Anshari] dari [Nu'aim bin Abdullah al Mujmir] ia berkata"
+"580","Dan telah menceritakan kepadaku [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Amru bin al-Harits] dari [Sa'id bin Abu Hilal] dari [Nu'aim bin Abdullah] bahwa dia melihat [Abu Hurairah] berwudlu"
+"581","Telah menceritakan kepada kami [Suwaid bin Sa'id] dan [Ibnu Abu Umar] semuanya meriwayatkan dari [Marwan al-Fazari]"
+"582","Dan telah menceritakan kepada kami [Abu Kuraib] dan [Washil bin Abdul A'la] sedangkan lafazh tersebut milik Washil"
+"583","Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Sa'd bin Thariq] dari [Rib'i bin Hirasy] dari [Hudzaifah] dia berkata"
+"584","Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Suraij bin Yunus] dan [Qutaibah bin Sa'id] dan [Ali bin Hujr] semuanya meriwayatkan dari [Ismail bin Ja'far]"
+"586","Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Khalaf] -yaitu Ibnu Khalifah- dari [Abu Malik al-Asyja'i] dari [Abu Hazim] dia berkata"
+"587","Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] semuanya dari [Ismail bin Ja'far]"
+"589","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Amru an-Naqid] serta [Zuhair bin Harb] mereka bertanya"
+"590","Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-Ala'] telah menceritakan kepada kami [Ibnu Bisyr] dari [Mis'ar] dari [al-Miqdam bin Syuraih] dari [bapaknya] dia berkata"
+"591","Dan telah menceritakan kepada kami [Abu Bakar bin Nafi' al-Abdi] telah menceritakan kepada kami [Abdurrahman] dari [Sufyan] dari [al-Miqdam bin Syuraih] dari [bapaknya] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam apabila masuk rumahnya"
+"592","Telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ghailan] -yaitu Ibnu Jarir al-Ma'wali- dari [Abu Burdah] dari [Abu Musa] dia berkata"
+"594","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husyaim] dari [Hushain] dari [Abu Wa'il] dari [Hudzaifah] dia berkata"
+"595","Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata"
+"596","Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Ismail bin Muslim] telah menceritakan kepada kami [Abu al-Mutawakkil] bahwa [Ibnu Abbas] telah menceritakan kepadanya"
+"597","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru an-Naqid] serta [Zuhair bin Harb] semuanya dari [Sufyan]"
+"598","Telah menceritakan kepadaku [Abu ath-Thahir] dan [Harmalah bin Yahya] keduanya berkata"
+"599","Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] keduanya dari [Ja'far]"
+"600","Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Yahya] -yaitu Ibnu Sa'id-. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] semuanya dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam"
+"601","Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari [Abu Bakar bin Nafi'] dari [bapaknya] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam"
+"602","Telah menceritakan kepada kami [Sahal bin Utsman] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Umar bin Muhammad] telah menceritakan kepada kami [Nafi'] dari [Ibnu Umar] dia berkata"
+"603","Telah menceritakan kepada kami [Abu Bakar bin Ishaq] telah mengabarkan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] telah mengabarkan kepadaku [al-Ala' bin Abdurrahman bin Ya'qub] mantan budak al-Huraqah"
+"604","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] serta [Zuhair bin Harb] mereka berkata"
+"606","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Muawiyah] dan [Waki'] dari [al-A'masy]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Yahya bin Yahya] sedangkan lafazh tersebut miliknya. Telah mengabarkan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Salman] dia berkata"
+"607","Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [al-A'masy] dan [Manshur] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Salman] dia berkata"
+"608","Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Zakariya' bin Ishaq] telah menceritakan kepada kami [Abu az-Zubair] bahwa dia mendengar [Jabir] berkata"
+"609","Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ibnu Numair] keduanya berkata"
+"610","Dan telah menceritakan kepada kami [Ahmad bin al-Hasan bin Khirasy] telah menceritakan kepada kami [Umar bin Abdul Wahhab] telah menceritakan kepada kami [Yazid] -yaitu Ibnu Zurai'- telah menceritakan kepada kami [Rauh] dari [Suhail] dari [al-Qa'qa'] dari [Abu Shalih] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam"
+"611","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr al-Abdi] telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Muhammad bin Yahya bin Hibban] dari pamannya [Wasi' bin Habban] dari [Ibnu Umar] dia berkata"
+"612","Dan telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman] -yaitu Ibnu Bilal- dari [Yahya bin Sa'id] dari [Muhammad bin Yahya] dari pamannya [Wasi' bin Habban] dia berkata"
+"613","Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abdurrahman bin Mahdi] dari [Hammam] dari [Yahya bin Abu Katsir] dari [Abdullah bin Abu Qatadah] dari [bapaknya] dia berkata"
+"616","Dan telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] telah mengabarkan kepada kami [Abu al-Ahwash] dari [Asy'ats] dari [bapaknya] dari [Masruq] dari [Aisyah] dia berkata"
+"617","Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [al-Asy'ats] dari [bapakku] dari [Masruq] dari [Aisyah] dia berkata"
+"618","Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] semuanya dari [Ismail bin Ja'far]"
+"619","Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Khalid] dari [Atha' bin Abu Maimunah] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam masuk kebun"
+"620","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dan [Ghundar] dari [Syu'bah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan lafazh tersebut miliknya. Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Atha' bin Abu Maimunah] bahwa dia mendengar [Anas bin Malik] berkata"
+"621","Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Kuraib] dan lafazh tersebut milik Zuhair"
+"622","Telah menceritakan kepada kami [Yahya bin Yahya al-Tamimi] dan [Ishaq bin Ibrahim] serta [Abu Kuraib] semuanya dari [Abu Muawiyah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki'] dan lafazh tersebut milik Yahya"
+"624","Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] telah mengabarkan kepada kami [Abu Khaitsamah] dari [al-A'masy] dari [Syaqiq] dari [Hudzaifah] dia berkata"
+"625","Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Abu Wail] dia berkata"
+"626","Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Rumh bin al-Muhajir] telah mengabarkan kepada kami [al-Laits] dari [Yahya bin Sa'id] dari [Sa'id bin Ibrahim] dari [Nafi' bin Jubair] dari [Urwah bin al-Mughirah] dari bapaknya [al-Mughirah bin Syu'bah] dari Rasulullah shallallahu 'alaihi wasallam"
+"628","Dan telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] telah mengabarkan kepada kami [Abu al-Ahwash] dari [Asy'ats] dari [al-Aswad bin Hilal] dari [al-Mughirah bin Syu'bah] dia berkata"
+"629","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib]"
+"630","Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Khasyram] semuanya meriwayatkan dari [Isa bin Yunus]"
+"631","Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Zakariya'] dari [Amir] dia berkata"
+"632","Dan telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Umar bin Abu Zaidah] dari [asy-Sya'bi] dari [Urwah bin al-Mughirah] dari [bapaknya] bahwa dia memberikan air wudlu kepada Nabi shallallahu 'alaihi wasallam"
+"633","Dan telah menceritakan kepadaku [Muhammad bin Abdullah bin Bazi'] telah menceritakan kepada kami [Yazid] -yaitu anak Zurai'- telah menceritakan kepada kami [Humaid ath-Thawil] telah menceritakan kepada kami [Abu Bakar bin Abdullah al-Muzani] dari [Urwah bin al-Mughirah bin Syu'bah] dari [Bapaknya] dia berkata"
+"634","Telah menceritakan kepada kami [Umayyah bin Bistham] dan [Muhammad bin Abdul A'la] keduanya berkata"
+"636","Dan telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Muhammad bin Hatim] semuanya dari [Yahya al-Qaththan]"
+"639","Dan telah menceritakan kepada kami [Ishaq bin Ibrahim al-Hanzhali] telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [ats-Tsauri] dari [Amru bin Qais al-Mula'i] dari [al-Hakam bin Utaibah] dari [al-Qasim bin Mukhaimirah] dari [Syuraih bin Hani'] dia berkata"
+"642","Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Sufyan] dari [Alqamah bin Martsad]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Hatim] dan lafazh tersebut miliknya. Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan] dia berkata"
+"643","Dan telah menceritakan kepada kami [Nashr bin Ali al-Jahdlami] dan [Hamid bin Umar al-Bakrawi] keduanya berkata"
+"647","Dan telah menceritakan kepadaku [Salamah bin Syabib] dia berkata"
+"648","Dan telah menceritakan kepada kami [Ali bin Hujr as-Sa'di] telah menceritakan kepada kami [Ali bin Mushir] telah mengabarkan kepada kami [al-A'masy] dari [Abu Razin]"
+"650","Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata"
+"651","Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ismail bin Ibrahim] dari [Hisyam bin Hassan] dari [Muhammad bin Sirin] dari [Abu Hurairah] dia berkata"
+"652","Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata"
+"653","Dan telah menceritakan kepada kami [Ubaid bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Abu at-Tayyah] dia mendengar [Mutharrif bin Abdullah] menceritakan dari [Ibnu al-Mughaffal] dia berkata"
+"655","Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata"
+"656","Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Hisyam] dari [Ibnu Sirin] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam"
+"657","Dan telah menceritakan kepada kami [Muhammad Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata"
+"658","Dan telah menceritakan kepada kami [Harun bin Sa'id al-Aili] dan [Abu ath-Thahir] serta [Ahmad bin Isa] semuanya dari [Ibnu Wahab]"
+"659","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- dari [Tsabit] dari [Anas] bahwa seorang Badui kencing di masjid sehingga sebagian sahabat menghampirinya (untuk menghajarnya). Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: ""Tinggalkan dia"
+"660","Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id al-Qaththan] dari [Yahya bin Sa'id al-Anshari]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] semuanya dari [ad-Darawardi]"
+"661","Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Umar bin Yunus Al Hanafi] telah menceritakan kepada kami [Ikrimah bin Ammar] telah menceritakan kepada kami [Ishaq bin Abu Thalhah] telah menceritakan kepada kami [Anas bin Malik] -yaitu pamannya Ishaq- dia berkata"
+"662","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata"
+"663","Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Hisyam] dari [bapaknya] dari [Aisyah] dia berkata"
+"665","Telah menceritakan kepada kami [Muhammad bin Rumh bin al-Muhajir] telah mengabarkan kepada kami [al-Laits] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah] dari [Ummu Qais binti Mihshan] bahwa dia mendatangi Rasulullah shallallahu 'alaihi wasallam dengan membawa seorang anak laki-lakinya yang belum makan makanan"
+"667","Dan telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepada kami [Yunus bin Yazid] bahwa [Ibnu Syihab] telah mengabarkan kepadanya"
+"668","Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Khalid] dari [Abu Ma'syar] dari [Ibrahim] dari [Alqamah] dan [al-Aswad] bahwa seorang laki-laki singgah di tempat Aisyah"
+"670","Dan telah menceritakan kepada kami [Umar bin Hafs bin Ghiyats] telah menceritakan kepada kami [bapakku] dari [al-A'masy] dari [Ibrahim] dari [al-Aswad]"
+"672","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] dari [Amru bin Maimun] dia berkata"
+"674","Dan telah menceritakan kepada kami [Ahmad bin Jawwas al-Hanafi Abu Ashim] telah menceritakan kepada kami [Abu al-Ahwash] dari [Syabib bin Gharqadah] dari [Abdullah bin Syihab al-Khaulani] dia berkata"
+"675","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Hisyam bin Urwah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Hatim] dan lafazh tersebut miliknya"
+"677","Dan telah menceritakan kepada kami [Abu Sa'id al-Asyaj] dan [Abu Kuraib Muhammad bin al-Ala'] serta [Ishaq bin Ibrahim]"

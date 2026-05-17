@@ -1,87 +1,174 @@
-hadiths[86]{hadithnumber,text}:
-3652,1471.01
-3653,1471.02
-3654,1471.03
-3655,1471.04
-3656,1471.05
-3657,1471.06
-3658,1471.07
-3659,1471.08
-3660,1471.09
-3661,1471.10
-3662,1471.11
-3663,1471.12
-3664,1471.13
-3665,1471.14
-3666,1471.15
-3667,1471.16
-3668,1471.17
-3669,1471.18
-3670,1471.19
-3671,1471.20
-3672,1471.21
-3673,1472.01
-3674,1472.02
-3675,1472.03
-3676,1473.01
-3677,1473.02
-3678,1474.01
-3679,1474.02
-3680,1474.03
-3681,1475
-3682,1476.01
-3683,1476.02
-3684,1477.01
-3685,1477.02
-3686,1477.03
-3687,1477.04
-3688,1477.05
-3689,1477.06
-3690,1478
-3691,1479.01
-3692,1479.02
-3693,1479.03
-3694,1479.04
-3696,1475.02
-3697,1480.01
-3698,1480.02
-3699,1480.03
-3700,1480.04
-3701,1480.05
-3702,1480.06
-3703,1480.07
-3704,1480.08
-3705,1480.09
-3706,1480.10
-3707,1480.11
-3708,1480.12
-3709,1480.13
-3710,1480.14
-3711,1480.15
-3712,1480.16
-3713,1480.17
-3714,1480.18
-3715,1480.19
-3716,1480.20
-3717,1481.01
-3718,1482
-3719,1481.02
-3720,1481.03
-3721,1483
-3722,1484
-3723,1485.01
-3724,1485.02
-3728,1489
-3729,1486.02
-3731,1488.02
-3732,1488.03
-3733,1488.04
-3734,1486.04
-3735,1490.01
-3736,1490.02
-3737,1490.03
-3738,1490.04
-3739,1491
-3740,938.03
-3741,938.04
-3742,938.05
+hadiths[173]{hadithnumber,text}:
+"3529","Rapporté par Aishah (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ a été interrogé au sujet d’une femme qui a été épousée puis divorcée par un homme"
+"3530","Rapporté par Hisham : Un hadith similaire a été rapporté par la même chaîne de transmetteurs"
+"3531","Rapporté par Aishah (la mère des croyants) رضي الله عنها : Un homme a divorcé de sa femme par trois répudiations. Un autre l’a épousée"
+"3532","Rapporté par Aishah (la mère des croyants) رضي الله عنها : Un hadith similaire a été rapporté par la même chaîne de transmetteurs"
+"3533","Rapporté par Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Si l’un d’entre vous veut aller vers son épouse"
+"3534","Rapporté par une autre chaîne de transmetteurs : Ce hadith est rapporté par une autre chaîne"
+"3535","Rapporté par Jabir رضي الله عنه : Les Juifs disaient : « Quand un homme a un rapport avec sa femme par voie vaginale alors qu’elle est allongée sur le dos"
+"3536","Rapporté par Jabir ibn Abdullah رضي الله عنه : Les Juifs disaient que lorsque quelqu’un a un rapport avec sa femme par voie vaginale alors qu’elle est allongée sur le dos"
+"3537","Rapporté par Jabir رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"3538","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand une femme passe la nuit loin du lit de son mari"
+"3539","Rapporté par la même chaîne de transmetteurs : Ce hadith a été rapporté avec une légère variation : « Il a dit : Jusqu’à ce qu’elle revienne. »"
+"3540","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Par Celui qui détient ma vie dans Sa main"
+"3541","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand un homme invite sa femme à son lit et qu’elle ne vient pas"
+"3542","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La personne la plus mauvaise aux yeux d’Allah le Jour du Jugement est celui qui va vers sa femme"
+"3543","Rapporté par Abu Sirma al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La plus importante des confiances auprès d’Allah le Jour du Jugement"
+"3544","Rapporté par Abu Sirma qui a dit à Abu Sa’id al-Khudri رضي الله عنه : « Ô Abu Sa’id"
+"3545","Rapporté par Habban : Un hadith similaire a été rapporté par la même chaîne de transmetteurs"
+"3546","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Nous avons pris des femmes captives et nous voulions pratiquer le ‘azl avec elles. Nous avons alors interrogé le Messager d’Allah ﷺ à ce sujet"
+"3547","Rapporté par Abu Sa’id al-Khudri رضي الله عنه (on lui demanda s’il l’avait entendu lui-même) : Il répondit : « Oui. J’ai entendu le Messager d’Allah ﷺ dire : “Il n’y a pas de mal si vous ne le pratiquez pas"
+"3548","Rapporté par Abu Sa’id avec la même chaîne de transmetteurs : Ce hadith est rapporté avec une légère variation dans les mots"
+"3549","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : On a interrogé le Messager d’Allah ﷺ au sujet de l’azl (le fait de se retirer avant l’éjaculation)"
+"3550","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : On a parlé de l’azl en présence du Messager d’Allah ﷺ. Il a alors dit : « Pourquoi le pratiquez-vous ? » Ils ont répondu : « Il y a un homme dont la femme doit allaiter l’enfant"
+"3551","Rapporté par Ibn ‘Aun : J’ai rapporté à Muhammad"
+"3552","Rapporté par Ma’bad ibn Sirin : Il a demandé à Abu Sa'id رضي الله عنه : As-tu entendu le Messager d’Allah ﷺ dire quelque chose au sujet de l’azl ? Il a répondu : « Oui. » (Le reste du hadith est le même)"
+"3553","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : On a évoqué l’azl en présence du Messager d’Allah ﷺ. Il a alors dit : « Pourquoi l’un d’entre vous le pratique-t-il ? » (Il n’a pas dit : « L’un d’entre vous ne doit pas le faire. ») « Car il n’y a pas d’âme créée dont le Créateur n’est pas Allah. »"
+"3554","Rapporté par Abu Sa'id al-Khudri رضي الله عنه : On a interrogé le Messager d’Allah ﷺ au sujet de l’azl. Il a répondu : « L’enfant ne provient pas de tout le liquide (sperme)"
+"3555","Rapporté par Abu Sa'id رضي الله عنه : Un hadith similaire a été transmis par Abu Sa'id du Messager d’Allah ﷺ"
+"3556","Rapporté par Jabir رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ et a dit : « J’ai une esclave qui nous sert et porte de l’eau pour nous"
+"3557","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Un homme a demandé au Messager d’Allah ﷺ : « J’ai une esclave et je pratique l’azl avec elle. » Le Messager d’Allah ﷺ a répondu : « Cela ne peut pas empêcher ce qu’Allah a décrété. » L’homme est revenu plus tard et a dit : « Ô Messager d’Allah"
+"3558","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Un homme est venu voir le Messager d’Allah ﷺ (le reste du hadith est le même)"
+"3559","Rapporté par Jabir رضي الله عنه : Nous pratiquions l’azl pendant que le Coran était révélé (du vivant du Prophète)"
+"3560","Rapporté par Jabir رضي الله عنه : Nous pratiquions l’azl du vivant du Messager d’Allah ﷺ"
+"3561","Rapporté par Jabir رضي الله عنه : Nous pratiquions l’azl du vivant du Messager d’Allah ﷺ. Cette pratique est parvenue au Messager d’Allah ﷺ"
+"3562","Rapporté par Abu Darda’ رضي الله عنه : Le Prophète d’Allah ﷺ est passé devant une femme enceinte"
+"3563","Rapporté par Shu’ba : Un hadith similaire a été transmis"
+"3564","Rapporté par Judaima"
+"3565","Rapporté par Judama"
+"3566","Rapporté par Judama bint Wahb al-Asadiyya رضي الله عنها : J’ai entendu le Messager d’Allah ﷺ dire cela. Le reste du hadith est le même concernant l’azl et le ghila (rapports avec une femme qui allaite)"
+"3567","Rapporté par Sa’d ibn Abu Waqqas رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ et a dit : « Je pratique l’azl avec ma femme. » Le Messager d’Allah ﷺ a demandé : « Pourquoi fais-tu cela ? » L’homme a répondu : « Je crains un mal pour son enfant ou ses enfants. » Le Messager d’Allah ﷺ a dit : « Si cela était nuisible"
+"3568","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ était avec elle quand elle a entendu la voix d’une personne demandant la permission d’entrer chez Hafsa. Aïsha رضي الله عنها a dit : « Messager d’Allah"
+"3569","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Ce qui devient interdit à cause de l’allaitement est ce qui devient interdit à cause de la naissance. »"
+"3570","Rapporté par Aïsha رضي الله عنها : Le hadith ci-dessus est rapporté par une autre chaîne"
+"3571","Rapporté par Aïsha رضي الله عنها : Aflah"
+"3572","Rapporté par Aïsha رضي الله عنها : Aflah ibn Abu Qulais"
+"3573","Rapporté par Aïsha رضي الله عنها : Aflah"
+"3574","Rapporté par Aïcha رضي الله عنها : Aflah"
+"3575","Rapporté par Aïcha رضي الله عنها : Mon oncle par allaitement est venu me demander la permission d’entrer"
+"3576","Rapporté par Hicham selon la même chaîne de transmetteurs : Le frère d’Abu’l-Qu’ais a demandé la permission d’entrer chez Aïcha رضي الله عنها. Le reste est identique"
+"3577","Rapporté par Hicham selon la même chaîne de transmetteurs"
+"3578","Rapporté par Aïcha رضي الله عنها : Mon oncle par allaitement"
+"3579","Rapporté par Aïcha رضي الله عنها : Son oncle par allaitement"
+"3580","Rapporté par Aïcha رضي الله عنها : Aflah ibn Qu’ais m’a demandé la permission d’entrer"
+"3581","Rapporté par Ali رضي الله عنه : J’ai dit au Messager d’Allah ﷺ : « Pourquoi choisis-tu (ton épouse) parmi les Quraysh"
+"3582","Un hadith similaire a été rapporté par A’mash avec la même chaîne de transmetteurs"
+"3583","Rapporté par Ibn Abbas رضي الله عنهما : On a proposé au Prophète ﷺ d’épouser la fille de Hamza"
+"3584","Un hadith similaire a été rapporté par Hammam"
+"3585","Rapporté par Umm Salama رضي الله عنها"
+"3586","Rapporté par Umm Habiba"
+"3587","Un hadith similaire a été rapporté par Hicham avec la même chaîne de transmetteurs"
+"3588","Rapporté par Umm Habiba"
+"3589","Le hadith précédent est rapporté par d’autres chaînes"
+"3590","Rapporté par Aïcha رضي الله عنها"
+"3591","Rapporté par Umm al-Fadl رضي الله عنها : Un bédouin est venu trouver le Messager d’Allah ﷺ alors qu’il était chez moi et a dit : « Messager d’Allah"
+"3592","Rapporté par Umm Fadl رضي الله عنها : Une personne de Banu ‘Amir ibn Sa’sa a dit : « Messager d’Allah"
+"3593","Rapporté par Umm Fadl رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Être allaité une ou deux fois"
+"3594","Dans la version rapportée par Ibn Bishr"
+"3595","Rapporté par Umm Fadl رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Un ou deux allaitements ne rendent pas le mariage interdit. »"
+"3596","Rapporté par Umm Fadl رضي الله عنها : Quelqu’un a demandé au Messager d’Allah ﷺ : « Un seul allaitement rend-il le mariage interdit ? » Il a répondu : « Non. »"
+"3597","Rapporté par Aïcha رضي الله عنها : Il avait été révélé dans le Coran que dix tétées claires rendaient le mariage interdit"
+"3598","Rapporté par Amra : Elle a entendu Aïcha رضي الله عنها parler de l’allaitement qui rend le mariage interdit. Aïcha رضي الله عنها a dit : « Il a été révélé dans le Coran dix tétées claires"
+"3599","Rapporté par Aïcha رضي الله عنها : Des hadiths similaires ont été rapportés par Aïcha à travers une autre chaîne de transmetteurs"
+"3600","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Sahla bint Suhail est venue voir le Messager d’Allah ﷺ et lui a dit : « Ô Messager d’Allah"
+"3601","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Salim"
+"3602","Rapporté par Ibn Abu Mulaika : Al-Qasim ibn Muhammad ibn Abu Bakr lui a rapporté qu’Aïcha رضي الله عنها a dit : Sahla bint Suhail ibn ‘Amr est venue voir le Messager d’Allah ﷺ et lui a dit : « Ô Messager d’Allah"
+"3603","Rapporté par Umm Salama رضي الله عنها à Aïcha رضي الله عنها : « Un jeune garçon proche de la puberté vient chez toi. Pour ma part"
+"3604","Rapporté par Zaynab"
+"3605","Rapporté par Umm Salama"
+"3606","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ est venu me rendre visite alors qu’un homme était assis près de moi"
+"3607","Rapporté par Abu al-Ahwas : Ce hadith est rapporté par une autre chaîne de transmetteurs avec une légère variation dans les mots"
+"3608","Rapporté par Abu Sa‘id al-Khudri رضي الله عنه : Lors de la bataille de Hunayn"
+"3609","Rapporté par Abu Sa‘id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ envoya une petite armée. Le reste du hadith est le même"
+"3610","Rapporté par un autre transmetteur : De la même manière"
+"3611","Rapporté par Abu Sa‘id (al-Khudri) رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs et les mots sont : « Ils ont fait des captives (des femmes) le jour d’Autas alors qu’elles avaient des maris. Ils avaient peur d’avoir des relations avec elles jusqu’à ce que ce verset soit révélé : “Et les femmes déjà mariées"
+"3612","Rapporté par Qatada : Un hadith similaire a été rapporté avec la même chaîne de transmetteurs"
+"3613","Rapporté par Aïcha رضي الله عنها : Sa’d ibn Abu Waqqas et Abd ibn Zam’a رضي الله عنهما se disputaient au sujet d’un jeune garçon. Sa’d a dit : « Ô Messager d’Allah"
+"3614","Rapporté par Ibn ‘Uyayna et Ma‘mar : Un hadith similaire a été rapporté"
+"3615","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’enfant appartient à celui sur le lit duquel il est né"
+"3652","Rapporté par Ibn ‘Umar رضي الله عنه : Il a divorcé de sa femme alors qu’elle avait ses règles"
+"3653","Rapporté par Abdullah b. ‘Umar رضي الله عنه : Il a divorcé de l’une de ses femmes en prononçant un seul divorce alors qu’elle avait ses règles. Le Messager d’Allah ﷺ lui a ordonné de la reprendre et de la garder jusqu’à ce qu’elle soit purifiée"
+"3654","Rapporté par Ibn ‘Umar رضي الله عنه : J’ai divorcé de ma femme du vivant du Messager d’Allah ﷺ alors qu’elle avait ses règles. ‘Umar رضي الله عنه en a parlé au Messager d’Allah ﷺ"
+"3655","Rapporté par ‘Ubaidullah : Un hadith semblable a été rapporté par ‘Ubaidullah"
+"3656","Rapporté par Ibn ‘Umar رضي الله عنه : Il a divorcé de sa femme pendant ses règles. ‘Umar رضي الله عنه a interrogé le Messager d’Allah ﷺ"
+"3657","Rapporté par Abdullah b. ‘Umar رضي الله عنه : J’ai divorcé de ma femme alors qu’elle avait ses règles. ‘Umar رضي الله عنه en a parlé au Messager d’Allah ﷺ"
+"3658","Rapporté par Zuhri : Un hadith semblable a été rapporté par Zuhri avec la même chaîne de rapporteurs. Ibn ‘Umar رضي الله عنه a cependant dit : « Je l’ai reprise"
+"3659","Rapporté par Ibn ‘Umar رضي الله عنه : Il a divorcé de sa femme alors qu’elle avait ses règles. ‘Umar رضي الله عنه en a parlé au Messager d’Allah ﷺ"
+"3660","Rapporté par Ibn ‘Umar رضي الله عنه : Il a divorcé de sa femme alors qu’elle avait ses règles. ‘Umar رضي الله عنه a interrogé le Messager d’Allah ﷺ à ce sujet"
+"3661","Rapporté par Ibn Sirin : Un narrateur digne de confiance m’a rapporté pendant vingt ans qu’Ibn ‘Umar رضي الله عنه avait prononcé trois divorces à sa femme alors qu’elle avait ses règles. On lui a ordonné de la reprendre. Je n’ai jamais douté des narrateurs ni reconnu ce hadith comme parfaitement authentique jusqu’à ce que je rencontre Abu Ghallab Yunus b. Jubair al-Bahili"
+"3662","Rapporté par Ayyub : Un hadith semblable a été transmis par Ayyub avec une légère variation dans les mots"
+"3663","Rapporté par Ayyub : Ayyub a rapporté un hadith semblable avec la même chaîne de rapporteurs"
+"3664","Rapporté par Yunus b. Jubair : J’ai dit à Ibn ‘Umar رضي الله عنه : « Un homme a divorcé de sa femme alors qu’elle avait ses règles. » Il a répondu : « Connais-tu ‘Abdullah b. ‘Umar رضي الله عنه ? Il a divorcé de sa femme pendant ses règles. ‘Umar رضي الله عنه est allé voir le Messager d’Allah ﷺ et l’a interrogé"
+"3665","Rapporté par Ibn ‘Umar رضي الله عنه : J’ai divorcé de ma femme alors qu’elle avait ses règles. ‘Umar رضي الله عنه est allé voir le Messager d’Allah ﷺ et lui en a parlé"
+"3666","Rapporté par Anas b. Sirin : J’ai demandé à Ibn ‘Umar رضي الله عنه au sujet de la femme qu’il avait divorcée. Il a dit : « Je l’ai divorcée alors qu’elle avait ses règles. Cela a été mentionné à ‘Umar رضي الله عنه"
+"3667","Rapporté par Anas b. Sirin : Il a entendu Ibn ‘Umar رضي الله عنه dire : « J’ai divorcé de ma femme alors qu’elle avait ses règles. ‘Umar رضي الله عنه est allé voir le Messager d’Allah ﷺ et l’en a informé"
+"3668","Rapporté par Shu’ba : Ce hadith a été rapporté par Shu’ba avec la même chaîne de rapporteurs mais avec une légère variation dans les mots"
+"3669","Rapporté par Ibn Tawus"
+"3670","Rapporté par Abu Zubair : Il a entendu ‘Abd al-Rahman b. Aiman (l’affranchi de ‘Azza) demander à Ibn ‘Umar رضي الله عنه : « Quel est ton avis sur un homme qui divorce de sa femme pendant ses règles ? » Ibn ‘Umar رضي الله عنه a alors répondu : « Ibn ‘Umar رضي الله عنه a divorcé de sa femme du vivant du Messager d’Allah ﷺ alors qu’elle avait ses règles. Le Messager d’Allah ﷺ lui a dit de la reprendre"
+"3671","Rapporté par un autre rapporteur : L’histoire mentionnée dans le hadith précédent a également été rapportée par une autre chaîne"
+"3672","Rapporté par un rapporteur : Un hadith semblable est rapporté avec la même chaîne (mais avec cette différence que le rapporteur) ‘Abd al-Rahman b. Aiman (était mentionné) comme l’affranchi de ‘Urwa (Imam Muslim a dit : Celui qui a dit que c’était ‘Urwa s’est trompé ; c’était en fait l’affranchi de ‘Azza)"
+"3673","Rapporté par Ibn ‘Abbas رضي الله عنه : Le prononcé de trois divorces du vivant du Messager d’Allah ﷺ"
+"3674","Rapporté par Abu Sahba’ : Abu Sahba’ a dit à Ibn ‘Abbas رضي الله عنهما : « Sais-tu que trois divorces étaient considérés comme un seul à l’époque du Messager d’Allah ﷺ"
+"3675","Rapporté par Abu al-Sahba’ : Abu al-Sahba’ a dit à Ibn ‘Abbas : « Explique-nous"
+"3676","Rapporté par Ibn ‘Abbas رضي الله عنهما : Ibn ‘Abbas a rapporté à propos du fait de déclarer sa femme interdite (comme un serment nécessitant une expiation)"
+"3677","Rapporté par Ibn ‘Abbas رضي الله عنهما : Ibn ‘Abbas a rapporté : « Quand un homme déclare sa femme interdite pour lui"
+"3678","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Aïcha a raconté que le Messager d’Allah ﷺ passait du temps chez Zaynab"
+"3679","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Aïcha a rapporté que le Messager d’Allah ﷺ aimait les douceurs et le miel. Après la prière de l’après-midi"
+"3680","Rapporté par ‘Urwa : Ce hadith a été rapporté par ‘Urwa avec la même chaîne de transmetteurs"
+"3681","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Aïcha a rapporté : « Quand le Messager d’Allah ﷺ a reçu l’ordre de donner le choix à ses épouses"
+"3682","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Aïcha a rapporté que le Messager d’Allah ﷺ nous a demandé la permission lorsqu’il devait passer un jour avec l’une d’entre nous (alors qu’il voulait rendre visite à ses autres épouses aussi). C’est après cela que ce verset a été révélé : « Tu peux retarder qui tu veux d’entre elles"
+"3683","Rapporté par un autre transmetteur : Le hadith précédent a également été rapporté par une autre chaîne"
+"3684","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ nous a donné le choix (de divorcer)"
+"3685","Rapporté par Masruq : Masruq a dit : « Cela ne me dérange pas de donner à ma femme le choix (de divorcer) une fois"
+"3686","Rapporté par Aïcha رضي الله عنها : Aïcha a rapporté que le Messager d’Allah ﷺ a donné le choix à ses épouses"
+"3687","Rapporté par Aïcha رضي الله عنها : Aïcha a rapporté : « Le Messager d’Allah ﷺ nous a donné le choix (de divorcer)"
+"3688","Rapporté par Aïcha رضي الله عنها : Aïcha a rapporté : « Le Messager d’Allah ﷺ nous a donné le choix (de divorcer)"
+"3689","Rapporté par un autre transmetteur : Un hadith similaire a été transmis de la part de Aïcha رضي الله عنها par une autre chaîne de narrateurs"
+"3690","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Jabir a rapporté : Abou Bakr رضي الله عنه est venu demander la permission de voir le Messager d’Allah ﷺ. Il trouva des gens assis devant sa porte"
+"3691","Rapporté par Omar ibn al-Khattab رضي الله عنه : Omar a rapporté : Lorsque le Messager d’Allah ﷺ s’est éloigné de ses épouses"
+"3692","Rapporté par Abdullah ibn Abbas رضي الله عنهما : J’avais l’intention de demander à Omar ibn al-Khattab رضي الله عنه au sujet d’un verset"
+"3693","Rapporté par Ibn Abbas رضي الله عنهما : Ibn Abbas a dit : « Je suis allé avec Omar jusqu’à ce que nous arrivions à Marr al-Zahran (un lieu)"
+"3694","Rapporté par Ibn Abbas رضي الله عنه : J’avais l’intention d’interroger Omar رضي الله عنه au sujet des deux femmes qui avaient insisté auprès du Prophète ﷺ pour obtenir plus de biens matériels durant sa vie"
+"3696","Rapporté par Ibn ‘Abbas رضي الله عنهما : Ibn ‘Abbas a rapporté : « J’ai toujours voulu interroger Omar رضي الله عنه au sujet des deux femmes parmi les épouses du Prophète ﷺ à propos desquelles Allah"
+"3697","Rapporté par Fatima bint Qais رضي الله عنها : Abu 'Amr ibn Hafs l’a divorcée de façon définitive alors qu’il était absent"
+"3698","Rapporté par Fatima bint Qais رضي الله عنها : Son mari l’a divorcée du vivant du Prophète d’Allah ﷺ et lui a donné une pension très modeste. En voyant cela"
+"3699","Rapporté par Fatima bint Qais رضي الله عنها : Son mari al-Makhzulmi l’a divorcée et a refusé de lui verser une pension. Elle est donc allée voir le Messager d’Allah ﷺ pour l’en informer. Il lui a dit : « Tu n’as pas droit à une pension. Il vaut mieux que tu ailles vivre dans la maison de Ibn Umm Maktum"
+"3700","Rapporté par Abu Salama : Fatima bint Qais"
+"3701","Rapporté par Fatima bint Qais رضي الله عنها : Elle avait été mariée à un homme des Banu Makhzum et il l’a divorcée par un divorce irrévocable. Elle a envoyé un message à sa famille pour demander une pension"
+"3702","Rapporté par Fatima bint Qais رضي الله عنها : Elle avait été mariée à Abu 'Amr ibn Hafs ibn al-Mughira et il l’a divorcée par trois prononcés. Elle a dit qu’elle est allée voir le Messager d’Allah ﷺ pour lui demander si elle devait quitter cette maison. Il lui a ordonné d’aller dans la maison de Ibn Umm Maktum"
+"3703","Rapporté par un autre transmetteur : Ce hadith a été transmis par une autre chaîne de rapporteurs"
+"3704","Rapporté par Ubaidullah ibn Abdullah ibn Utba : 'Amr ibn Hafs ibn al-Mughira est parti avec Ali ibn Abi Talib رضي الله عنه vers le Yémen et a envoyé à sa femme le dernier prononcé de divorce qui restait du divorce irrévocable ; il a demandé à al-Harith ibn Hisham et 'Ayyash ibn Abu Rabi'a de lui verser une pension. Ils lui ont dit : « Par Allah"
+"3705","Rapporté par Sha'bi : Je suis allé voir Fatima bint Qais et je lui ai demandé quel avait été le jugement du Messager d’Allah ﷺ concernant le logement et la pension pendant la 'idda. Elle a dit que son mari l’avait divorcée par un divorce irrévocable. Elle a ajouté : « J’ai plaidé devant le Messager d’Allah ﷺ pour avoir un logement et une pension"
+"3706","Rapporté par un autre transmetteur : Un hadith similaire a été transmis par Hushaim par une autre chaîne de rapporteurs"
+"3707","Rapporté par Sha'bi : Nous avons rendu visite à Fatima bint Qais et elle nous a servi des dattes fraîches et une boisson à base de farine d’orge. Je lui ai demandé : « Où une femme divorcée par trois prononcés doit-elle passer sa période de 'idda ? » Elle a répondu : « Mon mari m’a divorcée par trois prononcés"
+"3708","Rapporté par Fatima bint Qais رضي الله عنها : Elle a rapporté du Messager d’Allah ﷺ qu’il n’y a ni logement ni pension pour une femme qui a reçu un divorce irrévocable"
+"3709","Rapporté par Fatima bint Qais رضي الله عنها : Mon mari m’a divorcée par trois prononcés. J’ai décidé de déménager (de sa maison vers un autre endroit). Je suis donc allée voir le Messager d’Allah ﷺ"
+"3710","Rapporté par Abu Ishaq : J’étais avec al-Aswad ibn Yazid assis dans la grande mosquée"
+"3711","Rapporté par un autre transmetteur : Un hadith similaire a été rapporté par Ishaq avec la même chaîne de transmetteurs"
+"3712","Rapporté par Fatima bint Qais رضي الله عنها : Son mari l’a divorcée par trois prononcés et le Messager d’Allah ﷺ ne lui a pas accordé de logement ni de pension. Elle a ajouté : « Le Messager d’Allah ﷺ m’a dit : “Quand ta période de 'idda sera terminée"
+"3713","Rapporté par Fatima bint Qais رضي الله عنها : Mon mari Abu 'Amr ibn Hafs ibn al-Mughira a envoyé 'Ayyash ibn Abu Rabi'a pour me remettre le divorce"
+"3714","Rapporté par Abu Bakr ibn Abu’l-Jahm : Moi et Abu Salama ibn 'Abd al-Rahman sommes allés voir Fatima bint Qais رضي الله عنها pour l’interroger (sur le divorce"
+"3715","Rapporté par Abu Bakr : Moi et Abu Salama sommes allés voir Fatima bint Qais رضي الله عنها à l’époque de Ibn Zubair رضي الله عنه et elle nous a raconté que son mari lui avait donné un divorce irrévocable. (Le reste du hadith est le même)"
+"3716","Rapporté par Fatima bint Qais رضي الله عنها : Mon mari m’a divorcée par trois prononcés et le Messager d’Allah ﷺ ne m’a accordé ni logement ni pension"
+"3717","Rapporté par Hisham"
+"3718","Rapporté par Fatima bint Qais رضي الله عنها : Elle a dit : « Ô Messager d’Allah"
+"3719","Rapporté par 'Aïsha رضي الله عنها : Il n’y a rien de bon pour Fatima à en parler"
+"3720","Rapporté par Ibn al-Qasim"
+"3721","Rapporté par Jabir ibn Abdullah رضي الله عنهما : Ma tante maternelle a été divorcée et elle voulait cueillir ses dattes. Quelqu’un l’a réprimandée d’être sortie (pendant sa période de 'idda). Elle est allée voir le Prophète d’Allah ﷺ et il lui a dit : « Tu peux certainement cueillir (les dattes) de tes palmiers"
+"3722","Rapporté par ‘Ubaidullah ibn ‘Abdullah ibn ‘Utba (ibn Mas‘ud) : Son père écrivit à ‘Umar ibn ‘Abdullah ibn al-Arqam al-Zuhri pour qu’il se rende auprès de Subai‘ah bint al-Harith al-Aslamiyya رضي الله عنها et lui demande un avis juridique que le Messager d’Allah ﷺ lui avait donné lorsqu’elle l’avait interrogé (concernant la fin de la période d’attente après l’accouchement). ‘Umar ibn ‘Abdullah écrivit à ‘Abdullah ibn ‘Utba pour l’informer que Subai‘ah lui avait raconté qu’elle était mariée à Sa‘d ibn Khaula"
+"3723","Rapporté par Abu Salama ibn ‘Abd al-Rahman et Ibn ‘Abbas رضي الله عنهما : Ils se sont réunis dans la maison d’Abu Huraira رضي الله عنه et ont discuté du cas d’une femme qui accouche quelques nuits après la mort de son mari. Ibn ‘Abbas رضي الله عنه a dit : « Sa période d’attente est celle qui est la plus longue des deux (entre quatre mois et dix jours"
+"3724","Rapporté par Abu Salama ibn ‘Abd al-Rahman et Ibn ‘Abbas رضي الله عنهما : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"3728","Rapporté par Zainab bint Abu Salama رضي الله عنها : Je suis allée voir Umm Habiba"
+"3729","Rapporté par Zainab bint Umm Salama رضي الله عنها : Une parente d’Umm Habiba رضي الله عنها est décédée. Umm Habiba a demandé un parfum jaune et s’en est mis sur l’avant-bras"
+"3731","Rapporté par Zainab bint Umm Salama رضي الله عنها : Ce hadith a été rapporté par Zainab d’après sa mère"
+"3732","Rapporté par Zainab bint Umm Salama رضي الله عنها d’après sa mère : Une femme a perdu son mari. Comme elle avait des problèmes aux yeux"
+"3733","Rapporté par Humaid ibn Nafi‘ : Il a rapporté deux traditions d’Umm Salama concernant le khôl"
+"3734","Rapporté par Zainab bint Abu Salama : Quand la nouvelle de la mort d’Abu Sufyan est parvenue à Umm Habiba"
+"3735","Rapporté par Safiyya bint Abu ‘Ubaid d’après Hafsa ou ‘Aïsha رضي الله عنهما ou d’après les deux : Le Messager d’Allah ﷺ a dit : « Il n’est pas permis à une femme croyant en Allah et au Jour dernier (ou croyant en Allah et en Son Messager) de porter le deuil pour un défunt plus de trois jours"
+"3736","Rapporté par Nafi‘ : Un hadith similaire a été rapporté de lui"
+"3737","Rapporté par Safiyya bint Abu ‘Ubaid : Elle a entendu Hafsa"
+"3738","Rapporté par Safiyya bint Abu ‘Ubaid : Elle a rapporté cette tradition du Prophète d’Allah ﷺ d’après certaines épouses du Messager d’Allah ﷺ"
+"3739","Rapporté par ‘Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Il n’est pas permis à une femme croyant en Allah et au Jour dernier de porter le deuil pour un défunt plus de trois jours"
+"3740","Rapporté par Umm ‘Atiyya رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Une femme ne doit pas porter le deuil pour un défunt plus de trois jours"
+"3741","Rapporté par Hisham : Un hadith similaire a été rapporté avec la même chaîne de transmetteurs"
+"3742","Rapporté par Umm ‘Atiyya رضي الله عنها : On nous a interdit de porter le deuil pour un défunt plus de trois jours"

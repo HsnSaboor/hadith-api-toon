@@ -1,378 +1,314 @@
-hadiths[377]{hadithnumber,text}:
-1570,685.01
-1571,685.02
-1572,685.03
-1573,686.01
-1574,686.02
-1575,687.01
-1576,687.02
-1577,688.01
-1578,688.02
-1579,689.01
-1580,689.02
-1581,690.01
-1582,690.02
-1583,691
-1584,692.01
-1585,692.02
-1586,693.01
-1587,693.02
-1588,693.03
-1589,693.04
-1590,694.01
-1591,694.02
-1592,694.03
-1593,694.04
-1594,694.05
-1595,694.06
-1596,695.01
-1597,695.02
-1598,696.01
-1599,696.02
-1600,697.01
-1601,697.02
-1602,697.03
-1603,698
-1604,699.01
-1605,699.02
-1606,699.03
-1607,699.04
-1608,699.05
-1609,699.06
-1610,700.01
-1611,700.02
-1612,700.03
-1613,700.04
-1614,700.05
-1615,700.06
-1616,700.07
-1617,700.08
-1618,700.09
-1619,701
-1620,702
-1621,703.01
-1622,703.02
-1623,703.03
-1624,703.04
-1625,704.01
-1626,704.02
-1627,704.03
-1628,705.01
-1629,705.02
-1630,705.03
-1631,706.01
-1632,706.02
-1633,705.04
-1634,705.05
-1635,705.06
-1636,705.07
-1637,705.08
-1638,707.01
-1639,707.02
-1640,708.01
-1641,708.02
-1642,709.01
-1643,709.02
-1644,710.01
-1645,710.02
-1646,710.03
-1647,710.04
-1649,711.01
-1650,711.02
-1651,712
-1652,713.01
-1653,713.02
-1654,714.01
-1655,714.02
-1656,715.01
-1657,715.02
-1658,715.03
-1659,716
-1660,717.01
-1661,717.02
-1662,718
-1663,719.01
-1664,719.02
-1665,719.03
-1666,719.04
-1667,336.04
-1668,336.05
-1669,336.06
-1670,336.07
-1671,720
-1672,721.01
-1673,721.02
-1674,721.03
-1675,722
-1676,723.01
-1677,723.02
-1678,723.03
-1679,723.04
-1680,723.05
-1681,724.01
-1682,724.02
-1683,724.03
-1684,724.04
-1685,724.05
-1686,724.06
-1687,724.07
-1688,725.01
-1689,725.02
-1690,726
-1691,727.01
-1692,727.02
-1693,727.03
-1694,728.01
-1695,728.02
-1696,728.03
-1697,728.04
-1698,729
-1699,730.01
-1700,730.02
-1701,730.03
-1702,730.04
-1703,730.05
-1704,731.01
-1705,731.02
-1706,731.03
-1707,731.04
-1708,732.01
-1709,732.02
-1710,732.03
-1711,732.04
-1712,733.01
-1713,733.02
-1714,734
-1715,735.01
-1716,735.02
-1717,736.01
-1720,737.01
-1721,737.02
-1722,737.03
-1723,738.01
-1724,738.02
-1725,738.03
-1726,738.04
-1727,738.05
-1728,739
-1729,740
-1730,741
-1731,742
-1732,743.01
-1733,743.02
-1734,744.01
-1735,744.02
-1736,745.01
-1737,745.02
-1738,745.03
-1739,746.01
-1740,746.02
-1741,746.03
-1742,746.04
-1743,746.05
-1744,746.06
-1745,747
-1746,748.01
-1747,748.02
-1748,749.01
-1749,749.02
-1750,749.03
-1751,749.04
-1752,749.05
-1753,750
-1754,751.01
-1755,751.02
-1756,751.03
-1757,752.01
-1758,752.02
-1759,753
-1760,749.06
-1761,749.07
-1762,749.08
-1763,749.09
-1764,754.01
-1765,754.02
-1766,755.01
-1767,755.02
-1768,756.01
-1769,756.02
-1770,757.01
-1771,757.02
-1772,758.01
-1773,758.02
-1774,758.03
-1775,758.04
-1776,758.05
-1777,758.06
-1779,759.01
-1780,759.02
-1781,760.01
-1782,760.02
-1783,761.01
-1784,761.02
-1785,762.01
-1786,762.02
-1787,762.03
-1788,763.01
-1789,763.02
-1790,763.03
-1791,763.04
-1792,763.05
-1793,763.06
-1794,763.07
-1795,763.08
-1796,763.09
-1797,763.10
-1798,763.11
-1799,763.12
-1800,763.13
-1801,763.14
-1802,763.15
-1803,764
-1804,765
-1805,766
-1806,767
-1807,768
-1808,769.01
-1809,769.02
-1810,769.03
-1811,770
-1812,771.01
-1813,771.02
-1814,772
-1815,773.01
-1816,773.02
-1817,774
-1818,775
-1819,776
-1820,777.01
-1821,777.02
-1822,778
-1823,779
-1824,780
-1825,781.01
-1826,781.02
-1827,782.01
-1828,782.02
-1829,783.01
-1830,783.02
-1831,784.01
-1832,784.02
-1833,785.01
-1834,785.02
-1835,786
-1836,787
-1837,788.01
-1838,788.02
-1839,789.01
-1840,789.02
-1841,790.01
-1842,790.02
-1843,790.03
-1844,791
-1845,792.01
-1846,792.02
-1847,792.03
-1848,793.01
-1849,793.02
-1850,793.03
-1851,793.04
-1852,793.05
-1853,794.01
-1854,794.02
-1855,794.03
-1856,795.01
-1857,795.02
-1858,795.03
-1859,796
-1860,797.01
-1861,797.02
-1862,798.01
-1863,798.02
-1864,799.01
-1865,799.02
-1866,799.03
-1867,800.01
-1868,800.02
-1869,800.03
-1870,801.01
-1871,801.02
-1872,802
-1873,803
-1874,804.01
-1875,804.02
-1876,805
-1877,806
-1878,807.01
-1879,807.02
-1880,808.01
-1881,808.02
-1882,808.03
-1883,809.01
-1884,809.02
-1885,810
-1886,811.01
-1887,811.02
-1888,812.01
-1889,812.02
-1890,813
-1891,814.01
-1892,814.02
-1893,814.03
-1894,815.01
-1895,815.02
-1896,816
-1897,817.01
-1898,817.02
-1899,818.01
-1900,818.02
-1901,818.03
-1902,819.01
-1903,819.02
-1904,820.01
-1905,820.02
-1906,821.01
-1907,821.02
-1908,822.01
-1909,822.02
-1910,822.03
-1911,822.04
-1912,822.05
-1913,822.06
-1914,823.01
-1915,823.02
-1916,824.01
-1917,824.02
-1918,824.03
-1919,824.04
-1920,825
-1921,826.01
-1922,826.02
-1923,827
-1924,828.01
-1925,828.02
-1926,829
-1927,830.01
-1928,830.02
-1929,831
-1930,832
-1931,833.01
-1932,833.02
-1933,834
-1934,835.01
-1935,835.02
-1936,835.03
-1937,835.04
-1938,836
-1939,837
-1940,838.01
-1941,838.02
-1942,839.01
-1943,839.02
-1944,839.03
-1945,840.01
-1946,840.02
-1947,841
-1948,842
-1949,843.01
-1950,843.02
+hadiths[313]{hadithnumber,text}:
+"1465","Telah menceritakan kepada kami [Khalaf bin hisyam] telah menceritakan kepada kami [Hammad bin Zaid] katanya (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Abu Rabi' Az Zahrani] dan [Abu Kamil Al Jahdari]"
+"1466","Telah menceritakan kepada kami [Yahya bin Yahya]"
+"1467","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dari [Syu'bah] dari [Abu Imran] dari [Abdullah bin Shamit] dari [Abu Dzar] dia berkata; Kekasihku mewasiatkanku untuk selalu mendengar dan taat sekalipun kepada seorang budak yang cacat"
+"1468","Dan telah menceritakan kepadaku [Yahya bin Hubaib Al Haritsi]"
+"1469","Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail bin Ibrahim] dari [Ayyub] dari [Abu Aliyah Al Barra`] dia berkata; Ibnu Ziyad pernah mengakhirkan shalat"
+"1470","Dan telah menceritakan kepada kami ['Ashim bin Nadhr At Taimi] telah menceritakan kepada kami [Khalid bin Harits] telah menceritakan kepada kami [Syu'bah] dari [Abu Nu'amah] dari [Abdullah bin Shamit] dari [Abu Dzar] katanya; ""Bagaimana kalian? -atau dengan redaksi lain- ""Bagaimana kamu bila masih hidup ditengah-tengah suatu kaum yang suka menunda-nunda shalat dari waktunya? Tunaikanlah shalat tepat pada waktunya"
+"1471","Dan telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Mu'adz] yaitu Ibnu Hisyam"
+"1472","Telah menceritakan kepada kami [Yahya bin Yahya] katanya; pernah aku menyetorkan kepada [Malik] dari [Ibnu Syihab] dari [Said bin Musayyab] dari [Abu Hurairah]"
+"1473","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la] dari [Ma'mar] dari [Az Zuhri] dari [Sa'id bin Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam"
+"1475","Dan telah menceritakan kepada kami [Abdullah bin Maslamah bin Qo'nab]"
+"1476","Telah menceritakan kepadaku [Harun bin Abdullah] dan [Muhammad bin Hatim]"
+"1477","Telah menceritakan kepada kami [Yahya bin Yahya]"
+"1479","Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna]"
+"1481","Dan telah menceritakan kepadaku ['Amru An Naqid] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abu Zanad] dari [Al A'raj] dari [Abu Hurairah]"
+"1482","Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] (Dan diriwayatkan dari jalan lain) telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] sedangkan lafadz hadits darinya"
+"1483","Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] katanya; ini yang diceritakan kepada kami oleh [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam"
+"1485","Dan telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] dari [Abu Al Ahwash] bahwa Abu Ishaq mendengar darinya"
+"1486","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ishaq bin Ibrahim] dan [Suwaid bin Sa'id] dan [Ya'kub Ad Dauraqi]"
+"1487","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]"
+"1488","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Al Fadl bin Dukain] dari [Abu Al Umais] dari [Ali bin Al Aqmar] dari [Abu Al Ahwash] dari [Abdullah]"
+"1489","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Al Ahwash] dari [Ibrahim bin Al Muhajir] dari [Abu Sya'tsa']"
+"1490","Dan telah menceritakan kepada kami [Ibnu Abu Umar Al Makki] telah menceritakan kepada kami [Sufyan] yaitu Ibnu Uyainah"
+"1491","Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Al Mughirah bin Salamah Al Makhzumi] telah menceritakan kepada kami [Abdul Wahid yaitu Ibnu Ziyad]"
+"1493","Dan telah menceritakan kepadaku [Nashr bin Ali Al Juhdlami] telah menceritakan kepada kami [Bisyr yaitu Ibn Al Mufadlal] dari [Khalid] dari [Anas bin Sirin] katanya; aku mendengar [Jundab bin Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Barangsiapa shalat subuh"
+"1494","Dan telah menceritakan kepada kami [Ya'kub bin Ibrahim Ad Dauraqi] telah menceritakan kepada kami [Ismail] dari [Khalid] dari [Anas bin Sirin] katanya; aku mendengar [Jundab Al Qasri] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Barangsiapa shalat subuh"
+"1496","Telah menceritakan kepadaku [Harmalah bin Yahya At Tujibi] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Mahmud bin Rabi' Al Anshari] menceritakan kepadanya; bahwa ['Utban bin Malik] -seorang sahabat Nabi shallallahu 'alaihi wasallam yang turut serta dalam perang badar"
+"1499","Telah menceritakan kepada kami [Yahya bin Yahya]"
+"1500","Dan telah menceritakan kepada kami [Syaiban bin Farukh] dan [Abu Rabi']"
+"1501","Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Hasyim bin Al Qasim] telah menceritakan kepada kami [Sulaiman] dari [Tsabit] dari [Anas] katanya; Nabi shallallahu 'alaihi wasallam pernah menemui kami ketika tidak ada seorangpun selain aku"
+"1502","Dan telah menceritakan kepada kami [Ubaidullah bin Muadz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Mukhtar]"
+"1504","Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi]"
+"1505","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib]"
+"1506","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib]"
+"1508","Dan telah menceritakan kepada kami [Ibn Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Ayyub As Sakhtiyani] dari [Ibnu Sirin] dari [Abu Hurairah] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Para malaikat akan mendoakan salah seorang diantara kalian selama ia dalam majlisnya"
+"1509","Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Abu Rafi'] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Seorang hamba masih dihitung dalam shalat selama ia berada di tempat shalatnya untuk menunggu shalat dan malaikat akan mendoakannya; ""Ya Allah"
+"1510","Telah menceritakan kepada kami [Yahya bin Yahya] katanya; aku pernah menyetorkan hapalan kepada [Malik] dari [Abu Zanad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Salah seorang diantara kalian masih dihitung dalam shalat selama ia tertahan oleh shalat"
+"1511","Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Muhammad bin Salamah Al Muradi] telah menceritakan kepada kami [Abdullah bin Wahb] dari [Yunus] dari [Ibnu Syihab] dari [Ibnu Hurmuz] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Salah seorang diantara kalian dihitung dalam shalatnya selama duduk menunggu shalat"
+"1513","Telah menceritakan kepada kami [Abdullah bin Barrad Al Asy'ari] dan [Abu Kuraib]"
+"1514","Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abtsar] dari [Sulaiman At Tamimi] dari [Abu Usman An Nahdi] dari [Ubay bin Ka'b] katanya; seseorang yang setahuku tak ada lagi yang lebih jauh (rumahnya) dari masjid"
+"1516","Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] telah menceritakan kepada kami ['Abbad bin 'Abbad] telah menceritakan kepada kami ['Ashim] dari [Abu Utsman] dari [Ubay bin Ka'b]"
+"1518","Dan telah menceritakan kepada kami [Hajjaj bin Asy Syair] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Zakariya bin Ishaq] telah menceritakan kepada kami [Abu Zubair] katanya; aku mendengar [Jabir bin Abdullah] mengatakan; ""Rumah kami terpencil dari masjid"
+"1519","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdusshamad bin Abdul Warits] katanya; aku mendengar [Ayahku] menceritakan"
+"1520","Telah menceritakan kepada kami ['Ashim bin Nadar At Taimi] telah menceritakan kepada kami [Mu'tamir] katanya; Aku mendengar [Kahmas] menceritakan dari [Abu Nadlrah] dari [Jabir bin Abdullah] katanya; Bani Salamah berkeinginan pindah ke dekat masjid. Jabir melanjutkan; ""Ketika itu"
+"1521","Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Zakariya bin 'Adi]"
+"1522","Dan telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Laits] (dan diriwayatkan dari jalur lain) [Qutaibah] mengatakan; telah menceritakan kepada kami [Bakr yaitu bin Mudlar]"
+"1523","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib]"
+"1524","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Muhammad bin Mutharrif] dari [Zaid bin Aslam] dari ['Atha` bin Yasar] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam"
+"1525","Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus]"
+"1526","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan]. [Abu Bakr] mengatakan; telah menceritakan kepada kami [Muhammad bin Bisyr] dari [Zakariya]"
+"1528","Dan telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Ishaq bin musa Al Anshari] keduanya berkata; telah menceritakan kepada kami [Anas bin Iyadl] telah menceritakan kepadaku [Ibnu Abu Dzubab] dalam periwayatan Harun dan dalam hadis Al Anshari"
+"1530","Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Abu Nadlrah] dari [Abu Said Al Khudri] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Jika seseorang bertiga"
+"1532","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Said Al Asyaj]"
+"1534","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] kata [Ibnul Mutsanna]; telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Ismail bin Raja'] katanya; aku mendengar [Aus bin Dham'aj] mengatakan; Aku mendengar [Abu Mas'ud] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami: ""Hendaknya yang berhak menjadi imam suatu kaum adalah yang paling banyak dan paling baik bacaan kitabullah (alquran)"
+"1535","Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail bin Ibrahim] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Malik bin Huwairits] katanya; kami menemui Rasulullah shallallahu 'alaihi wasallam ketika kami masih remaja sebaya"
+"1538","Dan telah menceritakan kepadaku [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Abdul Wahhab Ats Tsaqafi] dari [Khalid Al Khadza`] dari [Abu Qilabah] dari [Malik bin Huwairits] katanya; aku menemui Nabi shallallahu 'alaihi wasallam bersama seorang kawanku. Ketika kami hendak kembali pulang"
+"1540","Telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah bin Yahya]"
+"1544","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Ayahku] dari [Yahya bin Abu Katsir]"
+"1545","Dan telah menceritakan kepada kami [Yahya bin Yahya]"
+"1546","Dan telah menceritakan kepadaku ['Amru An Naqid] dan [Zuhair bin Harb]"
+"1548","Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz bin Asad] telah menceritakan kepada kami [Hammad bin Salamah] telah mengabarkan kepada kami [Anas bin Sirin] dari [Anas bin Malik]"
+"1549","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib]"
+"1550","Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari ['Ashim] katanya; aku mendengar [Anas] mengtaakan; ""Belum pernah aku melihat Rasulullah shallallahu 'alaihi wasallam sedemikian murkanya karena kehilangan pasukannya"
+"1554","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam melakukan doa ""qunut"" selama sebulan"
+"1555","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar]"
+"1556","Dan Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Sufyan] dari ['Amru bin Murrah] dari [Abdurrahman bin Abu Laila] dari [Al Barra'] katanya; Rasulullah shallallahu 'alaihi wasallam pernah melakukan qunut ketika (shalat) subuh (fajar) dan maghrib"
+"1560","Telah menceritakan kepadaku [Harmalah bin Yahya At Tujibi] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dari [Abu Hurairah]"
+"1562","Dan telah menceritakan kepada kami [Syaiban bin Farukh] telah menceritakan kepada kami [Sulaiman yaitu Ibnu Al Mughirah]"
+"1563","Dan telah menceritakan kepadaku [Ahmad bin Said bin Sakhr Ad Darimi] telah menceritakan kepada kami ['Ubaidullah bin Abdul Majid]"
+"1565","Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Salamah] dari [Humaid] dari [Bakar bin Abdullah] dari [Abdullah bin Rabah] dari [Abu Qatadah] katanya; Jika Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan lalu singgah di waktu malamnya"
+"1568","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Said] dari [Qatadah] dari [Anas bin Malik] katanya; Nabi shallallahu 'alaihi wasallam bersabda: ""Barangsiapa lupa shalat atau ketiduran karenanya"
+"1569","Telah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] telah menceritakan kepadaku [Ayahku] telah menceritakan kepada kami [Al Mutsanna] dari [Qatadah] dari [Anas bin Malik] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Jika salah seorang diantar kalian ketiduran dari (tidak mengerjakan) shalat"
+"1571","Dan telah menceritakan kepadaku [Abu Thahir] dan [Harmalah bin Yahya] keduanya berkata; telah menceritakan kepada kami [Ibnuu Wahb] dari [Yunus] dari [Ibnu Syihab]"
+"1572","Dan telah menceritakan kepadaku [Ali bin Khasyram] telah mengabarkan kepada kami [Ibnu 'Uyainah] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah]"
+"1573","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan [Zuhair bin Harb] dan [Ishaq bin Ibrahim]. Ishaq mengatakan; telah mengabarkan kepada kami"
+"1576","Dan telah menceritakan kepada kami [Abu Bukair bin Abu Syaibah] dan ['Amru An Naqid] semuanya dari [Al Qasim bin Malik]. ['Amru] mengatakan; telah menceritakan kepada kami [Qasim bin Malik Al Muzani] telah menceritakan kepada kami [Ayyub bin 'Aidz Ath Tha`i] dari [Bukair bin Al Akhnas] dari [Mujahid] dari [Ibnu Abbas]"
+"1590","Dan telah menceritakan kepadaku [Harmalah bin Yhaya] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku ['Amru yaitu Ibnu Al Harits] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [Ayahnya] dari Rasulullah shallallahu 'alaihi wasallam"
+"1592","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar]"
+"1594","Telah menceritakan kepada kami ['Ubaidullah bin Muadz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Khubaib bin Abdurrahman] ia mendengar [Hafs bin 'Ashim] dari [Ibnu Umar] katanya; Nabi shallallahu 'alaihi wasallam pernah shalat di Mina dengan shalatnya musafir"
+"1596","Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Abdul Wahid] dari [Al A'masy] telah menceritakan kepada kami [Ibrahim]"
+"1598","Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah]. Yahya mengatakan; telah mengabarkan kepada kami"
+"1599","Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] telah menceritakan kepadaku [Haritsah binti Wahb Al Khuza'i] katanya; ""Aku pernah shalat di belakang Rasulullah shallallahu 'alaihi wasallam di Mina"
+"1600","Telah menceritakan kepada kami [Yahya bin Yahya]"
+"1601","Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami ['Ubaidullah] telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar]"
+"1603","Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Zubair] dari [Jabir] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ahmad bin Yunus] katanya; telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] katanya; ""Kami berangkat bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan"
+"1604","Dan telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Ismail] dari [Abdul Hamid] kawan Az Ziyadi"
+"1610","Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat sunnah kearah manapun hewan tunggangannya menghadap"
+"1611","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam pernah shalat diatas hewan tunggangannya kearah manapun hewan tunggangannya menghadap"
+"1613","Dan telah menceritakan kepadaku ['Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Yahya bin Said] dari [Abdul Malik bin Abu Sulaiman] katanya; telah menceritakan kepada kami [Said bin Jubair] dari [Ibnu Umar] katanya; Rasulullah shallallahu 'alaihi wasallam pernah shalat diatas kendarannya ke arah mana saja beliau menghadap"
+"1614","Telah menceritakan kepada kami [Yahya bin Yahya] katanya; ""Aku pernah menyetorkan hapalan di hadapan [Malik] dari ['Amru bin Yahya Al Mazini] dari [Said bin Yasar] dari [Ibnu Umar]"
+"1615","Telah menceritakan kepada kami [Yahya bin Yahya] katanya; aku menyetorkan hapalan di hadapan [Malik] dari [Abu Bakar bin Umar bin Abdurrahman bin Abdullah bin Umar bin Khattab] dari [Sa'id bin Yasar]"
+"1616","Dan telah menceritakan kepada kami [Yahya bin Yahya] katanya; ""Aku pernah menyetorkan hapalan di hadapan [Malik] dari [Abdullah bin Dinar] dari [Ibnu Umar] dia mengatakan; ""Rasulullah shallallahu 'alaihi wasallam pernah shalat diatas hewan tunggangannya ke arah manapun hewan tunggangannya menghadap."" [Abdullah bin Dinar] berkata; Dan [Ibnu Umar] juga pernah melakukan seperti ini"
+"1617","Dan telah menceritakan kepadaku [Isa bin Hammad Al Mishri] telah mengabarkan kepada kami [Al Laits] telah menceritakan kepadaku [Ibnu Al Had] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwa ia berkata; ""Rasulullah shallallahu 'alaihi wasallam pernah melakukan witir diatas hewan tunggangannya"
+"1618","Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [Ayahnya] katanya; ""Rasulullah shallallahu 'alaihi wasallam pernah melakukan shalat sunnah diatas hewan tunggangannya"
+"1619","Telah menceritakan kepada kami ['Amru bin Sawwad] dan [Harmalah] katanya; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abdullah bin 'Amir bin Rabiah] bahwa dia telah mengabarkan kepadanya"
+"1620","Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Affan bin Muslim] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Anas bin Sirin] katanya; ""Kami pernah bertemu [Anas bin Malik] ketika tiba di Syam"
+"1621","Telah menceritakan kepada kami [Yahya bin Yahya]"
+"1622","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] katanya; telah mengabarkan kepadaku [Nafi'] bahwa apabila [Ibnu Umar] melakukan perjalanan antara Maghrib dan Isyak'"
+"1623","Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Said] dan [Abu Bakar bin Abu Syaibah] dan ['Amru An Naqid]"
+"1624","Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] katanya; telah mengabarkan kepadaku [Salim bin Abdullah] bahwa [Ayahnya] mengatakan; ""Aku pernah melihat apabila Rasulullah shallallahu 'alaihi wasallam menyegerakan perjalanannya"
+"1625","Telah menceritakan kepada kami [Qutaibah bin Said] Telah menceritakan kepada kami [Almufadhdhal] yakni Ibnu fadhalah dari [Uqail] dari [Ibnu Syihab] dari [Anas bin Malik] katanya"
+"1626","Dan telah menceritakan kepadaku ['Amru annqid] telah menceritakan kepada kami [Syababah bin Suwar Al madayini] telah menceritakan kepada kami [Laits bin Sa'd] dari [Uqail bin Khalid] dari [Az Zuhri] dari [Anas] katanya; ""Apabila Nabi shallallahu 'alaihi wasallam hendak menjamak antara dua shalat ketika dalam perjalanan"
+"1627","Dan telah menceritakan kepadaku [Abu Thahir] dan ['Amru bin Sawwad] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Jabir bin Ismail] dari ['Uqail] dari [Ibnu Syihab] dari [Anas] dari Nabi shallallahu 'alaihi wasallam"
+"1628","Telah menceritakan kepada kami [Yahya bin Yahya] katanya; Aku pernah menyetorkan hapalan kepada [Malik] dari [Abu Zubair] dari [Said bin Jubair] dari [Ibnu Abbas] katanya; Rasulullah shallallahu 'alaihi wasallam pernah shalat zhuhur dan ashar semuanya"
+"1629","Dan telah menceritakan kepada kami [Ahmad bin Yunus] dan ['Aun bin Salam] semuanya dari [Zuhair]. [Ibnu Yunus] mengatakan; telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Zubair] dari [Said bin Jubair] dari [Ibnu Abbas] katanya; Rasulullah shallallahu 'alaihi wasallam pernah shalat Zhuhur dan Ashar sekaligus di Madinah bukan karena takut dan bukan pula karena safar."" [Abu Zubair] mengatakan; ""Aku bertanya kepada [Sa'id]; ""Mengapa beliau melakukan hal itu? Dia menjawab; Aku bertanya kepada [Ibnu Abbas] sebagaimana kamu bertanya kepadaku"
+"1630","Telah menceritakan kepada kami [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid yaitu Ibnu Al Harits] telah menceritakan kepada kami [Qurrah] telah menceritakan kepada kami [Abu Zubair] telah menceritakan kepada kami [Said bin Jubair] telah menceritakan kepada kami [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah menjamak shalat dalam safar ketika perang tabuk"
+"1631","Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Zubair] dari [Abu Thufail Amir] dari [Mu'adz] katanya; ""Kami berangkat bersama Rasulullah shallallahu 'alaihi wasallam ketika perang Tabuk"
+"1632","Telah menceritakan kepada kami [Yahya bin Habib] telah menceritakan kepada kami [Khalid yaitu Ibnu Al Harits] telah menceritakan kepada kami [Qurrah bin Khalid] telah menceritakan kepada kami [Abu Zubair] telah menceritakan kepada kami ['Amir bin Watsilah Abu Thufail] telah menceritakan kepada kami [Muadz bin Jabal] katanya; ""Ketika perang Tabuk"
+"1633","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; telah menceritakan kepada kami [Abu Muawiyah] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Kuraib] dan [Abu Said Al Asyajj] sedangkan lafadznya milik Abu Kuraib"
+"1634","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] dari [Jabir bin Zaid] dari [Ibnu Abbas]"
+"1635","Dan telah menceritakan kepada kami [Abu Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Amru bin Dinar] dari [Jabir bin Zaid] dari [Ibnu Abbas]"
+"1636","Dan telah menceritakan kepadaku [Abu Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad] dari [Zubair bin Khirrit] dari [Abdullah bin Syaqiq] katanya; Suatu hari [Ibnu Abbas] pernah berpidato di hadapan kami"
+"1637","Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Imran bin Hudair] dari [Abdullah bin Syaqiq Al 'Uqaili] katanya; ""Seorang laki-laki pernah mengatakan kepada [Ibnu Abbas]; ""Shalat"
+"1638","Telah menceritakan kepada kami [Abu Bukair bin Abu Syaibah] telah menceritakan kepada kami [Abu Muawiyah] dan [Waki'] dari [Al A'masy] dari ['Umarah] dari [Al Aswad] dari [Abdullah] katanya; ""Janganlah salah seorang dari kalian memberi peluang sedikitpun kepada setan untuk menggangu shalatnya"
+"1640","Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Abu 'Awanah] dari [As Sudi]"
+"1641","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [As Sudi] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam meninggalkan shalat dari sebelah kanan"
+"1642","Dan telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Abu Zaidah] dari [Mis'ar] dari [Tsabit bin 'Ubaid] dari [Ibnu Al Barra`] dari [Al Barra`] katanya; ""Jika kami shalat di belakang Rasulullah shallallahu 'alaihi wasallam"
+"1644","Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Warqa'] dari ['Amru bin Dinar] dari ['Atha` bin Yasar] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam"
+"1646","Dan telah menceritakan kepadaku [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Zakariya bin Ishaq] telah menceritakan kepada kami ['Amru bin Dinar] katanya; aku mendengar ['Atha` bin Yasar] mengatakan dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam"
+"1649","Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ayahnya] dari [Hafs bin 'Ashim] dari [Abdullah bin Malik bin Buhainah] bahwa Rasulullah shallallahu 'alaihi wasallam suatu kali pernah melewati seseorang yang shalat"
+"1650","Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Abu 'Awanah] dari [Said bin Ibrahim] dari [Hafs bin 'Ashim] dari [Ibnu Buhainah] katanya; ""Ketika shalat subuh telah diiqamati"
+"1651","Telah menceritakan kepada kami [Abu Al Kamil Al Jahdari] telah menceritakan kepada kami [Hammad yaitu Ibnu Zaid] (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Hamid bin Umar Al Bakrawi] telah menceritakan kepada kami [Abdul Wahid yaitu Ibnu Ziyad]"
+"1652","Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sulaiman bin Bilal] dari [Rabi'ah bin Abdurrahman] dari [Abdul Malik bin Sa'id] dari [Abu Humaid] atau dari [Abu Usaid] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: ""jika salah seorang diantara kalin masuk masjid"
+"1654","Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] dan [Qutaibah bin Said] keduanya berkata; telah menceritakan kepada kami [Malik] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Yahya bin Yahya] katanya; Aku pernah menyetorkan hapalan kepada [Malik] dari [Amir bin Abdullah bin Zubair] dari ['Amru bin Sulaim Az Zuraqi] dari [Abu Qatadah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Jika salah seorang diantara kalian masuk masjid"
+"1655","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Zaidah] katanya; telah menceritakan kepadaku ['Amru bin Yahya Al Anshari] telah menceritakan kepadaku [Muhammad bin Yahya bin Habban] dari ['Amru bin Sulaim bin Khaldah Al Anshari] dari [Abu Qatadah] -salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam- katanya; ""Aku masuk masjid ketika Rasulullah shallallahu 'alaihi wasallam duduk ditengah kerumuan para sahabat. Abu Qatadah melanjutkan; ""Maka aku langsung duduk. Ketika melihatku"
+"1656","Telah menceritakan kepada kami [Ahmad bin Jawwash Al Hanafi Abu 'Ashim] telah menceritakan kepada kami ['Ubaidullah Al Asyja'i] dari [Sufyan] dari [Muharib bin Ditsar] dari [Jabir bin Abdullah] katanya; Nabi shallallahu 'alaihi wasallam pernah mempunyai hutang kepadaku"
+"1657","Telah menceritakan kepada kami ['Ubaidullah bin Muadz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Muharib] dia mendnegar [Jabir bin Abdullah] mengatakan; ""Rasulullah shallallahu 'alaihi wasallam pernah membeli untaku"
+"1658","Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab yaitu Ats Tsaqafi] telah menceritakan kepada kami ['Ubidullah] dari [Wahab bin Kisan] dari [Jabir bin Abdullah] katanya; ""Aku pernah berangkat bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu peperangan. Ternyata untaku berjalan sangat pelan karena keletihan. Rasululullah shallallahu 'alaihi wasallam tiba sebelumku"
+"1659","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Adl Dlahak yaitu Abu 'Ashim] (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Mahmud bin Ghailan] telah menceritakan kepada kami [Abdurrazak] keduanya berkata; telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ibnu Syihab] bahwa [Abdurrahman bin Abdullah bin Ka'b] mengabarkan kepadanya"
+"1660","Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Said Al Jurairi] dari [Abdullah bin Syaqiq]"
+"1661","Dan telah menceritakan kepada kami ['Ubaidullah bin Muadz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Kahmas bin Al Hasan Al Qaisi] dari [Abdullah bin Syaqiq] katanya; ""Aku bertanya kepada ['Aisyah] ""Apakah Nabi shallallahu 'alaihi wasallam pernah shalat dhuha? Dia menjawab; ""Tidak"
+"1662","Telah menceritakan kepada kami [Yahya bin Yahya]"
+"1663","Telah menceritakan kepada kami [Syaiban bin Farukh] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Yazid yaitu Yazid Ar Risyk] telah menceritakan kepadaku [Ma'adzah]"
+"1665","Dan telah menceritakan kepadaku [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid bin Al Harits] dari [Said]"
+"1667","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Abdurrhman bin Abu Laila] katanya; ""Tidak ada seorangpun yang mengabariku bahwa ia melihat Nabi shallallahu 'alaihi wasallam melakukan shalat dhuha"
+"1668","Dan telah menceritakan kepadaku [Harmalah bin Yahya] dan [Muhammad bin Salamah Al Muradi] keduanya berkata; telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] katanya; telah menceritakan kepadaku [Ibnu Abdullah bin Al Harits] bahwa ayahnya yatiu [Abdullah bin Al Harits bin Naufal] mengatakan; ""Aku bertanya dan memang aku sangat berkehendak agar seseorang mengabariku"
+"1670","Dan telah menceritakan kepadaku [Hajjjaj bin Syair] telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Wuhaib bin Khalid] dari [Ja'far bin Muhammad] dari [Ayahnya] dari [Abu Murah] mantan budak Aqil"
+"1671","Telah menceritakan kepada kami [Abdullah bin Muhammad bin Asma` Adl Dluba`i] telah menceritakan kepada kami [Mahdi yaitu Ibnu Maimun] telah menceritakan kepada kami [Washil] mantan budak Abu 'Uyainah dari [Yahya bin 'Uqail] dari [Yahya bin Ya'mar] dari [Abul Aswad Ad Du`ali] dari [Abu Dzarr] dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda: ""Setiap pagi dari persendian masing-masing kalian ada sedekahnya"
+"1675","Dan telah menceritakan kepadaku [Harun bin Abdullah] dan [Muhammad bin Rafi'] keduanya berkata; telah menceritakan kepada kami [Ibnu Abu Fudaik] dari [Adl Dlahak bin Utsman] dari [Ibrahim bin Abdullah bin Hunain] dari [Abu Murrah] mantan budak Ummu Hani` dari [Abu Darda`] katanya; ""Kekasihku shallallahu 'alaihi wasallam mewasiatkan kepadaku untuk melakukan tiga hal"
+"1676","Telah menceritakan kepada kami [Yahya bin Yahya] katanya; aku pernah menyetorkan hapalan kepada [Malik] dari [Nafi'] dari [Ibnu Umar] bahwa [Hafsah Umul Mukminin] mengabarinya"
+"1678","Dan telah menceritakan kepadaku [Ahmad bin Abdullah bin Al Hakam] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Zaid bin Muhammad] katanya; aku pernah mendengar [Nafi'] menceritakan dari [Ibnu Umar] dari [Hafsah] katanya; ""Jika fajar telah terbit"
+"1682","Telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami ['Abdah bin Sulaiman] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Ayahnya] dari ['Aisyah]"
+"1683","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dari [Hisyam] dari [Yahya] dari [Abu Salamah] dari ['Aisyah]"
+"1684","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab]"
+"1686","Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Said] dari [Ibnu Juraij] katanya; telah menceritakan kepadaku ['Atha`] dari ['Ubaid bin Umair] dari ['Aisyah]"
+"1687","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] telah menceritakan kepada kami [Hafs] dari [Ibnu Juraij] dari ['Atha`] dari [Ubaid bin Umair] dari ['Aisyah] katanya; ""Aku belum pernah melihat shalat sunnah yang lebih disegerakan untuk dikerjakan Nabi shallallahu 'alaihi wasallam daripada dua rakaat sebelum fajar"
+"1688","Telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Ghabari] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Zurarah bin Aufa] dari [Sa'd bin Hisyam] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam"
+"1690","Dan telah menceritakan kepadaku [Muhammad bin 'Abbad] dan [Ibnu Abu Umar]"
+"1691","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Fazari yaitu Marwan bin Muawiyah] dari [Utsman bin Hakim Al Anshari]"
+"1694","Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Abu Khalid yaitu Sulaiman bin Hayyan] dari [Dawud bin Abu Hind] dari [Nu'man bin Salim] dari ['Amru bin Aus]"
+"1696","Dan telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Nu'man bin Salim] dari ['Amru bin Aus] dari [Anbasah bin Abu Sufyan] dari [Ummu Habibah] isteri Nabi shallallahu 'alaihi wasallam"
+"1698","Telah menceritakan kepadaku [Zuhair bin Harb] dan ['Ubaidullah bin Said] keduanya berkata; telah menceritakan kepada kami [Yahya yaitu Ibnu Said] dari ['Ubaidullah]"
+"1701","Telah menceritakan kepada kami [Qutaibah bin Sa'id]"
+"1702","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muadz bin Muadz] dari [Humaid] dari [Abdullah bin Syaqiq Al 'Uqaili] katanya; ""Aku pernah bertanya kepada ['Aisyah] tentang shalat (sunnah) nya Rasulullah shallallahu 'alaihi wasallam"
+"1704","Dan telah menceritakan kepadaku [Abu Rabi' Az Zahrani] telah mengabarkan kepada kami [Hammad yaitu Ibnu Zaid]"
+"1705","Dan telah menceritakan kepada kami [Yahya bin Yahya]"
+"1706","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim]. [Abu Bakar] mengatakan; telah menceritakan kepada kami [Ismail bin 'Ulayyah] dari [Al Walid bin Abu Hisyam] dari [Abu Bakar bin Muhammad] dari ['Amrah] dari ['Aisyah] katanya; ""Rasulullah shallallahu 'alaihi wasallam membaca (dalam shalat) dengan duduk"
+"1708","Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Sa'id Al Jurairi] dari [Abdulah bin Syaqiq]"
+"1710","Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Harun bin Abdullah]"
+"1712","Telah menceritakan kepada kami [Yahya bin Yahya]"
+"1714","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Hasan bin Shalih] dari [Simak]"
+"1715","Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Hilal bin Yasaf] dari [Abu Yahya] dari [Abdullah bin 'Amru] katanya; diceritakan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Shalat seseorang yang dilakukanya dengan duduk"
+"1718","Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah menceritakan kepada kami [Ibn Wahb] telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Ibnu Syihab] dari ['Urwah bin Zubair] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam"
+"1720","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; telah menceritakan kepada kami [Abdullah bin Numair]"
+"1723","Telah menceritakan kepada kami [Yahya bin Yahya] katanya; aku menyetorkan hapalan kepada [Malik] dari [Said bin Abu Said Al Maqbari] dari [Abu Salamah bin Abdurrahman] bahwa dia pernah bertanya kepada ['Aisyah]; ""Bagaimanakah shalat (sunnah) Rasulullah shallallahu 'alaihi wasallam pada bulan Ramadhan?"" Aisyah menjawab; ""Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat sunnah baik ketika Ramadhan atau diluar ramadhan tak lebih dari sebelas rakaat"
+"1724","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] telah menceritakan kepada kami [Hisyam]"
+"1726","Telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abdullah bin Abu Labid] ia mendengar [Abu Salamah]"
+"1728","Dan telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq]"
+"1729","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib]"
+"1731","Telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Bisyr] dari [Mis'ar] dari [Sa'd] dari [Abu Salamah] dari ['Aisyah] dia berkata; ""Aku tidak menemukan Rasulullah shallallahu 'alaihi wasallam ketika sahur pertama (akhir malam sebelum terbit fajar -pent) di rumahku -atau disisiku- selain kutemukan beliau dalam keadaan tidur"
+"1732","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Nashr bin Ali] dan [Ibnu Abu Umar]. [Abu Bakar] mengatakan; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abu Nadlr] dari [Abu Salamah] dari ['Aisyah] katanya; ""Jika Nabi shallallahu 'alaihi wasallam selesai shalat dua rakaat fajar"
+"1734","Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Tamim bin Salamah] dari ['Urwah bin Zubair] dari ['Aisyah] katanya; ""Jika Rasulullah shallallahu 'alaihi wasallam shalat malam"
+"1739","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna Al 'Anzi] telah menceritakan kepada kami [Muhammad bin Abu 'Adi] dari [Said] dari [Qatadah] dari [Zurarah]"
+"1743","Telah menceritakan kepada kami [Said bin Manshur] dan [Qutaibah bin Said]"
+"1744","Dan telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa yaitu Ibnu Yunus]"
+"1745","Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakan kepada kami [Abdullah bin Wahb]"
+"1746","Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ibnu Numair] keduanya berkata; telah menceritakan kepada kami [Ismail yaitu Ibnu 'Ulayyah] dari [Ayyub] dari [Al Qasim Asy Syaibani] bahwa [Zaid bin Arqam] pernah melihat suatu kaum yang tengah mengerjakan shalat dluha"
+"1747","Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam bin Abu Abdullah] katanya; telah menceritakan kepada kami [Al Qasim Asy Syaibani] dari [Zaid bin Arqam] katanya; Rasulullah shallallahu 'alaihi wasallam pernah berangkat menemui penduduk Quba' ketika mereka tengah mengerjakan shalat"
+"1749","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan ['Amru An Naqid] dan [Zuhair bin Harb] kata [Zuhair]; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Zuhri] dari [Salim] dari [Ayahnya] ia mendengar Nabi shallallahu 'alaihi wasallam bersabda"
+"1750","Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahab] telah mengabarkan kepadaku ['Amru] bahwa [Ibnu Syihab]"
+"1751","Dan telah menceritakan kepadaku [Abu Rabi' Az Zarani] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] dan [Budail] dari [Abdullah bin Syaqiq] dari [Abdullah bin Umar]"
+"1754","Dan telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Laits]"
+"1755","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah]"
+"1757","Telah menceritakan kepada kami [Syaiban bin Farukh] telah menceritakan kepada kami [Abdul Warits] dari [Abu Tayyah] katanya; telah menceritakan kepadaku [Abu Mijlaz] dari [Ibnu Umar] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "" Witir adalah satu rakaat yang dilakukan di akhir malam"
+"1761","Telah menceritakan kepada kami [Khalaf bin Hisyam] dan [Abu Kamil] keduanya berkata"
+"1763","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] ia berkata"
+"1766","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Hafsh] dan [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Barangsiapa yang khawatir tidak bisa bangun di akhir malam"
+"1767","Dan telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] Telah menceritakan kepada kami [Ma'qil] ia adalah Ibnu Ubaidullah"
+"1768","Telah menceritakan kepada kami [Abdu Humaid] telah mengabarkan kepada kami [Abu 'Ashim] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] dari [Jabir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Shalat yang paling Afdlal (utama) adalah shalat yang lama berdirinya"
+"1769","Telah menceritakan kepada kami [Abu Bakr bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata"
+"1770","Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] ia berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: ""Sesungguhnya di waktu malam terdapat suatu saat"
+"1771","Dan telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] telah menceritakan kepada kami [Ma'qil] dari [Abu Zubair] dari [Jabir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sesungguhnya di antara waktu malam itu terdapat suatu saat"
+"1772","Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata"
+"1773","Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub] ia dalah Ibnu Abdurrahman Al Qariy"
+"1774","Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Abul Mughirah] telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Jika pertengahan malam atau sepertiga malam telah berlalu"
+"1775","Telah menceritakan kepadaku [Hajjaj bin Sya'ir] telah menceritakan kepada kami [Muhadlir Abul Muwarri'] Telah menceritakan kepada kami [Sa'd bin Sa'id] ia berkata"
+"1777","Telah menceritakan kepada kami [Utsman] dan [Abu Bakr] keduanya adalah anak dari Abu Syaibah dan [Ishaq bin Ibrahim Al Hanzhali] sedangkan lafazhnya dari Ibnu Abu Syaibah"
+"1779","Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata"
+"1780","Telah menceritakan kepada kami ['Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam memberikan motivasi untuk mengerjakan (shalat pada malam) Ramadlan dengan tidak mewajibkannya. Beliau bersabda: ""Barangsiapa yang menunaikan (shalat pada malam) Ramadlan dengan penuh keimanan dan mengharap (pahala dari Allah)"
+"1781","Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] dari [Yahya bin Abu Katsir] ia berkata"
+"1782","Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Syababah] telah menceritakan kepadaku [Warqa`] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam"
+"1783","Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata"
+"1784","Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] ia berkata"
+"1785","Telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] telah menceritakan kepada kami [Al Walid bin Muslim] Telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepadaku [Abdah] dari [Zirr] ia berkata"
+"1786","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] ia berkata"
+"1789","Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata: Aku telah membacakan kepada [Malik] dari [Makhramah bin Sulaiman] dari [Kuraib] Maula Ibnu Abbas"
+"1791","Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] Telah menceritakan kepada kami [Amru] dari [Abdu Rabbih bin Sa'id] dari [Makhramah bin Sulaiman] dari [Kuraib] Maula Ibnu Abbas"
+"1792","Dan Telah menceritakan kepada kami [Muhammad bin Rafi'] Telah menceritakan kepada kami [Ibnu Abu Fudaik] telah mengabarkan kepada kami [Adl Dlahak] dari [Makhramah bin Sulaiman] dari [Kuraib] Maula Ibnu Abbas"
+"1794","Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad] yaitu anak Ja'far"
+"1799","Telah menceritakan kepada kami [Washil bin Abdul A'la] Telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Hushain bin Abdurrahman] dari [Habib bin Abu Tsabit] dari [Muhammad bin Abu 'Ali bin Abdullah bin Abbas] dari [bapaknya] dari [Abdullah bin Abbas] bahwa ia pernah bermalam di sisi Rasulullah shallallahu 'alaihi wasallam. Kemudian beliau bangun dan langsung bersiwak kemudian berwudlu. Lalu beliau membaca: ""Sesungguhnya dalam penciptaan langit dan bumi"
+"1801","Dan telah menceritakan kepadaku [Harun bin Abdullah] dan [Muhammad bin Rafi'] keduanya berkata"
+"1803","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] -kemudian dalam jalur periwatan lain- Dan telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] keduanya berkata"
+"1804","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari [Abdullah bin Abu Bakr] dari [bapaknya] bahwa [Abdullah bin Qais bin Makhramah] telah mengabarkan kepadanya dari [Zaid bin Khalid Al Juhani] bahwa ia berkata; Saya benar-benar akan memperhatikan shalat Rasulullah shallallahu 'alaihi wasallam pada malam ini. (Maka saya melihat) beliau shalat dua raka'at ringan. Kemudian beliau shalat dua raka'at yang sangat panjang. Kemudian beliau shalat dua raka'at lagi selain dua raka'at sebelumnya. Kemudian beliau shalat dua raka'at lagi selain dua raka'at sebelumnya. Kemudian beliau shalat lagi selain dua raka'at sebelumnya. Kemudian beliau shalat dua raka'at lagi selain dua raka'at sebelumnya. Dan sesudah itu beliau shalat witir"
+"1808","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari [Abu Zubair] dari [Thawus] dari [Ibnu Abbas] bahwa; Rasulullah shallallahu 'alaihi wasallam jika bangun untuk mengerjakan shalat di tengah malam"
+"1812","Telah menceritakan kepada kami [Muhammad bin Bukair Al Muqaddami] telah menceritakan kepada kami [Yusuf Al Majisyun] telah menceritakan kepadaku [bapakku] dari [Abdurrahman Al A'raj] dari [Ubaidullah bin Abu Rafi'] dari [Ali bin Abu Thalib] dari Rasulullah shallallahu 'alaihi wasallam; Biasanya apabila Rasulullah shallallahu 'alaihi wasallam shalat"
+"1814","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dan [Abu Mu'awiyah] -dalam jalur lain- Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] semuanya dari [Jarir] mereka semua dari [Al A'masy] -dalam jalur lain- telah menceritakan kepada kami [Ibnu Numair] -dan lafazh ini adalah darinya- telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] dari [Sa'id bin Ubaidah] dari [Al Mustaurid bin Al Ahnaf] dari [Shilah bin Zufar] dari [Hudzaifah] ia berkata; Pada suatu malam"
+"1815","Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] keduanya dari [Jarir] -dalam jalur lain [Utsman] berkata- telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa`il] ia berkata"
+"1817","Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq] -Utsman- berkata"
+"1818","Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Uqail] dari [Az Zuhri] dari [Ali bin Husain] bahwa [Al Husain bin Ali] telah menceritakan kepadanya dari [Ali bin Abu Thalib] bahwa pada suatu malam tiba-tiba Nabi shallallahu 'alaihi wasallam mendatangi rumah kami -yakni rumahku bersama Fathimah- seraya berkata: ""Apakah kalian tidak shalat?"" jawabku"
+"1819","Telah menceritakan kepada kami [Amru An Naqid] dan [Zuhair bin Harb] -Amru- berkata"
+"1820","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Ubaidullah] ia berkata"
+"1821","Dan Telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] telah mengabarkan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam"
+"1822","Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata"
+"1823","Telah menceritakan kepada kami [Abdullah bin Barrad Al Asy'ari] dan [Muhammad bin Al 'Ala`] keduanya berkata"
+"1824","Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman Al Qariy] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Janganlah kalian jadikan rumah-rumah kalian sebagai kuburan"
+"1825","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Abdullah bin Sa'id] telah menceritakan kepada kami [Salim Abu Nadlr] maula Umar bin Ubaidullah"
+"1827","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] yakni Ats Tsaqafi"
+"1828","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Sa'id bin Ibrahim] bahwa ia mendengar [Abu Salamah] menceritakan dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah ditanya"
+"1829","Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] -Zuhari berkata- telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Alqamah] ia berkata; Saya bertanya kepada Ummul mukminin [Aisyah]"
+"1830","Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Sa'd bin Sa'id] telah mengabarkan kepadaku [Al Qasim bin Muhammad] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Amalan yang paling dicintai Allah adalah yang terus-menerus (dilakukan) meskipun sedikit."" Al Qasim berkata; Dan Aisyah"
+"1831","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Ulayyah] -dalam jalur lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] dari [Abdul Aziz bin Shuhaib] dari [Anas] ia berkata; ""Suatu ketika"
+"1833","Dan telah menceritakan kepadaku [Harmalah bin Yahya] dan [Muhammad bin Salamah Al Muradi] ia berkata"
+"1834","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata"
+"1835","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] -dalam jalur periwayatan lain- Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] semuanya dari [Hisyam bin Urwah] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] -lafazh darinya- dari [Malik bin Anas] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: ""Jika salah seorang dari kalian mengantuk di dalam shalatnya"
+"1836","Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] ia berkata"
+"1837","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata"
+"1838","Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Abdah] dan [Abu Mu'awiyah] dari [Hisyam] dari [bapaknya] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam mendengar bacaan seorang laki-laki di Masjid"
+"1840","Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata"
+"1841","Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] -Ishaq- berkata"
+"1842","Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] dan [Abu Mu'awiyah] -dalam jalur lain- Dan telah menceritakan kepada kami [Yahya bin Yahya] -lafazh adalah miliknya- ia berkata"
+"1843","Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Abdah bin Abu Lubabah] dari [Syaqiq bin Salamah] ia berkata"
+"1844","Telah menceritakan kepada kami [Abdullah bin Barrad Al Asy'ari] dan [Abu Kuraib] keduanya berkata"
+"1846","Telah menceritakan kepada kami [Amru An Naqid] dan [Zuhair bin Harb] keduanya berkata"
+"1847","Telah menceritakan kepadaku [Bisyr bin Al Hakam] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] telah menceritakan kepada kami [Yazid] ia adalah Ibnul Hadi"
+"1849","Telah menceritakan kepada kami [Al Hakam bin Musa] telah menceritakan kepada kami [Hiql] dari [Al Auza'i] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Allah tidak menaruh perhatian terhadap sesuatu pun seperti perhatianNya terhadap Nabi saat melagukan Al Qur`an dengan menyaringkan suaranya."" Dan telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ibnu Hujr] mereka berkata"
+"1851","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Malik bin Mighwal] dari [Abdullah bin Buraidah] dari [bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sesungguhnya Abdullah bin Qais atau Al Asy'ari telah diberikan salah satu mizmar (suara yang merdu) dari mizmar yang dimiliki keluarga Dawud"
+"1852","Dan telah menceritakan kepada kami [Dawud bin Rusyaid] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Thalhah] dari [Abu Burdah] dari [Abu Musa] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada Abu Musa: ""Seandainya saja semalam kamu mengetahuiku sedang mendengarkan bacaanmu. Sungguh engkau telah diberi suara yang bagus sebagaimana yang telah diberikan kepada keluarga Daud"
+"1853","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dan [Waki'] dari [Syu'bah] dari [Mu'awiyah bin Qurrah] ia berkata"
+"1854","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] -Ibnul Mutsanna- berkata"
+"1856","Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Ishaq] dari [Al Baraa`] ia berkata; Ada seorang laki-laki membaca surat Al Kahfi"
+"1857","Dan telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] -sedangkan lafazh dari Ibnul Mutsanna- keduanya berkata"
+"1859","Dan telah menceritakan kepadaku [Hasan bin Ali Al Hulwani] dan [Hajjaj bin Asy Sya'ir] -kedua lafazhnya hampir sama- keduanya berkata"
+"1860","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Kamil Al Jahdari] keduanya dari [Abu 'Awanah] -Qutaibah- berkata telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas] dari [Abu Musa Al Asy'ari] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Perumpamaan orang mukmin yang membaca Al Qur`an adalah seperti buah Utrujah"
+"1862","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Ubaid Al Ghubari] semuanya dari [Abu 'Awanah] - [Ibnu Ubaid] - berkata"
+"1867","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] semuanya dari [Hafsh] -[Abu Bakr]- berkata"
+"1869","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata"
+"1870","Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] ia berkata; Saya berada di Himsh"
+"1872","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Sa'id Al Asyaj] keduanya berkata"
+"1873","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Al Fadlu bin Dukain] dari [Musa bin Ulay] ia berkata"
+"1874","Telah menceritakan kepadaku [Al Hasan bin Ali Al Hulwani] telah menceritakan kepada kami [Abu Taubah] ia adalah Ar Rabi' bin Nafi'"
+"1876","Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Yazid bin Abdu Rabbih] telah menceritakan kepada kami [Al Walid bin Muslim] dari [Muhammad bin Muhajir] dari [Al Walid bin Abdurrahman Al Jurasyi] dari [Jubair bin Nufair] ia berkata"
+"1877","Telah menceritakan kepada kami [Hasan bin Rabi'] dan [Ahmad bin Jawwas Al Hanfi] keduanya berkata"
+"1878","Dan telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Manshur] dari [Ibrahim] dari [Abdurrahman bin Yazid] ia berkata; Saya menjumpai [Abu Mas'ud] di Baitullah"
+"1880","Dan telah menceritakan kepada kami [Minjab bin Harits At Tamimi] telah mengabarkan kepada kami [Ibnu Mushir] dari [Al A'masy] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Alqamah bin Qais] dari [Abu Mas'ud Al Anshari] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Barangsiapa yang membaca dua ayat ini"
+"1883","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] dari [Qatadah] dari [Salim bin Abul Ja'd Al Ghathafani] dari [Ma'dan bin Abu Thalhah Al Ya'mari] dari [Abu Darda`] bahwa Nabi shallallahu 'alaihi wasallam bersabda: ""Siapa yang menghafal sepuluh ayat dari awal surat Al Kahfi"
+"1885","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la bin Abdul A'la] dari [Al Jurairi] dari [Abu As Salil] dari [Abdullah bin Rabah Al Anshari] dari [Ubay bin Ka'ab] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Hai Abu Mundzir! tahukah kamu"
+"1886","Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Basysyar] - [Zuhair] berkata- telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah] dari [Qatadah] dari [Salim bin Abul Ja'd] dari [Ma'dan bin Abu Thalhah] dari [Abu Darda`] dari Nabi shallallahu 'alaihi wasallam"
+"1888","Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Ya'qub bin Ibrahim] semuanya dari [Yahya] - [Ibnu Hatim] - berkata; telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Yazid bin Kaisan] telah menceritakan kepada kami [Abu Hazim] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Berkumpullah kamu semuanya"
+"1889","Dan telah menceritakan kepada kami [Washil bin Abdul A'la] telah menceritakan kepada kami [Ibnu Fudlail] dari [Basyir bin Abu Isma'il] dari [Abu Hazim] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam keluar dan bersa bda: ""Saya akan membacakan kepada kalian (surat yang menyamai) sepertiga Al Qur`an."" Maka beliau pun membaca: ""QUL HUWALLAHU AHAD."" Beliau membacanya hingga selesai"
+"1890","Telah menceritakan kepada kami [Ahmad bin Abdurrahman bin Wahb] telah menceritakan kepada kami pamanku yaitu [Abdullah bin Wahb]"
+"1891","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Bayan] dari [Qais bin Abu Hazim] dari [Uqbah bin Amir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Tidakkah kalian lihat beberapa ayat yang diturunkah semalam"
+"1893","Dan telah menceritakan kepadaku [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] dari [Isma'il] dari [Qais] dari [Uqbah bin Amir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: ""Telah diturunkan kepadaku beberapa ayat yang belum pernah ada ayat yang menyerupainya. Yaitu Al Mu'awwidzatain (surat Al Falaq dan An Nas)."" Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] -dalam jalur lain- Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu Usamah] keduanya dari [Isma'il] dengan isnad ini semisalnya. Dan dalam riwayat Abu Usamah dari Uqbah bin Amir Al Juhani. Dan ia dalah termasuk salah seorang yang 'arif dari kalangan sahabat Muhammad shallallahu 'alaihi wasallam"
+"1894","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] dan [Zuhair bin Harb] semuanya dari [Ibnu Uyainah] -[Zuhair]- berkata; Telah menceritakan kepada kami [Sufyan bin Uyainah] Telah menceritakan kepada kami [Az Zuhri] dari [Salim] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam"
+"1895","Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata"
+"1896","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Isma'il] dari [Qais] ia berkata"
+"1897","Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepadaku [bapakku] dari [Ibnu Syihab] dari [Amir bin Watsilah] bahwasanya; Nafi' bin Abdul Harits"
+"1899","Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata"
+"1902","Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Ubaidullah bin Abdullah bin Utbah] bahwa [Ibnu Abbas] telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Mula-mula Jibril membacakan Al Qur`an padaku dengan satu huruf (bacaan dengan satu lahjah) saja. Lalu saya memohon agar ditambahkan. Maka Jibril pun menambahkannya hingga menjadi tujuh huruf (lahjah bacaan)."" Ibnu Syihab berkata; ""Telah sampai khabar kepadaku bahwa tujuh huruf itu"
+"1904","Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Isma'il bin Abu Khalid] dari [Abdullah bin Isa bin Abdurrahman bin Abu Laila] dari [kakeknya] dari [Ubay bin Ka'ab] ia berkata; Suatu ketika saya sedang berada di dalam Masjid"
+"1906","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] -dalam jalur lain- Dan telah menceritakannya kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] - [Ibnul Mutsanna] - berkata"
+"1908","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] semuanya dari [Waki'] - [Abu Bakar] berkata- telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Abu Wa`il] ia berkata; Seorang laki-laki yang namanya Nahik bin Sinan mendatangi [Abdullah] dan berkata"
+"1911","Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Mahdi bin Maimun] telah menceritakan kepada kami [Washil Al Ahdab] dari [Abu Wa`il] ia berkata; Pada suatu hari setelah menunaikan shalat Shubuh"
+"1912","Telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Husain bin Ali Al Ju'fi] dari [Za`idah] dari [Manshur] dari [Syaqiq] ia berkata; Seorang laki-laki dari Bani Bajilah yang biada dipanggil Nahik bin Sinan datang menemui [Abdullah] dan berkata"
+"1913","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] -[Ibnul Mutsanna]- berkata"
+"1914","Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] ia berkata"
+"1915","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] -Ibnul Mutsanna- berkata"
+"1916","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] -sedang lafazhnya dari Abu Bakr- keduanya berkata"
+"1918","Telah menceritakan kepada kami [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Dawud bin Abu Hind] dari [Asy Sya'bi] dari [Alqamah] ia berkata; Saya berjumpa dengan [Abu Darda`]"
+"1920","Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata"
+"1921","Dan telah menceritakan kepada kami [Dawud bin Rusyaid] dan [Isma'il bin Salim] semuanya dari [Husyaim] -[Dawud]- berkata"
+"1923","Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] bahwa [Ibnu Syihab] telah mengabarkan kepadanya"
+"1924","Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata"
+"1925","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] Telah menceritakan kepada kami [bapakku] dan [Muhammad bin Bisyr] keduanya berkata"
+"1926","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] Telah menceritakan kepada kami [bapakku] dan [Ibnu Bisyr] mereka berkata"
+"1927","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Khair bin Nu'aim Al Hadlrami] dari [Ibnu Hubairah] dari [Abu Tamim Al Jaisyani] dari [Abu Bashrah Al Ghifari] ia berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam mengimami kami shalat Ashar di Mukhammas. Maka beliau bersabda: ""Sesungguhnya shalat Ashar ini pernah diwajibkan kepada orang-orang yang sebelum kalian"
+"1929","Dan telah menceritakan kepada kami [Yahya bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahb] dari [Musa bin Ali] dari [bapaknya] ia berkata"
+"1931","Telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Abdullah bin Thawus] dari [bapaknya] dari [Aisyah] bahwa ia berkata; Umar telah keliru"
+"1932","Dan telah menceritakan kepada kami [Hasan Al Hulwani] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [bapaknya] dari [Aisyah] bahwa ia berkata; ""Rasulullah shallallahu 'alaihi wasallam tidak pernah meninggalkan dua raka'at sesudah Ashar."" Thawus berkata; Aisyah berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Janganlah kamu menunggu-nunggu waktu saat matahari terbit"
+"1933","Telah menceritakan kepadaku [Harmalah bin Yahya At Tujibi] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Amru bin Harits] dari [Bukair] dari [Kuraib] Maula Ibnu Abbas"
+"1934","Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ali bin Hujr] -Ibnu Ayyub- berkata"
+"1935","Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] semuanya dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] ia berkata; Menurutku"
+"1936","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] -dalam jalur lain- Dan telah menceritakan kepada kami [Ali bin Hujr] -dengan lafazh hadits darinya- telah mengabarkan kepada kami [Ali bin Mushir] telah mengabarkan kepada kami [Abu Ishaq Asy Syaibani] dari [Abdurrahman bin Al Aswad] dari [bapaknya] dari [Aisyah] ia berkata; ""Ada dua shalat yang sama sekali tidak pernah ditinggalkan oleh Rasulullah shallallahu 'alaihi wasallam di rumahku"
+"1937","Telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] -Ibnul Mutsanna- berkata"
+"1938","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] semuanya dari [Ibnu Fudlail]"
+"1939","Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz] dan ia adalah Ibnu Shuhaib dari [Anas bin Malik] ia berkata; ""Dulu"
+"1940","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dan [Waki'] dari [Kahmas] ia berkata"
+"1942","Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] ia berkata; ""Rasulullah shallallahu 'alaihi wasallam pernah shalat Khauf bersama kami. Mula-mula satu kelompok pasukan mengikuti beliau shalat satu raka'at"
+"1944","Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Adam] dari [Sufyan] dari [Musa bin Uqbah] dari [Nafi'] dari [Ibnu Umar] ia berkata; ""Pada suatu hari Rasulullah shallallahu 'alaihi wasallam pernah mengimami shalat khauf. Mula-mula beliau shalat satu raka'at dengan satu kelompok pasukan"
+"1945","Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Abdul Malik bin Abu Sulaiman] dari [Atha`] dari [Jabir bin Abdullah] ia berkata; ""Aku pernah ikut menunaikan shalat Khauf bersama Rasulullah shallallahu 'alaihi wasallam. Kami berbaris dua shaf di belakang Rasulullah shallallahu 'alaihi wasallam"
+"1946","Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Zubair] dari [Jabir] ia berkata; Kami pernah berperang bersama Rasulullah shallallahu 'alaihi wasallam menghadapi orang-orang Juhainah. Mereka menyerang kami dengan serangan yang dahsyat. Ketika kami menunaikan shalat Zhuhur"
+"1947","Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Abdurrahman bin Qasim] dari [bapaknya] dari [Shalih bin Khawwat bin Jubair] dari [Sahl bin Abu Hatsmah] bahwasanya; Rasulullah shallallahu 'alaihi wasallam pernah shalat Khauf bersama para sahabatnya. Maka beliau membariskan mereka menjadi dua shaf di belakangnya. Kemudian beliau shalat satu raka'at bersama shaf yang tepat berada di belakang beliau. Setelah menunaikan satu raka'at"
+"1948","Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata"
+"1949","Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Aban bin Yazid] telah menceritakan kepada kami [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Jabir] ia berkata; Kami berangkat bersama Rasulullah shallallahu 'alaihi wasallam hingga sampailah kami di Dzatur Riqa'. Biasanya"
+"1950","Dan telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Yahya] -yaitu putranya Hassan- telah menceritakan kepada kami [Mu'awiyah] -yaitu putranya Sallam- telah mengabarkan kepadaku [Yahya] telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Jabir] telah mengabarkan kepadanya"

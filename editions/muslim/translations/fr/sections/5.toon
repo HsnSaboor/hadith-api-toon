@@ -1,397 +1,495 @@
-hadiths[396]{hadithnumber,text}:
-1161,520.01
-1162,520.02
-1163,521.01
-1164,521.02
-1165,522.01
-1166,522.02
-1167,523.01
-1168,523.02
-1169,523.03
-1170,523.04
-1171,523.05
-1172,523.06
-1173,524.01
-1174,524.02
-1175,524.03
-1176,525.01
-1177,525.02
-1178,526.01
-1179,526.02
-1180,527
-1181,528.01
-1182,528.02
-1183,528.03
-1184,529
-1185,530.01
-1186,530.02
-1187,531
-1188,532
-1189,533.01
-1190,533.02
-1191,534.01
-1192,534.02
-1193,534.03
-1194,535.01
-1195,535.02
-1196,535.03
-1197,535.04
-1198,536
-1199,537.01
-1200,537.02
-1201,538.01
-1202,538.02
-1203,539.01
-1204,539.02
-1205,540.01
-1206,540.02
-1207,540.03
-1208,540.04
-1209,541.01
-1210,541.02
-1211,542
-1212,543.01
-1213,543.02
-1214,543.03
-1215,543.04
-1216,544.01
-1217,544.02
-1218,545
-1219,546.01
-1223,547.01
-1224,547.02
-1225,548.01
-1226,548.02
-1227,549
-1228,550.01
-1229,550.02
-1230,551
-1231,552.01
-1232,552.02
-1233,553
-1234,554.01
-1235,554.02
-1236,555.01
-1237,555.02
-1238,556.01
-1239,556.02
-1240,556.03
-1241,557.01
-1242,557.02
-1243,558
-1244,559.01
-1245,559.02
-1246,560.01
-1247,560.02
-1248,561.01
-1249,561.02
-1250,562
-1252,563
-1253,564.01
-1254,564.02
-1255,564.04
-1256,565
-1257,566
-1258,567.01
-1259,567.02
-1260,568.01
-1261,568.02
-1262,569.01
-1263,569.02
-1264,569.03
-1265,389.06
-1266,389.07
-1267,389.08
-1268,389.09
-1269,570.01
-1270,570.02
-1271,570.03
-1272,571.01
-1273,571.02
-1274,572.01
-1275,572.02
-1276,572.03
-1277,572.04
-1278,572.05
-1279,572.06
-1280,572.07
-1281,572.08
-1282,572.09
-1283,572.10
-1284,572.11
-1285,572.12
-1286,572.13
-1287,572.14
-1288,573.01
-1289,573.02
-1290,573.03
-1291,573.04
-1292,573.05
-1293,574.01
-1294,574.02
-1295,575.01
-1296,575.02
-1297,576
-1298,577
-1299,578.01
-1300,578.02
-1301,578.03
-1302,578.04
-1303,578.05
-1304,578.06
-1305,578.07
-1306,578.08
-1307,579.01
-1308,579.02
-1309,580.01
-1310,580.02
-1311,580.03
-1312,580.04
-1313,581.01
-1314,581.02
-1315,582
-1316,583.01
-1317,583.02
-1318,583.03
-1319,584
-1320,585
-1321,586.01
-1322,586.02
-1323,587
-1324,588.01
-1325,589
-1326,588.02
-1327,588.03
-1328,588.04
-1329,588.05
-1330,588.06
-1331,588.07
-1333,590
-1334,591
-1335,592.01
-1336,592.02
-1337,592.03
-1338,593.01
-1339,593.02
-1340,593.03
-1341,593.04
-1342,593.05
-1343,594.01
-1344,594.02
-1345,594.03
-1346,594.05
-1347,595.01
-1348,595.02
-1349,596.01
-1352,597.01
-1353,597.02
-1356,599
-1357,600
-1358,601
-1359,602.01
-1360,602.02
-1361,602.03
-1362,602.04
-1363,603.01
-1364,603.02
-1367,605.01
-1368,605.02
-1369,605.03
-1370,606
-1371,607.01
-1372,607.02
-1373,607.03
-1374,608.01
-1375,608.02
-1376,609
-1377,608.03
-1378,608.04
-1379,610.01
-1380,610.02
-1381,611.01
-1382,611.02
-1383,611.03
-1384,611.04
-1385,612.01
-1386,612.02
-1387,612.03
-1388,612.04
-1389,612.05
-1390,612.06
-1391,613.01
-1392,613.02
-1393,614.01
-1394,614.02
-1395,615.01
-1396,615.02
-1397,615.03
-1398,615.04
-1399,615.05
-1400,616
-1401,617.01
-1402,617.02
-1403,617.03
-1404,618
-1405,619.01
-1406,619.02
-1407,620
-1408,621.01
-1409,621.02
-1410,621.03
-1411,621.04
-1412,622
-1413,623
-1414,624
-1415,625.01
-1416,625.02
-1417,626.01
-1418,626.02
-1419,626.03
-1420,627.01
-1421,627.02
-1422,627.03
-1423,627.04
-1424,627.05
-1425,627.06
-1426,628
-1427,629
-1430,631.01
-1431,631.02
-1432,632.01
-1433,632.02
-1434,633.01
-1435,633.02
-1436,634.01
-1437,634.02
-1438,635.01
-1439,635.02
-1440,636
-1441,637.01
-1442,637.02
-1443,638.01
-1444,638.02
-1445,638.03
-1446,639.01
-1447,639.02
-1448,640.01
-1449,640.02
-1450,640.03
-1451,641
-1452,642
-1453,643.01
-1454,643.02
-1455,644.01
-1456,644.02
-1457,645.01
-1458,645.02
-1459,645.03
-1460,646.01
-1461,646.02
-1462,647.01
-1463,647.02
-1464,647.03
-1465,648.01
-1466,648.02
-1467,648.03
-1468,648.04
-1469,648.05
-1470,648.06
-1471,648.07
-1472,649.01
-1473,649.02
-1474,649.03
-1475,649.04
-1476,649.05
-1477,650.01
-1478,650.02
-1479,650.03
-1480,650.04
-1481,651.01
-1482,651.02
-1483,651.03
-1484,651.04
-1485,652
-1486,653
-1487,654.01
-1488,654.02
-1489,655.01
-1490,655.02
-1491,656.01
-1492,656.02
-1493,657.01
-1494,657.02
-1495,657.03
-1496,33.03
-1497,33.04
-1498,33.05
-1499,658
-1500,659
-1501,660.01
-1502,660.02
-1503,660.03
-1504,513.02
-1505,661
-1506,649.06
-1507,649.07
-1508,649.08
-1509,649.09
-1510,649.10
-1511,649.11
-1512,649.12
-1513,662
-1514,663.01
-1515,663.02
-1516,663.03
-1517,663.04
-1518,664
-1519,665.01
-1520,665.02
-1521,666
-1522,667
-1523,668
-1524,669
-1525,670.01
-1526,670.02
-1527,670.03
-1528,671
-1529,672.01
-1530,672.02
-1531,672.03
-1532,673.01
-1533,673.02
-1534,673.03
-1535,674.01
-1536,674.02
-1537,674.03
-1538,674.04
-1539,674.05
-1540,675.01
-1541,675.02
-1542,675.03
-1543,675.04
-1544,676
-1545,677.01
-1546,677.02
-1547,677.03
-1548,677.04
-1549,677.05
-1550,677.06
-1551,677.07
-1552,677.08
-1553,677.09
-1554,677.10
-1555,678.01
-1556,678.02
-1557,679.01
-1558,679.02
-1559,679.03
-1560,680.01
-1561,680.02
-1562,681
-1563,682.01
-1564,682.02
-1565,683
-1566,684.01
-1567,684.02
-1568,684.03
-1569,684.04
+hadiths[494]{hadithnumber,text}:
+"1063","Rapporté par Al-Bara’ رضي الله عنه"
+"1064","Rapporté par Al-Bara’ رضي الله عنه : Les Compagnons priaient avec le Messager d’Allah ﷺ"
+"1065","Rapporté par Al-Bara’ رضي الله عنه : Quand nous étions en prière avec le Messager d’Allah ﷺ"
+"1066","Rapporté par ‘Amr b. Huraith رضي الله عنه : J’ai accompli la prière de l’aube derrière le Messager d’Allah ﷺ et je l’ai entendu réciter : « Non ! Je jure par les étoiles qui courent et disparaissent » (Coran"
+"1067","Rapporté par ‘Abdullah b. Abi Awfa رضي الله عنه : Quand le Messager d’Allah ﷺ se redressait après l’inclinaison"
+"1068","Rapporté par ‘Abdullah b. Awfa رضي الله عنه : Le Messager d’Allah ﷺ récitait cette invocation : « Ô Allah ! notre Seigneur"
+"1069","Rapporté par ‘Abdullah b. Abu Awfa رضي الله عنه : Le Messager d’Allah ﷺ récitait cette invocation : « Ô Allah ! notre Seigneur"
+"1070","Ce hadith a été rapporté par d’autres transmetteurs"
+"1071","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Quand le Messager d’Allah ﷺ relevait la tête après l’inclinaison"
+"1072","Rapporté par Ibn ‘Abbas رضي الله عنه : Quand le Messager d’Allah ﷺ relevait la tête après l’inclinaison"
+"1073","Rapporté par Ibn ‘Abbas رضي الله عنه d’après le Messager d’Allah ﷺ : « Et qui remplirait tout ce qui Te plairait en plus de cela ! » et il n’a pas mentionné la suite de l’invocation"
+"1074","Rapporté par Ibn ‘Abbas رضي الله عنه : Le Messager d’Allah ﷺ écarta le rideau (de sa chambre) et vit des gens en rangs priant derrière Abu Bakr. Il dit : « Il ne reste rien des bonnes nouvelles de la prophétie"
+"1075","Rapporté par ‘Abdullah b. ‘Abbas رضي الله عنه : Le Messager d’Allah ﷺ écarta le rideau et sa tête était bandée à cause de la maladie dont il est décédé. Il dit : « Ô Allah"
+"1076","Rapporté par ‘Ali b. Abi Talib رضي الله عنه : Le Messager d’Allah ﷺ m’a interdit de réciter (le Coran) en état d’inclinaison et de prosternation"
+"1077","Rapporté par ‘Ali b. Abi Talib رضي الله عنه : Le Messager d’Allah ﷺ m’a interdit de réciter le Coran pendant que je suis en état d’inclinaison et de prosternation"
+"1078","Rapporté par ‘Ali b. Abi Talib رضي الله عنه : Le Messager d’Allah ﷺ m’a interdit de réciter (le Coran) en inclinaison et en prosternation"
+"1079","Rapporté par ‘Ali رضي الله عنه : Mon bien-aimé (le Prophète ﷺ) m’a interdit de réciter (le Coran) en état d’inclinaison et de prosternation"
+"1080","Ce hadith a été rapporté par d’autres narrateurs"
+"1081","Ce hadith est rapporté d’après ‘Ali رضي الله عنه"
+"1082","Rapporté par Ibn ‘Abbas رضي الله عنه : J’ai été interdit de réciter (le Coran) pendant que j’étais en inclinaison"
+"1083","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le moment où le serviteur est le plus proche de son Seigneur"
+"1084","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ disait pendant sa prosternation : « Ô Seigneur"
+"1085","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ disait souvent pendant l’inclinaison et la prosternation : « Gloire à Toi"
+"1086","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ"
+"1087","Rapporté par Aïsha رضي الله عنها : Je n’ai jamais vu le Messager d’Allah ﷺ"
+"1088","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ répétait souvent ces paroles : « Gloire à Allah et louange à Lui"
+"1089","Rapporté par Ibn Jurayj : J’ai demandé à ‘Ata’ : « Que récites-tu lorsque tu es en inclinaison (rukû‘) pendant la prière ? » Il répondit : « Gloire à Toi et louange à Toi"
+"1090","Rapporté par Aïsha رضي الله عنها : Une nuit"
+"1091","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ disait pendant l’inclinaison et la prosternation : « Le Très Glorieux"
+"1092","Rapporté par Aïsha رضي الله عنها par une autre chaîne de transmetteurs : (Le contenu du hadith précédent est rapporté par une autre chaîne)"
+"1093","Rapporté par Ma‘dan ibn Talha : J’ai rencontré Thauban"
+"1094","Rapporté par Rabi‘a ibn Ka‘b : J’étais avec le Messager d’Allah ﷺ une nuit et je lui apportais de l’eau et ce dont il avait besoin. Il me dit : « Demande ce que tu veux. » Je répondis : « Je veux être en ta compagnie au Paradis. » Il dit : « Autre chose à part cela ? » Je répondis : « C’est tout ce que je désire. » Il dit : « Alors aide-moi à réaliser cela pour toi en multipliant les prosternations. »"
+"1095","Rapporté par Ibn ‘Abbas رضي الله عنه : Le Messager d’Allah ﷺ a reçu l’ordre de se prosterner sur sept parties du corps et il lui a été interdit de replier les cheveux ou les vêtements. Dans la version rapportée par Abou Rabi‘"
+"1096","Rapporté par Ibn ‘Abbas رضي الله عنه du Messager d’Allah ﷺ : J’ai reçu l’ordre de me prosterner sur sept parties du corps et de ne pas replier les vêtements ni les cheveux"
+"1097","Rapporté par Ibn ‘Abbas رضي الله عنه : Le Messager d’Allah ﷺ a reçu l’ordre de se prosterner sur sept parties du corps et il lui a été interdit de replier les cheveux ou les vêtements"
+"1098","Rapporté par Ibn ‘Abbas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « J’ai reçu l’ordre de me prosterner sur sept parties du corps : le front » — et il montra son nez avec la main — « les mains"
+"1099","Rapporté par Ibn ‘Abbas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « J’ai reçu l’ordre de me prosterner sur sept parties du corps et il m’a été interdit de replier les cheveux ou les vêtements. » (Les sept parties sont : le front"
+"1100","Rapporté par Al-‘Abbas ibn ‘Abd al-Muttalib رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « Quand une personne se prosterne"
+"1101","Rapporté par ‘Abdullah ibn ‘Abbas رضي الله عنه : Il a vu ‘Abdullah ibn al-Harith prier avec les cheveux tressés derrière la tête. Ibn ‘Abbas s’est levé et a défait ses tresses. Après la prière"
+"1102","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Soyez modérés dans la prosternation et qu’aucun de vous n’étende ses avant-bras sur le sol comme le fait un chien. »"
+"1103","Rapporté par Shu‘ba avec la même chaîne de transmetteurs : Dans la version rapportée par Ibn Ja‘far"
+"1104","Rapporté par Al-Bara’ ibn ‘Azib رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque tu te prosternes"
+"1105","Rapporté par ‘Abdullah ibn Malik ibn Bujayna رضي الله عنه : Lorsque le Prophète ﷺ se prosternait"
+"1106","Rapporté par Ja‘far ibn Rabi‘ avec la même chaîne de transmetteurs : Dans la version rapportée par ‘Amr ibn al-Harith"
+"1107","Rapporté par Maymouna رضي الله عنها : Lorsque le Messager d’Allah ﷺ se prosternait"
+"1108","Rapporté par Maymouna"
+"1109","Rapporté par Maymouna bint al-Harith رضي الله عنها : Lorsque le Messager d’Allah ﷺ se prosternait"
+"1110","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ commençait la prière par le takbir (en disant Allahu Akbar) puis la récitation : « Louange à Allah"
+"1111","Rapporté par Moussa ibn Talha"
+"1112","Rapporté par Moussa ibn Talha"
+"1113","Rapporté par Aisha رضي الله عنها : Le Messager d’Allah ﷺ a été interrogé au sujet de la barrière (sutra) pour la personne en prière : il a répondu : « De la hauteur du dossier d’une selle. »"
+"1114","Rapporté par Aisha رضي الله عنها : Lors de l’expédition de Tabuk"
+"1115","Rapporté par Ibn Umar رضي الله عنه : Lorsque le Messager d’Allah ﷺ sortait le jour de l’Aïd"
+"1116","Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ installait une barrière (sutra)"
+"1117","Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de placer son chameau en direction de la Kaaba et priait dans cette direction"
+"1118","Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ priait en direction de son chameau. Ibn Numayr a dit : Le Messager d’Allah ﷺ priait en direction du chameau"
+"1119","Rapporté par Abou Juhaifa"
+"1120","Rapporté par Abou Juhaifa"
+"1121","Rapporté par Aoun ibn Abou Juhaifa"
+"1122","Rapporté par Abou Juhaifa رضي الله عنه : Le Messager d’Allah ﷺ est allé à midi vers al-Batha’"
+"1123","Rapporté par Shu’ba : Il a rapporté la même chose selon deux chaînes de transmission"
+"1124","Rapporté par Ibn Abbas رضي الله عنه : Je suis venu à dos d’ânesse"
+"1125","Rapporté par Abdallah ibn Abbas رضي الله عنه : Il est venu à dos d’âne"
+"1126","Ce hadith a été rapporté par Ibn ‘Uyayna"
+"1127","Ce hadith a été rapporté par Ma’mar"
+"1128","Rapporté par Abou Saïd al-Khoudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous prie"
+"1129","Rapporté par Abou Salih al-Samman رضي الله عنه : Je vous rapporte ce que j’ai entendu et vu d’Abou Saïd al-Khoudri رضي الله عنه : Un jour"
+"1130","Rapporté par Abdallah ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand l’un d’entre vous prie"
+"1131","Ce hadith a été rapporté par Ibn Umar رضي الله عنه selon une autre chaîne de transmetteurs"
+"1132","Rapporté par Bousr ibn Saïd رضي الله عنه : Zayd ibn Khalid al-Jouhani l’a envoyé auprès d’Abou Juhaim pour lui demander ce qu’il avait entendu du Messager d’Allah ﷺ à propos de celui qui passe devant une personne en prière. Abou Juhaim a rapporté que le Messager d’Allah ﷺ a dit : « Si celui qui passe devant quelqu’un en prière savait la faute qu’il commet"
+"1133","Ce hadith a été rapporté d’Abou Juhaim al-Ansari رضي الله عنه selon une autre chaîne de transmetteurs"
+"1134","Rapporté par Sahl ibn Sa’d al-Sa’idi رضي الله عنه : Entre la place où le Messager d’Allah ﷺ priait et le mur"
+"1135","Rapporté par Salama ibn Akwa’ رضي الله عنه : Il a cherché l’endroit dans la mosquée où étaient gardés les exemplaires du Coran et a glorifié Allah à cet endroit. Le narrateur précise que le Messager d’Allah ﷺ recherchait cet endroit"
+"1136","Rapporté par Yazid رضي الله عنه : Salama cherchait à prier près du pilier à côté de l’endroit où étaient gardés les exemplaires du Coran. Je lui ai dit : « Abou Mouslim"
+"1137","Rapporté par Abou Dharr رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous se lève pour prier et qu’il y a devant lui un objet de la taille du dossier d’une selle"
+"1138","Rapporté par Humaid b. Hilal d’après Yunus : Ce hadith a été transmis par Humaid b. Hilal d’après Yunus"
+"1139","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Une femme"
+"1140","Rapporté par Aïcha رضي الله عنها : Le Prophète ﷺ priait la nuit pendant que j’étais allongée entre lui et la Qibla"
+"1141","Rapporté par Aïcha رضي الله عنها : L’Envoyé d’Allah ﷺ faisait toute sa prière (Tahajjud) pendant la nuit alors que j’étais allongée entre lui et la Qibla. Quand il voulait faire la prière du Witr"
+"1142","Rapporté par Urwa b. Zubair : Aïcha رضي الله عنها a demandé : « Qu’est-ce qui interrompt la prière ? » Nous avons répondu : « La femme et l’âne. » Elle a alors dit : « La femme est-elle un vilain animal ? Je m’allongeais devant le Messager d’Allah ﷺ comme un corps sur un brancard et il priait. »"
+"1143","Rapporté par Masruq : On a dit à Aïcha رضي الله عنها que la prière est annulée si un chien"
+"1144","Rapporté par Al-Aswad : Aïcha رضي الله عنها a dit : « Vous nous avez mises au même niveau que les chiens et les ânes"
+"1145","Rapporté par Aïcha رضي الله عنها : Je dormais devant le Messager d’Allah ﷺ"
+"1146","Rapporté par Maymouna"
+"1147","Rapporté par Aïcha رضي الله عنها : L’Envoyé d’Allah ﷺ priait la nuit alors que j’étais à ses côtés pendant mes règles"
+"1148","Rapporté par Abu Huraira : Un homme a demandé au Messager d’Allah ﷺ au sujet de la prière avec un seul vêtement. Le Prophète ﷺ a dit : « Est-ce que chacun de vous possède deux vêtements ? »"
+"1149","Rapporté par Abu Huraira : Un hadith similaire a été rapporté par Abu Huraira avec une autre chaîne de transmetteurs"
+"1150","Rapporté par Abu Huraira : Une personne a demandé au Messager d’Allah ﷺ : « Est-ce que l’un de nous peut prier avec un seul vêtement ? » Il a répondu : « Est-ce que vous avez tous deux vêtements ? »"
+"1151","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Aucun de vous ne doit prier dans un seul vêtement sans qu’une partie ne couvre ses épaules. »"
+"1152","Rapporté par Umar b. Abu Salama : J’ai vu le Messager d’Allah ﷺ prier dans la maison d’Umm Salama avec un seul vêtement"
+"1153","Rapporté par Hisham b. Urwa : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1154","Rapporté par Umar b. Abu Salama : J’ai vu le Messager d’Allah ﷺ prier dans la maison d’Umm Salama avec un seul vêtement"
+"1155","Rapporté par Umar b. Abu Salama : J’ai vu le Messager d’Allah ﷺ prier avec un seul vêtement dont les extrémités se croisaient. ‘Isa b. Hammad a ajouté : « qu’il posait sur ses épaules »"
+"1156","Rapporté par Jabir : J’ai vu le Messager d’Allah ﷺ prier avec un seul vêtement dont il croisait les deux extrémités"
+"1157","Rapporté par Sufyan : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1158","Rapporté par Abu Zubair : Il a vu Jabir b. Abdullah prier avec un seul vêtement dont il croisait les extrémités"
+"1159","Rapporté par Abu Sa’id al-Khudri : J’ai rendu visite à l’Envoyé ﷺ et je l’ai vu prier sur un tapis de roseaux"
+"1160","Rapporté par A’mash : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1161","Rapporté par Abu Dharr : J’ai dit : « Messager d’Allah"
+"1162","Rapporté par Ibrahim b. Yazid al-Taymi : J’avais l’habitude de lire le Coran avec mon père dans le vestibule"
+"1163","Rapporté par Jabir b. 'Abdullah al-Ansari : Le Prophète ﷺ a dit : « Cinq choses m’ont été accordées"
+"1164","Rapporté par Jabir b. 'Abdullah : Le Messager d’Allah ﷺ a dit"
+"1165","Rapporté par Hudhayfa : Le Messager d’Allah ﷺ a dit : « Nous avons été favorisés par rapport aux autres peuples en trois choses : nos rangs sont organisés comme ceux des anges ; toute la terre nous sert de lieu de prière ; et sa poussière nous purifie si nous n’avons pas d’eau. » Il a aussi mentionné une autre caractéristique"
+"1166","Rapporté par Hudhayfa : Le Messager d’Allah ﷺ a dit la même chose"
+"1167","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « J’ai été privilégié par rapport aux autres prophètes en six points : on m’a donné des paroles courtes mais riches de sens ; j’ai été aidé par la crainte (dans le cœur de mes ennemis) ; le butin m’a été rendu licite ; la terre m’a été rendue pure et lieu de prière ; j’ai été envoyé à toute l’humanité ; et la lignée des prophètes s’arrête avec moi. »"
+"1168","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « J’ai reçu des paroles courtes mais riches de sens ; j’ai été aidé par la crainte (dans le cœur de mes ennemis) ; et pendant que je dormais"
+"1169","Rapporté par Abu Huraira : J’ai entendu le Messager d’Allah ﷺ rapporter un hadith semblable à celui de Yunus"
+"1170","Rapporté par Abu Huraira : Ce hadith a aussi été rapporté par Abu Huraira selon une autre chaîne de transmetteurs"
+"1171","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « J’ai été aidé par la crainte (dans le cœur de l’ennemi) ; on m’a donné des paroles courtes mais riches de sens ; et pendant que je dormais"
+"1172","Rapporté par Hammam b. Munabbih : Voilà ce qu’Abu Huraira nous a rapporté du Messager d’Allah ﷺ. Il a raconté plusieurs hadiths"
+"1173","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ est arrivé à Médine et il est resté quatorze nuits dans la partie haute de la ville"
+"1174","Rapporté par Anas : Le Messager d’Allah ﷺ priait dans les enclos de moutons et de chèvres avant que la mosquée ne soit construite"
+"1175","Rapporté par Abu al-Tiyyah : J’ai entendu Anas rapporter une narration semblable du Messager d’Allah ﷺ"
+"1176","Rapporté par Al-Bara’ b. ‘Azib : J’ai prié avec l’Envoyé d’Allah ﷺ en direction de Bayt al-Maqdis pendant seize mois"
+"1177","Rapporté par Abu Ishaq : J’ai entendu al-Bara’ dire : Nous avons prié avec le Messager d’Allah ﷺ en direction de Bayt al-Maqdis pendant seize ou dix-sept mois. Ensuite"
+"1178","Rapporté par Ibn ‘Umar : Alors que les gens priaient à Quba’"
+"1179","Rapporté par Ibn ‘Umar : Alors que les gens faisaient la prière du matin"
+"1180","Rapporté par Anas : Le Messager d’Allah ﷺ priait en direction de Bayt al-Maqdis"
+"1181","Rapporté par Aïsha رضي الله عنها : Umm Habiba et Umm Salama ont parlé devant le Messager d’Allah ﷺ d’une église qu’elles avaient vue en Abyssinie"
+"1182","Rapporté par Aïsha رضي الله عنها : Certains Compagnons du Prophète discutaient en présence du Messager d’Allah ﷺ pendant sa dernière maladie. Umm Salama et Umm Habiba ont parlé de l’église"
+"1183","Rapporté par Aïsha رضي الله عنها : Les épouses du Messager d’Allah ﷺ ont parlé de l’église qu’elles avaient vue en Abyssinie"
+"1184","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit pendant la maladie dont il ne s’est jamais remis : « Qu’Allah maudisse les Juifs et les Chrétiens"
+"1185","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Qu’Allah détruise les Juifs"
+"1186","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Qu’Allah maudisse les Juifs et les Chrétiens"
+"1187","Rapporté par Aïsha رضي الله عنها et Abdullah : Alors que le Messager d’Allah ﷺ était sur le point de rendre l’âme"
+"1188","Rapporté par Jundub : J’ai entendu le Messager d’Allah ﷺ cinq jours avant sa mort"
+"1189","Rapporté par Ubaidullah al-Khaulini : ‘Uthman b. ‘Affan a écouté l’avis des gens (qui n’était pas favorable) lorsqu’il a reconstruit la mosquée du Messager d’Allah ﷺ. Il a alors dit : « Vous n’êtes pas justes envers moi"
+"1190","Rapporté par Mahmud b. Labid : Lorsque ‘Uthman b. ‘Affan a voulu reconstruire la mosquée (du Prophète)"
+"1191","Rapporté par Al-Aswad et ‘Alqama : Nous sommes allés chez ‘Abdullah b. Mas‘ud. Il a demandé : « Est-ce que ces gens ont prié derrière vous ? » Nous avons répondu : « Non. » Il a dit : « Alors levez-vous et priez. » Il ne nous a pas demandé de faire l’Adhan ni l’Iqama. Nous nous sommes placés derrière lui"
+"1192","Rapporté par Alqama et Aswad : Ce hadith est rapporté par une autre chaîne de transmetteurs"
+"1193","Rapporté par ‘Alqama et Aswad : Ils sont allés chez ‘Abdullah. Il a demandé : « Est-ce que les gens derrière vous ont prié ? » Ils ont répondu : « Oui. » Il s’est alors placé entre eux (‘Alqama et Aswad)"
+"1194","Rapporté par Mus‘ab b. Sa‘d : J’ai prié à côté de mon père et j’ai placé mes mains entre mes genoux. Mon père m’a dit : « Pose tes mains sur tes genoux. » J’ai refait la même chose une deuxième fois"
+"1195","Rapporté par Abu Ya‘fur : Ce hadith a été rapporté avec la même chaîne de transmetteurs jusqu’aux mots : « On nous a interdit de faire cela »"
+"1196","Rapporté par Ibn Sa‘d : Je me suis incliné et mes mains étaient ainsi"
+"1197","Rapporté par Mus‘ab b. Sa‘d b. Abu Waqqas : J’ai prié à côté de mon père. Quand je me suis incliné"
+"1198","Rapporté par Tawus : Nous avons interrogé Ibn Abbas au sujet du fait de s’asseoir sur les fesses (dans la prière). Il a répondu : « C’est la sunna. » Nous lui avons dit : « Nous trouvons que c’est difficile pour le pied. » Ibn Abbas a dit : « C’est la sunna de votre Prophète ﷺ. »"
+"1199","Rapporté par Mu‘awiya b. al-Hakam : Pendant que je priais avec le Messager d’Allah ﷺ"
+"1200","Rapporté par Yahya b. Abu Kathir : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1201","Rapporté par Abdullah (b. Mas‘ud) : Nous avions l’habitude de saluer le Messager d’Allah ﷺ alors qu’il priait"
+"1202","Rapporté par A‘mash : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1203","Rapporté par Zaid b. Arqam : Nous parlions pendant la prière"
+"1204","Rapporté par Isma‘il b. Abu Khalid : Un hadith similaire a été transmis"
+"1205","Rapporté par Jabir : Le Messager d’Allah ﷺ m’a envoyé faire une course. (Après avoir accompli la mission"
+"1206","Rapporté par Jabir : Le Messager d’Allah ﷺ m’a envoyé (faire une course) alors qu’il se rendait chez Banu Mustaliq. Je suis allé vers lui et il priait sur le dos de son chameau. Je lui ai parlé et il m’a fait signe de la main"
+"1207","Rapporté par Jabir : Nous étions en compagnie du Messager d’Allah ﷺ"
+"1208","Rapporté par Jabir : Ce hadith"
+"1209","Rapporté par Abu Huraira : Il a entendu le Messager d’Allah ﷺ dire : « Un démon particulièrement mauvais parmi les djinns s’est échappé la nuit dernière pour interrompre ma prière"
+"1210","Rapporté par Ibn Abi Shaiba : Ce hadith a été transmis par Ibn Abi Shaiba"
+"1211","Rapporté par Abu Darda’ : Le Messager d’Allah ﷺ s’est levé pour prier et nous l’avons entendu dire : « Je cherche protection auprès d’Allah contre toi. » Puis il a dit : « Je te maudis avec la malédiction d’Allah » trois fois"
+"1212","Rapporté par Abu Qatadi : J’ai vu le Messager d’Allah ﷺ prier en portant Umama"
+"1213","Rapporté par Abu Qatada al-Ansari : J’ai vu l’Envoyé d’Allah ﷺ diriger la prière en portant Umama"
+"1214","Rapporté par Abu Qatada : J’ai vu le Messager d’Allah ﷺ diriger la prière en portant Umama"
+"1215","Rapporté par Abu Qatada : Alors que nous étions assis dans la mosquée"
+"1216","Rapporté par Abu Hazim d’après son père : Des gens sont venus voir Sahl ibn Sa’d et ont commencé à discuter à propos du bois dont était fait le minbar (la chaire) du Prophète ﷺ. Sahl ibn Sa’d a dit : « Par Allah"
+"1217","Rapporté par Abu Hazim : Des gens sont venus voir Sahl ibn Sa’d et lui ont demandé de quoi était faite la chaire du Messager d’Allah ﷺ. Le reste du hadith est identique"
+"1218","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a interdit de poser la main sur la hanche pendant la prière. Dans la version rapportée par Abu Bakr"
+"1219","Rapporté par Mu’aïqib : Le Messager d’Allah ﷺ a parlé du fait d’enlever les cailloux à l’endroit où il se prosternait. Il a dit : « Si tu dois vraiment le faire"
+"1223","Rapporté par Abdullah ibn Umar : Le Messager d’Allah ﷺ a vu de la salive sur le mur en direction de la Qibla. Il l’a grattée"
+"1224","Rapporté par Ibn Umar : Le Messager d’Allah ﷺ a vu de la salive collée au mur de la Qibla de la mosquée. Le reste du hadith est identique"
+"1225","Rapporté par Abu Sa’id al-Khudri : L’Envoyé d’Allah ﷺ a vu de la salive collée à la Qibla de la mosquée. Il l’a grattée avec un caillou"
+"1226","Rapporté par Abu Huraira et Abu Sa’id : Le Messager d’Allah ﷺ a vu de la salive"
+"1227","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : L’Envoyé d’Allah ﷺ a vu de la salive"
+"1228","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a vu de la salive en direction de la Qibla de la mosquée. Il s’est tourné vers les gens et a dit : « Comment se fait-il que l’un d’entre vous se tienne devant son Seigneur puis crache devant Lui ? Est-ce que l’un de vous aimerait être debout devant quelqu’un et lui cracher au visage ? Donc"
+"1229","Rapporté par Abu Huraira : J’ai l’impression de voir le Messager d’Allah ﷺ replier une partie de son vêtement avec une autre"
+"1230","Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ a dit : « Quand l’un de vous est en prière"
+"1231","Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ a dit : « Cracher dans une mosquée est un péché"
+"1232","Rapporté par Shu’ba : J’ai demandé à Qatada à propos de cracher dans la mosquée. Il a dit : « J’ai entendu Anas ibn Malik dire : J’ai entendu le Messager d’Allah ﷺ dire : “Cracher dans la mosquée est un péché"
+"1233","Rapporté par Abu Dharr : L’Envoyé d’Allah ﷺ a dit : « Les actions de ma communauté"
+"1234","Rapporté par Abdullah ibn Shakhkhir d’après son père : J’ai prié avec le Messager d’Allah ﷺ et je l’ai vu cracher puis essuyer cela avec sa chaussure"
+"1235","Rapporté par Abdullah ibn Shakhkhir d’après son père : Il a prié avec le Messager d’Allah ﷺ"
+"1236","Rapporté par Sa’d ibn Yazid : J’ai demandé à Anas ibn Malik : « Le Messager d’Allah ﷺ priait-il en portant des chaussures ? » Il a répondu : « Oui. »"
+"1237","Rapporté par Sa’d ibn Yazid Abu Mas’ama : J’ai posé à Anas la même question que précédemment"
+"1238","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : L’Envoyé d’Allah ﷺ a prié dans un vêtement qui avait des motifs. Il a dit : « Emmenez-le à Abu Jahm et apportez-moi une couverture simple de sa part"
+"1239","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ s’est tenu pour la prière dans un vêtement avec des motifs. Il a regardé ces motifs et"
+"1240","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : L’Envoyé d’Allah ﷺ avait un vêtement avec des motifs qui l’a distrait pendant la prière. Il l’a donné à Abu Jahm et a pris à la place un vêtement simple appelé anbijaniya"
+"1241","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a dit : « Quand le dîner est servi et que la prière commence"
+"1242","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a dit : « Quand le dîner est servi devant vous et que c’est aussi l’heure de la prière"
+"1243","Rapporté par Anas b. Malik : Ce hadith a aussi été rapporté par une autre chaîne de transmetteurs"
+"1244","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Quand le dîner est servi à l’un d’entre vous et que la prière commence aussi"
+"1245","Rapporté par Ibn 'Umar : Un hadith similaire a été rapporté du Messager d’Allah ﷺ par Ibn 'Umar avec une autre chaîne de transmetteurs"
+"1246","Rapporté par Ibn Atiq : Al-Qasim était en présence de 'Aïsha رضي الله عنها et je racontais un hadith. Qasim faisait des erreurs en prononçant certains mots et sa mère était une esclave affranchie. 'Aïsha lui dit : « Pourquoi ne racontes-tu pas les hadiths comme le fait ce fils de mon frère ? Je sais bien d’où tu tiens cela. C’est ainsi que ta mère t’a élevé"
+"1247","Rapporté par Abdullah b. Atiq : Il a rapporté du Prophète ﷺ"
+"1248","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit lors de la bataille de Khaybar : « Celui qui a mangé de cette plante"
+"1249","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Celui qui mange de cette plante (qui a une mauvaise odeur) ne doit pas s’approcher de notre mosquée tant que son odeur ne s’est pas dissipée. » (Il s’agit de l’ail)"
+"1250","Rapporté par Ibn Suhaib : On a demandé à Anas au sujet de l’ail ; il a dit que le Messager d’Allah ﷺ avait dit : « Celui qui mange de cette plante (l’ail) ne doit pas s’approcher de nous ni prier avec nous. »"
+"1252","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Celui qui mange de cette plante (l’ail) ne doit pas s’approcher de notre mosquée et ne doit pas nous déranger avec l’odeur de l’ail. »"
+"1253","Rapporté par Jabir : Le Messager d’Allah ﷺ a interdit de manger des oignons et des poireaux. Quand nous avions très envie d’en manger"
+"1254","Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « Celui qui mange de l’ail ou de l’oignon doit rester loin de nous ou de notre mosquée"
+"1255","Rapporté par Ibn Juraij : Il a rapporté avec la même chaîne : « Celui qui mange de cette plante"
+"1256","Rapporté par Abu Sa'id : Nous n’avons commis aucune faute"
+"1257","Rapporté par Abu Sa'id al-Khudri : Le Messager d’Allah ﷺ et ses compagnons sont passés près d’un champ où des oignons étaient plantés. Certains se sont arrêtés et en ont mangé"
+"1258","Rapporté par Ma'dan b. Talha : Omar b. Khattab رضي الله عنه alors qu'il donnait un sermon a mentionné le Messager d’Allah ﷺ et Abou Bakr. Il a ajouté : « J’ai vu en rêve qu’un coq m’a donné deux coups de bec"
+"1259","Rapporté par Qatada : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1260","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Si l’un d’entre vous entend quelqu’un crier dans la mosquée pour une chose qu’il a perdue"
+"1261","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit une parole semblable"
+"1262","Rapporté par Sulaiman b. Buraida"
+"1263","Rapporté par Sulaiman b. Buraida"
+"1264","Rapporté par Ibn Buraida"
+"1265","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand l’un d’entre vous se lève pour prier"
+"1266","Rapporté par al-Zubri : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1267","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand l’appel à la prière est lancé"
+"1268","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le diable s’enfuit en lâchant des vents quand la prière commence. » Le reste du hadith est similaire"
+"1269","Rapporté par ‘Abdullah b. Buhaina رضي الله عنه : Le Messager d’Allah ﷺ nous a dirigé dans une prière obligatoire de deux rak‘as"
+"1270","Rapporté par ‘Abdullah b. Buhaina al-Asadi"
+"1271","Rapporté par ‘Abdullah b. Malik ibn Buhaina al-Asadi رضي الله عنه : Le Messager d’Allah ﷺ s’est levé (après deux rak‘as) alors qu’il devait s’asseoir et a continué la prière. Mais à la fin de la prière"
+"1272","Rapporté par Abu Sa‘id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si l’un d’entre vous doute dans sa prière et ne sait plus s’il a prié trois ou quatre rak‘as"
+"1273","Rapporté par Zaid b. Aslam رضي الله عنه : Il a dit : Il doit faire deux prosternations avant les salutations"
+"1274","Rapporté par ‘Alqama d’après ‘Abdullah (b. Mas‘ud) رضي الله عنه : Le Messager d’Allah ﷺ a dirigé la prière ; (le narrateur ajoute) : Il a fait une omission ou une erreur en faisant les salutations. On lui a dit : « Messager d’Allah"
+"1275","Rapporté par Mansur رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1276","Rapporté par Mansur رضي الله عنه : Ce hadith est rapporté avec la même chaîne de transmetteurs"
+"1277","Rapporté par Mansur رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1278","Rapporté par Mansur رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs et il a dit : « Il doit viser ce qui est correct"
+"1279","Rapporté par Mansur رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs et il a dit : « Il doit viser ce qu’il pense être correct. »"
+"1280","Rapporté par Mansur رضي الله عنه : Ce hadith a été rapporté par Mansur et il a dit : « Il doit viser ce qui est correct. »"
+"1281","Rapporté par ‘Abdullah (b. Mas‘ud) رضي الله عنه : Le Messager d’Allah ﷺ a prié cinq rak‘as pour la prière du midi. Quand il a terminé la prière"
+"1282","Rapporté par ‘Alqama رضي الله عنه : Le Prophète ﷺ leur a fait prier cinq rak‘as"
+"1283","Rapporté par Ibrahim b. Suwaid رضي الله عنه : ‘Alqama nous a dirigé dans la prière du midi et a fait cinq rak‘as. Quand la prière s’est terminée"
+"1284","Rapporté par ‘Abdullah (b. Mas‘ud) رضي الله عنه : Le Messager d’Allah ﷺ nous a dirigé dans la prière et a fait cinq rak‘as. Nous avons dit : « Messager d’Allah"
+"1285","Rapporté par ‘Abdullah (b. Mas‘ud) رضي الله عنه : Le Messager d’Allah ﷺ a dirigé la prière et il a omis ou ajouté quelque chose. Ibrahim (un des narrateurs) a dit : « C’est mon doute. » On a dit : « Messager d’Allah"
+"1286","Rapporté par ‘Abdullah b. Mas‘ud رضي الله عنه : Le Messager d’Allah ﷺ a fait deux prosternations pour l’oubli après les salutations et après avoir parlé"
+"1287","Rapporté par Abdullah رضي الله عنه : Nous avons prié avec le Messager d’Allah ﷺ et il a commis une erreur ou une omission. Ibrahim a dit : « Par Allah"
+"1288","Rapporté par Ibn Sirin d’après Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ nous a dirigé dans l’une des deux prières du soir"
+"1289","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ nous a dirigé dans l’une des prières du soir. Ce hadith a été rapporté de la même manière que celui transmis par Sufyan"
+"1290","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ nous a dirigé dans la prière de l’‘Asr et a fait les salutations après deux rak‘as. Dhu’l-Yadain (l’homme aux longs bras) s’est levé et a dit : « Messager d’Allah"
+"1291","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a fait deux rak‘as de la prière du midi puis a fait les salutations. Un homme de la tribu de Banu Sulaym est venu lui dire : « Messager d’Allah"
+"1292","Rapporté par Abu Huraira رضي الله عنه : J’ai accompli la prière du midi avec le Messager d’Allah ﷺ"
+"1293","Rapporté par ‘Imran b. Husain رضي الله عنه : Le Messager d’Allah ﷺ a accompli la prière de l’après-midi et a fait le salut après trois rak‘as"
+"1294","Rapporté par ‘Imran b. Husain رضي الله عنه : Le Messager d’Allah ﷺ a accompli trois rak‘as de la prière du ‘Asr puis s’est levé et est allé dans son appartement. Un homme aux bras puissants s’est levé et a dit : « Ô Messager d’Allah"
+"1295","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ récitait une sourate du Coran contenant une prosternation"
+"1296","Rapporté par Ibn ‘Umar رضي الله عنه : Parfois"
+"1297","Rapporté par Abdullah (b. ‘Umar) رضي الله عنه : Le Messager d’Allah ﷺ a récité la sourate An-Najm et s’est prosterné lors de sa récitation"
+"1298","Rapporté par ‘Ata’ b. Yasar رضي الله عنه : Il a demandé à Zayd b. Thabit au sujet de la récitation derrière l’imam"
+"1299","Rapporté par Abu Salama b. ‘Abd al-Rahman رضي الله عنه : Abu Huraira a récité devant eux : « Quand le ciel se fendra » (Coran"
+"1300","Rapporté par Abu Salama d’après Abu Huraira رضي الله عنه : Un hadith similaire a été rapporté"
+"1301","Rapporté par Abu Huraira رضي الله عنه : Nous nous sommes prosternés avec le Messager d’Allah ﷺ lorsqu’il récitait ces versets : « Quand le ciel se fendra » et « Lis au nom de ton Seigneur » (Coran"
+"1302","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ s’est prosterné lorsqu’il récitait ces versets : « Quand le ciel se fendra » et « Lis au nom de ton Seigneur »"
+"1303","Rapporté par Abul-Rahman al-A‘raj d’après Abu Huraira رضي الله عنه : Un hadith similaire a été transmis"
+"1304","Rapporté par Abu Rafi‘ رضي الله عنه : J’ai accompli la prière du soir avec Abu Huraira"
+"1305","Rapporté par Tamimi avec la même chaîne de rapporteurs : Ce hadith a été rapporté"
+"1306","Rapporté par Abu Rafi‘ رضي الله عنه : J’ai vu Abu Huraira se prosterner lorsqu’il récitait ce verset : « Quand le ciel se fendra. » Je lui ai demandé : « Te prosternes-tu à ce verset ? » Il a répondu : « Oui"
+"1307","Rapporté par Abdullah b. Zubair d’après son père رضي الله عنه : Lorsque le Messager d’Allah ﷺ s’asseyait pendant la prière"
+"1308","Rapporté par Abdullah b. Zubair d’après son père رضي الله عنه : Lorsque le Messager d’Allah ﷺ s’asseyait pour l’invocation"
+"1309","Rapporté par Ibn ‘Umar رضي الله عنه : Lorsque le Messager d’Allah ﷺ s’asseyait pour le tashahhud"
+"1310","Rapporté par Ibn ‘Umar رضي الله عنه : Une autre version dit : Lorsque le Messager d’Allah ﷺ s’asseyait pour le tashahhud"
+"1311","Rapporté par ‘Ali b. Abual-Rahman al-Mu‘awi رضي الله عنه : Abdullah b. Umar m’a vu jouer avec des cailloux pendant la prière. Après avoir terminé"
+"1312","Rapporté par une autre chaîne de rapporteurs : Ce hadith a été transmis"
+"1313","Rapporté par Abu Ma‘mar رضي الله عنه : Il y avait un émir à La Mecque qui prononçait le salut deux fois. Abdullah a dit : « D’où tient-il cette sunna ? » Al-Hakam a dit : « Il y a un hadith selon lequel le Messager d’Allah ﷺ faisait ainsi. »"
+"1314","Rapporté par Abdullah رضي الله عنه : Un émir ou une personne a prononcé le salut deux fois. Abdullah a dit : « D’où tient-il cette sunna ? »"
+"1315","Rapporté par ‘Amir b. Sa‘d رضي الله عنه : J’ai vu le Messager d’Allah ﷺ prononcer le salut à droite puis à gauche"
+"1316","Rapporté par Ibn ‘Abbas رضي الله عنه : Nous savions que le Messager d’Allah ﷺ avait terminé sa prière lorsque nous entendions le takbir (« Allahou Akbar »)"
+"1317","Rapporté par Ibn 'Abbas رضي الله عنه : Nous savions que la prière du Messager d’Allah ﷺ était terminée grâce au takbir. 'Amr ibn Dinar a dit : J’en ai parlé à Abu Mas'ud"
+"1318","Rapporté par Ibn 'Abbas رضي الله عنه : Le dhikr (l’évocation du nom d’Allah) à voix haute après les prières obligatoires était une pratique courante du vivant du Messager d’Allah ﷺ. Quand j’entendais cela"
+"1319","Rapporté par Aïcha رضي الله عنها : Le Prophète ﷺ est entré chez moi alors qu’une femme juive était avec moi et elle disait : « Sais-tu que vous serez mis à l’épreuve dans la tombe ? » Le Messager d’Allah ﷺ a tremblé en entendant cela et a dit : « Ce sont seulement les juifs qui seront mis à l’épreuve. » Aïcha a dit : Nous avons passé quelques nuits"
+"1320","Rapporté par Abu Huraira رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ demander la protection contre le châtiment de la tombe après cette révélation"
+"1321","Rapporté par Aïcha رضي الله عنها : Deux vieilles femmes juives de Médine sont venues me voir et ont dit : « Les gens des tombes sont tourmentés dans leurs tombes. » Je les ai contredites et je n’ai pas trouvé cela convenable de les croire. Elles sont parties"
+"1322","Rapporté par Masruq d’après Aïcha رضي الله عنها : Après cela"
+"1323","Rapporté par Aïcha رضي الله عنها : J’ai entendu le Messager d’Allah ﷺ demander la protection contre l’épreuve du Dajjal (l’Antéchrist) dans la prière"
+"1324","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous prononce le tashahhud (dans la prière)"
+"1325","Rapporté par Aïcha"
+"1326","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous termine le dernier tashahhud"
+"1327","Rapporté par Abu Huraira رضي الله عنه : L’Envoyé d’Allah ﷺ a dit : « Ô Allah ! Je cherche refuge auprès de Toi contre le châtiment de la tombe"
+"1328","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Cherchez la protection d’Allah contre le châtiment de l’Enfer"
+"1329","Rapporté par Ibn Tawus d’après son père"
+"1330","Rapporté par A’raj d’après Abu Huraira رضي الله عنه : Un hadith semblable a été transmis"
+"1331","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de demander la protection contre le châtiment de la tombe"
+"1333","Rapporté par Ibn 'Abbas رضي الله عنه : Le Messager d’Allah ﷺ leur enseignait cette invocation (avec autant d’importance) qu’il leur enseignait une sourate du Coran. Il nous disait ainsi : « Dites : Ô Allah"
+"1334","Rapporté par Thauban رضي الله عنه : Lorsque le Messager d’Allah ﷺ terminait sa prière"
+"1335","Rapporté par Aïcha رضي الله عنها : Lorsque le Messager d’Allah ﷺ terminait la prière par la salutation"
+"1336","Rapporté par Ibn Numair رضي الله عنه : Il a rapporté avec la même chaîne de transmetteurs et a dit : « Ô Détenteur de Majesté et d’Honneur. »"
+"1337","Rapporté par Abdullah ibn Harith d’après Aïcha رضي الله عنها : Un hadith semblable a été transmis"
+"1338","Rapporté par Mughira ibn Shu’ba رضي الله عنه : Il a écrit à Mu’awiya : Lorsque le Messager d’Allah ﷺ terminait la prière et prononçait la salutation"
+"1339","Rapporté par Mughira ibn Shu’ba رضي الله عنه : Un hadith semblable a été rapporté avec une autre chaîne de transmetteurs. Abu Bakr et Abu Kuraib ont rapporté dans leur version (que Warrad a rapporté) : Mughira me l’a dicté et je l’ai écrit à Mu’awiya"
+"1340","Rapporté par Warrad"
+"1341","Rapporté par Warrad"
+"1342","Rapporté par Warrad"
+"1343","Rapporté par Abu Zubair : Ibn Zubair prononçait à la fin de chaque prière"
+"1344","Rapporté par Abu Zubair : Abdullah ibn Zubair disait « La ilaha il-Allah » à la fin de chaque prière"
+"1345","Rapporté par Abu Zubair : J’ai entendu Abdullah ibn Zubair s’adresser aux gens depuis la chaire et dire : « Quand le Messager d’Allah ﷺ terminait la prière par la salutation"
+"1346","Rapporté par Abu Zubair al-Makki : J’ai entendu Abdullah ibn Zubair prononcer les paroles mentionnées dans le hadith précédent à la fin de la prière"
+"1347","Rapporté par Abu Huraira : Les pauvres parmi les émigrants sont venus voir le Messager d’Allah ﷺ et ont dit : « Ceux qui possèdent beaucoup de richesses ont obtenu les plus hauts rangs et le bonheur éternel. » Il ﷺ demanda : « Comment cela ? » Ils répondirent : « Ils prient comme nous"
+"1348","Rapporté par Abu Huraira : Il a rapporté du Messager d’Allah ﷺ que les pauvres parmi les émigrants ont dit : « Ô Messager d’Allah"
+"1349","Rapporté par Ka’b ibn ‘Ujra : Le Messager d’Allah ﷺ a dit : « Il y a des invocations"
+"1352","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Si quelqu’un glorifie Allah après chaque prière trente-trois fois"
+"1353","Rapporté par Abu Huraira : Ce hadith a été rapporté par Abu Huraira par une autre chaîne de transmetteurs"
+"1356","Rapporté par Abu Huraira : Lorsque le Messager d’Allah ﷺ se levait pour la seconde unité de prière"
+"1357","Rapporté par Anas : Un homme est arrivé essoufflé et a rejoint le rang des prieurs en disant : « Louange à Allah"
+"1358","Rapporté par Ibn ‘Umar : Alors que nous priions avec le Messager d’Allah ﷺ"
+"1359","Rapporté par Abu Huraira : J’ai entendu le Messager d’Allah ﷺ dire : « Quand l’Iqama est prononcé pour la prière"
+"1360","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand l’Iqama est prononcé"
+"1361","Rapporté par Abu Huraira : Il a rapporté plusieurs hadiths du Messager d’Allah ﷺ"
+"1362","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand l’Iqama est prononcé"
+"1363","Rapporté par Abdullah ibn Abu Qatada"
+"1364","Rapporté par Shaiban : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"1367","Rapporté par Abu Salama"
+"1368","Rapporté par Abu Salama"
+"1369","Rapporté par Abu Salama"
+"1370","Rapporté par Jabir ibn Samura : Bilal appelait à la prière quand le soleil déclinait"
+"1371","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Celui qui trouve une rak‘a de la prière a trouvé la prière. »"
+"1372","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Celui qui trouve une rak‘a de la prière avec l’Imam a trouvé la prière. »"
+"1373","Rapporté par Malik : Ce hadith a été rapporté sans la mention « avec l’Imam »"
+"1374","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui rattrape une rak‘a de la prière de l’aube avant le lever du soleil a bien accompli la prière de l’aube. Et celui qui rattrape une rak‘a de la prière de l’après-midi avant le coucher du soleil a bien accompli la prière de l’après-midi. »"
+"1375","Rapporté par Abu Huraira رضي الله عنه : Ce hadith est rapporté par Abu Huraira avec une autre chaîne de transmetteurs"
+"1376","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Celui qui accomplit une prosternation avant le coucher du soleil ou lors de la prière de l’aube avant le lever du soleil a bien accompli cette prière. » Et une prosternation correspond à une rak‘a"
+"1377","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui accomplit une rak‘a de la prière de l’après-midi avant le coucher du soleil a bien accompli la prière entière"
+"1378","Rapporté par Ma‘mar : Ce hadith a été rapporté par Ma‘mar avec une autre chaîne de transmetteurs"
+"1379","Rapporté par Ibn Shihab : Omar ibn Abd al-Aziz a retardé un peu la prière de l’après-midi et ‘Urwa lui a dit : « Gabriel est descendu et a dirigé la prière avec le Messager d’Allah ﷺ. » Omar lui dit : « Ô ‘Urwa"
+"1380","Rapporté par Ibn Shihab : Un jour"
+"1381","Rapporté par ‘Urwa : Aïcha رضي الله عنها"
+"1382","Rapporté par Aïcha رضي الله عنها : Le Prophète d’Allah ﷺ accomplissait la prière de l’après-midi alors que le soleil éclairait encore ma chambre"
+"1383","Rapporté par Aïcha رضي الله عنها"
+"1384","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ accomplissait la prière de l’après-midi alors que la lumière du soleil était encore présente dans ma chambre"
+"1385","Rapporté par ‘Abdullah ibn ‘Amr رضي الله عنه : Le Prophète ﷺ a dit : « Quand vous priez la prière de l’aube"
+"1386","Rapporté par Abdullah ibn ‘Amr رضي الله عنه : Le Prophète ﷺ a dit : « Le temps de la prière du midi dure tant que ce n’est pas l’après-midi"
+"1387","Rapporté par Abu Bakr ibn Abu Shaiban et Yahya ibn Abu Bukair : Tous deux ont rapporté ce hadith avec la même chaîne de transmetteurs"
+"1388","Rapporté par ‘Abdullah ibn ‘Amr رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le temps de la prière du midi commence quand le soleil passe le zénith et que l’ombre d’un homme est de la même taille que lui"
+"1389","Rapporté par ‘Abdullah ibn ‘Amr ibn al-‘As رضي الله عنه : Le Messager d’Allah ﷺ a été interrogé sur les horaires des prières. Il a dit : « Le temps de la prière du matin dure tant que le premier bord du soleil n’est pas apparu. Le temps de la prière du midi commence quand le soleil décline du zénith"
+"1390","Rapporté par ‘Abdullah"
+"1391","Rapporté par Souleiman ibn Buraida"
+"1392","Rapporté par Buraida"
+"1393","Rapporté par Abu Moussa"
+"1394","Rapporté par Abu Moussa"
+"1395","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand il fait très chaud"
+"1396","Rapporté par Abu Huraira رضي الله عنه : Un autre hadith semblable a été rapporté par Abu Huraira"
+"1397","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand il fait très chaud"
+"1398","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Cette chaleur vient du souffle du Feu de l’Enfer"
+"1399","Rapporté par Hammam b. Munabbih : Voici ce qu’Abu Huraira nous a rapporté du Prophète ﷺ"
+"1400","Rapporté par Abu Dharr : Le muezzin du Messager d’Allah ﷺ a appelé à la prière du midi. À ce moment-là"
+"1401","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le Feu s’est plaint devant le Seigneur en disant : “Ô Seigneur"
+"1402","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand il fait chaud"
+"1403","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le Feu a dit au Seigneur : “Ô Seigneur ! Certaines de mes parties ont consumé les autres"
+"1404","Rapporté par Jabir b. Samura : Le Messager d’Allah ﷺ avait l’habitude de faire la prière du midi quand le soleil commençait à décliner"
+"1405","Rapporté par Khabbab : Nous nous sommes plaints au Messager d’Allah ﷺ de la difficulté de prier sur le sol ou le sable brûlant"
+"1406","Rapporté par Khabbab : Nous sommes venus voir le Messager d’Allah ﷺ et nous nous sommes plaints auprès de lui de la difficulté de prier sur le sol extrêmement chaud"
+"1407","Rapporté par Anas b. Malik : Nous faisions la prière du midi avec le Messager d’Allah ﷺ sous une chaleur intense"
+"1408","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ priait la prière de l’après-midi alors que le soleil était encore haut et brillant"
+"1409","Rapporté par Anas b. Malik : Ce hadith"
+"1410","Rapporté par Anas b. Malik : Nous faisions la prière de l’‘Asr"
+"1411","Rapporté par Anas b. Malik : Nous faisions la prière de l’après-midi à un moment tel qu’une personne pouvait aller chez Bani ‘Amr b. Auf et les trouvait en train de faire la prière de l’après-midi"
+"1412","Rapporté par ‘Ala’ b. ‘Abd al-Rahman : Nous sommes venus à la maison d’Anas b. Malik à Bassora après avoir fait la prière du midi. Sa maison était à côté de la mosquée. En lui rendant visite"
+"1413","Rapporté par Abu Umama b. Sahl : Nous avons fait la prière du midi avec Omar b. ‘Abd al-‘Aziz. Ensuite"
+"1414","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ nous a dirigés dans la prière de l’après-midi. Lorsqu’il a terminé"
+"1415","Rapporté par Rafi’ b. Khadij : Nous faisions la prière de l’après-midi avec le Messager d’Allah ﷺ"
+"1416","Rapporté par ‘Auza’i avec la même chaîne de transmetteurs : Nous abattions le chameau du vivant du Messager d’Allah ﷺ après la prière de l’‘Asr"
+"1417","Rapporté par Ibn Umar : Le Messager d’Allah ﷺ a dit : « Celui qui manque la prière de l’après-midi"
+"1418","Ce hadith a été rapporté comme Marfu par une autre chaîne de transmetteurs"
+"1419","Rapporté par Abdullah d’après son père : Celui qui manque la prière de l’après-midi"
+"1420","Rapporté par Ali رضي الله عنه : Le jour de la bataille des Coalisés (Ahzab)"
+"1421","Ce hadith a été rapporté par Hisham avec la même chaîne de transmetteurs"
+"1422","Rapporté par Ali رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le jour de la bataille des Coalisés"
+"1423","Ce hadith a été rapporté par Qatada avec la même chaîne de transmetteurs. Il a dit : « Leurs maisons et leurs tombes (soient remplies de feu) »"
+"1424","Rapporté par Yahya"
+"1425","Rapporté par Ali رضي الله عنه : Le Messager d’Allah ﷺ a dit le jour de la bataille des Coalisés : « Ils nous ont empêchés de faire la prière du milieu"
+"1426","Rapporté par Abdullah ibn Mas’ud رضي الله عنه : Les polythéistes ont retenu le Messager d’Allah ﷺ et l’ont empêché de faire la prière de l’après-midi jusqu’à ce que le soleil devienne rouge ou jaune. À ce sujet"
+"1427","Rapporté par Abu Yunus"
+"1430","Rapporté par Jabir ibn Abdullah رضي الله عنه : Omar ibn al-Khattab رضي الله عنه maudissait les polythéistes de Quraysh le jour de la bataille du Fossé. Il est venu voir le Prophète ﷺ et a dit : « Ô Messager d’Allah"
+"1431","Rapporté par Yahya ibn Abd Kathir : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1432","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Des anges se relaient parmi vous la nuit et le jour"
+"1433","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Des anges se relaient parmi vous la nuit et le jour »"
+"1434","Rapporté par Jarir ibn Abdullah رضي الله عنه : Nous étions assis avec le Messager d’Allah ﷺ lorsqu’il a regardé la pleine lune et a dit : « Vous verrez votre Seigneur comme vous voyez cette lune"
+"1435","Rapporté par Waki’ : Ce hadith a été rapporté avec la même chaîne de transmetteurs : « Vous serez bientôt présentés devant votre Seigneur"
+"1436","Rapporté par Umara ibn Ruwaiba"
+"1437","Rapporté par Umara ibn Ruwaiba"
+"1438","Rapporté par Abu Bakr"
+"1439","Rapporté par Hammam : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"1440","Rapporté par Salama ibn al-Akwa’ رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de faire la prière du Maghrib lorsque le soleil était couché et avait complètement disparu derrière l’horizon"
+"1441","Rapporté par Rafi’ ibn Khadij رضي الله عنه : Nous faisions la prière du Maghrib avec le Messager d’Allah ﷺ"
+"1442","Rapporté par Rafi’ ibn Khadij رضي الله عنه : Un hadith semblable"
+"1443","Rapporté par Aïcha"
+"1444","Rapporté par Ibn Shihab : Un hadith similaire a été rapporté avec la même chaîne de transmetteurs"
+"1445","Rapporté par Aïcha رضي الله عنها : Une nuit"
+"1446","Rapporté par Abdullah ibn Umar رضي الله عنه : Une nuit"
+"1447","Rapporté par Abdullah ibn Umar رضي الله عنه : Une nuit"
+"1448","Rapporté par Thabit رضي الله عنه : Ils ont interrogé Anas رضي الله عنه au sujet de la bague du Messager d’Allah ﷺ. Il a dit : Une nuit"
+"1449","Rapporté par Anas ibn Malik رضي الله عنه : Nous avons attendu le Messager d’Allah ﷺ une nuit"
+"1450","Rapporté par Qurra : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1451","Rapporté par Abu Musa رضي الله عنه : Mes compagnons et moi"
+"1452","Rapporté par Ibn Juraij : J’ai demandé à Ata’ : « À quelle heure me conseilles-tu de faire la prière de ‘Isha"
+"1453","Rapporté par Jabir ibn Samura : Le Messager d’Allah ﷺ a retardé la dernière prière de ‘Isha"
+"1454","Rapporté par Jabir ibn Samura : Le Messager d’Allah ﷺ faisait les prières comme vous les faites"
+"1455","Rapporté par Abdullah ibn ‘Umar : J’ai entendu le Messager d’Allah ﷺ dire : « Ne laissez pas les bédouins l’emporter sur vous concernant le nom de votre prière. Écoutez bien : la prière de la nuit doit s’appeler ‘Isha (alors que les bédouins l’appellent ‘Atama parce qu’ils traient leurs chameaux tard). »"
+"1456","Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ a dit : « Ne laissez pas les bédouins l’emporter sur vous au sujet du nom de votre prière"
+"1457","Rapporté par Aïcha رضي الله عنها : Les femmes croyantes faisaient la prière du matin avec le Messager d’Allah ﷺ"
+"1458","Rapporté par Aïcha"
+"1459","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ faisait la prière du matin"
+"1460","Rapporté par Muhammad ibn ‘Amr ibn al-Hasan ibn ‘Ali : Quand Hajjaj est venu à Médine"
+"1461","Rapporté par Muhammad ibn ‘Amr al-Hasan ibn ‘Ali : Hajjaj avait l’habitude de retarder les prières"
+"1462","Rapporté par Sayyar ibn Salama : J’ai entendu mon père demander à Abu Barza (al-Aslami) au sujet de la prière du Messager d’Allah ﷺ. (Shu’ba"
+"1463","Rapporté par Sayyar ibn Salama : J’ai entendu Abu Barza dire que le Messager d’Allah ﷺ ne voyait pas d’inconvénient à retarder la prière de ‘Isha jusqu’à minuit"
+"1464","Rapporté par Abu Barza al-Aslami : Le Messager d’Allah ﷺ a retardé la prière de la nuit jusqu’à ce qu’un tiers de la nuit soit passé. Il n’aimait pas dormir avant la prière"
+"1465","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ m’a dit : « Que feras-tu quand tu seras sous des dirigeants qui retarderont la prière au-delà de son heure prescrite"
+"1466","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ m’a dit : « Ô Abu Dharr"
+"1467","Rapporté par Abu Dharr رضي الله عنه : Mon ami (le Prophète ﷺ) m’a ordonné d’écouter et d’obéir (au dirigeant)"
+"1468","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ a frappé ma cuisse et a dit : « Que feras-tu si tu vis parmi des gens qui retardent la prière au-delà de son heure prescrite ? » J’ai demandé : « Que me recommandes-tu dans ce cas ? » Il (le Prophète ﷺ) a dit : « Fais la prière à son heure"
+"1469","Rapporté par Abu’l-‘Aliyat al-Bara’ : Ibn Ziyad a retardé la prière. ‘Abdullah ibn Samit est venu me voir"
+"1470","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Que feras-tu si tu vis parmi des gens qui retardent la prière au-delà de son heure prescrite ? » (Le narrateur a dit : Allah et Son Messager savent mieux.) Il a alors dit : « Fais la prière à son heure"
+"1471","Rapporté par Abu’l-‘Aliyat al-Bara’ : J’ai dit à ‘Abdullah ibn Samit : « Nous faisons la prière du vendredi derrière des dirigeants qui la retardent. » (‘Abdullah ibn Samit) a frappé ma cuisse si fort que j’ai eu mal et a dit : « J’ai posé la question à Abu Dharr à ce sujet"
+"1472","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La prière faite en groupe a vingt-cinq fois plus de valeur que la prière faite seul. »"
+"1473","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La prière faite en groupe a vingt-cinq fois plus de valeur que la prière faite seul. » (Abu Huraira a ajouté :) Les anges de la nuit et les anges du jour se rencontrent. Abu Huraira a dit : « Récitez si vous voulez : “La récitation du Coran à l’aube est bien observée” (Coran"
+"1474","Rapporté par Abu Huraira رضي الله عنه : Un hadith semblable a été rapporté par Abu Huraira avec une autre chaîne de transmetteurs"
+"1475","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La prière faite en groupe équivaut à vingt-cinq prières par rapport à celle faite seul. »"
+"1476","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Prier avec l’imam vaut vingt-cinq fois plus que prier seul. »"
+"1477","Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La prière accomplie en groupe vaut vingt-sept degrés de plus que la prière faite seul. »"
+"1478","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La prière en groupe est vingt-sept fois supérieure à la prière faite seul. »"
+"1479","Rapporté par Ibn Numair d’après son père : Il a rapporté une préférence de plus de vingt degrés"
+"1480","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ a parlé de « plus de vingt degrés »"
+"1481","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a remarqué que certaines personnes étaient absentes à certaines prières et il a dit : « J’ai l’intention d’ordonner à quelqu’un de diriger la prière"
+"1482","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les prières les plus difficiles pour les hypocrites sont la prière du soir et celle du matin. S’ils connaissaient les récompenses qui s’y trouvent"
+"1483","Rapporté par Hammam b. Munabbih : Voici ce qu’Abu Huraira رضي الله عنه nous a rapporté du Messager d’Allah ﷺ"
+"1484","Rapporté par Abu Huraira رضي الله عنه : Un hadith similaire a été rapporté par Abu Huraira"
+"1485","Rapporté par 'Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit au sujet des gens qui s’absentent de la prière du vendredi : « J’ai l’intention d’ordonner à quelqu’un de diriger la prière"
+"1486","Rapporté par Abu Huraira رضي الله عنه : Un homme aveugle est venu voir le Messager d’Allah ﷺ et a dit : « Messager d’Allah"
+"1487","Rapporté par Abdullah b. Mas'ud رضي الله عنه : J’ai connu une époque où personne ne manquait la prière sauf un hypocrite dont l’hypocrisie était bien connue"
+"1488","Rapporté par Abdullah b. Mas'ud رضي الله عنه : Celui qui veut rencontrer Allah demain en tant que musulman doit préserver ces prières quand l’appel est lancé"
+"1489","Rapporté par Abu Sha'tha' : Alors que nous étions assis avec Abu Huraira رضي الله عنه dans une mosquée"
+"1490","Rapporté par Abu Sha'tha' al-Muharibi d’après son père : J’ai entendu Abu Huraira رضي الله عنه dire qu’il a vu une personne sortir de la mosquée après l’appel à la prière. Il a alors dit : « Cet homme a désobéi à Abu al-Qasim ﷺ. »"
+"1491","Rapporté par 'Abd al-Rahman b. Abd 'Amr : 'Uthman b. 'Affan رضي الله عنه est venu à la mosquée après la prière du soir et s’est assis seul. Je me suis assis avec lui"
+"1492","Rapporté par Abu Sahl 'Uthman b. Hakim : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"1493","Rapporté par Jundab b. 'Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui accomplit la prière du matin en groupe est sous la protection d’Allah. Il n’est pas possible qu’Allah réclame quelque chose à propos de cette protection sans l’obtenir ; sinon"
+"1494","Rapporté par Anas b. Sirin : J’ai entendu Jundab b. Qasri dire que le Messager d’Allah ﷺ a dit : « Celui qui accomplit la prière du matin en groupe est sous la protection d’Allah"
+"1495","Rapporté par Jundab b. Sufyan رضي الله عنه : Ce hadith a été rapporté du Messager d’Allah ﷺ par la même chaîne de transmetteurs"
+"1496","Rapporté par Mahmud b. al-Rabi' : 'Itban b. Malik"
+"1497","Rapporté par 'Itban b. Malik رضي الله عنه : Je suis venu voir le Messager d’Allah ﷺ"
+"1498","Rapporté par Mahmud b. Rabi' : Je me souviens bien du jet d’eau du Messager d’Allah ﷺ qu’il a fait avec un seau de notre maison. Mahmud a dit : 'Itban b. Malik m’a raconté qu’il avait dit : « Messager d’Allah"
+"1499","Rapporté par Anas b. Malik رضي الله عنه : Sa grand-mère"
+"1500","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ avait le meilleur caractère. Parfois"
+"1501","Rapporté par Thabit"
+"1502","Rapporté par Abdullah b. al-Mukhtar"
+"1503","Rapporté par Shu’ba : Ce hadith a aussi été rapporté avec cette même chaîne de transmetteurs"
+"1504","Rapporté par Maymouna"
+"1505","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Il est allé voir le Messager d’Allah ﷺ et l’a trouvé en train de prier sur un tapis et de s’y prosterner"
+"1506","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La prière d’un homme en groupe a plus de valeur de vingt degrés"
+"1507","Rapporté par A’mash : Un hadith au même sens a été transmis"
+"1508","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les anges invoquent des bénédictions sur chacun d’entre vous tant qu’il reste dans un lieu de prière"
+"1509","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le serviteur reste en prière tant qu’il est dans un lieu de prière en attendant la prière en groupe"
+"1510","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Chacun d’entre vous est considéré comme étant en prière tant que la prière le retient (pour ce noble objectif) et que rien ne l’empêche de retourner auprès de sa famille si ce n’est la prière. »"
+"1511","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui d’entre vous qui reste assis dans un lieu de prière en attendant la prière est en prière tant que ses ablutions ne sont pas rompues"
+"1512","Rapporté par Hammam b. Munabbih"
+"1513","Rapporté par Abu Musa رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La personne qui reçoit la plus grande récompense est celle qui habite le plus loin et qui doit parcourir la plus grande distance"
+"1514","Rapporté par Ubayy b. Ka’b رضي الله عنه : Il y avait un homme"
+"1515","Rapporté par Taimi : Ce hadith a été transmis avec la même chaîne de rapporteurs"
+"1516","Rapporté par Ubayy b. Ka’b رضي الله عنه : Il y avait une personne parmi les Ansar dont la maison était à l’extrémité de Médine"
+"1517","Rapporté par ‘Asim : Un hadith semblable a été rapporté avec la même chaîne de transmetteurs"
+"1518","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Nos maisons étaient loin de la mosquée ; nous avons donc pensé à vendre nos maisons pour nous rapprocher de la mosquée. Le Messager d’Allah ﷺ nous a interdit de le faire et a dit : « Pour chaque pas (vers la mosquée)"
+"1519","Rapporté par Jabir b. Abdullah رضي الله عنه : Il y avait des terrains vacants autour de la mosquée. Les Banu Salama ont décidé de déménager sur ces terres pour se rapprocher de la mosquée. Cette nouvelle est parvenue au Messager d’Allah ﷺ et il leur a dit : « Ô Banu Salama"
+"1520","Rapporté par Jabir b. Abdullah رضي الله عنه : Les Banu Salama ont décidé de déménager près de la mosquée"
+"1521","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui se purifie chez lui puis marche vers l’une des maisons d’Allah pour accomplir une prière obligatoire"
+"1522","Rapporté par Abu Huraira رضي الله عنه : Dans le hadith rapporté par Abd Huraira"
+"1523","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’exemple des cinq prières est comme une rivière abondante qui passe devant la porte de l’un d’entre vous"
+"1524","Rapporté par Ata’ b. Yasar"
+"1525","Rapporté par Simak b. Harb : J’ai demandé à Jabir b. Samura رضي الله عنه : « As-tu déjà été assis en compagnie du Messager d’Allah ﷺ ? » Il a répondu : « Oui"
+"1526","Rapporté par Jabir b. Samura : Lorsque le Messager d’Allah ﷺ accomplissait la prière de l’aube"
+"1527","Rapporté par Jabir b. Samura : Ce hadith a été rapporté par Simak avec la même chaîne de transmetteurs"
+"1528","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Les endroits de la terre les plus aimés d’Allah sont les mosquées"
+"1529","Rapporté par Abu Sa’id al-Khudri : Le Messager d’Allah ﷺ a dit : « Quand il y a trois personnes"
+"1530","Rapporté par Qatida : Un hadith similaire a été rapporté avec la même chaîne de transmetteurs"
+"1531","Rapporté par Abu Sa’id al-Khudri : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"1532","Rapporté par Abu Mas’ud al-Ansari : Le Messager d’Allah ﷺ a dit : « Celui qui connaît le mieux le Livre d’Allah doit diriger la prière pour les gens. S’ils sont égaux dans la récitation"
+"1533","Rapporté par A’mash : Un hadith similaire a été rapporté avec la même chaîne de transmetteurs"
+"1534","Rapporté par Abu Mas’ud al-Ansari : Le Messager d’Allah ﷺ nous a dit : « Celui qui maîtrise le mieux le Livre d’Allah et se distingue par sa récitation doit diriger la prière. S’ils sont égaux dans la récitation"
+"1535","Rapporté par Malik b. Huwairith : Nous sommes venus voir le Messager d’Allah ﷺ et nous étions tous de jeunes hommes d’âge proche. Nous sommes restés avec lui vingt nuits"
+"1536","Rapporté par Ayyub : Ce hadith a été transmis avec la même chaîne de narrateurs"
+"1537","Rapporté par Malik b. Huwairith Abu Sulaiman : Je suis venu voir le Messager d’Allah ﷺ avec d’autres personnes"
+"1538","Rapporté par Malik b. Huwairith : Je suis venu voir le Messager d’Allah ﷺ avec un compagnon"
+"1539","Rapporté par al-Hadra’ : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"1540","Rapporté par Abu Salama b. Abd al-Rahman b. ‘Auf : J’ai entendu Abu Huraira dire : (Quand) le Messager d’Allah ﷺ voulait invoquer une malédiction ou une bénédiction sur quelqu’un"
+"1541","Rapporté par Abu Huraira : Ce hadith a été rapporté par une autre chaîne de transmetteurs jusqu’aux mots : « Et fais-leur subir une famine comme celle qui a eu lieu à l’époque de Joseph »"
+"1542","Rapporté par Abu Salama d’après Abu Huraira : Le Messager d’Allah ﷺ récitait le Qunut après le ruku’ dans la prière pendant un mois"
+"1543","Rapporté par Abu Salama : Abu Huraira lui a raconté que lorsque le Messager d’Allah ﷺ disait : « Allah entend celui qui Le loue »"
+"1544","Rapporté par Abu Salama b. ‘Abd al-Rahman : Il a entendu Abu Huraira dire : « Je fais la prière avec vous de la manière la plus proche de celle du Messager d’Allah ﷺ. » Abu Huraira récitait le Qunut dans la prière du midi"
+"1545","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a invoqué la malédiction dans la prière du matin pendant trente jours contre ceux qui ont tué les Compagnons (du Prophète) à Bi’r Ma’una. Il a maudit les tribus de Ri’l"
+"1546","Rapporté par Muhammad : J’ai demandé à Anas si le Messager d’Allah ﷺ récitait le Qunut dans la prière de l’aube. Il a répondu : « Oui"
+"1547","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a récité le Qunut pendant un mois dans la prière de l’aube après le ruku’ et a invoqué la malédiction contre Ri’l"
+"1548","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a récité le Qunut pendant un mois dans la prière de l’aube après le ruku’ et a invoqué la malédiction contre Bani Usayya"
+"1549","Rapporté par Asim : J’ai demandé à Anas si le Qunut était fait (par le Prophète) avant ou après le ruku’. Il a répondu : « Avant le ruku’. » J’ai dit : « Les gens pensent que le Messager d’Allah ﷺ récitait le Qunut après le ruku’. » Il a dit : « Le Messager d’Allah ﷺ a récité le Qunut (après le ruku’"
+"1550","Rapporté par ‘Asim : J’ai entendu Anas dire : « Jamais je n’ai vu le Messager d’Allah ﷺ aussi attristé par la perte d’un petit groupe que je l’ai vu attristé pour ces soixante-dix hommes qu’on appelait “les lecteurs” (et qui ont été tués) à Bi’r Ma’una ; il a invoqué la malédiction contre leurs meurtriers pendant un mois entier. »"
+"1551","Rapporté par Anas رضي الله عنه : Ce hadith a été rapporté par Anas à travers une autre chaîne de transmetteurs avec quelques ajouts mineurs"
+"1552","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a fait le Qunut pendant un mois en invoquant la malédiction contre Ri’l"
+"1553","Rapporté par Anas رضي الله عنه : Un hadith similaire a été transmis par Anas du Messager d’Allah ﷺ"
+"1554","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a fait le Qunut pendant un mois en invoquant la malédiction contre certaines tribus arabes (celles responsables des meurtres à Bi’r Ma’una et Raji’)"
+"1555","Rapporté par Al-Bara’ b. ‘Azib رضي الله عنه : Le Messager d’Allah ﷺ faisait le Qunut dans les prières du matin et du soir"
+"1556","Rapporté par Al-Bara’ رضي الله عنه : Le Messager d’Allah ﷺ faisait le Qunut à l’aube et au coucher du soleil"
+"1557","Rapporté par Khufaf b. Ima’ al-Ghifari رضي الله عنه : Le Messager d’Allah ﷺ a dit pendant la prière : « Ô Allah"
+"1558","Rapporté par Khufaf b. Ima’ رضي الله عنه : Le Messager d’Allah ﷺ s’est incliné (dans la prière)"
+"1559","Rapporté par Khufaf b. Ima’ رضي الله عنه : Un hadith similaire a été transmis par Khufaf b. Ima’"
+"1560","Rapporté par Abu Huraira رضي الله عنه : Lorsque le Messager d’Allah ﷺ est revenu de l’expédition de Khaybar"
+"1561","Rapporté par Abu Huraira رضي الله عنه : Nous nous sommes arrêtés pour nous reposer avec le Messager d’Allah ﷺ et nous ne nous sommes réveillés que lorsque le soleil s’est levé. Le Messager d’Allah ﷺ nous a alors dit que chacun devait prendre la bride de son chameau (et quitter cet endroit)"
+"1562","Rapporté par Abu Qatada رضي الله عنه : Le Messager d’Allah ﷺ nous a adressé la parole et a dit : « Vous voyagerez le soir et la nuit jusqu’à (si Allah le veut) arriver le matin à un point d’eau. » Les gens ont donc voyagé"
+"1563","Rapporté par ‘Imran b. Husain رضي الله عنه : J’étais en voyage avec le Messager d’Allah ﷺ. Nous avons voyagé toute la nuit"
+"1564","Rapporté par ‘Imran b. Husain رضي الله عنه : Nous étions avec le Messager d’Allah ﷺ en voyage et nous avons voyagé toute la nuit jusqu’à ce qu’à la fin"
+"1565","Rapporté par Abu Qatada رضي الله عنه : Lorsque le Messager d’Allah ﷺ était en voyage"
+"1566","Rapporté par Qatada d’après Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui oublie la prière doit la faire dès qu’il s’en souvient"
+"1567","Rapporté par Qatada رضي الله عنه : Ce hadith a été rapporté par Qatada"
+"1568","Rapporté par Qatada d’après Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui oublie la prière"
+"1569","Rapporté par Qatada d’après Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous manque la prière à cause du sommeil ou de l’oubli"

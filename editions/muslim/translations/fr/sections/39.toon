@@ -1,211 +1,340 @@
-hadiths[210]{hadithnumber,text}:
-5646,2160
-5647,2161
-5648,2121.03
-5649,2121.04
-5650,2162.01
-5651,2162.02
-5652,2163.01
-5653,2163.02
-5654,2164.01
-5655,2164.02
-5656,2165.01
-5657,2165.02
-5658,2165.03
-5659,2165.04
-5660,2166
-5661,2167.01
-5662,2167.02
-5663,2168.01
-5664,2168.02
-5665,2168.03
-5666,2169.01
-5667,2169.02
-5668,2170.01
-5671,2170.04
-5672,2170.05
-5673,2171
-5674,2172.01
-5675,2172.02
-5676,2172.03
-5677,2173
-5678,2174
-5679,2175.01
-5680,2175.02
-5681,2176.01
-5682,2176.02
-5683,2177.01
-5684,2177.02
-5685,2177.03
-5686,2177.04
-5687,2177.05
-5688,2178
-5689,2179
-5690,2180
-5691,2181
-5692,2182.01
-5693,2182.02
-5694,2183.01
-5695,2183.02
-5696,2184.01
-5697,2184.02
-5698,2184.03
-5699,2185
-5700,2186
-5701,2187
-5702,2188
-5703,2189.01
-5704,2189.02
-5705,2190.01
-5706,2190.02
-5707,2191.01
-5708,2191.02
-5709,2191.03
-5710,2191.04
-5711,2191.05
-5712,2191.06
-5713,2191.07
-5714,2192.01
-5715,2192.02
-5716,2192.03
-5717,2193.01
-5718,2193.02
-5719,2194
-5720,2195.01
-5721,2195.02
-5722,2195.03
-5723,2196.01
-5724,2196.02
-5725,2197
-5726,2198
-5727,2199.01
-5728,2199.02
-5729,2199.03
-5730,2199.04
-5731,2199.05
-5732,2200
-5733,2201.01
-5734,2201.02
-5735,2201.03
-5736,2201.04
-5737,2202
-5738,2203.01
-5739,2203.02
-5740,2203.03
-5741,2204
-5742,2205.01
-5743,2205.02
-5744,2206
-5745,2207.01
-5746,2207.02
-5747,2207.03
-5748,2208
-5749,1202.04
-5750,1577.04
-5751,2209.01
-5752,2209.02
-5753,2209.03
-5754,2209.04
-5755,2210.01
-5756,2210.02
-5757,2211.01
-5758,2211.02
-5759,2212.01
-5760,2212.02
-5761,2213
-5763,2214.01
-5765,287.05
-5766,2215.01
-5767,2215.02
-5768,2215.03
-5769,2216
-5770,2217.01
-5771,2217.02
-5772,2218.01
-5773,2218.02
-5774,2218.03
-5775,2218.04
-5776,2218.05
-5777,2218.06
-5778,2218.07
-5779,2218.08
-5780,2218.09
-5781,2218.10
-5782,2218.11
-5783,2218.12
-5784,2219.01
-5785,2219.02
-5786,2219.03
-5787,2219.04
-5788,2220.01
-5789,2220.02
-5790,2220.03
-5791,2221.01
-5792,2221.02
-5793,2221.03
-5794,2220.04
-5795,2222.01
-5796,2222.02
-5797,2222.03
-5798,2223.01
-5799,2223.02
-5800,2224.01
-5801,2224.02
-5802,2223.03
-5803,2223.04
-5804,2225.01
-5805,2225.02
-5806,2225.03
-5807,2225.04
-5808,2225.05
-5809,2225.06
-5810,2226.01
-5811,2226.02
-5812,2227
-5813,537.03
-5814,537.04
-5815,537.05
-5816,2228.01
-5817,2228.02
-5818,2228.03
-5819,2229.01
-5820,2229.02
-5821,2230
-5822,2231
-5823,2232.01
-5824,2232.02
-5825,2233.01
-5828,2233.04
-5829,2233.05
-5830,2233.06
-5831,2233.07
-5832,2233.08
-5833,2233.09
-5834,2233.10
-5835,2234.01
-5836,2234.02
-5837,2235
-5838,2234.03
-5839,2236.01
-5840,2236.02
-5841,2236.03
-5842,2237.01
-5843,2237.02
-5844,2238
-5845,2239
-5846,2240.01
-5847,2240.02
-5848,2240.03
-5849,2241.01
-5850,2241.02
-5851,2241.03
-5852,2242.01
-5853,2242.02
-5854,2242.03
-5855,2243.01
-5856,2243.02
-5857,2243.03
-5858,2243.04
-5859,2244
-5860,2245.01
-5861,2245.02
+hadiths[339]{hadithnumber,text}:
+"5500","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque la lanière de la sandale de l’un d’entre vous se casse"
+"5501","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a interdit de s’enrouler complètement dans un vêtement en laissant les bras coincés"
+"5502","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne marchez pas avec une seule sandale"
+"5503","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun de vous ne doit s’allonger sur le dos en posant un pied sur l’autre. »"
+"5504","Rapporté par ‘Abbad ibn Tamim رضي الله عنه"
+"5505","Rapporté par Zuhri : Ce hadith a été rapporté avec la même chaîne de transmission"
+"5506","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ a interdit aux hommes de teindre leurs vêtements ou leurs cheveux avec du safran. Hammad a précisé que cela concerne uniquement les hommes"
+"5507","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a interdit de porter des vêtements teints au safran"
+"5508","Rapporté par Jabir رضي الله عنه : Lorsque Abu Qubafa (le père d’Abu Bakr) est venu le jour de la Victoire (pour prêter allégeance au Prophète ﷺ)"
+"5509","Rapporté par Jabir ibn Abdullah رضي الله عنه : Abu Qubafa a été amené devant le Prophète ﷺ le jour de la conquête de La Mecque"
+"5510","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les Juifs et les Chrétiens ne teignent pas leurs cheveux"
+"5511","Rapporté par Aïcha رضي الله عنها : Gabriel (paix sur lui) avait promis à Allah et à Son Messager ﷺ de venir à une heure précise. Cette heure arriva"
+"5512","Rapporté par Abu Hazim : Ce hadith a été rapporté avec la même chaîne de transmission"
+"5513","Rapporté par Maymouna رضي الله عنها : Un matin"
+"5514","Rapporté par Abu Talha رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les anges n’entrent pas dans une maison où il y a un chien ou une image. »"
+"5515","Rapporté par Abu Talha رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Les anges n’entrent pas dans une maison où il y a un chien ou une statue. »"
+"5516","Rapporté par Zuhri : Ce hadith a été rapporté avec la même chaîne de transmission"
+"5517","Rapporté par Abu Talha"
+"5518","Rapporté par Abu Talha رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les anges n’entrent pas dans une maison où il y a une image. » Busr a dit : Zayd ibn Khalid tomba malade et nous sommes allés lui rendre visite. Dans sa maison"
+"5520","Rapporté par Abu Talha al-Ansari رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les anges n’entrent pas dans une maison où il y a une image ou un portrait. » Je suis allé voir Aïcha رضي الله عنها et lui ai dit : « J’ai entendu que le Messager d’Allah ﷺ a dit : “Les anges n’entrent pas dans une maison où il y a une image ou un chien.” » Je lui ai demandé si elle avait entendu cela. Elle répondit : « Non"
+"5523","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ est revenu d’un voyage et j’avais couvert ma porte avec un rideau représentant des chevaux ailés. Il m’a ordonné de l’enlever"
+"5524","Rapporté par Waki’ : Ce hadith a été rapporté avec la même chaîne de transmission"
+"5525","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ est entré (dans mon appartement) et j’avais accroché un fin rideau avec des images à la porte. Son visage a changé de couleur. Il a alors saisi ce rideau"
+"5526","Rapporté par Aïcha رضي الله عنها : Ce hadith a été rapporté par une autre chaîne de transmission"
+"5527","Rapporté par Zuhri : Ce hadith a été rapporté avec la même chaîne de transmission"
+"5528","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ est venu me rendre visite alors que j’avais une étagère recouverte d’un rideau fin sur lequel il y avait des images. Dès qu’il l’a vue"
+"5529","Rapporté par Aïsha رضي الله عنها : Elle avait un tissu avec des images dessus"
+"5530","Rapporté par Aïsha رضي الله عنها : Ce hadith a été rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"5531","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ m’a rendu visite alors que j’avais mis un rideau avec des images à ma porte. Il l’a enlevé et nous en avons fait des coussins"
+"5532","Rapporté par Aïsha"
+"5533","Rapporté par Aïsha رضي الله عنها : Elle a acheté un tapis avec des images dessus. Quand le Messager d’Allah ﷺ l’a vu"
+"5534","Rapporté par Aïsha رضي الله عنها : Ce hadith a aussi été rapporté par une autre chaîne de transmetteurs. Certains autres hadiths transmis par d’autres chaînes sont plus complets et il y a un ajout dans ceux transmis par le neveu de Majishun : elle (Aïsha) aurait dit : « Je l’ai pris et j’en ai fait deux coussins"
+"5535","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ceux qui font des images seront punis au Jour de la Résurrection et on leur dira : “Insufflez une âme dans ce que vous avez créé.” »"
+"5536","Rapporté par Ibn ‘Umar رضي الله عنه : Un hadith similaire a été rapporté par une autre chaîne de transmetteurs"
+"5537","Rapporté par ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les gens les plus sévèrement punis au Jour de la Résurrection seront les créateurs d’images. » Ashajj"
+"5538","Rapporté par ‘Abdullah رضي الله عنه : Ce hadith a été rapporté par Abû Mu‘awiya par une autre chaîne de transmetteurs avec ces mots : « En vérité"
+"5546","Rapporté par Abû Hurayra رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les anges n’accompagnent pas les voyageurs qui ont avec eux un chien et une cloche. »"
+"5547","Rapporté par Abû Hurayra رضي الله عنه : Ce hadith a été rapporté par Suhail avec la même chaîne de transmetteurs"
+"5548","Rapporté par Abû Hurayra رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La cloche est l’instrument de musique du diable. »"
+"5549","Rapporté par Abû Bashir Ansari رضي الله عنه : Il a eu l’occasion d’accompagner le Messager d’Allah ﷺ lors de certains de ses voyages. Le Messager d’Allah ﷺ a envoyé l’un de ses messagers — ‘Abdullah b. Abî Bakr a dit : « Je pense qu’il a dit ces mots quand les gens étaient aux lieux de repos » : « Qu’aucun collier de ficelles ne reste sur le cou des chameaux"
+"5550","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a interdit de frapper les animaux au visage ou de les marquer au fer sur le visage"
+"5551","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5552","Rapporté par Jabir رضي الله عنه : Un âne dont le visage avait été marqué au fer est passé devant le Messager d’Allah ﷺ. Il a alors dit : « Qu’Allah maudisse celui qui l’a marqué au visage. »"
+"5553","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a vu un âne qui avait été marqué au fer sur le visage. Il a désapprouvé cela et a dit : « Par Allah"
+"5554","Rapporté par Anas رضي الله عنه : Umm Sulaym a donné naissance à un enfant. Elle lui a dit : « Anas"
+"5555","Rapporté par Anas رضي الله عنه : Quand sa mère a donné naissance à un enfant"
+"5558","Rapporté par Anas b. Malik رضي الله عنه : J’ai vu dans la main du Messager d’Allah ﷺ un instrument pour marquer au fer"
+"5559","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a interdit le Qaza. J’ai demandé à Nafi’ : « Qu’est-ce que le Qaza ? » Il a répondu : « C’est raser une partie de la tête d’un garçon et laisser une autre partie non rasée. »"
+"5560","Rapporté par ‘Ubaidullah رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5561","Rapporté par ‘Umar b. Nafi’ رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5562","Rapporté par Ibn 'Umar : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5563","Rapporté par Abu Sa'id Al-Khudri : Le Messager d’Allah ﷺ a dit : « Évitez de vous asseoir sur les chemins. » Ses compagnons dirent : « Ô Messager d’Allah"
+"5564","Rapporté par Zaid b. Aslam : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"5565","Rapporté par Asma"
+"5566","Rapporté par Shu'ba : Ce hadith a été transmis par Shu'ba avec une légère différence dans les mots"
+"5567","Rapporté par Asma"
+"5568","Rapporté par Aïsha رضي الله عنها : Une jeune fille des Ansar"
+"5573","Rapporté par Abdullah : Allah a maudit les femmes qui se tatouent et celles qui se font tatouer"
+"5574","Rapporté par Mansur : Ce hadith a été rapporté par Mansur avec la même chaîne de transmetteurs"
+"5575","Rapporté par Mansur : Ce hadith a été rapporté par Mansur sans l’histoire concernant Umm Ya'qub"
+"5576","Rapporté par Abdullah : Ce hadith a été transmis par Abdullah"
+"5577","Rapporté par Jabir b. Abdullah : Le Messager d’Allah ﷺ a réprimandé le fait qu’une femme ajoute quoi que ce soit à ses cheveux (sous forme de cheveux artificiels)"
+"5578","Rapporté par 'Abd al-Rahman b. 'Auf : Il a entendu Mu'awiya b. Abi Sufyan"
+"5579","Rapporté par Zuhri : Ce hadith a été transmis par Zuhri avec une légère différence dans les mots"
+"5580","Rapporté par Sa'id b. Musayyib : Mu'awiya est venu à Médine"
+"5581","Rapporté par Sa'id b. Musayyib : Un jour"
+"5582","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il y a deux types d’habitants de l’Enfer que je n’ai pas encore vus : des gens qui ont des fouets comme des queues de bœuf et qui frappent les gens"
+"5583","Rapporté par Aïsha رضي الله عنها : Une femme a demandé : « Ô Messager d’Allah"
+"5584","Rapporté par Asma’ : Une femme vint voir le Messager d’Allah ﷺ et dit : « J’ai une coépouse. Est-ce mal si je lui fais croire que j’ai reçu quelque chose de mon mari alors qu’en réalité il ne me l’a pas donné ? » Le Messager d’Allah ﷺ répondit : « Celle qui crée une telle illusion d’avoir reçu ce qu’on ne lui a pas donné est comme celle qui porte un vêtement de mensonge. »"
+"5585","Rapporté par Hisham : Ce hadith a été rapporté par Hisham avec la même chaîne de transmetteurs"
+"5586","Rapporté par Anas : Quelqu’un"
+"5587","Rapporté par Ibn Umar : Le Messager d’Allah ﷺ a dit : « Les noms les plus aimés d’Allah sont ‘Abdullah et ‘Abd al-Rahman. »"
+"5588","Rapporté par Jabir b. 'Abdullah : Un enfant est né chez l’un d’entre nous"
+"5589","Rapporté par Jabir b. 'Abdullah : Un enfant est né chez l’un d’entre nous"
+"5590","Rapporté par Husain : Ce hadith a été rapporté par Husain avec la même chaîne de transmetteurs"
+"5591","Rapporté par Jabir b. Abdullah : Le Messager d’Allah ﷺ a dit : « Donnez le même prénom que le mien"
+"5592","Rapporté par A'mash : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5593","Rapporté par Jabir b. 'Abdullah : Un enfant est né chez un homme parmi les Ansar et il voulait l’appeler Muhammad. Il est venu voir le Messager d’Allah ﷺ pour lui demander"
+"5594","Rapporté par Shu'ba : Ce hadith a été rapporté par différentes chaînes de transmetteurs"
+"5595","Rapporté par Jabir b. 'Abdullah : Un enfant est né chez l’un d’entre nous"
+"5596","Rapporté par Ibn Uyaina : Ce hadith a été rapporté sans mentionner : « Nous ne te laisserons pas te réjouir. »"
+"5597","Rapporté par Abu Huraira : Abu’l-Qasim ﷺ a dit : « Donnez à vos enfants le même prénom que le mien"
+"5598","Rapporté par Mughira b. Shu'ba : Quand je suis allé à Najran"
+"5599","Rapporté par Samura b. Jundub : Le Messager d’Allah ﷺ nous a interdit de donner à nos serviteurs ces quatre noms : Aflah (Réussi)"
+"5600","Rapporté par Samura b. Jundub : Le Messager d’Allah ﷺ a dit : « Ne donnez pas à vos serviteurs les noms Rabah"
+"5601","Rapporté par Samura b. Jundub : Le Messager d’Allah ﷺ a dit : « Les paroles les plus aimées d’Allah sont au nombre de quatre : Subhan Allah (Gloire à Allah)"
+"5602","Rapporté par Shu'ba : Ce hadith a été rapporté sans mentionner les quatre formules de rappel"
+"5603","Rapporté par Jabir b. 'Abdullah : Le Messager d’Allah ﷺ avait décidé d’interdire de donner les prénoms Ya’la (Élevé)"
+"5604","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a changé le prénom de ‘Asiya (Désobéissante) et a dit : « Tu es Jamila (belle et bonne). » Ahmad (l’un des rapporteurs) a transmis ce hadith avec une légère différence de mots"
+"5605","Rapporté par Ibn 'Umar : ‘Umar avait une fille qui s’appelait ‘Asiya. Le Messager d’Allah ﷺ lui a donné le prénom de Jamila"
+"5606","Rapporté par Ibn Abbas : Le prénom de Juwairiya (l’épouse du Prophète ﷺ) était Barra (Vertueuse). Le Messager d’Allah ﷺ a changé son prénom en Juwairiya et a dit : « Je n’aime pas qu’on dise : “Il est sorti de chez Barra (Vertueuse).” » Le hadith transmis par Ibn Abi ‘Umar est légèrement différent"
+"5607","Rapporté par Abu Huraira : Le prénom de Zainab était Barra. On disait d’elle : « Elle se présente comme innocente. » Le Messager d’Allah ﷺ lui a donné le prénom de Zainab"
+"5608","Rapporté par Zainab"
+"5609","Rapporté par Muhammad b. ‘Amr b. ‘Ata’ : J’avais donné à ma fille le prénom de Barra. Zainab"
+"5610","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le pire des noms auprès d’Allah est Malik al-Amidh (Roi des rois). » Dans la version rapportée par Shaiba"
+"5611","Rapporté par Abu Huraira : J’ai rapporté beaucoup de hadiths du Messager d’Allah ﷺ"
+"5612","Rapporté par Anas b. Malik : J’ai amené ‘Abdullah b. Abi Talha Ansari au Messager d’Allah ﷺ à sa naissance. À ce moment-là"
+"5613","Rapporté par Anas b. Malik : Le fils d’Abu Talha était malade. Abu Talha est parti en voyage et son fils est décédé en son absence. À son retour"
+"5614","Rapporté par Anas : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5615","Rapporté par Abu Musa : Un enfant est né chez moi et je l’ai amené au Messager d’Allah ﷺ. Il lui a donné le prénom d’Ibrahim et lui a frotté le palais avec des dattes"
+"5616","Rapporté par ‘Urwa b. Zubair et Fatima"
+"5617","Rapporté par Asma’ رضي الله عنها : J’étais enceinte d’Abdullah b. Zubair à La Mecque et"
+"5618","Rapporté par Asma’"
+"5619","Rapporté par ‘Aïsha رضي الله عنها : On amenait les nouveau-nés au Messager d’Allah ﷺ. Il leur donnait sa bénédiction et leur frottait le palais avec des dattes"
+"5620","Rapporté par ‘Aïsha رضي الله عنها : Nous avons emmené Abdullah b. Zubair auprès du Messager d’Allah ﷺ pour qu’il mette de la salive dans sa bouche"
+"5621","Rapporté par Sahl b. Sa’d رضي الله عنه : Mundhir b. Aba Usaid fut amené au Messager d’Allah ﷺ à sa naissance. Le Prophète ﷺ le posa sur sa cuisse"
+"5622","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ avait le meilleur caractère parmi les hommes. J’avais un petit frère qu’on appelait Abu ‘Umair. Je pense qu’il était déjà sevré. Quand le Messager d’Allah ﷺ venait chez nous"
+"5623","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ s’est adressé à moi en disant : « Ô mon fils. »"
+"5624","Rapporté par Mughira b. Shu’ba رضي الله عنه : Personne n’a posé plus de questions au Messager d’Allah ﷺ à propos du Dajjal que moi"
+"5625","Rapporté par Ismail"
+"5626","Rapporté par Abu Sa’id Khudri رضي الله عنه : J’étais assis à Médine avec les Ansar quand Abu Musa arriva"
+"5627","Rapporté par Yazid b. Khusaifa"
+"5628","Rapporté par Abu Sa’id Khudri رضي الله عنه : Nous étions avec Ubayy b. Ka’b quand Abu Musa Ash’ari arriva en colère. Il se tint devant nous et dit : « Je vous demande"
+"5629","Rapporté par Abu Sa’id رضي الله عنه : Abu Musa al-Ash’ari est venu à la porte de ‘Umar et a demandé la permission d’entrer. ‘Umar dit : « Une fois. » Il demanda une deuxième fois"
+"5630","Rapporté par Abu Sa’id Khudri رضي الله عنه"
+"5631","Rapporté par ‘Ubaid b. Umair رضي الله عنه : Abu Musa a demandé la permission d’entrer chez ‘Umar trois fois"
+"5632","Rapporté par Ibn Juraij"
+"5633","Rapporté par Abu Musa Ash’ari رضي الله عنه : Je suis allé voir ‘Umar b. Khattab et je lui ai dit : « As-Salamu ‘Alaikum"
+"5634","Rapporté par Jabir b. Abdullah رضي الله عنه : Je suis allé voir le Messager d’Allah ﷺ et je l’ai appelé pour demander la permission. Le Messager d’Allah ﷺ demanda : « Qui est-ce ? » Je répondis : « C’est moi. » Le Prophète ﷺ sortit en disant : « C’est moi"
+"5635","Rapporté par Jabir b. Abdullah رضي الله عنه : J’ai demandé la permission au Messager d’Allah ﷺ pour le voir. Il demanda : « Qui est-ce ? » Je répondis : « C’est moi. » Le Messager d’Allah ﷺ répondit : « C’est moi"
+"5636","Rapporté par Shu’ba"
+"5638","Rapporté par Sahl b. Sa’d as-Sa’idi رضي الله عنه : Un homme a regardé à travers le trou de la porte du Messager d’Allah ﷺ"
+"5639","Rapporté par Sahl b. Sa’d as-Sa’idi رضي الله عنه : Un homme a regardé à travers le trou de la porte du Messager d’Allah ﷺ"
+"5640","Rapporté par Sahl b. Sa’d as-Sa’idi رضي الله عنه"
+"5641","Rapporté par Anas b. Malik رضي الله عنه : Un homme a regardé par un des trous de la porte du Messager d’Allah ﷺ"
+"5642","Rapporté par Abu Huraira رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Celui qui regarde dans la maison des gens sans leur permission"
+"5643","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un jette un regard dans ta maison sans autorisation"
+"5644","Rapporté par Jarir b. 'Abdullah رضي الله عنه : J’ai demandé au Messager d’Allah ﷺ au sujet d’un regard soudain posé sur le visage d’une femme étrangère. Il m’a ordonné de détourner le regard"
+"5645","Rapporté par Yunus"
+"5646","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le cavalier doit saluer le piéton"
+"5647","Rapporté par Abu Talha رضي الله عنه : Alors que nous étions assis devant les maisons à discuter entre nous"
+"5648","Rapporté par Abu Sa’id Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Évitez de vous asseoir sur les chemins. » Les Compagnons ont dit : « Ô Messager d’Allah"
+"5649","Ce hadith a été rapporté sur l'autorité de Rapporté par Zaid b. Aslam"
+"5650","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Cinq droits du musulman envers son frère : répondre à la salutation"
+"5651","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Six droits d’un musulman envers un autre musulman. » On lui demanda : « Ô Messager d’Allah"
+"5652","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand les Gens du Livre vous saluent"
+"5653","Rapporté par Anas رضي الله عنه : Les Compagnons du Messager d’Allah ﷺ lui ont dit : « Les Gens du Livre nous saluent (en disant as-Salamu-‘Alaikum). Comment devons-nous leur répondre ? » Il a dit : « Dites : Wa ‘Alaikum (et à vous aussi). »"
+"5654","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand les Juifs vous saluent"
+"5655","Rapporté par Ibn 'Umar"
+"5656","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Un groupe de Juifs est venu voir le Messager d’Allah ﷺ et a dit : « As-Sam-u-‘Alaikum. » Aïcha répondit : « As-Sam-u-‘Alaikum (que la mort soit sur vous) et la malédiction aussi. » Le Messager d’Allah ﷺ dit : « Aïcha"
+"5657","Rapporté par Zuhri"
+"5658","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Des Juifs sont venus voir le Messager d’Allah ﷺ et ont dit : « Abu’l-Qasim (le surnom du Prophète)"
+"5659","Rapporté par A'znash"
+"5660","Rapporté par Jabir b. Abdullah رضي الله عنه : Des gens parmi les Juifs dirent au Messager d’Allah ﷺ : « Abu’l-Qasim"
+"5661","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne saluez pas les Juifs et les Chrétiens avant qu’ils ne vous saluent"
+"5662","Rapporté par Suhail"
+"5663","Rapporté par Anas b. Malik رضي الله عنه : Quand le Messager d’Allah ﷺ croisait des enfants"
+"5664","Rapporté par Sayyar"
+"5665","Rapporté par Sayyar رضي الله عنه : Je marchais avec Thabit al-Bunani qui a croisé des enfants et les a salués. Thabit a rapporté qu’il avait marché avec Anas"
+"5666","Rapporté par Ibn Mas'ud رضي الله عنه : Le Messager d’Allah ﷺ m’a dit : « Le signe que tu es autorisé à entrer"
+"5667","Rapporté par ‘Ubaidullah : Ce hadith a été rapporté par ‘Ubaidullah avec la même chaîne de transmetteurs"
+"5668","Rapporté par Aïcha رضي الله عنها : Aïcha a rapporté que Saouda رضي الله عنها était sortie dans les champs pour faire ses besoins"
+"5671","Rapporté par Aïcha رضي الله عنها : Aïcha a rapporté que les épouses du Messager d’Allah ﷺ sortaient la nuit"
+"5672","Rapporté par Ibn Shihab : Ce hadith a été rapporté par Ibn Shihab avec la même chaîne de transmetteurs"
+"5673","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Faites attention"
+"5674","Rapporté par ‘Uqba ibn ‘Amir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Prenez garde à entrer dans les maisons et à vous retrouver seuls avec des femmes. » Un homme parmi les Ansar demanda : « Ô Messager d’Allah"
+"5675","Rapporté par Yazid ibn Abu Habib : Ce hadith a été rapporté par Yazid ibn Abu Habib avec la même chaîne de transmetteurs"
+"5676","Rapporté par Ibn Wahb : J’ai entendu Laith ibn Sa‘d dire : « Al-Hamw désigne le frère du mari ou un parent du mari"
+"5677","Rapporté par ‘Abdullah ibn ‘Amr ibn al-‘As رضي الله عنه : Des membres des Banû Hichâm sont entrés chez Asma’ bint ‘Umays رضي الله عنها alors qu’Abu Bakr رضي الله عنه est aussi entré (et elle était alors son épouse). Il vit cela"
+"5678","Rapporté par Anas رضي الله عنه : Lorsque le Messager d’Allah ﷺ était avec l’une de ses épouses"
+"5679","Rapporté par Safiyya bint Huyyay رضي الله عنها : Alors que le Messager d’Allah ﷺ faisait la retraite spirituelle (i‘tikaf)"
+"5680","Rapporté par Safiyya"
+"5681","Rapporté par Abu Waqid al-Laithi رضي الله عنه : Le Messager d’Allah ﷺ était assis dans la mosquée avec quelques personnes quand trois hommes sont venus vers lui. Deux d’entre eux s’avancèrent vers le Messager d’Allah ﷺ"
+"5682","Rapporté par Ishaq ibn ‘Abdullah ibn Talha : Ce hadith a été rapporté par Ishaq ibn ‘Abdullah ibn Talha avec la même chaîne de transmetteurs"
+"5683","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun d’entre vous ne doit faire lever quelqu’un d’autre de sa place dans une assemblée pour s’y asseoir à sa place. »"
+"5684","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Personne ne doit demander à un autre de se lever de sa place pour s’y asseoir"
+"5685","Rapporté par Ibn ‘Umar رضي الله عنه : Ce hadith a été rapporté par Ibn ‘Umar par une autre chaîne de transmetteurs"
+"5686","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Personne ne doit faire lever son frère pour s’asseoir à sa place. » (Il était habituel chez Ibn ‘Umar que"
+"5687","Rapporté par Ma‘mar : Ce hadith a été rapporté par Ma‘mar avec la même chaîne de transmetteurs"
+"5688","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun d’entre vous ne doit faire lever son frère le vendredi (pendant la prière en groupe) pour prendre sa place"
+"5689","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand l’un d’entre vous se lève"
+"5690","Rapporté par Umm Salama رضي الله عنها : Elle avait un eunuque comme esclave dans sa maison. Un jour"
+"5691","Rapporté par Aïcha رضي الله عنها : Un eunuque venait voir les épouses du Messager d’Allah ﷺ et elles ne voyaient pas d’inconvénient à ses visites"
+"5692","Rapporté par Asma’ bint Abu Bakr رضي الله عنها : Elle a dit qu’elle était mariée à Zubair رضي الله عنه"
+"5693","Rapporté par Asma’ رضي الله عنها : J’accomplissais les tâches ménagères de Zubair رضي الله عنه"
+"5694","Rapporté par Ibn Umar رضي الله عنه : « Lorsque vous êtes trois"
+"5695","Rapporté par Ibn Umar رضي الله عنه : Ce hadith a été rapporté par Ibn Umar رضي الله عنه à travers deux chaînes de transmission différentes"
+"5696","Rapporté par Abdullah رضي الله عنه : « Si vous êtes trois"
+"5697","Rapporté par Abdullah رضي الله عنه : « Si vous êtes trois"
+"5698","Rapporté par A’mash : Ce hadith a été rapporté par A’mash avec la même chaîne de transmission"
+"5699","Rapporté par Aïsha (l’épouse du Messager d’Allah ﷺ) رضي الله عنها : Lorsque le Messager d’Allah ﷺ est tombé malade"
+"5700","Rapporté par Abu Saïd رضي الله عنه : Jibril est venu voir le Messager d’Allah ﷺ et lui a dit : « Muhammad"
+"5701","Rapporté par Abu Huraira رضي الله عنه : Abu Huraira a rapporté de nombreux hadiths du Messager d’Allah ﷺ"
+"5702","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’influence du mauvais œil est réelle ; si quelque chose pouvait devancer le destin"
+"5703","Rapporté par Aïsha رضي الله عنها : Un Juif parmi les Banu Zuraiq"
+"5704","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a été touché par un sort"
+"5705","Rapporté par Anas رضي الله عنه : Une femme juive est venue voir le Messager d’Allah ﷺ avec du mouton empoisonné"
+"5706","Rapporté par Anas ibn Malik رضي الله عنه : Une femme juive a apporté de la viande empoisonnée et l’a servie au Messager d’Allah ﷺ"
+"5707","Rapporté par Aïsha رضي الله عنها : Quand l’un de nous tombait malade"
+"5708","Rapporté par Shu’ba : Ce hadith a été rapporté par Shu’ba à travers une autre chaîne de transmission (avec les mots) : « Il le frottait avec sa main. » Et dans la version rapportée par Thauri : « Il avait l’habitude de frotter avec sa main droite. » Ce hadith a été rapporté par une autre chaîne de transmission"
+"5709","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ disait"
+"5710","Rapporté par Aïsha رضي الله عنها : Quand le Messager d’Allah ﷺ rendait visite à un malade"
+"5711","Rapporté par Aïsha رضي الله عنها : Ce hadith a été rapporté par Aïsha رضي الله عنها à travers une autre chaîne de transmission"
+"5712","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ récitait cette invocation comme formule de protection : « Seigneur des gens"
+"5713","Rapporté par Hisham : Ce hadith a été rapporté par Hisham avec la même chaîne de transmission"
+"5714","Rapporté par Aïsha رضي الله عنها : Quand un membre de la famille tombait malade"
+"5715","Rapporté par Aïsha رضي الله عنها : Quand le Messager d’Allah ﷺ est tombé malade"
+"5716","Rapporté par Yanus et Ziyari : Ce hadith a été rapporté par d’autres chaînes de transmission"
+"5717","Rapporté par Abd al-Rahman ibn al-Aswad رضي الله عنه"
+"5718","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a permis à une famille des Ansar d’utiliser des formules de protection pour soigner les effets de la piqûre de scorpion"
+"5719","Rapporté par Aisha رضي الله عنها : Quand une personne tombait malade"
+"5720","Rapporté par Aisha رضي الله عنها : Le Messager d’Allah ﷺ recommandait d’utiliser des incantations pour guérir des effets du mauvais œil"
+"5721","Rapporté par Mis’ar : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5722","Rapporté par Aisha رضي الله عنها : Le Messager d’Allah ﷺ m’a ordonné d’utiliser des incantations pour soigner les effets du mauvais œil"
+"5723","Rapporté par Anas ibn Malik رضي الله عنه : À propos des incantations"
+"5724","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ lui a permis d’utiliser des incantations pour soigner les effets du mauvais œil"
+"5725","Rapporté par Umm Salama (l’épouse du Prophète) رضي الله عنها : Le Messager d’Allah ﷺ a vu une petite fille dans la maison d’Umm Salama qui avait des taches noires sur le visage. Il lui a dit que c’était à cause du mauvais œil et a demandé qu’on utilise une incantation pour qu’elle retrouve un visage sans tache"
+"5726","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a accordé à la famille de Hazm la permission d’utiliser des incantations contre le venin de serpent. Il a dit à Asma"
+"5727","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a accordé une permission spéciale à une tribu de ‘Amr pour utiliser des incantations contre le venin de serpent. Abu Zubair a dit : J’ai entendu Jabir ibn Abdullah raconter qu’un scorpion a piqué l’un d’entre nous pendant que nous étions assis avec le Messager d’Allah ﷺ. Quelqu’un a dit : « Ô Messager d’Allah"
+"5728","Rapporté par Ibn Juraij : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5729","Rapporté par Jabir ibn Abdullah رضي الله عنه : J’avais un oncle maternel qui soignait les piqûres de scorpion avec des incantations. Le Messager d’Allah ﷺ avait interdit les incantations. Il est allé le voir et a dit : « Ô Messager d’Allah"
+"5730","Rapporté par A’mash : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5731","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a interdit les incantations. Puis les gens de Amr ibn Hazm sont venus et ont dit : « Nous connaissons une incantation pour soigner la piqûre de scorpion"
+"5732","Rapporté par ‘Auf ibn Malik Ashja’i رضي الله عنه : Nous pratiquions des incantations à l’époque préislamique et nous avons demandé au Messager d’Allah ﷺ ce qu’il en pensait. Il répondit : « Faites-moi entendre vos incantations. » Puis il dit : « Il n’y a pas de mal à l’incantation tant qu’elle ne contient rien de polythéiste. »"
+"5733","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Des compagnons du Messager d’Allah ﷺ étaient en voyage et sont passés près d’une tribu arabe. Ils ont demandé l’hospitalité"
+"5734","Rapporté par Abu Bishr : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5735","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Nous sommes arrivés dans un endroit où une femme est venue nous voir et a dit : « Un scorpion a piqué le chef de la tribu. Y a-t-il parmi vous quelqu’un qui sait faire des incantations ? » L’un d’entre nous s’est levé pour l’accompagner. Nous ne savions pas qu’il savait faire des incantations"
+"5736","Rapporté par Hisham : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5737","Rapporté par Uthman ibn Abu al-‘As Al-Thaqafi رضي الله عنه : Il se plaignait d’une douleur dans son corps après être devenu musulman. Le Messager d’Allah ﷺ lui dit : « Pose ta main à l’endroit où tu ressens la douleur et dis “Bismillah” (au nom d’Allah) trois fois"
+"5738","Rapporté par Uthman ibn Abu al-‘As رضي الله عنه : Il est venu voir le Messager d’Allah ﷺ et a dit : « Ô Messager d’Allah"
+"5739","Rapporté par Uthman ibn Abu al-‘As رضي الله عنه : Il est venu voir le Messager d’Allah ﷺ et a raconté la même chose. Dans la version transmise par Salam ibn Nuh"
+"5740","Rapporté par Uthman ibn Abu al-‘As رضي الله عنه : Ce hadith a été transmis avec une légère différence de formulation"
+"5741","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Pour chaque maladie"
+"5742","Rapporté par Jabir رضي الله عنه : Il a rendu visite à Muqanna’ et lui a dit : « Je ne partirai pas tant que tu ne te seras pas fait faire une saignée"
+"5743","Rapporté par ‘Asim ibn ‘Umar ibn Qatada رضي الله عنه : ‘Abdullah et un autre membre de la famille sont venus chez nous et se sont plaints d’une blessure. Jabir demanda : « Qu’as-tu ? » Il répondit : « J’ai une blessure qui me fait très mal. » Jabir dit alors : « Garçon"
+"5744","Rapporté par Jabir رضي الله عنه : Umm Salama a demandé la permission au Messager d’Allah ﷺ pour se faire faire une saignée. Le Prophète ﷺ a alors demandé à Abu Taiba de lui faire la saignée. Jabir a ajouté : « Je pense qu’Abu Taiba était son frère de lait ou un jeune garçon qui n’avait pas encore atteint la puberté. »"
+"5745","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a envoyé un médecin auprès d’Ubayy ibn Ka'b. Le médecin lui a ouvert une veine puis l’a cautérisée"
+"5746","Rapporté par A'mash : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5747","Rapporté par Jabir ibn Abdillah رضي الله عنه : Le jour de la bataille d’Al-Ahzab"
+"5748","Rapporté par Jabir رضي الله عنه : Sa’d ibn Mu’adh a été blessé par une flèche à une veine. Le Messager d’Allah ﷺ a cautérisé la blessure avec une tige"
+"5749","Rapporté par Ibn 'Abbas رضي الله عنه : Le Messager d’Allah ﷺ s’est fait faire une saignée"
+"5750","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ s’est fait faire une saignée et n’a jamais refusé de payer celui qui la lui faisait"
+"5751","Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La fièvre vient de la chaleur intense (de l’Enfer)"
+"5752","Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La fièvre est due à la violence de la chaleur de l’Enfer"
+"5753","Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La fièvre vient de la chaleur intense du feu de l’Enfer"
+"5754","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La fièvre vient de la chaleur intense du feu de l’Enfer"
+"5755","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « La fièvre vient de la chaleur intense du feu de l’Enfer"
+"5756","Rapporté par Hisham : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5757","Rapporté par Asma’ رضي الله عنها : Une femme souffrant d’une forte fièvre a été amenée auprès d’elle. Elle a demandé qu’on apporte de l’eau"
+"5758","Rapporté par Hisham : Ce hadith a été rapporté avec la même chaîne de transmetteurs. Dans la version rapportée par Ibn Numair"
+"5759","Rapporté par Rafi’ ibn Khadij رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « La fièvre est due à la chaleur intense de l’Enfer"
+"5760","Rapporté par Rafi’ ibn Khadij رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « La fièvre est due à la chaleur intense de l’Enfer"
+"5761","Rapporté par Aïcha رضي الله عنها : Nous voulions donner un médicament au Messager d’Allah ﷺ pendant sa maladie"
+"5763","Rapporté par Umm Qais"
+"5765","Rapporté par Umm Qais"
+"5766","Rapporté par Abu Huraira رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « La graine de nigelle est un remède contre toutes les maladies"
+"5767","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté par d’autres chaînes"
+"5768","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie pour laquelle la graine de nigelle ne soit pas un remède. »"
+"5769","Rapporté par Aïcha"
+"5770","Rapporté par Abu Sa’id Khudri رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ et lui a dit que son frère avait la diarrhée. Le Prophète ﷺ a dit : « Donne-lui du miel. » Il lui en a donné"
+"5771","Rapporté par Abu Sa'id Khudri : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5772","Rapporté par ‘Amir b. Sa’d b. Abu Waqqas d’après son père : Il a demandé à Usama b. Zaid : « Qu’as-tu entendu du Messager d’Allah ﷺ au sujet de la peste ? » Usama répondit : « Le Messager d’Allah ﷺ a dit : “La peste est une calamité qui a été envoyée aux Bani Isra’il ou à ceux qui étaient avant vous. Donc"
+"5773","Rapporté par Usama b. Zaid : Le Messager d’Allah ﷺ a dit : « La peste est le signe d’un malheur par lequel Allah"
+"5774","Rapporté par Usama : Le Messager d’Allah ﷺ a dit : « La peste est une calamité qui a frappé ceux qui étaient avant vous"
+"5775","Rapporté par ‘Amir b. Sa’d : Un homme a demandé à Sa’d b. Abu Waqqas au sujet de la peste. Usama b. Zaid dit alors : « Je vais t’en informer. Le Messager d’Allah ﷺ a dit : “C’est une calamité ou une maladie qu’Allah a envoyée à un groupe des Bani Isra’il"
+"5776","Ce hadith a été rapporté par Ibn Juraij par une autre chaîne de transmetteurs"
+"5777","Rapporté par Usama b. Zaid : Le Messager d’Allah ﷺ a dit : « Cette calamité ou maladie était un châtiment infligé à certains peuples avant vous. Puis elle a été laissée sur la terre. Elle disparaît parfois et revient ensuite. Celui qui entend qu’elle est présente dans une région ne doit pas s’y rendre"
+"5778","Ce hadith a été rapporté par Zuhri avec une chaîne de transmetteurs différente"
+"5779","Rapporté par Shu’ba d’après Habib : Alors que nous étions à Médine"
+"5780","Ce hadith a été rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"5781","Ce hadith a été transmis par Sa’d b. Malik"
+"5782","Rapporté par Ibrahim b. Sa’d b. Abu Waqqas : Usama b. Zaid et Sa’d étaient assis ensemble et discutaient"
+"5783","Ce hadith a été transmis par Ibrahim b. Sa’d b. Malik d’après son père"
+"5784","Rapporté par ‘Abdullah b. ‘Abbas : Omar b. Khattab partit pour la Syrie. Lorsqu’il arriva à Sargh (une ville près du Hijaz sur la route de la Syrie)"
+"5785","Ce hadith a été rapporté par Ma’mar avec la même chaîne de transmetteurs"
+"5786","Ce hadith a été rapporté par ‘Abdullah b. Harith avec une légère variation dans les mots"
+"5787","Rapporté par ‘Amir b. Rabi’ah : Omar se rendit en Syrie et"
+"5788","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de contagion"
+"5789","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse"
+"5790","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse. » Un bédouin se leva alors. Le reste du hadith est le même"
+"5791","Rapporté par Abu Salama b. ‘Abd al-Rahman b. ‘Auf : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse. » Mais il est aussi rapporté qu’il a dit : « On ne doit pas amener un malade auprès d’une personne en bonne santé. » Abu Salama dit qu’Abu Huraira rapportait ces deux paroles du Messager d’Allah ﷺ"
+"5792","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse. » Et il a aussi rapporté : « Le malade ne doit pas être amené auprès du bien-portant. »"
+"5793","Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"5794","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse"
+"5795","Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse"
+"5796","Rapporté par Jabir رضي الله عنه : « Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse"
+"5797","Rapporté par Jabir ibn Abdullah رضي الله عنه : « Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse"
+"5798","Rapporté par Abu Huraira رضي الله عنه : « J’ai entendu le Messager d’Allah ﷺ dire : « Il n’y a pas de divination"
+"5799","Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"5800","Rapporté par Anas رضي الله عنه : « Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse"
+"5801","Rapporté par Anas ibn Malik رضي الله عنه : « Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse"
+"5802","Rapporté par Abu Huraira رضي الله عنه : « Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse"
+"5803","Rapporté par Abu Huraira رضي الله عنه : « Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse"
+"5804","Rapporté par Abdullah ibn Umar رضي الله عنه : « Le Messager d’Allah ﷺ a dit : « S’il y a du malheur"
+"5805","Rapporté par Abdullah ibn Umar رضي الله عنه : « Le Messager d’Allah ﷺ a dit : « Il n’y a pas de maladie contagieuse"
+"5806","Ce hadith a été rapporté par Zuhri avec d’autres chaînes de transmetteurs"
+"5807","Rapporté par Umar ibn Muhammad ibn Zaid"
+"5808","Ce hadith a été rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"5809","Rapporté par Abdullah ibn Umar رضي الله عنه"
+"5810","Rapporté par Sahl ibn Sa’d رضي الله عنه : « Le Messager d’Allah ﷺ a dit : « Si le malheur devait exister dans quelque chose"
+"5811","Ce hadith a été rapporté par Sahl ibn Sa’d رضي الله عنه avec une chaîne de transmetteurs différente"
+"5812","Rapporté par Jabir رضي الله عنه : « Le Messager d’Allah ﷺ a dit : « Si le malheur devait exister dans quelque chose"
+"5813","Rapporté par Mu’awiya ibn al-Hakam as-Sulami رضي الله عنه : « J’ai dit : « Ô Messager d’Allah"
+"5814","Ce hadith a été transmis par Zuhri avec une légère différence dans les mots"
+"5815","Ce hadith a été rapporté par Mu’awiya ibn Hakam as-Sulami رضي الله عنه par une autre chaîne de transmetteurs. Dans la version transmise par Yahya ibn Abu Kathir"
+"5816","Rapporté par Aïsha رضي الله عنها : « J’ai dit : « Ô Messager d’Allah"
+"5817","Rapporté par Urwa"
+"5818","Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"5819","Rapporté par Abdullah ibn Abbas رضي الله عنه : « Un homme des Ansar"
+"5820","Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"5821","Rapporté par Safiyya"
+"5822","Rapporté par ‘Amr ibn Sharid"
+"5823","Rapporté par ‘Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a ordonné de tuer le serpent qui a des bandes sur le corps"
+"5824","Rapporté par Hisham : Il a dit : Il faut tuer le serpent à queue courte et celui qui a des bandes sur le corps"
+"5825","Rapporté par Salim"
+"5828","Rapporté par Nafi‘ : Abu Lubaba a parlé à Ibn ‘Umar pour ouvrir une porte dans sa maison qui les rapprocherait de la mosquée"
+"5829","Rapporté par Nafi‘ : Ibn ‘Umar tuait tous les types de serpents jusqu’à ce qu’Abu Lubaba ibn ‘Abd al-Mundhir al-Badri lui rapporte que le Messager d’Allah ﷺ avait interdit de tuer les serpents des maisons"
+"5830","Rapporté par Nafi‘ : Il a entendu Abu Lubaba informer Ibn ‘Umar que le Messager d’Allah ﷺ avait interdit de tuer les serpents domestiques"
+"5831","Rapporté par ‘Abdullah : Abu Lubaba lui a rapporté que le Messager d’Allah ﷺ avait interdit de tuer les serpents trouvés dans la maison"
+"5832","Rapporté par Nafi‘ : Abu Lubaba ibn ‘Abd al-Mundhir al-Ansari vivait d’abord à Quba"
+"5833","Rapporté par Nafi‘"
+"5834","Rapporté par Nafi‘ : Abu Lubaba est passé devant Ibn ‘Umar"
+"5835","Rapporté par ‘Abdullah : Nous étions avec le Messager d’Allah ﷺ dans une grotte lorsqu’il a reçu la révélation de la sourate al-Mursalat (sourate 77 : « Par ceux qui sont envoyés pour répandre le bien »). Nous venions de l’entendre de sa bouche quand un serpent est apparu devant nous. Il a dit : « Tuez-le. » Nous avons essayé de le tuer"
+"5836","Rapporté par al-A‘mash avec la même chaîne de transmetteurs : Le contenu du hadith précédent est rapporté de la même manière"
+"5837","Rapporté par ‘Abdullah : Le Messager d’Allah ﷺ a ordonné à un Muhrim (personne en état de pèlerinage) de tuer le serpent à Mina"
+"5838","Rapporté par ‘Abdullah : Alors que nous étions avec le Messager d’Allah ﷺ dans la grotte"
+"5839","Rapporté par Abu as-Sa’ib"
+"5840","Rapporté par Asma’ bint ‘Ubaid"
+"5841","Rapporté par Abu Sa‘id al-Khudri : Le Messager d’Allah ﷺ a dit : « Il y a à Médine un groupe de djinns qui ont accepté l’islam. Si quelqu’un voit l’un de ces occupants"
+"5842","Rapporté par Umm Sharik رضي الله عنها : Le Messager d’Allah ﷺ lui a ordonné de tuer les geckos. Ce hadith a été rapporté par Ibn Abi Shayba avec une légère différence dans les mots"
+"5843","Rapporté par Umm Sharik رضي الله عنها : Elle a consulté le Messager d’Allah ﷺ au sujet du fait de tuer les geckos"
+"5844","Rapporté par ‘Amir ibn Sa‘d"
+"5845","Rapporté par ‘Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a qualifié le gecko de créature nuisible. Harmala a ajouté qu’elle n’a pas entendu qu’il avait ordonné de les tuer"
+"5846","Rapporté par Abu Hurayra : Le Messager d’Allah ﷺ a dit : « Celui qui tue un gecko d’un seul coup aura telle et telle récompense. Celui qui le tue au deuxième coup aura une récompense moindre que la première"
+"5847","Rapporté par Abu Hurayra"
+"5848","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui tue un gecko d’un seul coup obtient soixante-dix récompenses. »"
+"5849","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Une fourmi a mordu un Prophète parmi les premiers Prophètes"
+"5850","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un Messager parmi les Messagers d’Allah s’est installé sous un arbre"
+"5851","Rapporté par Abu Huraira رضي الله عنه : Abu Huraira a rapporté de nombreux hadiths"
+"5852","Rapporté par Nafi’ d’après ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Une femme a été punie parce qu’elle avait attaché un chat jusqu’à ce qu’il meure. À cause de cela"
+"5853","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5854","Rapporté par Ibn ‘Umar رضي الله عنه : Ce hadith a également été transmis par Ibn ‘Umar"
+"5855","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Une femme a été punie à cause d’un chat. Elle ne lui a ni donné à manger ni à boire"
+"5856","Rapporté par Hisham رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5857","Rapporté par Abu Huraira رضي الله عنه : Abu Huraira a rapporté ce hadith par une autre chaîne de transmetteurs"
+"5858","Rapporté par Hammam b. Manabbih رضي الله عنه : Hammam b. Manabbih a rapporté ce hadith d’après Abu Huraira"
+"5859","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un homme souffrait d’une grande soif pendant un voyage. Il trouva un puits"
+"5860","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Une prostituée a vu un chien tourner autour d’un puits un jour de grande chaleur"
+"5861","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un chien tournait autour d’un puits"

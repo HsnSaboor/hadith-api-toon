@@ -1,136 +1,240 @@
-hadiths[135]{hadithnumber,text}:
-2123,916.01
-2124,916.02
-2125,917
-2126,918.01
-2127,918.02
-2128,918.03
-2129,919
-2130,920.01
-2131,920.02
-2132,921.01
-2133,921.02
-2134,922
-2135,923.01
-2136,923.02
-2137,924
-2138,925
-2139,926.01
-2140,926.02
-2141,926.03
-2142,927.01
-2143,927.02
-2144,927.03
-2145,927.04
-2146,927.05
-2147,927.06
-2148,927.07
-2151,929.03
-2152,930
-2153,931
-2154,932.01
-2155,932.02
-2156,932.03
-2157,933.01
-2158,933.02
-2159,933.03
-2160,934
-2161,935.01
-2162,935.02
-2163,936.01
-2164,936.02
-2165,937
-2166,938.01
-2167,938.02
-2168,939.01
-2169,939.02
-2170,939.03
-2171,939.04
-2172,939.05
-2173,939.06
-2174,939.07
-2175,939.08
-2176,939.09
-2177,940.01
-2178,940.02
-2179,941.01
-2180,941.02
-2181,941.03
-2182,941.04
-2183,942.01
-2184,942.02
-2185,943
-2186,944.01
-2187,944.02
-2188,944.03
-2189,945.01
-2190,945.02
-2191,945.03
-2192,945.04
-2193,945.05
-2194,945.06
-2195,945.07
-2196,946.01
-2197,946.02
-2198,947
-2199,948
-2200,949.01
-2201,949.02
-2202,950.01
-2203,950.02
-2204,951.01
-2205,951.02
-2206,951.03
-2207,952.01
-2208,952.02
-2209,952.03
-2210,953
-2211,954.01
-2212,954.02
-2213,954.03
-2214,955
-2215,956
-2216,957
-2217,958.01
-2218,958.02
-2219,958.03
-2220,959.01
-2221,959.02
-2222,960.01
-2223,960.02
-2224,960.03
-2226,961.02
-2227,962.01
-2228,962.02
-2229,962.03
-2230,962.04
-2231,962.05
-2233,963.02
-2234,963.03
-2235,964.01
-2236,964.02
-2237,964.03
-2238,965.01
-2239,965.02
-2240,966
-2241,967
-2242,968
-2244,969.02
-2245,970.01
-2246,970.02
-2247,970.03
-2248,971.01
-2249,971.02
-2250,972.01
-2251,972.02
-2252,973.01
-2253,973.02
-2254,973.03
-2255,974.01
-2256,974.02
-2257,975
-2258,976.01
-2259,976.02
-2260,977.01
-2261,977.02
-2262,978
+hadiths[239]{hadithnumber,text}:
+"2010","Rapporté par ‘Adi ibn Hatim رضي الله عنه : Un homme fit un sermon devant le Messager d’Allah ﷺ en disant : « Celui qui obéit à Allah et à Son Messager suit le droit chemin"
+"2011","Rapporté par Safwan ibn Ya’la d’après son père رضي الله عنه : Il a entendu le Messager d’Allah ﷺ réciter des versets du Coran sur le minbar"
+"2012","Rapporté par ‘Amra"
+"2013","Rapporté par la fille de Haritha ibn Nu’man رضي الله عنها : Je n’ai mémorisé la sourate Qaf que de la bouche du Messager d’Allah ﷺ"
+"2014","Rapporté par Umm Bisham bint Haritha ibn Nu’man رضي الله عنها : Notre four et celui du Messager d’Allah ﷺ étaient le même pendant deux ans"
+"2015","Rapporté par Umm Hisham bint Haritha ibn Nu’man رضي الله عنها : Notre four et celui du Messager d’Allah ﷺ étaient le même pendant deux ans"
+"2016","Rapporté par Umara ibn Ruwaiba رضي الله عنه : Il a vu Bishr ibn Marwan lever les mains sur le minbar et il a dit : « Ô Allah"
+"2017","Rapporté par Husain ibn Abd al-Rahman رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs selon Husain ibn Abd al-Rahman"
+"2018","Rapporté par Jabir ibn Abdullah رضي الله عنه : Alors que le Messager d’Allah ﷺ prononçait le sermon du vendredi"
+"2019","Rapporté par Jabir رضي الله عنه : Ce hadith est rapporté par Jabir selon une autre chaîne"
+"2020","Rapporté par Jabir ibn Abdullah رضي الله عنه : Un homme entra dans la mosquée pendant que le Messager d’Allah ﷺ prononçait le sermon du vendredi. Le Prophète ﷺ lui demanda : « As-tu accompli la prière ? » Il répondit : « Non. » Le Prophète ﷺ dit alors : « Lève-toi et accomplis les deux rak‘a. » Selon Qutaiba"
+"2021","Rapporté par Jabir ibn Abdullah رضي الله عنه : Un homme entra dans la mosquée pendant que le Messager d’Allah ﷺ prononçait le sermon du vendredi"
+"2022","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ prononça le sermon et dit : « Lorsque l’un d’entre vous vient pour la prière du vendredi et que l’imam est déjà sorti (pour le sermon)"
+"2023","Rapporté par Jabir رضي الله عنه : Sulaik Ghatafani vint un vendredi alors que le Messager d’Allah ﷺ était assis sur le minbar. Sulaik s’assit sans avoir prié. Le Messager d’Allah ﷺ lui demanda : « As-tu accompli deux rak‘a ? » Il répondit : « Non. » Le Prophète ﷺ dit alors : « Lève-toi et accomplis-les. »"
+"2024","Rapporté par Jabir ibn Abdullah رضي الله عنه : Sulaik Ghatafani vint un vendredi pendant que le Messager d’Allah ﷺ prononçait le sermon. Sulaik s’assit. Le Prophète ﷺ lui dit : « Ô Sulaik"
+"2025","Rapporté par Abu Rifa’a رضي الله عنه : Je suis venu voir le Prophète ﷺ alors qu’il prononçait le sermon et j’ai dit : « Messager d’Allah"
+"2026","Rapporté par Ibn Abu Rafi’ رضي الله عنه : Marwan nomma Abu Huraira comme son adjoint à Médine et partit lui-même à La Mecque. Abu Huraira dirigea la prière du vendredi pour nous et"
+"2027","Rapporté par Abdullah ibn Abu Rafi’ رضي الله عنه : Ce hadith est rapporté avec la même chaîne"
+"2028","Rapporté par Nu’man ibn Bashir رضي الله عنه : Le Messager d’Allah ﷺ récitait lors des deux fêtes (‘Id) et à la prière du vendredi : « Glorifie le nom de ton Seigneur"
+"2029","Rapporté par Ibrahim ibn Muhammad ibn al-Muntashir رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"2030","Rapporté par Dahhak b. Qais : Il a écrit à Nu'man b. Bashir pour lui demander ce que le Messager d’Allah ﷺ récitait le vendredi en dehors de la sourate Al-Jumu'a. Il a répondu qu’il récitait : « Est-ce qu’il t’est parvenu… » (Sourate)"
+"2031","Rapporté par Ibn Abbas : Le Messager d’Allah ﷺ récitait"
+"2032","Rapporté par Sufyan avec la même chaîne de transmetteurs : Un hadith similaire a été rapporté"
+"2033","Rapporté par Mukhawwil d’après Sufyan : Ce hadith a été transmis par Mukhawwil selon l’autorité de Sufyan"
+"2034","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ récitait"
+"2035","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ récitait"
+"2036","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous accomplit la prière du vendredi (les deux rak'a obligatoires en groupe)"
+"2037","Rapporté par Suhail d’après Abu Huraira : Le Messager d’Allah ﷺ a dit : « Lorsque vous priez après les deux rak'a obligatoires du vendredi"
+"2038","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous accomplit la prière après le vendredi"
+"2039","Rapporté par Nafi' : Quand ‘Abdullah b. ‘Umar accomplissait la prière du vendredi puis rentrait chez lui"
+"2040","Rapporté par ‘Abdullah b. ‘Umar"
+"2041","Rapporté par Salim d’après son père : Le Messager d’Allah ﷺ accomplissait deux rak'a après la prière du vendredi"
+"2042","Rapporté par ‘Umar b. ‘Ata’ b. Abu Khuwar : Nafi‘ b. Jubair l’a envoyé auprès d’al-Sa’ib"
+"2043","Rapporté par ‘Umar b. Ata’ : Le même hadith est rapporté"
+"2044","Rapporté par Ibn ‘Abbas : J’ai participé à la prière de l’Aïd avec le Messager d’Allah ﷺ"
+"2047","Rapporté par Jabir b. ‘Abdullah : Le Messager d’Allah ﷺ s’est levé le jour de l’Aïd al-Fitr et a accompli la prière"
+"2048","Rapporté par Jabir b. ‘Abdullah : J’ai prié avec le Messager d’Allah ﷺ le jour de l’Aïd. Il a commencé par la prière avant le sermon"
+"2049","Rapporté par Ibn ‘Abbas et Jabir b. ‘Abdullah al-Ansari : Il n’y avait pas d’adhan lors de l’Aïd al-Fitr ni de l’Aïd al-Adha. (Ibn Juraij rapporte :) Je lui ai demandé plus tard à ce sujet. (‘Ata’"
+"2050","Rapporté par ‘Ata’ : Ibn ‘Abbas l’a envoyé auprès d’Ibn Zubair au début de son allégeance comme calife"
+"2051","Rapporté par Jabir b. Samura : J’ai prié avec le Messager d’Allah ﷺ lors de deux fêtes de l’Aïd"
+"2052","Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ"
+"2053","Rapporté par Abu Sa’id al-Khudri : Le Messager d’Allah ﷺ sortait le jour de l’Aïd al-Adha et de l’Aïd al-Fitr et commençait par la prière. Après avoir terminé la prière et salué"
+"2054","Rapporté par Umm ‘Atiyya : Le Messager d’Allah nous a ordonné de faire sortir les jeunes filles non mariées et les femmes à l’écart pour la prière de l’Aïd"
+"2055","Rapporté par Umm Atiyya : On nous a ordonné de sortir"
+"2056","Rapporté par Umm ‘Atiyya : Le Messager d’Allah ﷺ nous a ordonné de faire sortir"
+"2059","Rapporté par ‘Abdullah ibn ‘Umar رضي الله عنه : ‘Umar ibn Khattab رضي الله عنه demanda à Abu Waqid al-Laithi ce que le Messager d’Allah ﷺ récitait lors de l’Aïd al-Adha et de l’Aïd al-Fitr. Il répondit : « Il récitait : “Qaf. Par le Noble Coran” (Sourate 50) et “L’Heure approche et la lune s’est fendue” (Sourate 54). »"
+"2060","Rapporté par ‘Utba : Son père Waqid al-Laithi a dit : ‘Umar ibn Khattab رضي الله عنه m’a demandé ce que le Messager d’Allah ﷺ récitait le jour de l’Aïd. J’ai répondu : « Il récitait : “L’Heure approche” et “Qaf. Par le Noble Coran”. »"
+"2061","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Abu Bakr رضي الله عنه est venu me voir alors que j’avais avec moi deux jeunes filles parmi les Ansar qui chantaient ce que les Ansar avaient l’habitude de chanter lors de la bataille de Bu’ath. Ce n’étaient pas des chanteuses professionnelles. Abu Bakr رضي الله عنه dit alors : « Est-ce la flûte du diable dans la maison du Messager d’Allah ﷺ"
+"2062","Rapporté par Hisham avec la même chaîne de transmetteurs : Les mots sont : « Deux jeunes filles jouaient du tambourin. »"
+"2063","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Abu Bakr رضي الله عنه est venu chez moi alors que deux jeunes filles étaient avec moi pendant les jours de l’Aïd al-Adha. Elles chantaient et jouaient du tambourin"
+"2064","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Par Allah"
+"2065","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ est venu chez moi alors que deux jeunes filles chantaient le chant de la bataille de Bu’ath. Il s’est allongé sur le lit et a détourné son visage. Puis Abu Bakr رضي الله عنه est entré"
+"2066","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Des Abyssiniens sont venus et ont fait une démonstration de combat armé le jour de l’Aïd dans la mosquée. Le Messager d’Allah ﷺ m’a invitée à regarder. J’ai posé ma tête sur son épaule et j’ai regardé leur spectacle jusqu’à ce que ce soit moi qui décide d’arrêter de regarder"
+"2067","Rapporté par Hisham avec la même chaîne de transmetteurs"
+"2068","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Elle a envoyé un message aux joueurs (de ce combat armé) disant qu’elle aimerait les voir. Elle ajouta : Le Messager d’Allah ﷺ s’est levé et je me suis tenue à la porte derrière lui et j’ai regardé ce combat entre ses oreilles et ses épaules"
+"2069","Rapporté par Abu Huraira رضي الله عنه : Pendant que les Abyssiniens jouaient avec leurs armes en présence du Messager d’Allah ﷺ"
+"2070","Rapporté par ‘Abdullah ibn Zayd ibn Mazini رضي الله عنه : Le Messager d’Allah ﷺ se rendit à l’endroit de prière"
+"2071","Rapporté par Ibn Tamim d’après son oncle (‘Abdullah ibn Zayd رضي الله عنه) : Le Messager d’Allah ﷺ sortit vers le lieu de prière"
+"2072","Rapporté par ‘Abdullah ibn Zayd al-Ansari رضي الله عنه : Le Messager d’Allah ﷺ sortit vers le lieu de prière pour demander la pluie. Lorsqu’il voulut invoquer"
+"2073","Rapporté par ‘Abbad ibn Tamim Mazini : Il a entendu son oncle"
+"2074","Rapporté par Anas رضي الله عنه : J’ai vu le Messager d’Allah ﷺ lever les mains si haut pour demander la pluie que la blancheur de ses aisselles était visible"
+"2075","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ pria pour la pluie en dirigeant le dos de ses mains vers le ciel"
+"2076","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ n’avait pas l’habitude de lever les mains dans ses invocations"
+"2077","Rapporté par Anas ibn Malik رضي الله عنه à travers une autre chaîne de transmetteurs"
+"2078","Rapporté par Anas ibn Malik رضي الله عنه : Un homme entra dans la mosquée par la porte du côté de Dar al-Qada’ pendant la prière du vendredi"
+"2079","Rapporté par Anas ibn Malik رضي الله عنه : Les gens souffraient de la famine du vivant du Messager d’Allah ﷺ. Un jour"
+"2080","Rapporté par Anas ibn Malik رضي الله عنه : Alors que le Messager d’Allah ﷺ prononçait le sermon du vendredi"
+"2081","Rapporté par Anas رضي الله عنه avec cette précision : « Allah a rassemblé les nuages"
+"2082","Rapporté par ‘Ubaidullah ibn Anas ibn Malik : Il a entendu son père Anas ibn Malik رضي الله عنه dire : Un bédouin est venu voir le Messager d’Allah ﷺ un vendredi alors qu’il était sur le minbar ; la suite du hadith est la même"
+"2083","Rapporté par Anas ibn Malik رضي الله عنه : Nous étions avec le Messager d’Allah ﷺ lorsqu’il s’est mis à pleuvoir. Le Messager d’Allah ﷺ a alors découvert une partie de son vêtement pour que la pluie tombe dessus. Nous avons demandé : « Ô Messager d’Allah"
+"2084","Rapporté par ‘Ata’ b. Abi Rabah : J’ai entendu ‘Aïsha"
+"2085","Rapporté par ‘Ata’ b. Rabah d’après ‘Aïsha"
+"2086","Rapporté par ‘Aïsha"
+"2087","Rapporté par Ibn ‘Abbas : Le Messager d’Allah ﷺ a dit : « J’ai été aidé par le vent d’est"
+"2088","Rapporté par Ibn ‘Abbas à travers une autre chaîne de transmetteurs : Le Messager d’Allah ﷺ a dit : « J’ai été aidé par le vent d’est"
+"2089","Rapporté par ‘Aïsha رضي الله عنها : Il y eut une éclipse solaire à l’époque du Messager d’Allah ﷺ. Il se leva pour prier et resta debout très longtemps. Ensuite"
+"2090","Rapporté par Hisham b. ‘Urwa avec la même chaîne de transmetteurs"
+"2091","Rapporté par ‘Aïsha"
+"2092","Rapporté par ‘Aïsha رضي الله عنها : Il y eut une éclipse solaire du vivant du Messager d’Allah ﷺ et il envoya quelqu’un pour appeler à la prière en groupe. Les gens se rassemblèrent"
+"2094","Rapporté par ‘Aïsha رضي الله عنها : Le Messager d’Allah ﷺ récitait à voix haute pendant la prière de l’éclipse"
+"2095","Rapporté par Zuhri : Kathir b. Abbas racontait qu’Ibn ‘Abbas rapportait la prière du Messager d’Allah ﷺ lors de l’éclipse du soleil de la même manière que ce qui a été rapporté par ‘Urwa d’après ‘Aïsha"
+"2096","Rapporté par ‘Ata’ : J’ai entendu ‘Ubaid b. ‘Umair dire : Quelqu’un en qui j’ai confiance m’a rapporté (le narrateur pense qu’il s’agit de ‘Aïsha) que le soleil s’est éclipsé du vivant du Messager d’Allah ﷺ. Il se leva pour prier très longtemps"
+"2097","Rapporté par une autre chaîne de transmetteurs d’après ‘Aïsha : « Le Messager d’Allah ﷺ fit six inclinaisons et quatre prosternations en deux rak‘a. »"
+"2098","Rapporté par ‘Amra : Une femme juive est venue voir ‘Aïsha pour lui demander quelque chose et lui a dit : « Qu’Allah te protège du châtiment de la tombe ! » ‘Aïsha demanda au Messager d’Allah ﷺ : « Les gens seront-ils châtiés dans leurs tombes ? » Le Messager d’Allah ﷺ répondit : « Qu’Allah nous en protège ! » Un matin"
+"2099","Rapporté par Yahya b. Sa’id avec la même chaîne de transmetteurs"
+"2102","Rapporté par Jabir : Le soleil s’est éclipsé du vivant du Messager d’Allah ﷺ"
+"2103","Rapporté par Asma’ : Le soleil s’est éclipsé du vivant du Messager d’Allah ﷺ. Je suis allée voir ‘Aïsha qui était en train de prier. Je lui ai demandé : « Pourquoi les gens prient-ils ainsi ? » Elle m’a fait signe vers le ciel avec la tête. J’ai dit : « Est-ce un signe inhabituel ? » Elle a répondu : « Oui. » Le Messager d’Allah ﷺ se leva pour prier si longtemps que j’ai failli m’évanouir. J’ai pris une outre d’eau à côté de moi et j’ai commencé à verser de l’eau sur ma tête ou à m’asperger le visage. Le Messager d’Allah ﷺ termina alors la prière et le soleil redevint clair. Il s’adressa aux gens"
+"2106","Rapporté par Asma’ bint Abu Bakr : Un jour"
+"2107","Rapporté par Abu Juraij avec la même chaîne de transmetteurs"
+"2108","Rapporté par Asma’"
+"2109","Rapporté par Ibn ‘Abbas : Il y eut une éclipse solaire du vivant du Messager d’Allah ﷺ. Le Messager d’Allah ﷺ pria avec les gens. Il resta debout longtemps"
+"2110","Rapporté par Zaid b. Aslam avec la même chaîne de transmetteurs"
+"2111","Rapporté par Ibn ‘Abbas : Lors d’une éclipse solaire"
+"2112","Rapporté par Ibn ‘Abbas : Le Messager d’Allah ﷺ pria lors d’une éclipse solaire. Il récita (le Coran debout)"
+"2113","Rapporté par ‘Amr b. al-‘As : Quand le soleil s’est éclipsé du vivant du Messager d’Allah ﷺ"
+"2114","Rapporté par Abu Mas'ud al-Ansari : Le Messager d’Allah ﷺ a dit : « En vérité"
+"2115","Rapporté par Abu Mas'ud : Le Messager d’Allah ﷺ a dit : « En vérité"
+"2116","Rapporté par Isma'il"
+"2117","Rapporté par Abu Musa : Le soleil s’est éclipsé à l’époque du Messager d’Allah ﷺ. Il s’est levé"
+"2118","Rapporté par 'Abd al-Rahman b. Samura : Du vivant du Messager d’Allah ﷺ"
+"2119","Rapporté par 'Abd al-Rahman b. Samura"
+"2120","Rapporté par 'Abd al-Rahman b. Samura : Je tirais des flèches du vivant du Messager d’Allah ﷺ quand le soleil s’est éclipsé. Le reste du hadith est identique"
+"2121","Rapporté par 'Abdullah b. 'Umar : Le Messager d’Allah ﷺ a dit : « En vérité"
+"2122","Rapporté par Ziyad b. 'Ilaqa : J’ai entendu Mughira b. Shu'ba dire que le soleil s’est éclipsé du vivant du Messager d’Allah ﷺ"
+"2123","Rapporté par Abu Sa'id al-Khudri : Le Messager d’Allah ﷺ a dit : « Recommandez à ceux d’entre vous qui sont en train de mourir de dire : “Il n’y a de dieu qu’Allah.” »"
+"2124","Rapporté par Sulaiman b. Bilal avec la même chaîne de transmetteurs"
+"2125","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Recommandez à ceux d’entre vous qui sont en train de mourir de dire : “Il n’y a de dieu qu’Allah.” »"
+"2126","Rapporté par Umm Salama : Le Messager d’Allah ﷺ a dit : « Si un musulman qui subit une épreuve dit ce qu’Allah lui a ordonné : “Nous appartenons à Allah et c’est vers Lui que nous retournerons. Ô Allah"
+"2127","Rapporté par Umm Salama"
+"2128","Rapporté par Umm Salama"
+"2129","Rapporté par Umm Salama : Le Messager d’Allah ﷺ a dit : « Quand vous rendez visite à un malade ou à un mort"
+"2130","Rapporté par Umm Salama : Le Messager d’Allah ﷺ est venu voir Abu Salama alors qu’il était mourant. Ses yeux étaient grands ouverts. Le Prophète les a fermés"
+"2131","Rapporté par Khalid al Hadhdha’ avec la même chaîne de transmetteurs"
+"2132","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « N’as-tu pas vu"
+"2133","Ce hadith est rapporté par 'Ala’ avec la même chaîne de transmetteurs"
+"2134","Rapporté par Umm Salama : Quand Abu Salama est décédé"
+"2135","Rapporté par Usama b. Zaid : Alors que nous étions avec le Messager d’Allah ﷺ"
+"2136","Ce hadith a été rapporté par une autre chaîne de transmetteurs par 'Asim al-Ahwal"
+"2137","Rapporté par 'Abdullah b. 'Umar : Sa’d b. Ubada tomba malade. Le Messager d’Allah ﷺ est venu lui rendre visite"
+"2138","Rapporté par 'Abdullah b. 'Umar : Alors que nous étions assis avec le Messager d’Allah ﷺ"
+"2139","Rapporté par Anas b. Malik : « La patience doit être montrée dès le premier choc. »"
+"2140","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ est allé voir une femme qui pleurait la perte de son enfant et lui a dit : « Crains Allah et sois patiente. » Ne le reconnaissant pas"
+"2141","Rapporté par Anas b. Malik : Un hadith similaire est rapporté avec la même chaîne de transmetteurs"
+"2142","Rapporté par Abdullah b. Umar : Hafsa pleurait pour ‘Umar alors qu’il était sur le point de mourir. ‘Umar lui dit : « Calme-toi"
+"2143","Rapporté par Omar : Le Messager d’Allah ﷺ a dit : « Le défunt est puni dans sa tombe à cause des lamentations faites sur lui. »"
+"2144","Rapporté par Omar : Le même hadith est rapporté de la part de ‘Umar par une autre chaîne de transmetteurs"
+"2145","Rapporté par Ibn ‘Umar : Quand ‘Umar fut blessé"
+"2146","Rapporté par Abu Burda"
+"2147","Rapporté par Abu Musa : Lorsque ‘Umar fut blessé"
+"2148","Rapporté par Anas : Lorsque ‘Umar b. Khattab fut blessé"
+"2151","Rapporté par ‘Amr"
+"2152","Rapporté par Abdullah b. ‘Umar : Le Messager d’Allah ﷺ a dit : « Le défunt est puni à cause des lamentations des vivants. »"
+"2153","Rapporté par Hisham b. ‘Urwa"
+"2154","Rapporté par Hisham"
+"2155","Rapporté par Ibn ‘Urwa : Ce hadith a été rapporté avec la même chaîne de transmetteurs. Le récit d’Abu Usama est plus complet"
+"2156","Rapporté par ‘Amra"
+"2157","Rapporté par ‘Ali b. Rabi’a : La première personne sur laquelle on s’est lamenté à Koufa fut Qaraza b. Ka’b. Mughira b. Shu’ba a dit : « J’ai entendu le Messager d’Allah ﷺ dire : “Celui pour qui on se lamente sera puni à cause de ces lamentations le Jour du Jugement.” »"
+"2158","Rapporté par Mughira b. Shu’ba : Un hadith semblable a été rapporté par Mughira b. Shu’ba du Messager d’Allah ﷺ"
+"2159","Rapporté par le Messager d’Allah ﷺ : Ce hadith a été rapporté du Messager d’Allah ﷺ par une autre chaîne de transmetteurs"
+"2160","Rapporté par Abu Malik al-Ash’ari : Le Messager d’Allah ﷺ a dit : « Il y a chez certains de mon peuple quatre habitudes de l’époque préislamique qu’ils n’abandonnent pas : se vanter de leur rang"
+"2161","Rapporté par ‘Aïcha : Quand on a annoncé au Messager d’Allah ﷺ que Ibn Haritha"
+"2162","Rapporté par Yahya b. Sa’id : Ce hadith a été rapporté avec la même chaîne de transmetteurs que celui de ‘Abd al-‘Aziz"
+"2163","Rapporté par Umm ‘Atiyya : Le Messager d’Allah ﷺ a pris de nous"
+"2164","Rapporté par Umm ‘Atiyya : Le Messager d’Allah ﷺ a pris de nous l’engagement (y compris cette promesse) de ne pas nous lamenter. Seules cinq d’entre nous ont tenu cette promesse"
+"2165","Rapporté par Hafsa"
+"2166","Rapporté par Umm 'Atiyya رضي الله عنها : Nous avons reçu l’interdiction de suivre le cortège funèbre"
+"2167","Rapporté par Umm 'Atiyya رضي الله عنها : On nous a déconseillé de suivre le cortège funèbre"
+"2168","Rapporté par Umm 'Atiyya رضي الله عنها : Le Messager d’Allah ﷺ est venu vers nous pendant que nous lavions sa fille"
+"2169","Rapporté par Umm 'Atiyya رضي الله عنها : Nous avons tressé ses cheveux en trois nattes"
+"2170","Rapporté par Umm 'Atiyya رضي الله عنها : L’une des filles du Messager d’Allah ﷺ est décédée. Selon la version transmise par Ibn 'Ulayya : Le Messager d’Allah ﷺ est venu vers nous pendant que nous lavions sa fille. Dans la version de Malik : Le Messager d’Allah ﷺ est entré chez nous lorsque sa fille est décédée. Le reste du hadith est identique à celui rapporté par Yazid b. Zurai' d’après Ayyub"
+"2171","Rapporté par Hafsa رضي الله عنها d’après Umm 'Atiyya رضي الله عنها : Un hadith similaire a été rapporté"
+"2172","Rapporté par Umm 'Atiyya رضي الله عنها : Nous l’avons lavée un nombre impair de fois"
+"2173","Rapporté par Umm 'Atiyya رضي الله عنها : Lorsque Zaynab"
+"2174","Rapporté par Umm 'Atiyya رضي الله عنها : Le Messager d’Allah ﷺ est venu vers nous pendant que nous lavions l’une de ses filles. Il a dit : « Lavez-la un nombre impair de fois"
+"2175","Rapporté par Umm 'Atiyya رضي الله عنها : Lorsque le Messager d’Allah ﷺ lui a demandé de laver sa fille"
+"2176","Rapporté par Umm 'Atiyya رضي الله عنها : Le Messager d’Allah ﷺ a dit aux femmes"
+"2177","Rapporté par Khabbab al-Aratt رضي الله عنه : Nous avons émigré avec le Messager d’Allah ﷺ pour la cause d’Allah"
+"2178","Rapporté par 'Uyaina d’après A'mash رضي الله عنهما : Un hadith similaire a été rapporté avec la même chaîne de transmission"
+"2179","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a été enveloppé dans trois tissus de coton blanc du Yémen provenant de Sahul"
+"2180","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a été enveloppé dans un tissu du Yémen appartenant à 'Abdullah b. Abu Bakr ; puis il a été retiré"
+"2181","Rapporté par Hisham رضي الله عنه : Ce hadith est rapporté avec la même chaîne de transmission"
+"2182","Rapporté par Abu Salama رضي الله عنه : J’ai demandé à Aïsha رضي الله عنها dans combien de vêtements le Messager d’Allah ﷺ a été enveloppé. Elle a répondu : « Dans trois tissus de Sahul. »"
+"2183","Rapporté par Aïsha رضي الله عنها : Lorsque le Messager d’Allah ﷺ est décédé"
+"2184","Rapporté par Zuhri رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmission"
+"2185","Rapporté par Jabir b. 'Abdullah رضي الله عنه : Un jour"
+"2186","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Dépêchez-vous lors des funérailles ; si le défunt était une bonne personne"
+"2187","Rapporté par un autre transmetteur : Ce hadith a été rapporté par une autre chaîne de transmission"
+"2188","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Dépêchez-vous lors des funérailles ; si le défunt était une bonne personne"
+"2189","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui assiste à la prière funéraire pour un défunt aura la récompense d’un qirat"
+"2190","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs jusqu’aux mots : « deux grandes montagnes. » Il n’est pas fait mention de la suite ; et dans la version transmise par 'Abd al-A'la"
+"2191","Rapporté par Abu Huraira رضي الله عنه par une autre chaîne de transmetteurs : « Celui qui a suivi le cortège funéraire jusqu’à ce que le défunt soit enterré. »"
+"2192","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui prie pour un défunt sans suivre le cortège funéraire aura la récompense d’un qirat"
+"2193","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui prie pour un défunt reçoit un qirat ; et celui qui suit le cortège jusqu’à ce qu’il soit mis dans la tombe reçoit deux qirats. » J’ai demandé à Abu Huraira : « Qu’est-ce qu’un qirat ? » Il répondit : « C’est comme la montagne d’Uhud. »"
+"2194","Rapporté par Nafi’ : On dit à Ibn ‘Umar que Abu Huraira avait rapporté avoir entendu le Messager d’Allah ﷺ dire : « Celui qui suit le cortège funéraire aura la récompense d’un qirat. » Ibn ‘Umar dit : « Abu Huraira l’a trop souvent rapporté. » Il envoya donc quelqu’un demander à ‘Aïsha de vérifier ce fait. Elle confirma le témoignage d’Abu Huraira. Ibn ‘Umar dit alors : « Nous avons manqué beaucoup de qirats. »"
+"2195","Rapporté par Dawud b. ‘Amir b. Sa’d b. Abu Waqqas"
+"2196","Rapporté par Thauban"
+"2197","Ce hadith a été rapporté par Qatada avec la même chaîne de transmetteurs. Et dans le hadith transmis par Sa’id et Hisham"
+"2198","Rapporté par ‘Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Si un groupe de cent musulmans prie pour un défunt"
+"2199","Rapporté par ‘Abdullah b. ‘Abbas رضي الله عنه : Son fils mourut à Qudaid ou ‘Usfan. Il demanda à Kuraib de voir combien de personnes étaient présentes pour ses funérailles. Kuraib revint l’informer du nombre de personnes rassemblées. Ibn ‘Abbas demanda : « Penses-tu qu’ils sont quarante ? » Kuraib répondit : « Oui. » Ibn ‘Abbas leur dit alors : « Sortez le corps"
+"2200","Rapporté par Anas b. Malik رضي الله عنه : Un cortège funéraire passa et il fut loué en de bons termes. Le Messager d’Allah ﷺ dit alors : « C’est confirmé"
+"2201","Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2202","Rapporté par Qatada b. Rib’i رضي الله عنه : Le Messager d’Allah ﷺ disait"
+"2203","Dans le hadith transmis par Yahya b. Sa’id d’après Qatada"
+"2204","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ annonça aux gens la mort du Négus le jour même de son décès. Il les fit sortir vers le lieu de prière et dirigea la prière funéraire avec quatre takbirs"
+"2205","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ nous annonça la mort du Négus"
+"2206","Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2207","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a prié pour Ashama"
+"2208","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aujourd’hui"
+"2209","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un de vos frères est décédé"
+"2210","Rapporté par ‘Imran b. Husain رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un de vos frères est décédé ; levez-vous et priez pour lui"
+"2211","Rapporté par Sha’bi رضي الله عنه : Le Messager d’Allah ﷺ a prié sur une tombe après que le défunt ait été enterré"
+"2212","Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2213","Le hadith tel que rapporté par Shaibani a été transmis par une autre chaîne de transmetteurs"
+"2214","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a prié sur une tombe"
+"2215","Rapporté par Abu Huraira رضي الله عنه : Une femme à la peau foncée avait l’habitude de balayer la mosquée. Le Messager d’Allah ﷺ remarqua son absence et demanda après elle. Les gens lui dirent qu’elle était décédée. Il demanda pourquoi on ne l’en avait pas informé"
+"2216","Rapporté par 'Abd al-Rahman b. Abu Laila : Zaid récitait quatre takbirs lors de nos funérailles"
+"2217","Rapporté par 'Amir Ibn Rabi'a رضي الله عنه : Le Prophète ﷺ a dit : « Chaque fois que vous voyez un cortège funéraire"
+"2218","Rapporté par 'Amir ibn Rabi'a رضي الله عنه : Le Prophète ﷺ a dit : « Si l’un d’entre vous croise un cortège funéraire et n’a pas l’intention de l’accompagner"
+"2219","Rapporté par Ibn Juraij : Le Prophète ﷺ a dit : « Si l’un d’entre vous voit un cercueil"
+"2220","Rapporté par Abu Sa'id al-Khudri : Le Prophète ﷺ a dit : « Quand vous suivez un cercueil"
+"2221","Rapporté par Abu Sa'id al-Khudri : Le Prophète ﷺ a dit : « Chaque fois que vous croisez un cercueil"
+"2222","Rapporté par Jabir ibn 'Abdullah : Un cercueil est passé et le Prophète ﷺ s’est levé"
+"2223","Rapporté par Ibn Juraij : Abu Zubair a entendu Jabir dire que le Prophète ﷺ est resté debout pour un cercueil jusqu’à ce qu’il disparaisse"
+"2224","Rapporté par Abu Zubair : Il a entendu Jabir dire que le Prophète ﷺ et ses Compagnons sont restés debout pour le cercueil d’un Juif jusqu’à ce qu’il disparaisse de leur vue"
+"2226","Rapporté par Ibn Abu Laila : Alors que Qais b. Sa'd et Sahl b. Hunaif étaient à Qadisiyya"
+"2227","Rapporté par Waqid : Nafi' b. Jubair m’a vu alors que nous étions debout pour un cercueil"
+"2228","Rapporté par Mas'ud b. al-Hakam al-Ansari : Il a informé Nafi' qu’il avait entendu Hadrat 'Ali رضي الله عنه"
+"2229","Ce hadith a été rapporté par Yahya b. Sa'id avec la même chaîne de transmetteurs"
+"2230","Rapporté par Muhammad b. Munkadir : Il a dit : J’ai entendu de Mas'ud b. al-Hakam"
+"2231","Ce hadith a été rapporté par Shu'ba avec la même chaîne de transmetteurs"
+"2233","Rapporté par Jubair b. Nufair : J’ai entendu 'Auf b. Malik dire que le Prophète ﷺ a fait la prière sur le corps d’un défunt"
+"2234","Un hadith similaire a été rapporté par une autre chaîne de transmetteurs"
+"2235","Rapporté par Samura b. Jundub : J’ai prié derrière le Messager d’Allah ﷺ et il a prié pour une femme décédée en accouchant. Il s’est placé devant sa taille"
+"2236","Ce hadith a été rapporté par Husain avec la même chaîne de transmetteurs"
+"2237","Rapporté par Samura b. Jundub : J’étais un jeune garçon à l’époque du Prophète ﷺ et j’ai retenu ce que j’ai appris de lui"
+"2238","Rapporté par Jabir ibn Samura : Un cheval sans selle a été amené au Prophète ﷺ et il est monté dessus après avoir accompli la prière funéraire d’Ibn Dahdah"
+"2239","Rapporté par Jabir ibn Samura : Le Prophète ﷺ a accompli la prière funéraire sur Ibn Dahdah ; puis on lui a amené un cheval sans selle et quelqu’un l’a attaché"
+"2240","Rapporté par 'Amir b. Sa'd b. Abu Waqqas : Sa'd b. Abu Waqqas a dit pendant la maladie dont il est décédé : « Faites-moi une niche sur le côté de la tombe et placez des briques au-dessus de moi"
+"2241","Rapporté par Ibn 'Abbas : Un morceau de tissu rouge a été placé dans la tombe du Messager d’Allah ﷺ"
+"2242","Rapporté par Thumama b. Shafayy : Lorsque nous étions avec Fadala b. 'Ubaid dans le pays des Romains"
+"2244","Rapporté par Abu’l-Hayyaj al-Asadi : Ali ibn Abi Talib رضي الله عنه lui a dit : « Ne veux-tu pas que je t’envoie accomplir la même mission que celle pour laquelle le Messager d’Allah ﷺ m’a envoyé ? Ne laisse aucune image sans l’effacer"
+"2245","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a interdit de recouvrir les tombes de plâtre"
+"2246","Rapporté par Jabir ibn Abdullah رضي الله عنه : Un hadith similaire a été transmis de sa part"
+"2247","Rapporté par Jabir رضي الله عنه : Il lui a été interdit de recouvrir les tombes de plâtre"
+"2248","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il vaudrait mieux que l’un d’entre vous s’assoie sur des braises ardentes qui brûleraient ses vêtements et toucheraient sa peau"
+"2249","Rapporté par Suhail رضي الله عنه : Un hadith semblable a été rapporté avec la même chaîne de transmetteurs"
+"2250","Rapporté par Abu Marthad al-Ghanawi رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne vous asseyez pas sur les tombes et ne priez pas en direction de celles-ci. »"
+"2251","Rapporté par Abu Marthad al-Ghanawi رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne priez pas en direction des tombes et ne vous asseyez pas dessus. »"
+"2252","Rapporté par ‘Abbad ibn ‘Abdullah ibn Zubair رضي الله عنه : Aïsha رضي الله عنها a ordonné qu’on apporte la civière de Sa’d ibn Abi Waqqas à la mosquée afin qu’elle puisse prier pour lui. Les gens ont désapprouvé son acte. Elle a dit : « Comme les gens oublient vite ! Le Messager d’Allah ﷺ n’a-t-il pas accompli la prière funéraire de Suhail ibn al-Baida’ dans une mosquée ? »"
+"2253","Rapporté par ‘Abbad ibn ‘Abdullah ibn Zubair رضي الله عنه d’après ‘Aïsha رضي الله عنها : Lorsque Sa’d ibn Abi Waqqas est décédé"
+"2254","Rapporté par Abu Salama ibn ‘Abd al-Rahman رضي الله عنه d’après ‘Aïsha رضي الله عنها : Quand Sa’d ibn Abi Waqqas est décédé"
+"2255","Rapporté par Aïcha رضي الله عنها : Chaque fois que c’était le tour du Messager d’Allah ﷺ de passer la nuit chez moi"
+"2256","Rapporté par Muhammad ibn Qais رضي الله عنه : Il dit aux gens : « Voulez-vous que je vous raconte un hadith du Prophète ﷺ de ma part et de celle de ma mère ? » Nous pensions qu’il parlait de sa propre mère. Puis il rapporta que c’était ‘Aïsha رضي الله عنها qui avait raconté ceci : « Voulez-vous que je vous parle de moi et du Messager d’Allah ﷺ ? » Nous avons dit : « Oui. » Elle raconta : « Quand c’était mon tour pour que le Messager d’Allah ﷺ passe la nuit chez moi"
+"2257","Rapporté par Sulaiman ibn Buraida رضي الله عنه d’après son père : Le Messager d’Allah ﷺ leur enseignait"
+"2258","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « J’ai demandé la permission de demander pardon pour ma mère"
+"2259","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a visité la tombe de sa mère et il a pleuré"
+"2260","Rapporté par Ibn Buraida رضي الله عنه d’après son père : Le Messager d’Allah ﷺ a dit : « Je vous avais interdit de visiter les tombes"
+"2261","Rapporté par un autre transmetteur : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"2262","Rapporté par Jabir ibn Samura رضي الله عنه : Le corps d’une personne qui s’était suicidée avec une flèche à large pointe a été amené devant le Messager d’Allah ﷺ"

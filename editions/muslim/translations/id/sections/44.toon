@@ -1,325 +1,338 @@
-hadiths[324]{hadithnumber,text}:
-6169,2381
-6170,2382.01
-6171,2382.02
-6172,2383.01
-6173,2383.02
-6174,2383.03
-6175,2383.04
-6176,2383.05
-6177,2384
-6178,2385
-6181,2387
-6182,1028.02
-6183,2388.01
-6184,2388.02
-6185,2388.03
-6186,2388.04
-6187,2389.01
-6188,2389.02
-6189,2390
-6190,2391.01
-6191,2391.02
-6192,2392.01
-6193,2392.02
-6194,2392.03
-6195,2392.04
-6196,2393.01
-6197,2393.02
-6198,2394.01
-6199,2394.02
-6202,2396
-6203,2397
-6204,2398.01
-6205,2398.02
-6206,2399
-6207,2400.01
-6208,2400.02
-6209,2401
-6210,2402.01
-6211,2402.02
-6212,2403.01
-6213,2403.02
-6214,2403.03
-6215,2403.04
-6216,2403.05
-6217,2404.01
-6218,2404.02
-6219,2404.03
-6220,2404.04
-6221,2404.05
-6222,2405
-6223,2406
-6224,2407
-6225,2408.01
-6226,2408.02
-6227,2408.03
-6228,2408.04
-6229,2409
-6230,2410.01
-6231,2410.02
-6232,2410.03
-6233,2411.01
-6234,2411.02
-6235,2412.01
-6236,2412.02
-6237,2412.03
-6238,1748.03
-6239,1748.04
-6240,2413.01
-6241,2413.02
-6242,2414
-6243,2415.01
-6244,2415.02
-6245,2416.01
-6246,2416.02
-6247,2417.01
-6248,2417.02
-6249,2418.01
-6250,2418.02
-6251,2418.03
-6252,2419.01
-6253,2419.02
-6254,2420.01
-6255,2420.02
-6256,2421.01
-6257,2421.02
-6258,2422.01
-6259,2422.02
-6260,2423
-6261,2424
-6262,2425.01
-6263,2425.02
-6264,2426.01
-6265,2426.02
-6266,2427.01
-6267,2427.02
-6268,2428.01
-6269,2428.02
-6270,2429
-6271,2430
-6272,2431
-6273,2432
-6274,2433.01
-6275,2433.02
-6276,2434
-6277,2435.01
-6278,2435.02
-6279,2435.03
-6280,2435.04
-6281,2436
-6282,2437
-6283,2438.01
-6284,2438.02
-6285,2439.01
-6286,2439.02
-6287,2440.01
-6288,2440.02
-6289,2441
-6290,2442.01
-6291,2442.02
-6292,2443
-6293,2444.01
-6294,2444.02
-6295,2444.03
-6296,2444.04
-6297,2444.05
-6298,2445
-6299,2446.01
-6300,2446.02
-6301,2447.01
-6302,2447.02
-6303,2447.03
-6304,2447.04
-6305,2448.01
-6306,2448.02
-6307,2449.01
-6308,2449.02
-6309,2449.03
-6310,2449.04
-6311,2449.05
-6312,2450.01
-6313,2450.02
-6314,2450.03
-6315,2451
-6316,2452
-6317,2453
-6318,2454
-6319,2455
-6320,2456
-6321,2457
-6322,2144.04
-6323,2144.05
-6324,2458
-6325,2459
-6326,2460.01
-6327,2460.02
-6328,2460.03
-6329,2461.01
-6330,2461.02
-6331,2461.03
-6332,2462
-6333,2463
-6334,2464.01
-6335,2464.02
-6336,2464.03
-6337,2464.04
-6338,2464.05
-6339,2464.06
-6340,2465.01
-6341,2465.02
-6342,799.04
-6343,799.05
-6344,799.06
-6345,2466.01
-6346,2466.02
-6347,2467
-6348,2468.01
-6349,2468.02
-6350,2468.03
-6351,2469.01
-6352,2469.02
-6353,2470
-6354,2471.01
-6355,2471.02
-6356,2471.03
-6357,2471.04
-6358,2472
-6359,2473.01
-6360,2473.02
-6361,2473.03
-6362,2474
-6363,2475.01
-6364,2475.02
-6365,2476.01
-6366,2476.02
-6367,2476.03
-6368,2477
-6369,2478
-6370,2479.01
-6371,2479.02
-6372,2480.01
-6373,2480.02
-6374,2480.03
-6375,2481.01
-6376,2481.02
-6377,2481.03
-6378,2482.01
-6379,2482.02
-6380,2383
-6381,2484.01
-6382,2484.02
-6383,2484.03
-6384,2485.01
-6385,2485.02
-6386,2485.03
-6387,2486.01
-6388,2486.02
-6389,2487.01
-6390,2487.02
-6391,2488.01
-6392,2488.02
-6393,2489.01
-6394,2489.02
-6395,2490
-6396,2491
-6397,2492.01
-6398,2492.02
-6399,2493
-6400,2492.03
-6401,2494.01
-6402,2494.02
-6403,2495
-6404,2496
-6405,2497
-6406,2498
-6407,2499
-6408,2500
-6409,2501
-6411,2503
-6412,2504
-6413,2505
-6416,2507
-6417,2508
-6418,2509.01
-6419,2509.02
-6420,2510
-6421,2511.01
-6422,2511.02
-6423,2511.03
-6424,2511.04
-6425,2511.05
-6426,2511.06
-6427,2512
-6428,2513
-6429,2514.01
-6430,2514.02
-6431,2514.03
-6432,2515
-6433,2516
-6434,2517
-6435,2518.01
-6436,2518.02
-6437,2518.03
-6438,2519
-6439,2520.01
-6440,2520.02
-6441,2521.01
-6442,2521.02
-6443,2521.03
-6444,2522.01
-6445,2522.02
-6446,2522.03
-6447,2522.04
-6448,2522.05
-6449,2523
-6450,2524
-6451,2525.01
-6452,2525.02
-6453,2525.03
-6454,2526.01
-6455,2526.02
-6456,2527.01
-6457,2527.02
-6458,2527.03
-6459,2527.04
-6460,2527.05
-6461,2527.06
-6462,2528
-6463,2529.01
-6464,2529.02
-6465,2530
-6466,2531
-6467,2532.01
-6468,2532.02
-6469,2533.01
-6470,2533.02
-6471,2533.03
-6472,2533.04
-6473,2534.01
-6474,2534.02
-6475,2535.01
-6476,2535.02
-6477,2535.03
-6478,2536
-6479,2537.01
-6480,2537.02
-6481,2538.01
-6482,2538.02
-6483,2538.03
-6484,2538.04
-6485,2539
-6486,2538.05
-6487,2540
-6488,2541.01
-6489,2541.02
-6490,2542.01
-6491,2542.02
-6492,2542.03
-6493,2543.01
-6494,2543.02
-6495,2544
-6496,2545
-6497,2546.01
-6498,2546.02
-6499,2547
+hadiths[337]{hadithnumber,text}:
+"6013","Telah menceritakannya kepada kami [Ahmad bin Hanbal] dan [Zuhair bin Harb] seluruhnya dari [Ismail] lafazh ini milik Ahmad keduanya berkata; Telah menceritakan kepada kami [Ismail bin Ibrahim] Telah menceritakan kepada kami [Abdul Aziz] dari [Anas] dia berkata; 'Tatkala Rasulullah shallallahu 'alaihi wasallam sampai di Madinah"
+"6014","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada kami [Zakaria] Telah menceritakan kepadaku [Sa'id] yaitu Ibnu Abu Burdah dari [Anas] dia berkata; ""Aku melayani Rasulullah shallallahu 'alaihi wasallam selama sembilan tahun"
+"6015","Telah menceritakan kepadaku [Abu Ma'an Ar Raqasy Zaid bin Yazid] Telah mengabarkan kepada kami [Umar bin Yunus] Telah menceritakan kepada kami [Ikrimah] yaitu Ibnu 'Ammar dia berkata; [Ishaq] berkata; [Anas] berkata; ""Rasulullah shallallahu 'alaihi wasallam adalah orang yang paling indah budi pekertinya. Pada suatu hari beliau menyuruhku untuk suatu keperluan. Demi Allah"
+"6016","Telah menceritakan kepadaku [Abu Ma'an Ar Raqasy Zaid bin Yazid] Telah mengabarkan kepada kami [Umar bin Yunus] Telah menceritakan kepada kami [Ikrimah] yaitu Ibnu 'Ammar dia berkata; [Ishaq] berkata; [Anas] berkata; ""Rasulullah shallallahu 'alaihi wasallam adalah orang yang paling indah budi pekertinya. Pada suatu hari beliau menyuruhku untuk suatu keperluan. Demi Allah"
+"6017","Dan telah menceritakan kepada kami [Syaiban bin Farukh] dan [Abu Rabi'] keduanya berkata; Telah menceritakan kepada kami [Abdul Warits] dari [Abu At Tayyah] dari [Anas bin Malik] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam adalah orang yang paling baik akhlaknya"
+"6019","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] keduanya berkata; Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Al Munkadir] dia mendengar [Jabir bin 'Abdullah radliallahu 'anhu] berkata; ""Apabila Rasulullah shallallahu 'alaihi wasallam dimintai sesuatu"
+"6020","Dan telah menceritakan kepada kami ['Ashim bin NAdhir At Taimi] Telah menceritakan kepada kami [Khalid] yaitu Ibnu Al Harits Telah menceritakan kepada kami [Humaid] dari [Musa bin Anas] dari [bapaknya] radliallahu 'anhu dia berkata; ""Tidak pernah Rasulullah shallallahu 'alaihi wasallam dimintai sesuatu karena Islam"
+"6021","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Yazid bin Harun] dari [Hammad bin Salamah] dari [Tsabit] dari [Anas radliallahu 'anhu] katanya: ""Ada seorang laki-laki meminta seekor kambing kepada Nabi shallallahu 'alaihi wasallam di antara dua bukit. Kemudian tanpa ragu-ragu"
+"6022","Dan telah menceritakan kepadaku [Abu At Thahir Ahmad bin Amru bin Sarh] Telah mengabarkan kepada kami [Abdullah bin Wahab] Telah mengabarkan kepada ku [Yunus] dari [Ibnu Syihab] dia berkata; ""Setelah Rasulullah shallallahu 'alaihi wasallam berhasil menaklukkan kota Mekkah"
+"6023","Telah menceritakan kepada kami [Amru An Naqid] Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Al Munkadir] bahwa dia mendengar [Jabir bin Abdullah] Demikian juga diriwayatkan dari jalur lainnya"
+"6025","Telah menceritakan kepada kami [Haddab bin Khalid] dan [Syaiban bin Farrukh] keduanya dari [Sulaiman] dan lafazh ini milik Syaiban; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah]; Telah menceritakan kepada kami [Tsabit Al Bunani] dari [Anas bin Malik] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah bersabda: ""Pada suatu malam anakku lahir"
+"6026","Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Abdullah bin Numair] lafazh ini milik Zuhair keduanya berkata; Telah menceritakan kepada kami [Ismail] yaitu Ibnu 'Ulayyah dari [Ayyub] dari [Amru bin Sa'id] dari [Anas bin Malik] dia berkata; ""Tidak pernah kulihat orang yang lebih penyayang terhadap keluarganya melebihi Rasulullah shallallahu 'alaihi wasallam. Anas berkata; Ibrahim (anak beliau) disusukan pada suatu keluarga di sebuah kampung di perbukitan Madinah. Pada suatu hari beliau pergi menengoknya"
+"6027","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] dan [Ibnu Numair] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; 'Sekelompok orang dari bangsa Arab dusun datang menemui Rasulullah shallallahu 'alaihi wasallam"
+"6028","Dan telah menceritakan kepadaku ['Amru An Naqid] dan [Ibnu Abu 'Umar] seluruhnya dari [Sufyan]. ['Amru] berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] Bahwa ""Aqra' bin Habis pernah melihat Rasulullah shallallahu 'alaihi wasallam mencium cucunya Hasan. Kata Aqra'; ""Aku punya anak sepuluh orang. Namun tidak satupun di antara mereka yang pernah kucium."" Maka Rasulullah shallallahu 'alaihi wasallam bersabda: ""Siapa yang tidak penyayang"
+"6030","Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] keduanya dari [Jarir]; Demikian juga diriwayatkan dari jalur lainnya"
+"6032","Telah menceritakan kepadaku ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia mendengar ['Abdullah bin Abu 'Utbah] bercerita dari [Abu Sa'id Al Khudri]; Demikian juga diriwayatkan dari jalur lainnya"
+"6033","Telah menceritakan kepada kami [Zuhair bin Harb] dan ['Utsman bin Abu Syaibah] keduanya berkata; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Syaqiq] dari [Masruq] dia berkata; 'Kami menemui [Abdullah bin Amru] ketika Mu'awiyah datang ke Kufah"
+"6035","Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Khaitsamah] dari [Simak bin Harb] dia berkata; 'Aku bertanya kepada [Jabir bin Samurah]; ""Pernahkah kamu duduk bersama Rasulullah shallallahu 'alaihi wasallam?"" Jawab Jabir; ""Bahkan sering. Beliau biasanya belum berdiri dari tempat shalat (di mana beliau shalat) shubuh"
+"6036","Telah menceritakan kepada kami [Abu Ar Rabi' Al 'Ataki]"
+"6037","Dan telah menceritakan kepadaku ['Amru An Naqid] dan [Zuhair bin Harb] keduanya dari [Ibnu 'Ulayyah]; [Zuhair] berkata; Telah menceritakan kepada kami [Isma'il]; Telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam menemui istri-istri beliau bersama pengawalnya yang bernama Anjasya. Beliau berkata; 'Hati-hati wahai Anjasyah"
+"6039","Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Yazid bin Zura'i] dari [Sulaiman At Taimi] dari [Anas bin Malik]; Demikian juga diriwayatkan dari jalur lainnya"
+"6040","Dan telah menceritakan kepada kami [Ibnu Al Mutsanna]; Telah menceritakan kepada kami ['Abdush Shamad]; Telah menceritakan kepadaku [Hammam]; Telah menceritakan kepada kami [Qatadah] dari [Anas] dia berkata; Rasulullah shallallahu 'alaihi wasallam memiliki seorang pemandu yang bagus suaranya. Rasulullah shallallahu 'alaihi wasallam berkata kepadanya; ""Pelan-pelan wahai Anjasyah"
+"6042","Telah menceritakan kepada kami [Mujahid bin Musa] dan [Abu Bakr bin An Nadhr] dan [Harun bin 'Abdullah] seluruhnya dari [Abu An Nadhr] dia berkata; [Abu Bakr] Telah menceritakan kepada kami [Abu An Nadhr] yaitu Hasyim bin Al Qasim; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas bin Malik] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam selesai melaksanakan shalat Shubuh"
+"6043","Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami [Abu An Nadhr]; Telah menceritakan kepada kami [Sulaiman] dari [Tsabit] dari [Anas] dia berkata; ""Sungguh saya pernah melihat Rasulullah shallallahu 'alaihi wasallam sedang dicukur oleh seorang tukang cukur dengan dikerumuni oleh para sahabat beliau. Sebenarnya yang mereka inginkan adalah agar setiap helai rambut beliau yang tercukur itu jatuh ke tangan seorang sahabat yang mengerumuninya"
+"6044","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Yazid bin Harun] dari [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwa ada seorang yang mempunyai masalah lalu berkata; 'Ya Rasulullah"
+"6045","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari apa yang telah dibacakan kepadanya. Demikian juga diriwayatkan dari jalur lainnya"
+"6048","Telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; ""Apabila Rasulullah shallallahu 'alaihi wasallam diberi pilihan dari dua urusan atau pekerjaan"
+"6050","Telah menceritakannya kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam Rasulullah Shallalahu 'alaihi wa sallam sama sekali tidak pernah memukul dengan tangannya pelayan beliau atau pun seorang wanita pun"
+"6052","Telah menceritakan kepada kami ['Amru bin Hammad bin Thalhah Al Qannad]; Telah menceritakan kepada kami [Asbath] yaitu Ibnu Nashr Al Mahdani dari [Simak] dari [Jabir bin Samurah] dia berkata; ""Saya pernah ikut shalat bersama Rasulullah shallallahu 'alaihi wasallam pada shalat zhuhur. Setelah itu beliau keluar untuk menemui istrinya dan saya pun turut menyertainya. Kemudian beliau disambut oleh beberapa anak kecil dan beliau pun segera mengusap kedua pipi mereka secara bergantian."" Jabir berkata; 'Rasulullah shallallahu 'alaihi wasallam pun mengusap pipi saya dan saya merasakan tangan beliau yang dingin dan harum seolah-olah baru keluar dari tempat minyak wangi"
+"6053","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Ja'far bin Sulaiman] dari [Tsabit] dari [Anas]; Demikian juga diriwayatkan dari jalur lainnya"
+"6054","Dan telah menceritakan kepadaku [Ahmad bin Sa'id bin Shakhr Ad Darimi]; Telah menceritakan kepada kami [Habban]; Telah menceritakan kepada kami [Hammad]; Telah menceritakan kepada kami [Tsabit] dari [Anas] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam senantiasa ceria dan keringatnya bagai kilau mutiara. Apabila beliau berjalan"
+"6055","Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Hasyim] yaitu Ibnu Al Qasim dari [Sulaiman] dari [Tsabit] dari [Anas bin Malik] dia berkata; Nabi shallallahu 'alaihi wasallam pernah berkunjung ke rumah kami. kemudian beliau tidur sebentar (Qailulah) di rumah kami hingga berkeringat. Lalu Ibu saya mengambil sebuah botol dan berupaya memasukkan keringat Rasulullah shallallahu 'alaihi wasallam itu ke dalam botol tersebut. Tiba-tiba Rasulullah terjaga sambil berkata kepada ibu saya; 'Hai Ummu Sulaim"
+"6056","Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami [Hujain bin Al Mutsanna]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Abu Salamah dari [Ishaq bin 'Abdillah bin Abu Thalhah] dari [Anas bin Malik] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam pernah berkunjung ke rumah Ummu Sulaim. Lalu beliau tidur di atas tempat tidur Ummu Sulaim"
+"6057","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Affan bin Muslim]; Telah menceritakan kepada kami [Wuhaib]; Telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas] dari [Ummu Sulaim] bahwa Nabi shallallahu 'alaihi wasallam pernah mendatangi Ummu Sulaim"
+"6058","Telah menceritakan kepada kami [Abu Kuraib Muhammad Al A'laa]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; ""Di pagi hari yang dingin"
+"6059","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6060","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami ['Abdul A'laa]; Telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Al Hasan] dari [Hiththan bin 'Abdillah] dari ['Ubadah bin Ash Shamit] dia berkata; ""Apabila wahyu sedang turun kepada Nabi shallallahu 'alaihi wasallam"
+"6061","Dan telah menceritakan kepada kami [Muhammad bin Basysyar]; Telah menceritakan kepada kami [Mu'adz bin Hisyam]; Telah menceritakan kepada kami [Bapakku] dari [Qatadah] dari [Al Hasan] dari [Hiththan bin 'Abdillah Ar Raqasyi] dari ['Ubadah bin Ash Shamit] ""Apabila wahyu sedang turun kepada Nabi shallallahu 'alaihi wasallam"
+"6062","Telah menceritakan kepada kami [Manshur bin Abu Muzahim] dan [Muhammad bin Ja'far bin Ziyad]; [Manshur] berkata; Telah menceritakan kepada kami sedangkan [Ibnu Ja'far]; berkata; Telah mengabarkan kepada kami [Ibrahim] yaitu Ibnu Sa'd dari [Ibnu Syihab] dari ['Ubaidillah bin 'Abdillah] dari [Ibnu 'Abbas] dia berkata; ""Para Ahli kitab biasanya menguraikan rambut mereka"
+"6064","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dia berkata; Aku mendengar [Abu Ishaq] berkata; Aku mendengar [Al Barra'] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam itu berperawakan sedang"
+"6065","Telah menceritakan kepada kami ['Amru An Naqid] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Ishaq] dari [Al Barra'] dia berkata; ""Aku tidak pernah melihat orang yang lebih tampan berpakaian merah dari pada Rasulullah shallallahu 'alaihi wasallam. Rambut beliau terurai ke bahunya yang bidang"
+"6066","Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'laa]; Telah menceritakan kepada kami [Ishaq bin Manshur] dari [Ibrahim bin Yusuf] dari [Bapaknya] dari [Abu Ishaq] dia berkata; Aku mendengar [Al Barra'] berkata; ""Rasulullah shallallahu 'alaihi wasallam adalah seorang yang paling tampan wajahnya"
+"6067","Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Jarir bin Hazim]; Telah menceritakan kepada kami [Qatadah] dia berkata; Aku bertanya kepada [Anas bin Malik] bagaimana keadaan rambut Rasulullah shallallahu 'alaihi wasallam? Dia menjawab; Beliau berambut ikal"
+"6068","Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Habban bin Hilal]; Demikian juga diriwayatkan dari jalur lainnya"
+"6069","Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Humaid] dari [Anas] dia berkata; Rambut Rasulullah shallallahu 'alaihi wasallam sampai melewati kedua daun telinganya"
+"6070","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] Aku mendengar [Jabir bin Samurah] berkata; Rasulullah shallallahu 'alaihi wasallam itu bermulut dzali'"
+"6071","Telah menceritakan kepada kami [Sa'id bin Manshur]; Telah menceritakan kepada kami [Khalid bin 'Abdillah] dari [Al Jurairi] dari [Abu Ath Thufail] dia berkata; Aku bertanya kepadanya; 'Apakah kamu pernah melihat Rasulullah shallallahu 'alaihi wasallam? Dia menjawab; 'Ya.' Dia orangnya berkulit putih"
+"6072","Telah menceritakan kepada kami ['Ubaidullah bin 'Umar Al Qawariri]; Telah menceritakan kepada kami ['Abdul A'laa bin 'Abdul A'la] dari [Al Jurairi] dari [Abu Ath Thufail] dia berkata; ""Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam dan tidak ada orang lain selain saya (setelah dia tidak ada sahabat lagi) yang pernah melihat beliau. Perawi berkata; 'Saya bertanya kepadanya"
+"6073","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] serta ['Amru bin An Naqid] seluruhnya dari [Ibnu Idris]"
+"6074","Telah menceritakan kepada kami [Muhammad bin Bakkar bin Ar Rayyan] Telah menceritakan kepada kami [Ismail bin Zakaria] dari ['Ashim Al Ahwal] dari [Ibnu Sirin] dia berkata; ""Aku bertanya kepada [Anas bin Malik]"
+"6075","Dan telah menceritakan kepadaku [Hajjaj Ibnu Sya'ir] Telah menceritakan kepada kami [Mu'alla bin Usud] Telah menceritakan kepada kami [Wuhaib bin Khalid] dari [Ayyub] dari [Muhammad bin Sirin] dia berkata; ""Aku bertanya kepada [Anas bin Malik]"
+"6076","Telah menceritakan kepadaku [Abu Ar Rabi' Al 'Ataki]; Telah menceritakan kepada kami [Hammad]; Telah menceritakan kepada kami [Tsabit]"
+"6077","Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Al Mutsanna bin Sa'id] dari [Qatadah] dari [Anas bin Malik] ""Makruh seorang laki-laki mencabut rambut putih di kepala dan di jenggotnya."" Dia juga berkata; ""Rasulullah shallallahu 'alaihi wasallam tidak pernah menyemir rambut dan jenggotnya. Uban Rasulullah shallallahu 'alaihi wasallam hanya ada di bawah bibir"
+"6079","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan [Ahmad bin Ibrahim Ad Dauraqi] dan [Harun bin 'Abdillah] seluruhnya dari [Abu Dawud]"
+"6080","Telah menceritakan kepada kami [Ahmad bin Yunus]; Telah menceritakan kepada kami [Zuhair]; Telah menceritakan kepada kami [Abu Ishaq]; Demikian juga diriwayatkan dari jalur lainnya"
+"6082","Telah menceritakan kepada kami [Washil bin 'Abdul A'laa]; Telah menceritakan kepada kami [Muhammad bin Fudhail] dari [Isma'il bin Abu Khalid] dari [Abu Juhaifah] dia berkata; 'Aku melihat Rasulullah shallallahu 'alaihi wasallam berkulit putih dan sudah beruban. Yang mirip dengan beliau adalah Hasan bin Ali.' Dan telah menceritakan kepada kami [Sa'id bin Manshur]; Telah menceritakan kepada kami [Sufyan] dan [Khalid bin 'Abdillah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6083","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Abu Dawud Sulaiman bin Dawud]; Telah menceritakan kepada kami [Syu'bah]; dari [Simak bin Harb] dia berkata; Aku mendengar [Jabir bin Samurah] ditanya tentang uban Nabi shallallahu 'alaihi wasallam"
+"6084","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Ubaidullah] dari [Israil] dari [Simak] dia mendengar [Jabir bin Samurah] berkata; ""Rambut Nabi shallallahu 'alaihi wasallam kelihatan bercampur putih di kepala bagian muka dan di jenggot beliau"
+"6085","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Simak] dia berkata; Aku mendengar [Jabir bin Samurah] berkata; ""Aku melihat sebuah cap (stempel) di punggung Rasulullah shallallahu 'alaihi wasallam kira-kira sebesar telor merpati."" Dan telah menceritakan kepada kami [Ibnu Numair] Telah menceritakan kepada kami [Ubaidullah bin Musa] Telah mengabarkan kepada kami [Hasan bin Shalih] dari [Simak] melalui jalur ini dengan Hadits yang serupa"
+"6087","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin 'Abbad] keduanya berkata; Telah menceritakan kepada kami [Hatim] yaitu Ibnu Isma'il dari [Al Ja'ad bin 'Abdur Rahman] dia berkata; Aku mendengar [As Saib bin Yazid] berkata; ""Aku dan Bibiku pergi bersama Rasulullah shallallahu 'alaihi wasallam"
+"6088","Telah menceritakan kepada kami [Abu Kamil]; Telah menceritakan kepada kami [Hammad] yaitu Ibnu Zaid; Demikian juga diriwayatkan dari jalur lainnya"
+"6089","Telah menceritakan kepada kami [Yahya bin Yahya] aku membaca Hadits [Malik] dari [Rabi'ah bin Abu 'Abdur Rahman] dari [Anas bin Malik]; Anas berkata; dia mendengar; Nabi Shallallahu'alaihi wasallam adalah orang yang tingginya sedang"
+"6091","Telah menceritakan kepadaku [Abu Ghassan Ar Razi Muhammad bin 'Amru]; Telah menceritakan kepada kami [Hakkam bin Salm]; Telah menceritakan kepada kami ['Utsman bin Zaidah] dari [Az Zubair bin 'Adi] dari [Anas bin Malik] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam wafat pada usia enam puluh tiga tahun"
+"6092","Dan telah menceritakan kepadaku ['Abdul Malik bin Syu'aib bin Al Laits]; Telah menceritakan kepadaku [Bapakku] dari [Kakekku] dia berkata; Telah menceritakan kepadaku ['Uqail bin Khalid] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] bahwa Nabi shallallahu 'alaihi wasallam wafat pada usia enam puluh tiga tahun. Telah mengabarkan kepadaku [Sa'id bin Al Musayyab] dengan Hadits yang serupa. Dan telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan ['Abbad bin Musa] keduanya berkata; Telah menceritakan kepada kami [Thalhah bin Yahya] dari [Yunus bin Yazid] dari [Ibnu Syihab] melalui dua jalur ini"
+"6094","Telah menceritakan kepada kami [Abu Ma'mar Isma'il bin Ibrahim Al Hudzali]; Telah menceritakan kepada kami [Sufyan] dari ['Amru] ia berkata: aku pernah bertanya kepada [Urwah]: Berapa tahun Rasulullah shallallahu 'alaihi wasallam tinggal di kota Mekkah? Ia menjawab: ""Sepuluh tahun."" Amru berkata: Aku berkata; 'sesungguhnya [Ibnu Abbas] mengatakan bahwa beliau tinggal di sana selama tiga belas tahun"
+"6095","Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] dari ['Amru] dia berkata; 'Aku bertanya kepada ['Urwah]"
+"6096","Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Harun bin 'Abdillah] dari [Rauh bin 'Ubadah]; Telah menceritakan kepada kami [Zakaria bin Ishaq] dari ['Amru bin Dinar] dari [Ibnu 'Abbas] ""Sesungguhnya Rasulullah menetap di Makkah selama tiga belas tahun"
+"6097","Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Bisyr bin As Sari]; Telah menceritakan kepada kami [Hammad] dari [Abu Jamrah Adh Dhuba'i] dari [Ibnu Abbas] dia berkata; ""Rasulullah menetap di Makkah setelah menjadi Nabi selama tiga belas tahun"
+"6098","Dan telah menceritakan kepada kami ['Abdullah bin 'Umar bin Muhammad bin Aban Al Ju'fi]; Telah menceritakan kepada kami [Sallam Abu Al Ahwash] dari [Abu Ishaq] dia berkata; Aku pernah duduk-duduk bersama [Abdullah bin 'Utbah]"
+"6099","Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basysyar] dan lafazh ini milik Ibnu Al Mutsanna berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] Aku mendengar [Abu Ishaq] bercerita dari ['Amir bin Sa'd Al Bajali] dari [Jarir] bahwa dia mendengar [Mu'awiyah] berkhutbah seraya berkata; Rasulullah shallallahu 'alaihi wasallam wafat pada usia enam puluh tiga tahun"
+"6100","Dan telah menceritakan kepadaku [Ibnu Minhal Adh Dharir]; Telah menceritakan kepada kami [Yazid bin Zurai']; Telah menceritakan kepada kami [Yunus bin 'Ubaid] dari ['Ammar] budak Bani Hasyim dia berkata; ""Saya pernah bertanya kepada [Ibnu Abbas]"
+"6102","Dan telah menceritakan kepadaku [Nashr bin 'Ali]; Telah menceritakan kepada kami [Bisyr] yaitu Ibnu MuFadhldlal; Telah menceritakan kepada kami [Khalid Al Hadzdza]; Telah menceritakan kepada kami ['Ammar] -seorang budak- Bani Hasyim; Telah menceritakan kepada kami [Ibnu 'Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam wafat pada usia enam puluh lima tahun. Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Ibnu 'Ulayyah] dari [Khalid] melalui jalur ini"
+"6104","Dan telah menceritakan kepada kami [Ishaq bin Ibrahim Al Handzali]; Telah mengabarkan kepada kami [Rauh]; Telah menceritakan kepada kami [Hammad bin Salamah] dari ['Ammar bin Abu 'Ammar] dari [Ibnu 'Abbas] dia berkata; Nabi shallallahu 'alaihi wasallam tinggal di Makkah selama lima belas tahun. Selama tujuh tahun beliau mendengar suara dan melihat sinar. Dan delapan tahun diwahyukan kepada beliau. Dan beliau tinggal di Madinah selama sepuluh tahun"
+"6105","Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ishaq bin Ibrahim] dan [Ibnu Abu 'Umar] dan lafazh ini milik Zuhair. [Ishaq] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dia mendengar [Muhammad bin Jubair bin Muth'im] dari [Bapaknya] bahwa Nabi shallallahu 'alaihi wasallam bersabda: Sesungguhnya saya adalah Muhammad"
+"6107","Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Muhammad bin Jubair bin Muth'im] dari [bapaknya] radliallahu 'anhu katanya"
+"6108","Dan telah menceritakan kepada kami [Ishaq bin Ibrahim Al Handzali]; Telah mengabarkan kepada kami [Jarir] dari [Al A'masy] dari ['Amru bin Murrah] dari [Abu 'Ubaidah] dari [Abu Musa Al Asy'ari] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam menyebutkan beberapa nama kepada kami yang merupakan nama beliau pribadi"
+"6109","Telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Adh Dhuha] dari [Masruq] dari ['Aisyah] ia berkata: Rasulullah shallallahu 'alaihi wasallam memberikan suatu keringanan pada salah satu perintah beliau. Lalu hal itu sampai kepada sebagian sahabatnya dan mereka pun seperti kurang suka dan berlepas dari dari hal itu. maka sampailah kabar mengenai sikap mereka itu kepada Rasulullah shallallahu 'alaihi wasallam sehingga beliau pun berdiri dan berkhutbah: ""Kenapa ada orang yang telah sampai kepada mereka suatu urusan dariku yang aku mendapatkan keringanan karenanya lalu mereka membencinya dan berlepas darinya?! Demi Allah"
+"6111","Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari ['Aisyah] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam pernah memberikan keringanan kepada kaum muslimin dalam suatu masalah"
+"6112","Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga diriwayatkan dari jalur lainnya"
+"6115","Telah menceritakan kepadaku [Harmalah bin Yahya At Tujibi]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah mengabarkan kepadaku [Abu Salamah bin 'Abdur Rahman] dan [Sa'id bin Al Musayyab] keduanya berkata; [Abu Hurairah] bercerita bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: ""Apa yang telah aku larang untukmu maka jauhilah. Dan apa yang kuperintahkan kepadamu"
+"6116","Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Ibrahim bin Sa'd] dari [Ibnu Syihab] dari ['Amir bin Sa'd] dari [Bapaknya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Orang muslim yang paling besar dosanya terhadap kaum muslimin lainnya adalah orang yang bertanya tentang sesuatu yang sebelumnya tidak diharamkan bagi kaum muslimin"
+"6117","Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Abu 'Umar] keduanya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri]; Dan telah menceritakan kepada kami [Muhammad bin 'Abbad]; Telah menceritakan kepada kami [Sufyan] dia berkata; -Aku menghafalnya sebagaimana aku menghafal Bismillahir rahmanir rahim"
+"6119","Telah menceritakan kepada kami [Mahmud bin Ghailan] dan [Muhammad bin Qudamah As Sulami] dan [Yahya bin Muhammad Al Lu'lu'i] -lafazh mereka tidak jauh berbeda- [Mahmud] berkata;; Telah menceritakan kepada kami [An Nadhr bin Syumail]. Sedangkan yang lainnya berkata; Telah mengabarkan kepada kami [An Nadhr]; Telah mengabarkan kepada kami [Syu'bah]; Telah menceritakan kepada kami [Musa bin Anas bin Malik] dari [Anas bin Malik] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam telah mengetahui berita tentang para sahabat. Kemudian beliau berdiri dan berpidato: 'Ketahuilah bahwa sesungguhnya surga dan neraka itu telah ditampakkan kepadaku. Aku tidak pernah melihat kebaikan dan keburukan seperti hari ini. Seandainya kalian dapat mengetahui apa yang aku ketahui"
+"6120","Dan telah menceritakan kepada kami [Muhammad bin Ma'mar bin Rib'i Al Qaisi]; Telah menceritakan kepada kami [Rauh bin 'Ubadah]; Telah menceritakan kepada kami [Syu'bah]; Telah mengabarkan kepadaku [Musa bin Anas] dia berkata; Aku mendengar [Anas bin Malik]; dia berkata; ""Ada seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam; ""Ya Rasulullah"
+"6121","Telah menceritakan kepadaku [Harmalah bin Yahya bin 'Abdillah bin Harmalah bin 'Imran At Tujibi]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah mengabarkan kepadaku [Anas bin Malik] bahwa ketika matahari telah tergelincir"
+"6123","Telah menceritakan kepada kami [Yusuf bin Hammad Al Ma'ni]; Telah menceritakan kepada kami ['Abdul A'laa] dari [Sa'id] dari [Qatadah] dari [Anas bin Malik] bahwa suatu hari para sahabat pernah bertanya kepada Nabiyullah Shallallahu'alaihi wasallam"
+"6125","Telah menceritakan kepada kami ['Abdullah bin Barrad Al Asy'ari] dan [Muhammad bin Al A'laa Al Hamdani] dia berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Buraidah] dari [Abu Burdah] dari [Abu Musa] dia berkata; Nabi shallallahu 'alaihi wasallam pernah ditanyai mengenai beberapa hal yang sebenarnya beliau membencinya. Dan ketika hal itu selalu ditanyakan kepada beliau"
+"6126","Telah menceritakan kepada kami [Qutaibah bin Sa'id Ats Tsaqafi] dan [Abu Kamil Al Jahdari] lafazh keduanya tidak jauh berbeda"
+"6127","Telah menceritakan kepada kami ['Abdullah bin Ar Rumi Al Yamami] dan ['Abbas bin 'Abdul 'Azhim Al 'Anbari] dan [Ahmad bin Ja'far Al Ma'qiri] mereka berkata; Telah menceritakan kepada kami [An Nadhr bin Muhammad]; Telah menceritakan kepada kami ['Ikrimah] yaitu Ibnu 'Ammar; Telah menceritakan kepada kami [Abu An Najasyi]; Telah menceritakan kepadaku [Rafi' bin Khadij] dia berkata; Ketika Nabi shallallahu 'alaihi wasallam datang ke Madinah"
+"6128","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid] seluruhnya dari [Al Aswad bin 'Amir]; [Abu Bakr] berkata; Telah menceritakan kepada kami [Aswad bin 'Amir]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dan dari [Tsabit] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam pernah melewati suatu kaum yang sedang mengawinkan pohon kurma lalu beliau bersabda: ""Sekiranya mereka tidak melakukannya"
+"6129","Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam"
+"6130","Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepadaku [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Abu Salamah bin 'Abdur Rahman]; Telah menceritakan kepadanya bahwa [Abu Hurairah] Rasulullah shallallahu 'alaihi wasallam bersabda: ""Aku adalah orang yang paling berhak atas diri Isa"
+"6131","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Daud 'Umar bin Sa'd] dari [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Salamah] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Aku adalah orang yang paling berhak atas diri Isa"
+"6132","Dan telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam"
+"6133","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdul A'laa] dari [Ma'mar] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam beliau bersabda: ""Tidaklah seorang bayi dilahirkan kecuali syetan pasti menikamnya hingga ia menangis keras karena tikaman tersebut"
+"6135","Telah menceritakan kepadaku [Abu Ath Thahir] Telah mengabarkan kepada kami [Ibnu Wahab] Telah menceritakan kepadaku [Amru bin Al Harits] Bahwa [Abu Yunus Sulaim] -budak- dari Abu Hurairah menceritakan kepadanya"
+"6136","Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah mengabarkan kepada kami [Abu 'Awanah] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Teriakan bayi ketika dia dilahirkan adalah karena dorongan jahat syetan"
+"6137","Telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdur Razaq] Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam"
+"6138","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Ali bin Mushir] dan [Ibnu Fudhail] dari [Al Mukhtar] Demikian juga diriwayatkan dari jalur lainnya"
+"6141","Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Al Mughirah] yaitu Ibnu Abdurrahman Al Hizami dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam beliau bersabda: ""Nabi Ibrahim berkhitan pada usia delapan puluh tahun dengan menggunakan kapak"
+"6142","Dan telah menceritakan kepadaku [Harmalah bin Yahya] Telah mengabarkan kepada kami [Ibnu Wahab] Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dan [Sa'id bin Musayyab] dari [Abu Hurairah]"
+"6144","Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Syababah] Telah menceritakan kepada kami [Warqa] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: ""Semoga Allah mengampuni Nabi Luth"
+"6145","Dan telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami ['Abdullah bin Wahb]; Telah mengabarkan kepadaku [Jarir bin Hazim] dari [Ayyub As Sakhtiyani] dari [Muhammad bin Sirin] dari [Abu Hurairah] bahwasannya Rasulullah shallallahu 'alaihi wasallam telah bersabda: ""Sesungguhnya Nabi Ibrahim Alaihis Salam tidak pernah berdusta sama sekali"
+"6146","Telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdur Razaq] Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam"
+"6147","Dan telah menceritakan kepada kami [Yahya bin Habib Al Harits]; Telah menceritakan kepada kami [Yazid bin Zura'i]; Telah menceritakan kepada kami [Khalid Al Hadzdza'] dari ['Abdillah bin Syaqiq] dia berkata; Telah memberitakan kepada kami [Abu Hurairah] dia berkata; Nabi Musa adalah orang yang pemalu dan tidak pernah terlihat auratnya. Orang-orang bani Israil menuduhnya bahwa terdapat cacat pada auratnya. Abu Hurairah berkata; Pada suatu ketika"
+"6148","Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abad bin Humaid]. [Abad] berkata; Telah mengabarkan kepada kami sedangkan [Ibnu Rafi'] berkata; Telah menceritakan kepada kami [Abdur Razaq] Telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [Bapaknya] dari [Abu Hurairah]"
+"6149","Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah menceritakan kepada kami [Ma'mar] dari [Hamam bin Munabbih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam"
+"6151","Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Hujain bin Al Mutsanna]; Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah bin Abi Salamh] dari ['Abdullah bin Al Fadhl Al Hasyimi] dari ['Abdur Rahman Al A'raj] dari [Abu Hurairah] dia berkata; ""Pada suatu ketika ada seorang Yahudi yang menawarkan barang dagangannya"
+"6153","Telah menceritakan kepadaku [Zuhair bin Harb] dan [Abu Bakr bin An Nadhr] keduanya berkata; Telah menceritakan kepada kami [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami [Bapakku] dari [Ibnu Syihab] dari [Abu Salamah bin 'Abdur Rahman] dan ['Abdur Rahman Al A'raj] dari [Abu Hurairah] dia berkata; dua orang laki-laki saling mencela"
+"6156","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki'] dari [Sufyan]; Demikian juga diriwayatkan dari jalur lainnya"
+"6157","Telah menceritakan kepada kami [Haddab bin Khalid] dan [Syaiban bin Farrukh] keduanya berkata; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit Al Bunani] dan [Sulaiman At Taimi] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Aku mendatangi -dan pada riwayat Haddab- Aku melewati Musa pada malam aku di isra'kan"
+"6158","Dan telah menceritakan kepada kami ['Ali bin Khasyram]; Telah mengabarkan kepada kami ['Isa] yaitu Ibnu Yunus; Demikian juga diriwayatkan dari jalur lainnya"
+"6159","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] serta [Muhammad Ibnu Basyar] mereka berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] dia berkata; Aku mendengar [Humaid bin Abdurrahman] bercerita dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: Allah Ta'ala berfirman: ""Tidak sepantasnya bagi seorang hamba-Ku mengatakan bahwa aku lebih baik dari Yunus bin Matta Alaihis Salam."" Dan [Ibnu Abu Syaibah] berkata; ' [Muhammad bin Ja'far] dari [Syu'bah]"
+"6160","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] lafazh ini milik Ibnu Al Mutsanna keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] berkata; Aku mendengar [Abu 'Aliyah] berkata; Telah menceritakan kepadaku anak paman Nabi kalian shallallahu 'alaihi wasallam yaitu [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: Tidak sepantasnya bagi seorang hamba mengatakan bahwa aku lebih baik dari Yunus bin Matta Alaihis Salam. Dan padahal dia menasabkan dirinya kepada bapaknya"
+"6161","Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] serta [Ubaidullah bin Sa'id] mereka berkata; Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] Telah mengabarkan kepada kami [Sa'id bin Abu Sa'id] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam ditanya; ""Siapakah menusia yang paling mulia?"" beliau bersabda: ""Orang yang paling bertaqwa dari mereka."" para sahabat berkata; ""Bukan itu yang kami tanyakan?"" beliau bersabda: ""Jika bukan"
+"6162","Telah menceritakan kepada kami [Haddab bin Khalid] Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Abu Rafi'] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: ""Nabi Zakaria adalah seorang tukang kayu"
+"6163","Telah menceritakan kepada kami ['Amru bin Muhammad An Naqid] dan [Ishaq bin Ibrahim Al Handzali] dan ['Ubaidullah bin Sa'id] dan [Muhammad bin Abu 'Umar Al Makki] seluruhnya dari [Ibnu 'Uyainah] dan lafazh ini milik Ibnu Abu 'Umar; Telah menceritakan kepada kami [Sufyan bin 'Uyainah]; Telah menceritakan kepada kami ['Amru bin Dinar] dari [Sa'id bin Jubair] dia berkata; ""Saya telah berkata kepada [Ibnu Abbas] bahwasanya Nauf Al Bikali mengatakan bahwa Musa 'Alaihis Salam yang berada di tengah kaum Bani Israil bukanlah Musa yang menyertai Nabi Khidhir."" (Ibnu Abbas) berkata; 'Berdustalah musuh Allah. Saya pernah mendengar [Ubay bin Ka'ab] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Suatu ketika Nabi Musa 'Alaihis Salam berdiri untuk berpidato di hadapan kaum Bani israil.' Setelah itu"
+"6165","Telah menceritakan kepadaku [Muhammad bin 'Abdul A'laa Al Qais]; Telah menceritakan kepada kami [Al Mu'tamir bin Sulaiman At Taimi] dari [Bapaknya] dari [Raqabah] dari [Abu Ishaq] dari [Sa'id bin Jubair] dia berkata; di tanyakan kepada [Ibnu Abbas] bahwa Nauf beranggapan sesungguhnya Musa yang pergi mencari Ilmu itu bukanlah Musa yang di utus kepada Bani Israil; Ibnu Abbas bertanya; Apakah kamu mendengarnya juga wahai Said? Aku menjawab; 'Ya.' Ibnu Abbas berkata; Nauf telah berdusta! Telah menceritakan kepada kami [Ubay bin Ka'ab] dia berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: ""Musa berpidato dihadapan kaumnya mengingatkan hari-hari Allah"
+"6167","Dan telah menceritakan kepada kami [Amru An Naqid] Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dari [Ubay bin Ka'ab] Bahwa Nabi shallallahu 'alaihi wasallam membaca ayat: Jika engkau mau"
+"6168","Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Ubaidillah bin 'Abdullah bin 'Utbah bin Mas'ud] dari ['Abdullah bin Abbas] bahwa dia dan Al Hurr bin Qais bin Hisn Al Fazari berdebat tentang sahabat Musa 'alaihissalam yang bertanya tentang jalan untuk bertemu dengannya"
+"6169","Telah menceritakan kepadaku [Zuhair bin Harb] dan [Abad bin Humaid] serta [Abdullah bin Abdurrahman Ad Darimi]. [Abdullah] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Habban bin Hilal] Telah menceritakan kepada kami [Hammam] Telah menceritakan kepada kami [Tsabit] Telah menceritakan kepada kami [Anas bin Malik] bahwa [Abu Bakr As Siddiq] bercerita kepadanya"
+"6170","Telah menceritakan kepada kami [Abdullah bin Ja'far bin Yahya bin Khalid] Telah menceritakan kepada kami [Ma'an] Telah menceritakan kepada kami Telah menceritakan kepada kami [Malik] dari [Abu An Nadhr] dari [Ubaid bin Hunain] dari [Abu Sa'id Al Khudri]"
+"6172","Telah menceritakan kepada kami [Muhammad bin Basyar Al 'Abdi] Telah menceritakan kepada kami [Ibnu Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Isma'il bin Raja`] dia berkata; Aku mendengar [Abdullah bin Abu Hudzail] berkata; dari [Abu Al Ahwash] dia berkata; Aku mendengar [Abdullah bin Mas'ud] berkata; dari Nabi shallallahu 'alaihi wasallam beliau bersabda: Seandainya saya dibolehkan memilih kekasih"
+"6173","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] lafazh ini milik Ibnu Al Mutsanna keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Abu Al Ahwash] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: Seandainya saya dibolehkan menjadikan seorang kekasih dari umatku"
+"6174","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; Telah menceritakan kepada kami [Abdurrahman] Telah menceritakan kepadaku [Sufyan] dari [Abu Ishaq] dari [Abu Al Ahwash] dari [Abdullah] Demikian juga diriwayatkan dari jalur lainnya"
+"6176","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki']; Demikian juga diriwayatkan dari jalur lainnya"
+"6177","Telah menceritakan kepada kami [Yahya bin Yahya] Telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Khalid] dari [Abu Utsman]"
+"6178","Dan telah menceritakan kepadaku [Al Hasan bin Ali Al Hulwani] Telah menceritakan kepada kami [Ja'far bin 'Aun] dari [Abu Umais] Demikian juga diriwayatkan dari jalur lainnya"
+"6181","Telah menceritakan kepada kami [Ubaidullah bin Sa'id] Telah menceritakan kepada kami [Yazid bin Harun] Telah mengabarkan kepada kami [Ibrahim bin Sa'ad] Telah menceritakan kepada kami [Shalih bin Kaisan] dari [Az Zuhri] dari [Urwah] dari [Aisyah] dia berkata; Pada suatu hari"
+"6187","Telah menceritakan kepada kami [Sa'id bin Amru Al Asy'atsi] dan [Abu Rabi' Al 'Ataki] serta [Abu Kuraib Muhammad bin Al Allaa]"
+"6189","Telah menceritakan kepada kami [Manshur bin Abu Muzahim]; Telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih bin Kaisan]; Demikian juga diriwayatkan dari jalur lainnya"
+"6190","Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] bahwa [Ibn Syihab] Telah menceritakan kepadanya [Hamzah bin 'Abdullah bin 'Umar bin Al Khaththab] dari [Bapaknya] dari Rasulullah shallallahu 'alaihi wasallam Beliau bersabda: ""Ketika tidur"
+"6192","Telah menceritakan kepada kami [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Sa'id bin Al Musayyab]; Telah mengabarkan kepadanya dia medengar [Abu Hurairah] berkata; 'Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: ""Ketika aku sedang tidur"
+"6195","Telah menceritakan kepadaku [Ahmad bin 'Abdur Rahman bin Wahb]; Telah menceritakan kepada kami pamanku ['Abdullah bin Wahb]; Telah mengabarkan kepadaku ['Amru bin Al Harits] bahwa [Abu Yunus] -budak- Abu Hurairah Telah menceritakan kepadanya dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: ""Ketika tidur aku bermimpi sedang menimba di telagaku"
+"6196","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin 'Abdullah bin Numair] dan lafazh ini milik Abu Bakr dia berkata; Telah menceritakan kepada kami [Muhammad bin Bisyr]; Telah menceritakan kepada kami ['Ubaidullah bin 'Umar]; Telah menceritakan kepadaku [Abu Bakr bin Salim] dari [Salim bin 'Abdullah] dari ['Abdullah bin 'Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Aku bermimpi seakan-akan aku menimba air dengan timba di sebuah sumur Bakrah"
+"6200","Dan telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] bahwa [Ibnu Syihab] Telah mengabarkan kepadanya dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam sesungguhnya beliau bersabda: ""Ketika aku sedang tidur"
+"6201","Dan telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] bahwa [Ibnu Syihab] Telah mengabarkan kepadanya dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam sesungguhnya beliau bersabda: ""Ketika aku sedang tidur"
+"6202","Telah menceritakan kepada kami [Manshur bin Abu Muzahim]; Telah menceritakan kepada kami [Ibrahim] yaitu Ibnu Sa'ad; Demikian juga diriwayatkan dari jalur lainnya"
+"6204","Telah menceritakan kepadaku [Abu Ath Thahir Ahmad bin 'Amru bin Sarh]; Telah menceritakan kepada kami ['Abdullah bin Wahb] dari [Ibrahim bin Sa'ad] dari [Bapaknya Sa'ad bin Ibrahim] dari [Abu Salamah] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: ""Di kalangan umat-umat yang terdahulu sebelum kalian"
+"6209","Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr]. [Yahya bin Yahya] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari [Muhammad bin Abu Harmalah] dari ['Atha] dan [Sulaiman] -kedua anak Yasar dan [Abu Salamah bin 'Abdur Rahman] bahwa ['Aisyah] berkata; 'Pada suatu ketika"
+"6210","Telah menceritakan kepada kami ['Abdul Malik bin Syu'aib bin Al Laits bin Sa'ad]; Telah menceritakan kepadaku [Bapakku] dari [Kakekku]; Telah menceritakan kepadaku ['Uqail bin Khalid] dari [Ibnu Syihab] dari [Yahya bin Sa'id bin Al 'Ash] bahwa [Sa'id bin Al 'Ash] Telah mengabarkan kepadanya"
+"6212","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna Al 'Anazi]; Telah menceritakan kepada kami [Ibnu Abu 'Adi] dari ['Utsman bin Ghiyats] dari [Abu 'Utsman An Nahdi] dari [Abu Musa Al Asy'ari] dia berkata; dia berkata; Pada suatu ketika Rasulullah shallallahu 'alaihi wasallam sedang berada di salah satu kebun Madinah sambil bersandaran beliau menancapkan batang pohon ketanah yang berair. Tiba-tiba seseorang datang meminta dibukakan pintunya. Beliau bersabda: 'Bukakanlah"
+"6214","Telah menceritakan kepada kami [Muhammad bin Miskin Al Yamami]; Telah menceritakan kepada kami [Yahya bin Hassan]; Telah menceritakan kepada kami [Sulaimam] yaitu Ibnu Bilal dari [Syarik bin Abu Namir] dari [Sa'id Al Musayyab]; Telah mengabarkan kepadaku [Abu Musa Al Asy'ari] bahwasanya ia pernah berwudhu di rumahnya. Setelah itu ia keluar dari rumah sambil berkata; ""Pada hari ini saya berniat untuk selalu berada di dekat Rasulullah shallallahu 'alaihi wasallam."" Lalu Abu Musa pergi ke masjid dan menanyakan keberadaan Rasulullah kepada para sahabat yang kebetulan sedang berada di sana.""Beliau telah pergi ke arah sana"
+"6217","Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi]"
+"6218","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Ghundar] dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6220","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin 'Abbad]"
+"6221","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Ghundar] dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6222","Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Ya'qub] yaitu Ibnu 'Abdur Rahman Al Qari dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa pada waktu perang Khaibar Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sungguh aku akan menyerahkan bendera ini kepada seorang lelaki yang mencintai Allah dan RasulNya"
+"6223","Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu [Ibnu Hazim] dari Abu Hazim dari [Sahl]; Demikian juga diriwayatkan dari jalur lainnya"
+"6224","Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Hatim] yaitu Isma'il dari [Yazid bin Abu 'Ubaid] dari [Salamah bin Al Akwa'] dia berkata; ""Suatu ketika Ali tidak ikut bersama rombongan Rasulullah shallallahu 'alaihi wasallam dalam perang Khaibar sebab sa'at itu ia sedang sakit mata. Ia pun berkata: 'Aku tidak ikut bersama Rasulullah shallallahu 'alaihi wasallam.' Lalu Ali bertemu dengan Nabi shallallahu 'alaihi wasallam. Pada sore harinya"
+"6225","Telah menceritakan kepadaku [Zuhair bin Harb] dan [Syuja' bin Makhlad] seluruhnya dari [Ibnu 'Ulayyah]"
+"6229","Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Abu Hazim dari [Abu Hazim] dari [Sahl bin Sa'ad] dia berkata; ""Pada suatu ketika"
+"6230","Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Yahya bin Sa'id] dari ['Abdillah bin 'Amir bin Rabi'ah] dari ['Aisyah] dia berkata; ""Pada suatu malam Rasulullah shallallahu 'alaihi wasallam tidak bisa tidur. Setelah itu beliau berkata; 'Semoga ada seorang laki-laki shalih dari para sahabatku yang akan menjagaku pada malam ini.' Aisyah berkata; Tiba-tiba kami mendengar suara senjata. Kemudian Rasulullah bertanya; 'Siapakah ini? ' dia menjawab; Sa'ad bin Abu Waqqash ya Rasulullah"
+"6231","Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga diriwayatkan dari jalur lainnya"
+"6233","Telah menceritakan kepada kami [Manshur bin Abu Muhazim]; Telah menceritakan kepada kami [Ibrahim] yaitu Ibnu Sa'ad dari [Bapaknya] dari ['Abdillah bin Syaddad] dia berkata; Aku medengar [Ali] berkata; ""Rasulullah shallallahu 'alaihi wasallam tidak menggabungkan kedua orang tuanya sebagai tebusan"
+"6235","Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Sulaiman] yaitu Ibnu Bilal dari [Yahya] yaitu Ibnu Sa'id dari [Sa'id] dari [Sa'ad bin Abu Waqqash] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam menggabungkan kedua orang tuanya sebagai tebusan bagiku pada perang Uhud."" Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ibnu Rumh] dari [Al Laits bin Sa'ad]; Demikian juga diriwayatkan dari jalur lainnya"
+"6237","Telah menceritakan kepada kami [Muhammad bin 'Abbad]; Telah menceritakan kepada kami [Hatim] yaitu Ibnu Isma'il dari [Bukair bin Mismar] dari ['Amir bin Sa'ad] dari [Bapaknya] bahwa Nabi shallallahu 'alaihi wasallam Rasulullah shallallahu 'alaihi wasallam telah menggabungkan kedua orang tuanya sebagai tebusan baginya pada perang Uhud."" Saad bin Abi Waqqash berkata; ""Seorang laki-laki musyrik telah memanas-manasi kaum muslimin."" Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepada Sa'ad: ""Panahlah dia!"" Sa'ad berkata; Lalu saya membidiknya dengan sebuah anak panah tanpa mata panah yang tajam hingga tepat mengenai Iambungnya. kemudian orang tersebut tersungkur dan terbukalah auratnya. Melihat itu"
+"6238","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; Telah menceritakan kepada kami [Al Hasan bin Musa]; Telah menceritakan kepada kami [Zuhair]; Telah menceritakan kepada kami [Simak bin Harb]; Telah menceritakan kepadaku [Mush'ab bin Sa'ad] dari [Bapaknya] bahwa ada beberapa ayat Al Qur'an yang turun berkenaan dengan Sa'ad. Mush'ab berkata; ""Ibu Sa'ad bersumpah tidak akan mau berbicara dengan Sa'ad selama-lamanya hingga ia (Sa'ad) meninggalkan ajaran Islam. Selain itu"
+"6240","Telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami ['Abdur Rahman] dari [Sufyan] dari [Al Miqdam bin Syuraih] dari [Bapaknya] dari [Sa'ad] ia berkata: sebuah ayat turun mengenaiku: ""Dan janganlah kamu mengusir orang-orang yang menyeru Tuhannya di pagi dan petang hari..."" Ia berkata: 'Ayat itu turun pada enam orang; Aku dan Ibnu Mas'ud termasuk dari mereka. Sebab dulu orang-orang musyrik berkata kepadanya: 'Kamu menghina mereka"
+"6241","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Muhammad bin 'Abdullah Al Asadi] dari [Israil] dari [Al Miqdam bin Syuraih] dari [Bapaknya] dari [Sa'ad] dia berkata; ""Pada suatu hari"
+"6242","Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] dan [Hamid bin 'Umar Al Bakrawi] serta [Muhammad bin 'Abdul A'laa] mereka berkata; Telah menceritakan kepada kami [Al Mu'tamir] yaitu Ibnu Sulaiman dia berkata; Aku mendengar [Bapakku] dari [Abu Utsman] dia berkata; Pada sebagian peperangan yang diikuti Rasulullah shallallahu 'alaihi wasallam"
+"6243","Telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdullah] dia berkata; saya pernah mendengar dia berkata; 'Ketika terjadi perang khandak"
+"6245","Telah menceritakan kepada kami [Isma'il bin Al Khalil] dan [Suwaid bin Sa'id] keduanya dari [Ibnu Mushir] dia berkata; [Isma'il] Telah mengabarkan kepada kami ['Ali bin Mushir] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Abdullah bin Az Zubair] dia berkata; ""Pada saat terjadi perang Khandak"
+"6247","Dan telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Muhammad dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa ketika Rasulullah shallallahu 'alaihi wasallam berada di gua hira` bersama Abu Bakar"
+"6248","Telah menceritakan kepada kami ['Ubaidullah bin Yazid bin Khunais] dan [Ahmad bin Yusuf Al Azdi] keduanya berkata; Telah menceritakan kepada kami [Isma'il bin Abu Uwais]; Telah menceritakan kepadaku [Sulaiman bin Bilal] dari [Yahya bin Sa'id] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] bahwa pada suatu ketika Rasulullah shallallahu 'alaihi wasallam sedang berada di atas gunung Hira'. Tiba-tiba gunung tersebut bergerak"
+"6249","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Ibnu Numair] dan [Abdah] keduanya berkata; Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dia berkata; ['Aisyah] pernah berkata kepadaku: Demi Allah"
+"6251","Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al Allaa] Telah menceritakan kepada kami [Waki'] Telah menceritakan kepada kami [Ismail] dari [Al Bahi] dari [Urwah] dia berkata; "" [Aisyah] pernah berkata kepadaku: 'Demi Allah"
+"6252","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Ismail bin 'Ulayyah] dari [Khalid] Demikian juga diriwayatkan dari jalur lainnya"
+"6253","Telah menceritakan kepadaku [Amru An Naqid] Telah menceritakan kepada kami [Affan] Telah menceritakan kepada kami [Hammad] yaitu Ibnu Salamah dari [Tsabit] dari [Anas] bahwa penduduk Yaman datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata; Ya Rasulullah"
+"6254","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dia berkata; Aku mendengar [Abu Ishaq] bercerita dari [Shilah bin Zufar] dari [Hudzaifah] dia berkata; ""Pada suatu ketika orang-orang Najran pernah datang kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata; 'Ya Rasulullah"
+"6256","Telah menceritakan kepadaku [Ahmad bin Hanbal] Telah menceritakan kepada kami [Sufyan bin Uyainah] Telah menceritakan kepadaku [Ubaidullah bin Abu Yazid] dari [Nafi' bin Jubair] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau berdoa untuk Hasan: ""Ya Allah"
+"6257","Telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] dari ['Ubaidillah bin Abu Yazid] dari [Nafi' bin Jubair bin Muth'im] dari [Abu Hurairah] dia berkata; ""Pada suatu siang saya keluar bersama Rasulullah shallallahu 'alaihi wasallam. Beliau tidak berbicara kepada saya dan saya pun tidak berbicara kepada beliau hingga beliau mendatangi pasar Bani Qainuqa'. Kemudian beliau pulang dan mendatangi tenda Fatimah seraya bertanya: 'Apakah ada Luka'? Apakah ada Luka'? ' (Yang dimaksud dengan Luka' adalah Hasan) Kami menduga bahwasanya Hasan sedang dibawa oleh ibunya untuk dimandikan dan dipakaikan seutas kalung tanpa permata. Tak lama kemudian Hasan muncul dan akhirnya keduanya (Rasulullah dan Hasan) saling berpelukan. lalu Rasulullah shallallahu 'alaihi wasallam berdoa: 'Ya Allah"
+"6258","Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari ['Adi] yaitu Ibnu Tsabit; Telah menceritakan kepada kami [Al Bara' bin 'Azib] dia berkata; ""Aku melihat Al Hasan bin Ali berada di atas pundak Rasulullah shallallahu 'alaihi wasallam dan beliau berkata; 'Ya Allah"
+"6259","Telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Abu Bakr bin Nafi'] Berkata [Ibnu Nafi'] berkata; Telah menceritakan kepada kami [Ghundar]; Telah menceritakan kepada kami [Syu'bah] dari ['Adi] yaitu Ibnu Tsabit dari [Al Bara'] dia berkata; ""Aku melihat Rasulullah meletakkan Al Hasan bin Ali di atas pundak beliau seraya berkata; 'Ya Allah"
+"6260","Telah menceritakan kepadaku ['Abdullah bin Ar Rumi Al Yamami] dan ['Abbas bin 'Abdul 'Azhim Al 'Anbari] keduanya berkata; Telah menceritakan kepada kami [An Nadhr bin Muhammad]; Telah menceritakan kepada kami ['Ikrimah] yaitu Ibnu 'Ammar; Telah menceritakan kepada kami [Iyas] dari [Bapaknya] dia berkata; ""Aku menuntun bighal (hewan hasil peranakan antara kuda dengan keledai) milik Nabi yang berambut putih dan hitam yang sedang ditunggangi oleh beliau"
+"6261","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin 'Abdillah bin Numair] dan lafazh ini milik Abu Bakr keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Bisyr] dari [Zakaria] dari [Mush'ab bin Syaibah] dari [Shafiyyah binti Syaibah] dia berkata; ['Aisyah] berkata; ""Pada suatu pagi"
+"6262","Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Ya'qub bin 'Abdur Rahman Al Qari] dari [Musa bin 'Uqbah] dari [Salim bin 'Abdullah] dari [Bapaknya] bahwa dia pernah berkata; ""AKu tidak pernah memanggil Zaid bin Haritsah"
+"6264","Telah menceritakan kepada kami [Yahya bin Yahya]"
+"6265","Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'laa]; Telah menceritakan kepada kami [Abu Usamah] dari ['Umar] yaitu Ibnu Hamzah dari [Salim] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda di atas mimbar: ""Apabila kalian mengecam kepemimpinan Usmah bin Zaid"
+"6266","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Habib bin Asy Syahid] dari ['Abdullah bin Abu Mulaikah] dia berkata; ['Abdullah bin Ja'far] pernah bertanya kepada [Ibnu Az Zubair]; 'Hai Ibnu Zubair"
+"6268","Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] dan lafazh ini milik Yahya. [Abu Bakr] berkata; Telah menceritakan kepada kami dan berkata [Yahya]; Telah mengabarkan kepada kami [Abu Mu'awiyah] dari ['Ashim Al Ahwash Al Ahwal] dari [Muwarriq Al 'Ijli] dari ['Abdullah bin Ja'far] dia berkata; Rasulullah shallallahu 'alaihi wasallam apabila tiba dari suatu perjalanan"
+"6269","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdur Rahim bin Sulaiman] dari ['Ashim]; Telah menceritakan kepadaku [Muwarriq]; Telah menceritakan kepadaku ['Abdullah bin Ja'far] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam tiba dari suatu perjalanan"
+"6270","Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Mahdi bin Maimun]; Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Abu Ya'qub] dari [Al Hasan bin Sa'ad] - budak- Al Hasan bin 'Ali dari ['Abdullah bin Ja'far] dia berkata; Suatu hari Rasulullah shallallahu 'alaihi wasallam pernah memboncengku di belakang beliau. Kemudian beliau membisikkan saya suatu ucapan yang tidak saya ceritakan kepada siapapun"
+"6271","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdullah bin Numair] dan [Abu Usamah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6272","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Waki']; Demikian juga diriwayatkan dari jalur lainnya"
+"6273","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] dan [Ibnu Numair] mereka berkata; Telah menceritakan kepada kami [Ibnu Fudhail] dari ['Umarah] dari [Abu Zur'ah] dia berkata; Aku mendengar [Abu Hurairah] berkata; ""Pada suatu ketika Jibril pernah datang kepada Rasulullah shallallahu 'alaihi wasallam sambil berkata; Ya Rasulullah ini dia Khadijah. Ia datang kepada engkau dengan membawa wadah berisi lauk pauk (baik itu makanan ataupun minuman). Oleh karena itu"
+"6274","Telah menceritakan kepada kami [Muhammad bin 'Abdillah bin Numair]; Telah menceritakan kepada kami [Bapakku] dan [Muhammad bin Bisyr Al 'Abdi] dari [Isma'il] dia berkata; Aku bertanya kepada [Abdullah bin Abu Aufa]; ""Apakah Rasulullah shallallahu 'alaihi wasallam memberi kabar gembira kepada Khadijah dengan sebuah rumah di surga untuknya? Dia menjawab; 'Ya'. Beliau memberi kabar gembira kepadanya dengan sebuah rumah di surga yang terbuat dari permata"
+"6276","Telah menceritakan kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam memberi kabar gembira kepada Khadijah binti Khuwailid dengan sebuah rumah di surga"
+"6277","Telah menceritakan kepada kami [Abu Kuraib Muhammad Al A'laa]; Telah menceritakan kepada kami [Abu Usamah]; Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; Saya tidak cemburu kepada seorang wanitapun"
+"6278","Telah menceritakan kepada kami [Sahl bin 'Utsman]; Telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dia berkata; Saya tidak pernah merasa cemburu kepada para istri Rasulullah shallallahu 'alaihi wasallam yang lain kecuali kepada Khadijah"
+"6280","Telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] dia berkata; Saya tidak pernah merasa cemburu kepada para istri Rasulullah shallallahu 'alaihi wasallam yang lain kecuali kepada Khadijah"
+"6281","Telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] dia berkata; ""Nabi shallallahu 'alaihi wasallam tidak pernah menikah lagi dengan wanita lain untuk memadu khadijah"
+"6282","Telah menceritakan kepada kami [Suwaid bin Sa'id]; Telah menceritakan kepada kami ['Ali bin Mushir] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; ""Halah binti Khuwailid"
+"6283","Telah menceritakan kepada kami [Khalaf bin Hisyam] dan [Abu Ar Rabi'] seluruhnya dari [Hammad bin Zaid] dan lafazh ini milik Abu Ar Rabi'; Telah menceritakan kepada kami [Hammad]; Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam pernah bersabda: ""Hai Aisyah"
+"6285","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dia berkata; Aku mendapatkan Hadits di dalam bukuku dari [Abu Usamah]; Telah menceritakan kepada kami [Hisyam]; Demikian juga diriwayatkan dari jalur lainnya"
+"6287","Telah menceritakan kepada kami [Yahya bin Yahya] Telah mengabarkan kepada kami [Abdul 'Aziz bin Muhammad] dari [Hisyam bin Urwah] dari [Bapaknya] dari [Aisyah] dia berkata; bahwasanya pada suatu hari dia sedang bermain-main bersama anak-anak perempuan di sisi Rasulullah shallallahu 'alaihi wasallam. Aisyah berkata; Pada saat itu teman-teman mendatangi saya. Akan tetapi"
+"6289","Telah menceritakan kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Abdah] dari [Hisyam] dari [Bapaknya] dari [Aisyah] bahwasanya orang-orang berlomba-lomba memberikan hadiah dan kado yang berharga pada hari pernikahan Aisyah karena mengharap keridhaan Rasulullah shallallahu 'alaihi wasallam"
+"6292","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dia berkata; Aku mendapatkan di dalam bukuku"
+"6293","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari apa yang telah di bacakan kepadanya dari [Hisyam bin 'Urwah] dari ['Abbad bin 'Abdullah bin Az Zubair] dari ['Aisyah] bahwa dia telah mengabarkan kepadanya"
+"6295","Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] dari ['Urwah] dari ['Aisyah] dia berkata; Aku pernah mendengar bahwa seorang nabi tidak akan meninggal hingga dia di suruh memilih antara dunia dan akhirat. Aisyah berkata; Kemudian ketika Nabi shallallahu 'alaihi wasallam sakit yang menyebabkan kematiannya"
+"6298","Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali]; Dan telah menceritakan kepada kami ['Abad bin Humaid] seluruhnya dari [Abu Nu'aim] berkata; ['Abad] Telah menceritakan kepada kami [Abu Nu'aim]; Telah menceritakan kepada kami ['Abdul Wahid bin Aiman]; Telah menceritakan kepadaku [Ibnu Abu Mulaikah] dari [Al Qasim bin Muhammad] dari ['Aisyah] dia berkata; ""Apabila Rasulullah shallallahu 'alaihi wasallam hendak bepergian"
+"6300","Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] Telah menceritakan kepada kami [Sulaiman] yaitu Ibnu Bilal dari [Abdullah bin Abdurrahman] dari [Anas bin Malik] dia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: ""Keutamaan Aisyah atas wanita yang lain"
+"6304","Telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; Telah menceritakan kepadaku [Abu Salamah bin 'Abdur Rahman] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam berkata; Rasulullah shallallahu 'alaihi wasallam berkata; ""Hai Aisyah"
+"6305","Telah menceritakan kepada kami ['Ali bin Hujr As Sa'di] dan [Ahmad bin Janab] keduanya dari ['Isa]"
+"6307","Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] dan [Qutaibah bin Sa'id] keduanya dari [Al Laits bin Sa'id]"
+"6308","Telah menceritakan kepadaku [Abu Ma'mar Ismail bin Ibrahim Al Hudzali] Telah menceritakan kepada kami [Sufyan] dari [Amru] dari [Ibnu Abu Mulaikah] dari [Miswar bin Makhramah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sesungguhnya Fatimah adalah bagian dari dagingku"
+"6309","Telah menceritakan kepadaku [Ahmad bin Hanbal]; Telah mengabarkan kepada kami [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami [Bapakku] dari [Al Walid bin Katsir]; Telah menceritakan kepadaku [Muhammad bin 'Amru bin Halhalah Ad Duali] bahwa [Ibnu Syihab] Telah menceritakan kepadanya bahwa ['Ali bin Al Husain] Telah menceritakan kepadanya; bahwa ketika rombongan Ali bin Husan datang ke Madinah"
+"6310","Telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; Telah mengabarkan kepadaku ['Ali bin Husain] bahwa [Al Miswar bin Makhramah]; Telah menceritakan kepadanya bahwasanya Ali bin Abu Thalib pernah melamar putri Abu Jahal ketika ia telah menikah dengan Fatimah binti Rasulullah shallallahu 'alaihi wasallam. Ketika berita tersebut didengar Fatimah"
+"6312","Telah menceritakan kepada kami [Manshur bin Abu Muhazim] Telah menceritakan kepada kami [Ibrahim] yaitu Ibnu Sa'ad dari [Bapaknya] dari [Urwah] dari [Aisyah] Demikian juga diriwayatkan dari jalur lainnya"
+"6313","Telah menceritakan kepada kami [Abu Kamil Al Jahdari Fudhail bin Husain]; Telah menceritakan kepada kami [Abu 'Awanah] dari [Firas] dari ['Amir] dari [Masruq] dari ['Aisyah] dia berkata; 'Suatu ketika para istri Rasulullah shallallahu 'alaihi wasallam sedang berkumpul dan berada di sisi beliau tanpa ada seorang pun yang tidak hadir saat itu. Tak lama kemudian"
+"6314","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Dan telah menceritakan kepada kami ['Abdullah bin Numair] dari [Zakaria]; Demikian juga diriwayatkan dari jalur lainnya"
+"6315","Telah menceritakan kepadaku ['Abdul A'laa bin Hammad] dan [Muhammad bin 'Abdul A'laa Al Qaisi] keduanya dari [Al Mu'tamir]. Berkata [Ibnu Hammad]; Telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dia berkata; aku mendengar [Bapakku]; Telah menceritakan kepada kami [Abu 'Utsman] dari [Salman] dia berkata; ""Jika bisa"
+"6316","Telah menceritakan kepada kami [Mahmud bin Ghailan Abu Ahmad]; Telah menceritakan kepada kami [Al Fadhl bin Musa As Sinani]; Telah mengabarkan kepada kami [Thalhah bin Yahya bin Thalhah] dari ['Aisyah binti Thalhah] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Di antara kalian yang lebih dahulu bertemu denganku di hari kiamat kelak adalah yang paling panjang Iangannya. Aisyah berkata; ""Lalu mereka"
+"6317","Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'laa]; Telah menceritakan kepada kami [Abu Usamah] dari [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas] ia berkata: Rasulullah shallallahu 'alaihi wasallam pernah pergi ke rumah Ummu Aiman"
+"6318","Telah menceritakan kepada kami [Zuhair bin Harb]; Telah mengabarkan kepadaku ['Amru bin 'Ashim Al Kilabi]; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas] dia berkata; Tidak lama setelah Rasulullah shallallahu 'alaihi wasallam wafat"
+"6319","Telah menceritakan kepada kami [Hasan Al Hulwani]; Telah menceritakan kepada kami ['Amru bin 'Ashim]; Telah menceritakan kepada kami [Hammam] dari [Ishaq bin 'Abdillah] dari [Anas] dia berkata; ""Nabi shallallahu 'alaihi wasallam bersabda tidak pernah mengunjungi kaum wanita kecuali para isteri beliau dan Ummu Sulaim. Sesungguhnya Rasulullah pernah mengunjungi Ummu Sulaim. Dan ketika seorang sahabat menanyakan hal itu kepada Rasulullah"
+"6320","Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Bisyr] yaitu Ibnu As Sarii; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: ""Ketika aku masuk ke dalam surga"
+"6321","Telah menceritakan kepadaku [Abu Ja'far Muhammad bin Al Faraj]; Telah menceritakan kepada kami [Zaid bin Al Hubab]; Telah mengabarkan kepadaku ['Abdul 'Aziz bin Abu Salamah]; Telah mengabarkan kepada kami [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdillah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Surga pernah di perlihatkan kepadaku"
+"6322","Telah menceritakan kepadaku [Muhammad bin Hatim bin Maimun]; Telah menceritakan kepada kami [Bahz]; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas] dia berkata; ""Pada suatu ketika seorang putra Abu Thalhah dan istrinya yang bernama Ummu Sulaim"
+"6324","Telah menceritakan kepada kami ['Ubaid bin Ya'isy] dan [Muhammad bin Al A'laa Al Mahdani] keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Abu Hayyan]; Demikian juga diriwayatkan dari jalur lainnya"
+"6325","Telah menceritakan kepada kami [Minjab bin Al Harits At Tamimi] dan [Sahl bin 'Utsman] dan ['Abdullah bin 'Amir bin Zurarah Al Hadhrami] dan [Suwaid bin Sa'id] serta [Walid bin Syuja']. Berkata; [Sahl] dan [Minjab]; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami ['Ali bin Mushir] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] dia berkata; ""ketika turun ayat; ""Tidak ada dosa bagi orang-orang yang beriman dan mengerjakan amalan yang saleh karena memakan makanan yang telah mereka makan dahulu"
+"6326","Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dan [Muhammad bin Rafi'] dan lafazh ini milik Ibnu Rafi'. Berkata [Ishaq]; Telah mengabarkan kepada kami dan berkata [Ibnu Rafi']; Telah menceritakan kepada kami [Yahya bin Adam]; Telah menceritakan kepada kami [Ibnu Abu Zaidah] dari [Bapaknya] dari [Abu Ishaq] dari [Al Aswad bin Yazid] dari [Abu Musa] dia berkata; ""Pada suatu hari"
+"6329","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar]"
+"6330","Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'laa] Telah menceritakan kepada kami [Yahya Ibnu Adam] Telah menceritakan kepada kami [Quthbah] yaitu Ibnu Abdul 'Aziz dari [Al A'masy] dari [Malik bin Al Harits] dari [Abu Al Ahwash] dia berkata; ""Kami pernah berada di rumah Abu Musa beserta beberapa orang sahabat Abdullah bin Mas'ud. Ketika itu mereka sedang menelaah mushaf Al Qur'an. Kemudian Abdullah bin Mas'ud berdiri."" Maka [Abu Mas'ud] berkata; Sepengetahuan saya"
+"6332","Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali]; Telah mengabarkan kepada kami ['Abdah bin Sulaiman]; Telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari ['Abdullah] bahwa ketika ia membaca ayat yang berbunyi: 'Barang siapa berkhianat dalam urusan harta rampasan perang"
+"6333","Telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Yahya bin Adam]; Telah menceritakan kepada kami [Quthbah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari ['Abdullah] dia berkata; ""Demi Dzat yang tidak ada Ilah selain Allah"
+"6334","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin 'Abdullah bin Numair] keduanya berkata; Telah menceritakan kepada kami [Waki']; Telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Masruq] dia berkata; ""Kami mendatangi [Abdullah bin Amru]"
+"6335","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb] serta ['Utsman bin Abu Syaibah] mereka berkata; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa-il] dari [Masruq] dia berkata; suatu ketika kami bersama [Abdullah bin 'Amru]"
+"6338","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Ibrahim] dari [Masruq] dia berkata; ""Para sahabat menyebutkan nama Abdullah bin Mas'ud di hadapan Abdullah bin 'Amru."" Maka [Abdullah bin 'Amru] berkata; 'Itulah orang yang aku sangat mencintainya hingga kini setelah Rasulullah shallallahu 'alaihi wasallam bersabda; ""Dengarkanlah bacaan Al Qur 'an dari empat orang; Dari Ibnu Mas 'ad"
+"6340","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Abu Dawud]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata; ""Aku mendengar [Anas] berkata; ""Pada masa Rasulullah shallallahu 'alaihi wasallam ada empat orang sahabat yang bertugas menghimpun Al Qur'an"
+"6341","Telah menceritakan kepadaku [Abu Dawud Sylaiman bin Ma'bad]; Telah menceritakan kepada kami ['Amru bin 'Ashim]; Telah menceritakan kepada kami [Hammam]; Telah menceritakan kepada kami [Qatadah] dia berkata; Aku bertanya kepada [Anas]; Siapakah yang mengumpulkan Al Qur'an pada masa Rasulullah shallallahu 'alaihi wasallam? Dia menjawab; 'Ada empat"
+"6345","Telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair] bahwasannya Aku mendengar [Jabir bin 'Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda ketika jenazah Sa'ad bin Mu'adz berada dihadapan para sahabat: 'Arsy Allah bergetar atas kematian Sa'ad"
+"6346","Telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami ['Abdullah bin Idris Al Audi]; Telah menceritakan kepada kami [Al A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Arsy Allah bergetar karena kematian Sa'ad"
+"6347","Telah menceritakan kepada kami [Muhammad bin 'Abdullah Ar Ruzzi]; Telah menceritakan kepada kami ['Abdul Wahhab bin 'Athaa Al Khaffaf] dari [Sa'id] dari [Qatadah]; Telah menceritakan kepada kami [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam bersabda tatkala jenazah Sa'ad di letakkan: 'Arsy Allah bergetar atas kematian Sa'ad"
+"6348","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dia berkata; Aku mendengar [Al Bara] berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam diberi hadiah pakaian sutera. Para sahabat memegang-megang kain sutera tersebut dan merasa takjub akan kelembutannya. Maka kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: ""Apakah kalian merasa takjub dengan kelembutan kain ini? Sungguh"
+"6351","Telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami [Yunus bin Muhammad]; Telah menceritakan kepada kami [Syaiban] dari [Qatadah]; Telah menceritakan kepada kami [Anas bin Malik] bahwa suatu ketika Rasulullah shallallahu 'alaihi wasallam diberi hadiah selendang yang terbuat dari sutera tipis"
+"6353","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Affan]; Telah menceritakan kepada kami [Hammad bin Salamah]; Telah menceritakan kepada kami [Tsabit] dari [Anas] bahwa Pada waktu perang Uhud"
+"6354","Telah menceritakan kepada kami ['Ubaidullah bin 'Umar Al Qawariri] dan ['Amru An Naqid] seluruhnya dari [Sufyan] dia berkata; ['Ubaidullah] Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dia berkata; Aku mendengar [Ibnu Al Munkadir] berkata; Aku mendengar Jabir bin Abdullah berkata; Pada hari perang uhud Bapakku dibawa dalam keadaan tertutup oleh kain"
+"6355","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Wahb bin Jarir]; Telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdillah] dia berkata; ""Ayahku terbunuh disaat perang Uhud"
+"6358","Telah menceritakan kepada kami [Ishaq bin 'Umar bin Salith]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Kinanah bin Nu'aim] dari [Abu Barzah] bahwa pada suatu ketika Rasulullah shallallahu 'alaihi wasallam dan kaum muslimin bertempur melawan musuh hingga memperoIeh harta rampasan perang. Usai pertempuran"
+"6359","Telah menceritakan kepada kami [Haddab bin Khalid Al Azdi]; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah]; Telah mengabarkan kepada kami [Humaid bin Hilal] dari ['Abdullah bin Ash Shamit] dia berkata; [Abu Dzar] pernah berkata; 'Dahulu kami telah keluar dari suku kami"
+"6362","Dan telah menceritakan kepadaku [Ibrahim bin Muhammad bin 'Ar'arah As Sami] dan [Muhammad bin Hatim] lafazh keduanya tidak jauh berbeda"
+"6363","Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Khalid bin 'Abdullah] dari [Bayan] dari [Qays bin Abu Hazim] dari [Jarir bin 'Abdullah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6364","Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki'] dan [Abu Usamah] dari [Isma'il]; Demikian juga diriwayatkan dari jalur lainnya"
+"6365","Telah menceritakan kepadaku ['Abdul Hamid bin Bayan]; Telah mengabarkan kepada kami [Khalid] dari [Bayan] dari [Qais] dari [Jarir] dia berkata; Pada masa Jahiliyah ada sebuah rumah yang diberi nama Dzul Khalshah"
+"6366","Telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Jarir] dari [Isma'il bin Abu Khalid] dari [Qays bin Abu Hazim] dari [Jarir bin 'Abdullah Al Bajali] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam berkata kepada saya: ""Wahai Jarir"
+"6368","Telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Bakr bin An Nadhr] keduanya berkata; Telah menceritakan kepada kami [Hasyim bin Al Qasim]; Telah menceritakan kepada kami [Warqa bin 'Umar Al Yasykuri] dia berkata; Aku mendengar ['Ubaidullah bin Abu Yazid] bercerita dari [Ibnu Abbas] bahwasanya pada suatu ketika Rasulullah shallallahu 'alaihi wasallam masuk ke kamar kecil. Kemudian saya pun menyiapkan wadah berisi air untuk beliau. Ketika keluar dari kamar kecil"
+"6369","Telah menceritakan kepada kami [Abu Ar Rabi' Al 'Ataki] dan [Khalaf bin Hisyam] dan [Abu Kamil Al Jahdari] seluruhnya dari [Hammad bin Zaid]. [Abu Ar Rabi'] berkata; Telah menceritakan kepada kami [Hammad bin Zaid]; Telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu 'Umar] dia berkata; Aku bermimpi seakan-akan ditanganku ada seutas kain sutra. Dan tidaklah suatu tempat yang aku inginkan disurga"
+"6370","Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abad bin Humaid] dan lafazh ini milik 'Abad dia berkata; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu 'Umar] dia berkata; 'Apabila ada seseorang yang bermimpi"
+"6372","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] Aku mendengar [Qatadah] bercerita dari [Anas] dari [Ummu Sulaim] dia berkata; 'Ya Rasulullah"
+"6375","Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Hasyim bin Al Qasim]; Telah menceritakan kepada kami [Sulaiman] dari [Tsabit] dari [Anas] dia berkata; 'Suatu ketika Nabi shallallahu 'alaihi wasallam menemui kami. Pada waktu itu di rumah hanya ada saya"
+"6376","Telah menceritakan kepadaku [Abu Ma'an Ar Raqasyi]; Telah menceritakan kepada kami ['Umar bin Yunus]; Telah menceritakan kepada kami ['Ikrimah]; Telah menceritakan kepada kami [Ishaq]; Telah menceritakan kepada kami [Anas] dia berkata; Pada suatu hari saya bersama ibuku datang kepada Rasulullah shallallahu 'alaihi wasallam. Ibuku menyelimutiku dengan separuh kerudungnya dan separuhnya lagi untuk menyelendangi saya. Ibuku berkata; 'Ya Rasulullah"
+"6377","Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Ja'far] yaitu Ibnu Sulaiman dari [Al Ja'ad Abu 'Utsman] dia berkata; Telah menceritakan kepada kami [Anas bin Malik] dia berkata; Suatu hari Rasulullah berjalan lewat rumah kami. Kebetulan ibu saya"
+"6378","Telah menceritakan kepada kami [Abu Bakr bin Nafi']; Telah menceritakan kepada kami [Bahz]; Telah menceritakan kepada kami [Hammad]; Telah mengabarkan kepada kami [Tsabit] dari [Anas] dia berkata; Saya pernah didatangi oleh Rasulullah shallallahu 'alaihi wasallam ketika saya sedang bermain dengan teman-teman yang lain. Kemudian beliau mengucapkan salam kepada kami dan menyuruh saya untuk suatu keperluan hingga saya terlambat pulang ke rumah. Sesampainya di rumah. ibu bertanya kepada saya; 'Mengapa kamu terlambat pulang? Maka saya pun menjawab; 'Tadi saya disuruh oleh Rasulullah untuk suatu keperluan.' Ibu saya terus bertanya; 'Keperluan apa? ' Saya menjawab; 'Itu rahasia.' Ibu saya berkata; ""Baiklah"
+"6379","Telah menceritakan kepada kami [Hajjaj bin Asy Sya'ir]; Telah menceritakan kepada kami ['Arim bin Al Fadhl]; Telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dia berkata; Aku mendengar [Bapakku] bercerita dari [Anas bin Malik] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam menyampaikan suatu perkara rahasia kepadaku hingga setelah itu aku tidak menceritakannya kepada siapapun. Dan sungguh Ummu Sulaim pun bertanya tentang rahasia tersebut"
+"6380","Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Ishaq bin 'Isa]; Telah menceritakan kepadaku [Malik] dari [Abu An Nadhr] dari ['Amir bin Sa'ad] dia berkata; Aku mendengar [Bapakku] berkata; Saya tidak pernah mendengar Rasulullah berkata kepada seorang yang masih hidup"
+"6381","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna Al 'Anbari]; Telah menceritakan kepada kami [Mu'adz bin Mu'adz]; Telah menceritakan kepada kami ['Abdullah bin 'Aun] dari [Muhammad bin Sirin] dari [Qais bin 'Ubad] dia berkata; Pada suatu hari aku berada di Madinah bersama orang-orang yang di antara mereka terdapat sahabat Nabi shallallahu 'alaihi wasallam. lalu seseorang datang dan di wajahnya terdapat tanda kekhusyu'an. Orang-orang berkata; Orang itu termasuk penghuni surga"
+"6382","Telah menceritakan kepada kami [Muhammad bin 'Amru bin 'Abbad bin Jabalah bin Abu Rawwad]; Telah menceritakan kepada kami [Harami bin 'Umarah]; Telah menceritakan kepada kami [Qurrah bin Khalid] dari [Muhammad bin Sirin] dia berkata; [Qais bin 'Ubad] berkata; Pada suatu hari aku berada di sebuah majlis yang di dalamnya terdapat Sa'ad bin Malik"
+"6383","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ishaq bin Ibrahim] dan lafazh ini milik Qutaibah; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Sulaiman bin Mushir] dari [Kharasyah bin Al Hurr] dia berkata; ""Saya pernah duduk pada suatu halaqah di dalam masjid Madinah yang dipandu oleh seorang syaikh yang berpenampilan menarik"
+"6384","Telah menceritakan kepada kami ['Amru An Naqid] dan [Ishaq bin Ibrahim] dan [Ibnu Abu 'Umar] seluruhnya dari [Sufyan] dia berkata; ['Amru] Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] bahwasanya Umar bin Khaththab pernah berjalan melewati [Hassan] yang sedang melantunkan sya'ir di Masjid. Lalu Umar menegurnya dengan pandangan mata. Tetapi Hassan berkata; ""Dulu saya pernah melantunkan syair di Masjid ini"
+"6386","Telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; Telah mengabarkan kepadaku [Abu Salamah bin 'Abdur Rahman] bahwa dia mendengar [Hassan bin Tsabit Al Anshari] meminta persaksian [Abu Hurairah] seraya berkata; ""Saya bersumpah kepadamu dengan nama Allah hai Abu Hurairah"
+"6387","Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari ['Adi] yaitu Ibnu Tsabit dia berkata; 'Aku mendengar [Al Barra bin 'Azib] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam berkata kepada Hassan bin Tsabit; 'Hinakanlah orang-orang kafir dengan syairmu hai Hassan! Sesungguhnya Jibril selalu menyertaimu."" Telah menceritakannya kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami ['Abdur Rahman]; Demikian juga diriwayatkan dari jalur lainnya"
+"6389","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] bahwa Hassan bin Tsabit adalah termasuk orang yang sering memuji Aisyah"
+"6391","Telah menceritakan kepadaku [Bisyr bin Khalid]; Telah mengabarkan kepada kami [Muhammad] yaitu Ibnu Ja'far dari [Syu'bah] dari [Sulaiman] dari [Abu Adh Dhuha] dari [Masruq] dia berkata; Saya pernah berkunjung ke rumah [Aisyah] yang pada saat itu ada Hassan bin Tsabit sedang melantunkan beberapa bait syairnya yang memuji Aisyah"
+"6393","Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Yahya bin Zakaria] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dia berkata; Hassan berkata; Ya Rasulullah! Izinkanlah saya melawan Abu Sufyan dengan dengan bait syairku. Rasulullah menjawab; bagaimana kalau kamu lawan dia mengenai kekerabatanku dengannya? Hassan berkata; Demi Dzat yang telah memuliakan engkau"
+"6395","Telah menceritakan kepada kami ['Abdul Malik bin Syu'aib bin Al Laits]; Telah menceritakan kepadaku [Bapakku] dari [Kakekku]; Telah menceritakan kepadaku [Khalid bin Yazid]; Telah menceritakan kepadaku [Sa'id bin Abu Hilal] dari ['Umarah bin Ghaziyyah] dari [Muhammad bin Ibrahim] dari [Abu Salamah bin 'Abdur Rahman] dari ['Aisyah] bahwasanya Rasulullah shallallahu 'alaihi wasallam telah bersabda: ""Cacilah kaum kafir Quraisyy dengan syair"
+"6396","Telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami ['Umar bin Yunus Al Yamami]; Telah menceritakan kepada kami ['Ikrimah bin 'Ammar] dari [Abu Katsir Yazid bin 'Abdur Rahman]; Telah menceritakan kepadaku [Abu Hurairah] dia berkata; 'Dulu"
+"6397","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] seluruhnya dari [Sufyan] dia berkata; [Zuhair] Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Al A'raj] dia berkata; aku mendengar [Abu Hurairah] berkata; ""Kalian mengira bahwa Abu Hurairah adalah orang yang paling banyak meriwayatkan hadits dari Rasulullah Shallallahu 'alaihi wa Salam"
+"6401","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]"
+"6403","Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga diriwayatkan dari jalur lainnya"
+"6404","Telah menceritakan kepadaku [Harun bin 'Abdullah]; Telah menceritakan kepada kami [Hajjaj bin Muhammad] berkata; [Ibnu Juraij] berkata; Telah mengabarkan kepadaku [Abu Az Zubair] bahwasannya Aku mendengar [Jabir bin 'Abdullah] dia berkata; Telah mengabarkan kepadaku [Ummu Mubasysyir]"
+"6405","Telah menceritakan kepada kami [Abu 'Amir Al Asy'ari] dan [Abu Kuraib] seluruhnya dari [Abu Usamah] berkata; [Abu 'Amir] Telah menceritakan kepada kami [Abu Usamah]; Telah menceritakan kepada kami [Buraid] dari [Kakeknya Abu Burdah] dari [Abu Musa] dia berkata; ""Saya pernah berada di sisi Rasulullah shallallahu 'alaihi wasallam ketika beliau tengah singgah bersama Bilal di Ji'ranah"
+"6406","Telah menceritakan kepada kami ['Abdullah bin Barrad Abu 'Amir Al Asy'ari] dan [Abu Kuraib Muhammad bin Al A'laa] lafazh ini milik Abu 'Amir dia berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Bapaknya] dia berkata; ""Usai perang Hunain"
+"6407","Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al Allaa] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Buraid] dari [Abu Burdah] dari [Abu Musa] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya saya mengenali alunan suara kaum Asy'ariyyin yang membaca Al Qur'an ketika mereka memasuki waktu malam hari. Dan saya mengenali rumah-rumah mereka dan alunan suara mereka ketika membaca Al Qur'an pada malam hari"
+"6408","Telah menceritakan kepada kami [Abu Amir Al Asy'ari] dan [Abu Kuraib] seluruhnya dari [Abu Usamah]"
+"6409","Telah menceritakan kepadaku [Abbas bin Abdul Adhim Al Anbari] dan [Ahmad bin Ja'far Al Ma'qiri] keduanya berkata; Telah menceritakan kepada kami [An Nadhr] yaitu Ibnu Muhammad Al Yamami Telah menceritakan kepada kami [Ikrimah] Telah menceritakan kepada kami [Abu Zumail] Telah menceritakan kepadaku [Ibnu Abbas] dia berkata; 'Dulu kaum muslimin tidak menghargai dan tidak memberikan kedudukan yang layak bagi Abu Sufyan. Oleh karena itu"
+"6411","Telah menceritakan kepada kami [Abdullah bin Barrad Al Asy'ari] dan [Muhammad bin Al Allaa Al Hamdani] keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepadaku [Buraid] dari [Abu Burdah] dari [Abu Musa] dia berkata; ""Ketika kami sedang berada di Yaman"
+"6412","Telah menceritakan kepada kami [Muhammad bin Hatim]; Telah menceritakan kepada kami [Bahz]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Mu'awiyah bin Qurrah] dari [A'idz bin'Amru] bahwa Abu Sufyan pernah mendatangi Salman"
+"6413","Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dan [Ahmad bin 'Abdah]"
+"6416","Telah menceritakan kepadaku [Abu Ma'an Ar Raqasyi]; Telah menceritakan kepada kami ['Umar bin Yunus]; Telah menceritakan kepada kami ['Ikrimah] yaitu Ibnu 'Ammar; Telah menceritakan kepada kami [Ishaq] yaitu Ibnu 'Abdullah bin Abu Thalhah bahwa [Anas] menceritakan kepadanya; Rasulullah shallallahu 'alaihi wasallam pernah memohonkan ampun bagi kaum Anshar. Saya mengira dia mengatakan"
+"6417","Telah menceritakan kepadaku [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] seluruhnya dari [Ibnu 'Ulayyah] dan lafazh ini milik Zuhair; Telah menceritakan kepada kami [Isma'il] dari ['Abdul 'Aziz] yaitu Ibnu Shuhaib dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam pernah melihat anak-anak dan kaum wanita Anshar pulang dari pesta pernikahan. Setelah itu beliau berdiri sambil mengucapkan; ""Ya Allah"
+"6418","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] ban [Ibnu Basysyar] seluruhnya dari [Ghundar]"
+"6420","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah mengabarkan kepada kami [Syu'bah] Aku mendengar [Qatadah] bercerita dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya orang-orang Anshar adalah penjaga rahasiaku dan menjadi kesayanganku serta pembelaku"
+"6421","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] Aku mendengar [Qatadah] bercerita dari [Anas bin Malik] dari [Abu Usaid] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sebaik-baik kabilah Anshar adalah Bani Najjar"
+"6424","Telah menceritakan kepada kami [Muhammad bin 'Abbad] dan [Muhammad bin Mihran Ar Razi] dan lafazh ini milik Ibnu 'Abbad; Telah menceritakan kepada kami [Hatim] yaitu Ibnu Isma'il dari ['Abdur Rahman bin Humaid] dari [Ibrahim bin Muhammad bin Thalhah] dia berkata; ""Aku mendengar [Abu Usaid] berkata di hadapan Ibnu Uthbah katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sebaik-baik kabilah Anshar adalah Bani Najjar"
+"6425","Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] Telah mengabarkan kepada kami [Al Mughirah bin Abdurrahman] dari [Abu Zinad] dia berkata; [Abu Salamah] menyaksikan [Abu Usaid Al Anshari] bahwa dia melihat Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sebaik-baik kabilah Anshar adalah Bani Najjar"
+"6427","Dan telah menceritakan kepadaku ['Amru An Naqid] dan ['Abad bin Humaid] keduanya berkata; Telah menceritakan kepada kami [Ya'qub] yaitu Ibnu Ibrahim bin Sa'ad; Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab] dia berkata; [Abu Salamah] dan ['Ubaidullah bin 'Abdullah bin 'Utbah bin Mas'ud] berkata mengenai apa yang mereka dengar dari [Abu Hurairah]"
+"6428","Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami] dan [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] seluruhnya dari [Ibnu 'Ar'arah] dan lafazh ini milik Jahdhami; Telah menceritakan kepadaku [Muhammad bin 'Ar'arah]; Telah menceritakan kepada kami [Syu'bah] dari [Yunus bin 'Ubaid] dari [Tsabit Al Bunani] dari [Anas bin Malik] dia berkata; 'Saya pernah bepergian bersama Jarir bin Abdullah Al Bajali dan dia melayani segala keperluan saya. Lalu saya berkata kepadanya; ""Hai Jarir"
+"6429","Telah menceritakan kepada kami [Haddab bin Khalid]; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah]; Telah menceritakan kepada kami [Humaid bin Hilal] dari ['Abdullah bin Ash Shamit] dia berkata; [Abu Dzar] berkata; ""Semoga Allah memberi ampunan kepada suku Ghifar. Dan semoga Allah memberi kedamaian kepada suku Aslam"
+"6430","Telah menceritakan kepada kami [""ubaidullah bin 'Umar Al Qawariri] dan [Muhammad bin Al Mutsanna] serta [Ibnu Basysyar] seluruhnya dari [Ibnu Mahdi] dia berkata; [Ibnu Al Mutsanna] berkata; Telah menceritakan kepadaku ['Abdur Rahman bin Mahdi]; Telah menceritakan kepada kami [Syu'bah] dari [Abu 'Imran Al Jauni] dari ['Abdullah bin Ash Shamit] dari [Abu Dzar] dia berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepadaku; ""Temuilah kaummu dan katakanlah kepada mereka; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: 'Semoga Allah menyelamatkan suku Aslam"
+"6432","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan [Suwaid bin Sa'id] dan [Ibnu Abu 'Umar] mereka berkata; Telah menceritakan kepada kami ['Abdul Wahhab Ats Tsaqafi] Dan telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6433","Dan telah menceritakan kepadaku [Husain bin Huraits]; Telah menceritakan kepada kami [Al Fadhl bin Musa] dari [Khutsaim bin 'Irak] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: ""Semoga Allah memberi kedamaian kepada suku Aslam dan semoga Allah memberi ampunan kepada suku Ghifar. Ini bukan aku yang mengucapkannya"
+"6434","Telah menceritakan kepadaku [Abu Ath Thahir]; Telah menceritakan kepada kami [Ibnu Wahb] dari [Ibnu Al Laits] dari ['Imran bin Abu Anas] dari [Hanzhalah bin 'Ali] dari [Khufaf bin Iman Al Ghifari] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengucapkan doa di dalam shalatnya yang berbunyi: Ya Allah laknatilah Bani Lihyan"
+"6436","Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr]. [Yahya bin Yahya] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Isma'il bin Ja'far] dari ['Abdullah bin Dinar] bahwa dia mendengar [Ibnu Umar] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Semoga Allah Subhanahu wa Ta'ala mengampuni Bani Ghifar dan memberi kedamaian kepada Bani Aslam. Sedangkan 'Ushayyah"
+"6438","Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Yazid] yaitu Ibnu Harun; Telah mengabarkan kepada kami [Abu Malik Al Asja'i] dari [Musa bin Thalhah] dari [Abu Ayyub] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Orang-orang Islam dari kaum Anshar"
+"6439","Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Sufyan] dari [Sa'ad bin Ibrahim] dari ['Abdur Rahman bin Hurmuz Al A'raj] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Orang-orang Islam dari kaum Quraisyy"
+"6441","Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata; [Ibnu Al Mutsanna] Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] dia berkata; Aku mendengar [Abu Salamah] bercerita dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: ""Kabilah Aslam"
+"6442","Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakankepada kami [Al Mughirah] yaitu Al Hizami dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] Rasulullah shallallahu 'alaihi wasallam bersabda: Demikian juga diriwayatkan dari jalur lainnya"
+"6443","Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ya'qub Ad Dauraqi] keduanya berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu 'Ulayyah; Telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Pada hari kiamat Aslam"
+"6444","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Ghundar] dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6446","Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari ['Abdur Rahman bin Abu Bakrah] dari [Bapaknya] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: ""Suku Aslam"
+"6448","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] lafazh ini milik Abu Bakr. Keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari ['Abdul Malik bin 'Umair] dari ['Abdur Rahman bin Abu Bakrah] dari [Bapaknya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Bagaimana pendapatmu jika kabilah Juhainah"
+"6450","Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Al Mughirah bin 'Abdur Rahman] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dia berkata; ""Thufail dan para sahabatnya mendatangi Rasulullah lalu berkata; Ya Rasulullah"
+"6453","Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Al Mughirah] dari [Al Harits] dari [Abu Zur'ah] dia berkata; [Abu Hurairah] berkata; 'Saya akan senantiasa cinta kepada Bani Tamim"
+"6454","Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah menceritakan kepadaku [Sa'id bin Al Musayyab] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: ""Kalian akan mendapatkan manusia bagaikan barang tambang. Mereka yang pernah menjadi orang-orang yang terbaik pada masa jahiliah akan menjadi orang-orang yang terbaik pula pada masa Islam jika mereka memahaminya (ajaran Islam). Selain itu kalian juga akan menjumpai orang-orang yang tergolong baik"
+"6456","Telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6458","Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah menceritakan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] berkata; 'Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Para wanita Quraisyy adalah sebaik-baik wanita dalam mengendarai unta"
+"6460","Telah menceritakan kepadaku [Muhammad bin Rafi'] dan ['Abad bin Humaid] keduanya. [Ibnu Rafi'] berkata; Telah menceritakan kepada kami. Sedangkan ['Abad] berkata; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [Bapaknya] dari [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6462","Telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir]; Telah menceritakan kepada kami ['Abdush Shamad]; Telah menceritakan kepada kami [Hammad] yaitu Ibnu Salamah dari [Tsabit] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mempersaudarakan antara Abu Ubaidah bin Jarrah dengan Abu Thalhah"
+"6463","Telah menceritakan kepadaku [Abu Ja'far Muhammad bin Ash Shabah]; Telah menceritakan kepada kami [Hafsh bin Ghiyats]; Telah menceritakan kepada kami ['Ashim Al Ahwal] dia berkata; ""Seseorang pernah bertanya kepada [Anas bin Malik]; 'Apakah kamu pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak ada perjanjian persahabatan (persekutuan dalam Islam)?.' Anas menjawab; ""Rasulullah shallallahu 'alaihi wasallam pernah mengadakan perjanjian persahabatan antara muslimin Quraisyy dengan kaum muslimin Anshar di rumah beliau"
+"6464","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin 'Abdullah bin Numair] keduanya berkata; Telah menceritakan kepada kami ['Abdah bin Sulaiman] dari ['Ashim] dari [Anas] dia berkata; Rasulullah shallallahu 'alaihi wasallam mempersekutukan antara Quraisy dan Anshar di rumah beliau"
+"6465","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdullah bin Numair] dan [Abu Usamah] dari [Zakaria] dari [Sa'ad bin Ibrahim] dari [Bapaknya] dari [Jubair bin Muth'im] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak ada perjanjian persahabatan (persekutuan) -yang melanggar syari'at- di dalam Islam. karena"
+"6466","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan ['Abdullah bin 'Umar bin Aban] seluruhnya dari [Husain] dia berkata; [Abu Bakr] Telah menceritakan kepada kami [Husain bin 'Ali Al Ju'fi] dari [Mujamma' bin Yahya] dari [Sa'id bin Abu Burdah] dari [Abu Burdah] dari [Bapaknya] dia berkata; ""Kami pernah melaksanakan shalat berjama'ah bersama Rasulullah shallallahu 'alaihi wasallam. Kemudian kami berkata; 'Sebaiknya kami duduk bersama Rasulullah shallallahu 'alaihi wasallam sambil menunggu waktu shalat Isya'. Bapak Abu Burdah berkata; 'Kami duduk-duduk di masjid"
+"6467","Telah menceritakan kepada kami [Abu Khaitsamah Zuhair bin Harb] dan [Ahmad bin 'Abdah Adh Dhabi] dan lafazh ini milik Zuhair dia berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dia berkata; ' [Amru] mendengar [Jabir] mengabarkan dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: ""Akan datang pada manusia suatu zaman"
+"6468","Telah menceritakan kepadaku [Sa'id bin Yahya bin Sa'id Al Umawi]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir] dia berkata; [Abu Said Al Khudri] berkata; ""Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Akan datang suatu masa yang ketika itu seseorang sedang dicari-cari untuk memimpin ekspedisi pasukan.' Orang-orang akan berkata; 'Carilah apakah kalian dapatkan seorang sahabat Rasulullah shallallahu 'alaihi wasallam? ' Akhirnya ditemukanlah seorang sahabat Rasulullah"
+"6469","Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Hannad bin As Sari] keduanya berkata; Telah menceritakan kepada kami [Abu Al Ahwash] dari [Manshur] dari [Ibrahim bin Yazid] dari ['Abidah As Salmani] dari ['Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sebaik-baik umatku adalah pada masa setelahku"
+"6470","Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim Al Hanzhali]"
+"6472","Dan telah menceritakan kepadaku [Al Hasan bin 'Ali Al Hulwani]; Telah menceritakan kepada kami [Azhar bin Sa'ad As Samman] dari [Ibnu 'Aun] dari [Ibrahim] dari ['Abidah] dari ['Abdullah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: ""Sebaik-baik manusia adalah generasiku"
+"6473","Telah menceritakan kepadaku [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami [Husyaim] dari [Abu Bisyr]; Demikian juga diriwayatkan dari jalur lainnya"
+"6475","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] serta [Ibnu Basysyar] seluruhnya dari [Ghundar]. [Ibnu Al Mutsanna] berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah]; Aku mendengar [Abu Jamrah]; Telah menceritakan kepadaku [Zahdam bin Madharrib]; Aku mendengar ['Imran bin Hushain] bercerita bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: ""Sebaik-baik kalian adalah orang yang hidup pada masaku. Kemudian orang-orang pada masa berikutnya. Kemudian orang-orang pada masa berikutnya. Kemudian orang-orang pada masa berikutnya."" Imran berkata; 'Saya tidak tahu apakah Rasulullah shallallahu 'alaihi wasallam menyebutkan 'orang-orang sesudah masa beliau' dua atau tiga kali.' Setelah itu akan datang orang-orang yang memberikan kesaksian padahal mereka tidak dimintai kesaksian. Mereka berkhianat dan tidak dapat dipercaya. Mereka bernazar tanpa meIaksanakannya dan diantara mereka tampak gemuk. Telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Yahya bin Sa'id]; Demikian juga diriwayatkan dari jalur lainnya"
+"6478","Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Syuja' bin Makhlad] dan lafazh ini milik Abu Bakr dia berkata; Telah menceritakan kepada kami [Hushain] yaitu Ibnu 'Ali Al Ju'fi dari [Za'idah] dari [As Suddi] dari ['Abdullah bin Al Bahi] dari ['Aisyah] dia berkata; seseorang bertanya kepada Nabi shallallahu 'alaihi wasallam; 'Siapakah sebaik-baik manusia? ' beliau menjawab: ""Yaitu masa yang aku hidup di dalamnya"
+"6479","Telah menceritakan kepada kami [Muhammad bin Rafi'] dan ['Abad bin Humaid]. [Muhammad bin Rafi'] berkata; Telah menceritakan kepada kami. Sedangkan ['Abad] berkata; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri]; Telah mengabarkan kepadaku [Salim bin 'Abdullah] dan [Abu Bakr bin Sulaiman] bahwa ['Abdullah bin 'Umar] berkata; ""Pada suatu malam"
+"6481","Telah menceritakan kepadaku [Harun bin 'Abdullah] dan [Hajjaj bin Asy Sya'ir] keduanya berkata; Telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata; Berkata [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair] bahwasannya dia mendengar [Jabir bin 'Abdullah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda sebulan sebelum wafatnya: ""Kalian menanyakan kepadaku tentang Hari Kiamat"
+"6483","Telah menceritakan kepadaku [Yahya bin Habib] dan [Muhammad bin Abdul A'laa] seluruhnya dari [Al Mu'tamir]. [Ibnu Habib] berkata; Telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dia berkata; Aku mendengar [Bapakku]"
+"6485","Telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Abu Khalid] dari [Dawud] dan lafazh ini miliknya; Demikian juga diriwayatkan dari jalur lainnya"
+"6486","Telah menceritakan kepadaku [Ishaq bin Manshur]; Telah mengabarkan kepada kami [Abu Al Walid]; Telah mengabarkan kepada kami [Abu 'Awanah] dari [Hushain] dari [Salim] dari [Jabir bin 'Abdullah] dia berkata; Nabiyullah shallallahu 'alaihi wasallam bersabda: ""Orang-orang yang hidup masanya tidak akan lebih dari seratus tahun. Salim berkata; 'Kami ingat hal itu"
+"6487","Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Abu Bakr bin Abu Syaibah] serta [Muhammad bin Al A'laa]. [Yahya] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Janganlah kalian mencaci maki para sahabatku! Janganlah kalian mencaci maki para sahabatku! Demi Dzat yang jiwaku ditangan-Nya"
+"6488","Telah menceritakan kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] dia berkata; suatu ketika di antara Khalid bin Walid dan 'Abdur Rahman bin 'Auf ada sedikit permasalahan. Lalu Khalid mencelanya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: ""Janganlah kalian mencela seseorang dari sahabatku"
+"6490","Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Hasyim bin Al Qasim]; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah]; Telah menceritakan kepadaku [Sa'id Al Jurairi] dari [Abu Nadhrah] dari [Usair bin Jabir] bahwa penduduk Kufah mengutus beberapa utusan kepada [Umar bin Khaththab]"
+"6492","Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dan [Muhammad bin Al Mutsanna] serta [Muhammad bin Basysyar]. [Ishaq] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami. Lafazh ini milik [Ibnu Al Mutsanna]; Telah menceritakan kepada kami [Mu'adz Ibnu Hisyam]; Telah menceritakan kepadaku [Bapakku]; dari [Qatadah] dari [Zurarah bin Aufa] dari [Usair bin Jabir] dia berkata; ""Ketika [Umar bin Khaththab] didatangi oleh rombongan orang-orang Yaman"
+"6493","Telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Harmalah]; Demikian juga diriwayatkan dari jalur lainnya"
+"6494","Telah menceritakan kepadaku [Zuhair bin Harb] dan ['Ubaidullah bin Sa'id] keduanya berkata; Telah menceritakan kepada kami [Wahb bin Jarir]; Telah menceritakan kepada kami [Bapakku]; Aku mendengar [Harmalah Al Mishri] bercerita dari ['Abdur Rahman bin Syimamah] dari [Abu Bashrah] dari [Abu Dzar] dia berkata; ""Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Sesungguhnya kamu sekalian (kaum Muslimin) pasti akan dapat menaklukkan negeri Mesir"
+"6495","Telah menceritakan kepada kami [Sa'id Al Manshur]; Telah menceritakan kepada kami [Mahdi bin Maimun] dari [Abu Al Wazi' Jabir bin 'Amru Ar Rabisi]; Aku mendengar [Abu Barzah] berkata; ""RasuIuIlah shallallahu 'alaihi wasallam menugaskan seorang sahabat untuk berdakwah ke salah satu perkampungan Arab. Tetapi"
+"6496","Telah menceritakan kepada kami ['Uqbah bin Mukram Al 'Ammi]; Telah menceritakan kepada kami [Ya'qub] yaitu Ibnu Ishaq Al Hadhrami; Telah mengabarkan kepada kami [Al Aswad bin Syaiban] dari [Abu Naufal] dia berkata; ""Saya pernah melihat Abdullah bin Zubair disalib di suatu perbukitan antara Madinah dan Makkah. OIeh karena itu"
+"6497","Telah menceritakan kepadaku [Muhammad bin Rafi'] dan ['Abad bin Humaid] keduanya berkata; ['Abad] Telah mengabarkan kepada kami dan berkata [Ibnu Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Ja'far Al Jazari] dari [Yazid bin Al Asham] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Seandainya agama ini berada di tempat bintang-bintang di langit"
+"6498","Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Muhammad dari [Tsaur] dari [Abu Al Ghaits] dari [Abu Hurairah] dia berkata; ""Ketika kami sedang duduk di sisi Rasulullah shallallahu 'alaihi wasallam"
+"6499","Telah menceritakan kepadaku [Muhammad bin Rafi'] dan ['Abad bin Humaid] dan lafazh ini milik Muhammad dia berkata; ['Abad] Telah mengabarkan kepada kami dan berkata [Ibnu Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu 'Umar] dia berkata; ""RasululIah shallallahu 'alaihi wasallam telah bersabda: 'Kalian akan mendapati manusia bagaikan seratus unta yang tidak ada seekor pun dapat ditungganginya"

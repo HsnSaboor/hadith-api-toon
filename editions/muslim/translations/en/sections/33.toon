@@ -1,258 +1,397 @@
-hadiths[257]{hadithnumber,text}:
-4701,1818.01
-4702,1818.02
-4703,1819
-4704,1820
-4705,1821.01
-4706,1821.02
-4707,1821.03
-4708,1821.04
-4709,1821.05
-4710,1821.06
-4711,1822.01
-4712,1822.02
-4713,1823.01
-4714,1823.02
-4715,1652.03
-4716,1652.04
-4717,1733.03
-4718,1733.04
-4719,1825
-4720,1826
-4721,1827
-4722,1828.01
-4723,1828.02
-4724,1829.01
-4727,1829.04
-4728,1829.05
-4729,142.05
-4730,142.06
-4731,142.07
-4732,142.08
-4733,1830
-4734,1831.01
-4735,1831.02
-4736,1831.03
-4737,1831.04
-4738,1832.01
-4739,1832.02
-4740,1832.03
-4741,1832.04
-4742,1832.05
-4743,1833.01
-4744,1833.02
-4745,1833.03
-4746,1834
-4749,1835.03
-4750,1835.04
-4751,1835.05
-4752,1835.06
-4753,1835.07
-4754,1836
-4755,1837.01
-4756,1837.02
-4757,1837.03
-4758,1838.01
-4759,1838.02
-4760,1838.03
-4761,1838.04
-4762,1838.05
-4763,1839.01
-4764,1839.02
-4765,1840.01
-4766,1840.02
-4767,1840.03
-4768,1709.05
-4769,1709.06
-4770,1709.07
-4771,1709.08
-4772,1841
-4773,1842.01
-4774,1842.02
-4775,1843
-4776,1844.01
-4777,1844.02
-4778,1844.03
-4779,1845.01
-4782,1846.01
-4783,1846.02
-4784,1847.01
-4785,1847.02
-4786,1848.01
-4787,1848.02
-4788,1848.03
-4789,1848.04
-4790,1849.01
-4791,1849.02
-4792,1850
-4793,1851.01
-4794,1851.02
-4795,1851.03
-4796,1852.01
-4797,1852.02
-4798,1852.03
-4799,1853
-4800,1854.01
-4801,1854.02
-4802,1854.03
-4803,1854.04
-4804,1855.01
-4805,1855.02
-4806,1855.03
-4807,1856.01
-4808,1856.02
-4809,1856.03
-4810,1856.04
-4811,1856.05
-4812,1856.06
-4813,1856.07
-4814,1856.08
-4815,1857.01
-4816,1857.02
-4817,1858.01
-4818,1858.02
-4821,1859.03
-4822,1860.01
-4823,1860.02
-4824,1861
-4825,1862
-4826,1863.01
-4827,1863.02
-4828,1863.03
-4829,1353.03
-4830,1353.04
-4831,1864
-4832,1865.01
-4833,1865.02
-4834,1866.01
-4835,1866.02
-4836,1867
-4837,1868.01
-4838,1868.02
-4839,1869.01
-4840,1869.02
-4841,1869.03
-4842,1869.04
-4843,1870.01
-4844,1870.02
-4845,1871.01
-4846,1871.02
-4847,1872.01
-4848,1872.02
-4849,1873.01
-4850,1873.02
-4851,1873.03
-4852,1873.04
-4853,1873.05
-4854,1874.01
-4855,1874.02
-4856,1875.01
-4857,1875.02
-4858,1875.03
-4859,1876.01
-4860,1876.02
-4861,1876.03
-4862,1876.04
-4863,1876.05
-4864,1876.06
-4865,1876.07
-4866,1876.08
-4867,1877.01
-4868,1877.02
-4869,1878.01
-4870,1878.02
-4871,1879.01
-4872,1879.02
-4873,1880
-4874,1881.01
-4875,1881.02
-4876,1882
-4877,1883.01
-4878,1883.02
-4879,1884
-4880,1885.01
-4881,1885.02
-4882,1885.03
-4883,1886.01
-4884,1886.02
-4885,1887
-4886,1888.01
-4887,1888.02
-4888,1888.03
-4889,1889.01
-4890,1889.02
-4891,1889.03
-4892,1890.01
-4893,1890.02
-4894,1890.03
-4895,1891.01
-4896,1891.02
-4897,1892.01
-4898,1892.02
-4899,1893.01
-4900,1893.02
-4901,1894
-4902,1895.01
-4903,1895.02
-4904,1896.01
-4907,1896.04
-4908,1897.01
-4909,1897.02
-4910,1897.03
-4911,1898.01
-4912,1898.02
-4913,1899
-4914,1900
-4915,1901
-4916,1902
-4917,677.11
-4918,1903
-4919,1904.01
-4920,1904.02
-4921,1904.03
-4922,1904.04
-4923,1905.01
-4924,1905.02
-4925,1906.01
-4926,1906.02
-4927,1907.01
-4928,1907.02
-4929,1908
-4930,1909
-4931,1910
-4932,1911.01
-4933,1911.02
-4934,1912.01
-4935,1912.02
-4936,1912.03
-4937,1912.04
-4938,1913.01
-4939,1913.02
-4940,1914
-4941,1915.01
-4942,1915.02
-4943,1915.03
-4944,1916.01
-4945,1916.02
-4946,1917
-4947,1918.01
-4948,1918.02
-4949,1919
-4950,1920
-4951,1921.01
-4952,1921.02
-4953,1922
-4954,1923
-4955,1037.03
-4956,1037.04
-4957,1924
-4958,1925
-4959,1926.01
-4960,1926.02
-4961,1927
-4962,1928.01
-4963,1928.02
-4964,715.23
-4965,715.24
-4966,715.25
-4967,715.26
+hadiths[396]{hadithnumber,text}:
+"4570","Auf b. Malik has narrated that a man from the Himyar tribe killed an enemy and wanted to take the booty. Khalid b. Walid"
+"4571","It has been narrated on the authority of Auf b. Malik al-Ashja'i who said:I joined the expedition that marched under Zaid b. Haritha to Muta"
+"4572","It has been reported by Salama b. al-Akwa':We fought the Battle of Hawazin along with the Messenger of Allah (ﷺ). (One day) when we were having our breakfast with the Messenger of Allah (may peace he upon him)"
+"4573","It has been narrated on the authority of Salama (b. al-Akwa') who said:We fought against the Fazara"
+"4574","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:If you come to a township (which has surrendered without a formal war) and stay therein"
+"4575","It has been narrated on the authority of Umar"
+"4576","This hadith has been narrated on the authority of Zuhri"
+"4577","It is reported by Zuhri that this tradition was narrated to him by Malik b. Aus who said:Umar b. al-Khattab sent for me and I came to him when the day had advanced. I found him in his house sitting on his bare bed-stead"
+"4578","The same hadith has been narrated by a different chain of transmitters with a slight variation in wording:'Umar b. al-Khattab sent for me and said: Some families from your tribe have come to me (then follows the foregoing hadith) by Malik with the difference that the Messenger of Allah (ﷺ) would spend on his family for a year. And sometimes Ma'mar said: He would retain sustenance for his family for a year"
+"4579","It is narrated on the authority of 'A'isha who said:When the Messenger of Allah (ﷺ) passed away"
+"4580","It is narrated on the authority of Urwa b. Zubair who narrated from A'isha that she informed him that Fatima"
+"4581","It has been narrated on the authority of 'A'isha that Fatima and 'Abbas approached Abu Bakr"
+"4582","It has been narrated by 'Urwa b Zubair on the authority of 'A'isha"
+"4583","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:My heirs cannot share even a dinar (from my legacy) ; what I leave behind after paving maintenance allowance to my wives and remuneration to my manager is (to go in) charity"
+"4584","A similar hadith has been narrated on the authority of Abu Zinad through a different chain of transmitters"
+"4585","It his been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:"" We do not have any heirs; what we leave behind is a charitable endowment"
+"4586","It has been narrated on the authority of Ibn Umar that the Messenger of Allah (ﷺ) allowed two shares from the spoils to the horseman and one share to the footman"
+"4587","The same tradition has been narrated on the authority of Ubaidullah by a different chain of transmitters who do not mention the words:"" from the booty"
+"4588","It has been narrated on the authority of `Umar b. al-Khattab who said:When it was the day on which the Battle of Badr was fought"
+"4589","It has been narrated on the authority of Abu Huraira who said:The Messenger of Allah (ﷺ) sent some horsemen to Najd. They captured a man. He was from the tribe of Banu Hanifa and was called Thumama b. Uthal. He was the chief of the people of Yamama. People bound him with one of the pillars of the mosque. The Messenger of Allah (ﷺ) came out to (see) him. He said: O Thumama"
+"4590","The same tradition has been narrated by a different chain of transmitters with a slight difference in the wording"
+"4591","It has been narrated on the authority of Abu Huraira who said:We were (sitting) in the mosque when the Messenger of Allah (ﷺ) came to us and said: (Let us) go to the Jews. We went out with him until we came to them. The Messenger of Allah (ﷺ) stood up and called out to them (saying): O ye assembly of Jews"
+"4592","It has been narrated on the authority of Ibn Umar that the Jews of Banu Nadir and Banu Quraiza fought against the Messenger of Allah (ﷺ) who expelled Banu Nadir"
+"4593","A similar hadith has been transmitted by a different chain of narrators"
+"4594","It has been narrated by 'Umar b. al-Khattib that he heard the Messenger of Allah (ﷺ) say:I will expel the Jews and Christians from the Arabian Peninsula and will not leave any but Muslim"
+"4595","This hadith has been narrated on the authority of Zubair with the same chain of transmitters"
+"4596","It has been narrated on the authority of Abu Sa'id al-Khudri who said:The people of Quraiza surrendered accepting the decision of Sa'd b. Mu'adh about them. Accordingly"
+"4597","Through the same chain of transmitters Shu'ba has narrated the same tradition in which he says that the Messenger of Allah (ﷺ) said (to Sa'd):You have adjudged according to the command of God. And once he said: you have adjudged by the decision of a king"
+"4598","It has been narrated on the authority of A'isha who said:Sa'd was wounded on the day of the Battle of the Ditch. A man from the Quraish called Ibn al-Ariqah shot at him an arrow which pierced the artery in the middle of his forearm. The Messenger of Allah (ﷺ) pitched a tent for him in the mosque and would inquire after him being in close proximity. When he returned from the Ditch and laid down his arms and took a bath"
+"4599","It has been narrated on the authority of Hisham (who learnt it from his father) that the Messenger of Allah (ﷺ) said (to Sa'd):You have adjudged their case with the judgment of God. the Exalted and Glorified"
+"4600","It has been narrated on the authority of 'A'isha that Sa'd's wound became dry and was going to heal when he prayed:O God"
+"4601","This tradition has been narrated by Hishim through the same chain of transmitters with a little difference in the wording. He said:(His wound) began to bleed that very night and it continued to bleed until he died. He has made the addition that it was then that (a non-believing) poet said: Hark"
+"4602","It has been narrated on the authority of Abdullah who said:On the day he returned from the Battle of Ahzab"
+"4603","It has been narrated on the authority of Anas b. Malik who said:When the Muhajirs migrated from Mecca to Medina; they came (in a state that) they had not anything (i. e. money) in theirhands"
+"4604","It has been narrated by Anas that (after his migration to Medina) a person placed at the Prophet's (ﷺ) disposal some date-palms growing on his land until the lands of Quraiza and Nadir were conquered. Then he began to return to him whatever he had received. (In this connection) my people told me to approach the Messenger of Allah (ﷺ) and ask from him what his people had given him or a portion thereof"
+"4605","It has been narrated on the authority of Abdullah b. Mughaffal who said I found a bag containing fat on the day of the Battle of Khaibar. I caught hold of it and said:I will not give anything today from it to anybody. Then I turned round and saw that the Messenger of Allah (ﷺ) was smiling (at my words)"
+"4606","This tradition has been transmitted by a different chain of narrators with a different wording"
+"4607","It has been narrated on the authority of Ibn Abbas who learnt the tradition personally from Abu Safyan. The latter said:I went out (on a mercantile venture) during the period (of truce) between me and the Messenger of Allah (ﷺ). While I was in Syria"
+"4608","This hadith has been narrated on the authority of Ibn Shihab with the same chain of transmitters but with the addition:"" When Allah inflicted defeat on the armies of Persia"
+"4609","It has been narrated on the authority of Anas that the Prophet of Allah (ﷺ) wrote to Chosroes (King of Persia)"
+"4610","The tradition has been narrated on the authority of Anas b. Malik (the same narrator) through a different chain of transmitters"
+"4611","It has been narrated on the authority of the same narrator through another chain of transmitters with the same difference in the wording"
+"4612","It has been narrated on the authority of 'Abbas who said:I was in the company of the Messenger of Allah (ﷺ) on the Day of Hunain. I and Abd Sufyan b. Harith b. 'Abd al-Muttalib stuck to the Messenaer of Allah (ﷺ) and we did not separate from him. And the Messenger of Allah (may place be upon him) was riding on his white mule which had been presented to him by Farwa b. Nufitha al-Judhami. When the Muslims had an encounter with the disbelievers"
+"4613","A version of the tradition has been transmitted through another chain of narrators. In this version the words uttered by the Prophet (ﷺ) (after he had thrown the pebbles in the face of the enemy) are reported as:"" By the Lord of the Ka'ba"
+"4614","Abbas reported:I was with Allah's Apostle (ﷺ) on the Day of Hunain. The rest of the hadith is the same but with this variation that the hadith transmitted by Yonus and Ma'mar is more detailed and complete"
+"4615","It has been narratedon the authority of Abu Ishaq who said:A man asked Bara' (b. 'Azib): Did you run away on the Day of Hunain. O"
+"4616","It has been narrated (through a different chain of transmitters) by Abu Ishiq that a person said to Bara' (b. 'Azib):Abu Umara"
+"4617","It has been narrated through a still different chain of transmitters by the same narrator (i. e. Abu Ishaq) who said:I heard from Bara' who was asked by a man from the Qais tribe: Did you run away from the Messenger of Allah (ﷺ) on the Day of Hunain? Bara' said: But the Messenger of Allah (ﷺ) did not run away. On that day Banu Hawzzin took part in the battle as archers (on the side of the disbelievers). When we attacked them"
+"4618","This hadith has been narrated on the authority of Bara' with another chain of transmitters"
+"4619","This tradition has been narrated on the authority of Salama who said:We fought by the side of the Messenger of Allah (ﷺ) at Hunain. When we encountered the enemy"
+"4620","It has been narrated on the authority of Ibn 'Amr who said:The Messenger of Allah (ﷺ) besieged the people of Ta'if"
+"4621","It has been narrated on the authority of Anas that when (the news of) the advance of Abu Sufyan (at the head of a force) reached him. the Messenger of Allah (ﷺ) held consultations with his Companions. The narrator said:Abu Bakr spoke (expressing his own views)"
+"4622","It has been narrated by 'Abdullah b. Rabah from Abu Huraira"
+"4623","The tradition has been narrated by a different chain of transmitters with the following additions:(i) Then be (the Messenger of Allah) said with his hands one upon the other: Kill them (who stand in your way).... (ii) They (the Ansar) replied: We said so"
+"4624","It has been narrated on the authority of Abdullah b. Rabah who said:We came to Mu'awiya b. Abu Sufyan as a deputation and Abu Huraira was among us. Each of us would prepare food for his companions turn by turn for a day. (Accordingly) when it was my turn I said: Abu Huraira"
+"4625","It has been narrated by Ibn Abdullah who said:The Prophet (ﷺ) entered Mecca. There were three hundred and sixty idols around the Ka'ba. He began to thrust them with the stick that was in his hand saying:"" Truth has come and falsehood has vanished. Lo! falsehood was destined to vanish"" (xvii. 8). Truth has arrived"
+"4626","This tradition has been narrated by Ibn Abu Najah through a different chain of transmitters up to the word:Zahaqa"
+"4627","It has been narrated on the authority of Abdullah b. Muti' who heard from his father and said:I heard the Prophet (ﷺ) say on the day of the Conquest of Mecca: No Quraishite will be killed hound hand and foot from this day until the Day of judgment"
+"4628","The same tradition has been narrated on the authority of Zakriyya through the same chain of transmitters with the following addition:"" No rebellious Quraishite with al-Asi as his name embraced Islam that day except Muti. His name-was al-Asi"
+"4629","It has been narrated on the authority of al-Bara' b. 'Azib who said:'Ali b. Abu Talib penned the treaty between the Prophet (ﷺ) and the polytheists on the Day of Hudaibiya. He wrote: This is what Muhammad"
+"4630","It has been narrated on the authority of Abu Ishaq"
+"4631","It has been narrated on the authority of Bara' who said:When the Prophet (ﷺ) was checked from going to the Ka'ba"
+"4632","It has been narrated on the authority of Anas that the Quraish made peace with the Prophet (ﷺ). Among them was Suhail b. Amr. The Prophet (ﷺ) said to 'Ali:Write"" In the name of Allah"
+"4633","It has been narrated on the authority of Abu Wa'il who said:Sahal b. Hunaif stood up on the Day of Siffin and said: O ye people"
+"4634","It has been narrated on the authority of Shaqiq who said:I heard Sahl b. Hunaif say at Siffin: O ye people"
+"4635","The same tradition has been narrated through a different chain of transmitters on the authority of A'mash. This version contains the words:Ila amrin yofzi'una instead of Ila amrin na'rifuhu"
+"4636","It has been narrated through a different chain of transmitters on the authority of Abu Wa'il who said:I heard Sahl b. Hunaif say at Siffin: Blame (the hollowness) of your views about your religion. I thought to myself on the day of Abu Jandal that if I could turn down the order of the Messenger of Allah (ﷺ)"
+"4637","It has been narrated on the authority of Anas b. Malik who said:When they (Companions of the Holy Prophet) were overwhelmed with grief and distress on his return from Hudaibiya where he had slaughtered his sacrificial beasts (not being allowed to proceed to Mecca)"
+"4638","This tradition has been narrated through a different chain of transmitters"
+"4639","It has been reported on the authority of Hudbaifa b. al-Yaman who said:Nothing prevented me from being present at! he Battle of Badr except this incident. I came out with my father Husail (to participate in the Battle)"
+"4640","It has been narrated by Ibrahim al-Taimi on the authority of his father who said:We were sitting in the company of Hudhaifa. A man said: If I were in the time of the Messenger of Allah (ﷺ)"
+"4641","It has been reported on the authority of Anas b. Malik that (when the enemy got the upper hand) on the day of the Battle of Uhud"
+"4642","It has been narrated on the authority of Abd-ul-'Aziz b. Abu Hazim"
+"4643","It has been reported on the authority of Abu Hazim who heard from Sahl b. Sa'd. The latter was asked about the injury of the Messenger of Allah (ﷺ). He said:By God"
+"4644","The same tradition has been narrated on the authority of Sahl b. Sa'd through a different chain of transmitters with a slight difference in the wording"
+"4645","It has been narrated on the authority of Anas that the Messenger of Allah (ﷺ) had his front teeth damaged on the day of the Battle of Uhud"
+"4646","It has been narrated on the authority of 'Abdullah who said:It appeared to me as if I saw the Messenger of Allah (ﷺ) (and heard him) relate the story of a Prophet who had been beaten by his people"
+"4647","A version of the tradition with a slightly different wording has been narrated by another chain of transmitters"
+"4648","It has been narrated by Hammam b. Munabbih who said:This is what has been related to us by Abu Huraira from the Messenger of Allah (ﷺ). (With this introduction) he narrated a number of traditions. One of these was that the Messenger of Allah (ﷺ) said: Great is the wrath of Allah upon a people who have done this to the Messenger of Allah (ﷺ)"
+"4649","It has been narrated on the authority of Ibn Mas'ud who said:While the Messenger of Allah (ﷺ) was saying his prayer near the Ka'ba and Abu Jahl with his companions was sitting (near by)"
+"4650","It has been narrated by Abdullah (b. Mas'ud) who said:When the Messenger of Allah (ﷺ) was lying postrate in prayer and around him were some people from the Quraish"
+"4651","Abu Ishiq has narrated a similar tradition through a different chain of transmitters and has added:He (the Messenger of Allah) loved to repeat the supplication thrice. He was saying: O Allah"
+"4652","It has been narrated on the authority of 'Abdullah that"
+"4653","It has been narrated on the authority of `A'isha"
+"4654","It has been narrated on the authority of Jundub b. Sufyan who said:A finger of the Messenger of Allah (ﷺ) was wounded in one of the encounters He said: Thou art just a little finger which has bled"
+"4655","It has been narrated on the authority of Aswad b. Qais who said:The Messenger of Allah (ﷺ) was in a cave (or raid) when his finger was hurt"
+"4656","It has been narrated on the authority of Aswad b. Qais who heard Jundub saying that Gabriel delayed his visit to the Messenger of Allah (ﷺ) The polytheists began to say that Muhammad has been forsaken. At this Allah"
+"4657","It has been narrated on the authority of Aswad b. Qais who said:I heard Jundub b. Sufyan say: The Messenger of Allah (ﷺ) fell ill and did not wake up for two or three nights (for prayers) A woman came to him and said: Muhammad"
+"4658","This hadith has been narrated on the authority of Aswad b. Qais with the same chain of transmitters"
+"4659","It has been narrated on the authority of Usama b. Zaid that the Prophet (ﷺ) rode a donkey. It had on it a saddle under which was a mattress made at Fadak (a place near Medina). Behind him he seated Usama. He was going to the street of Banu Harith al-Khazraj to inquire after the health of Sa'd b. Ubada This happened before the Battle of Badr. (He proceeded) until he passed by a mixed company of people in which were Muslims"
+"4660","A similar tradition has been narrated through a different chain of transmitters by Ibn Shihab with the addition of the words:"" Before Abdullah (b. Ubayy) became a Muslim"
+"4661","It has been narrated on the authority of Anas b. Malik that it was said to the Prophet (ﷺ):Would that you approached Abdullah b. Ubayy (to persuade him to accept Islam). The Prophet (ﷺ) (accordingly) went to him"
+"4662","It has been narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said (after the encounter at Badr):Who will ascertain for us what has happened to Abu Jahl? Ibn Mas'ud went (to gather this information). He found that the two sons of 'Afra' had struck him and he lay cold at the point of death. He caught him by his beard and said: Art thou Abu Jahl? He said: is there anybody superior to the person you have killed"
+"4663","A similar tradition has been transmitted by a different chain of narrators"
+"4664","It has been narrated on the authority of Jabir that the Messenger of Allah (ﷺ) said:Who will kill Ka'b b. Ashraf? He has maligned Allah"
+"4665","It has been narrated on the authority of Anas that the Messenger of Allah (ﷺ) raided Khaibar. One morning we offered prayers in the darkness of early dawn (near Khaibar). Then the Messenger of Allah (ﷺ) mounted (his horse). Abu Talha mounted his and I mounted behind Abu Talha on the same horse. The Prophet of Allah (ﷺ) rode through the streets of Khaibar and (I rode so close to him) that my knee touched the thigh of the Prophet of Allah (ﷺ). The wrapper got aside from his thigh"
+"4666","It has been narrated (through another chain of transmitters) on the authority of the same narrator (i. e. Anas) who said:I was riding behind Abu Talha on the day of the Battle of Khaibar (and we were riding so close to the Prophet that) my foot would touch his We encountered the people at sunrise when they had come out with their axes"
+"4667","This hadith has been transmitted on the authority of Anas b. Malik with a slight variation of words"
+"4668","It has been narrated on the authority of Salama b. al-Akwa' who said:We marched upon Khaibar with the Messenger of Allah (ﷺ). We journeyed during the night. One of the people said to (my brother) 'Amir b. al-Akwa': Won't you recite to us some of your verses? Amir was a poet. So he began to chant his verses to urge the camels"
+"4669","It has been reported on the authority of Salama b. Akwa' who said:On the day of the Battle of Khaibar my brother fought a fierce fight by the side of the Messenger of Allah (ﷺ). His sword rebounded and killed him. The Companions of the Messenger of Allah (may peace be upon hill) talked about his death and doubted (whether it was martyrdom). (They said): (He is) a man killed by his own weapon"
+"4670","It has been reported on the authority of Barra' who said:The Messenger of Allah (ﷺ) was carrying the earth with us on the Day of Ahzab and the whiteness of his belly had been covered with earth. (While engaged in this toil) he was reciting: By God"
+"4671","It has been narrated on the authority of Abu Ishaq who said:I heard from Bara' a similar tradition except that he said:"" These people (the Meccans) rebelled against us"
+"4672","It has been reported on the authority of Sahl b. Sa'd who said:The Messenger of Allah (ﷺ) came to us while we were digging the ditch and were carrying the earth on our shoulders. (Seeing our condition)"
+"4673","It has been narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said:O God"
+"4674","According to another version of the tradition"
+"4675","According to still another version of the tradition narrated by the same authority"
+"4676","It has been narrated (through a still difterent chain of transmitters) by Anas that the Companions of Muhammad (ﷺ) were chanting on the day of the Battle of the Ditch:We are those who have sworn allegiance to Muhammad (And made a covenant with him) to follow Islam as long as we live. Hammad is not sure whether Anas said:"" Ala'l-Islam"" or"
+"4677","It has been narrated on the authority of Yazid b. Abu 'Ubaid who said that he heard Salama b. al-Akwa' say:I went out before the Adhan for the morning prayer had been delivered. The milch she-camels of the Messenger of Allah (ﷺ) were grazing at Dhu Qarad. 'Abd al-Rahman b. Auf's slave met me and said: The milch she-camels of the Messenger of Allah (ﷺ) had been taken away. I said: Who has taken them away? He said: (the people belonging to the tribe of) Ghatafan. I cried thrice: Help! I made the whole city between the two lavas hear my cry. Then I ran straight in their pursuit until I overtook them at Dhu Qarad where they were just going to water their animals. I"
+"4678","It has been narrated on the authority of Ibn Salama. He heard the tradition from his father who said:We arrived at Hudaibiya with the Messenger of Allah (ﷺ) and we were fourteen hundred in number. There were fifty goats for them which could not be watered (by the small quantity of water in the local well). So"
+"4679","It has been narrated on the authority of Anas b. Malik that eighty Persons from the inhabitants of Mecca swooped down upon the Messenger of Allah (ﷺ) from the mountain of Tan'im. They were armed and wanted to attack the Prophet (ﷺ) and his Companions unawares. He (the Holy Prophet) captured them but spared their lives. So"
+"4680","It has been narrated on the authority of Anas that"
+"4681","It has been narrated on the authority of Anas that"
+"4682","It has been narrated on the authority of Anas b. Malik who said that the Messenger of Allah (ﷺ) allowed Umm Sulaim and some other women of the Ansar to accompany him when he went to war; they would give water (to the soldiers) and would treat the wounded"
+"4683","It has been narrated on the authority of Anas b. Malik who said:On the Day of Uhud some of the people"
+"4684","It has been narrated on the authority of Yazid b. Hurmuz that Najda wrote to Ibn Abbas inquiring of him five things. Ibn Abbas said:If I had not the fear of committing (sin) for concealing the knowledge I would not have written to him. Najda wrote to him saying (after praising the Almighty and invoking blessings on the Prophet): Tell me whether the Messenger of Allah (ﷺ) took women to participate with him in Jihad; (if he did)"
+"4685","This tradition has been narrated by the game authority (Yazid b. Hurmus) through a different chain of transmitters with the following difference in the elucidation of one of the points raised by Najda in his letter to Ibn Abas:The Messenger of Allah (ﷺ) used not to kill the children"
+"4686","It has been narrated on the authority of Yazid b. Hurmuz who said:Najda b. 'Amir al-Haruri wrote to Ibn Abbas asking him about the slave and the woman as to whether they would get a share from the booty (it they participated in Jihad) ; about the killing of (enemy) children (in war) ; about the orphan as to when his orphanhood comes to an end; about kinsmen (of the Holy Prophet) as to who they are. He said to Yazid: Write to him. (If he were not likely to fall into folly"
+"4687","This hadith has been narrated on the authority of Yazid b. Hurmuz through another chain of transmitters"
+"4688","It has been narrated on the anthority of Yazid b. Hurmuz who said:Najda wrote to Ibn Abbas. I was sitting in the company of Ibn 'Abbas when he read his letter and wrote its reply. Ibn Abbas said: Were it not for preventing him from falling into wickedness. I would not have replied to his letter"
+"4689","This hadith has been transmitted on the authority of Yazid b. Hurmuz. but not complete (as we find in the above mentioned ahadith)"
+"4690","It has been narrated on the authority of Umm 'Atiyya"
+"4691","A similar tradition has been narrated on the authority of Hisham b. Hassan through a different chain of transmitters"
+"4692","It has been narrated on the authority of Abu Ishaq that 'Abdullah b. Yazid went (out of the city) with people for offering"" Istisqa"" ' prayer (for rainfall). He offered two rak'ahs. Then he prayed for rain. That day I met Zaid b. Arqam. There was only one man between me and him (at that time). I asked him:How many military expeditions did the Messenger of Allah (ﷺ) undertake? He said: Nineteen expeditions. I asked him: On how many expeditions did you accompany him? He said: On seventeen expeditions. I asked: Which was the first expedition he led? He answered: Dhat-ul-"
+"4693","It has been narrated on the authority of Zaid b. Arqam that the Messenger of Allah (ﷺ) fought nineteen battles and after the Migration performed only one Pilgrimage called Hajjat-ul-Wada"
+"4694","It has been reported on the authority of Abu Zubair who heard Jabir b. `Abdullah say:I fought in the company of the Messenger of Allah (ﷺ) nineteen battles. Jabir said: I did not participate in the Battle of Badr and the Battle of Uhud. My father prevented me (from participating in these battles as my age was tender). After `Abdullah (my father) was killed on the Day of Uhud"
+"4695","It has been narrated on the authority of Buraida (who heard the tradition from his father) that the Messenger of Allah (ﷺ) conducted nineteen military campaigns and he (actually) fought in eight of them"
+"4696","It has been narrated by Buraida who heard it from his father that he joined the Messenger of Allah (ﷺ) in sixteen military campaigns"
+"4697","It has been narrated on the authority of Salama who said:I joined seven military expeditions led by the Messenger of Allah himself (ﷺ)"
+"4698","The (foregoing) tradition has also been narrated on the authority of Hatim through the same chain of transmitters with the difference that according to this version both these types of expeditions were seven in number"
+"4699","It has been narrated on the authority of Abu Musa (Ash'ari) who said:We set out on an expedition with the Messenger of Allah (ﷺ). We were six in number and had (with us) only one camel which we rode turn by turn Our feet were injured. My feet were so badly injured that my nails dropped off. We covered our feet with rags. so this expedition was called Dhat-ur-Riqa' (i. e. the expedition of rags) because we bandaged our feet with rags (on that day). Abu Burda said: Abu Musa narrated this tradition"
+"4700","It has been narrated on the authority of A'isha"
+"4701","It has been narrarted on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:People are subservient to the Quraish: the Muslims among them being subservient to the Muslims among them"
+"4702","It has been narrated on the authority of Hammam b. Munabbih who said:This is one of the traditions narrated by Abu Huraira from the Messenger of Allah (ﷺ) who said: People are subservient to the Quraish: the Muslims among them being subservient to the Muslims among them"
+"4703","It has been narrated on the authority of Jabir b. 'Abdullah that the Messenger of Allah (ﷺ) said:People are the followers of Quraish in good as well as evil (i. e. in the customs of Islamic as well as pre-Islamic times)"
+"4704","It has been narrated on the authority of 'Abdullah that the Messenger of Allah (ﷺ) said:The Caliphate will remain among the Quraish even if only two persons are left (on the earth)"
+"4705","It has been narrated on the authority of Jabir b. Samura who said:I joined the company of the Prophet (ﷺ) with my father and I heard him say: This Caliphate will not end until there have been twelve Caliphs among them. The narrator said: Then he (the Holy Prophet) said something that I could not follow. I said to my father: What did he say? He said: He has said: All of them will be from the Quraish"
+"4706","It has been reported on the authority of Jabir b. Samura who said:I heard the Messenger of Allah (ﷺ) say: The affairs of the people will continue to be conducted (well) as long as they are governed by twelve men. Then the Prophet (ﷺ) said words which were obscure to me. I asked my father: What did the Messenger of Allah (ﷺ) say? He said: All of the (twelve men) will be from the Quraish"
+"4707","This hadith has been narrated on the authority of Jabir b. Samura through another chain of transmitters"
+"4708","It has been narrated on the authority of Jabir b. Samura who said:I heard the Messenger of Allah (ﷺ) say: Islam will continue to be triumphant until there have been twelve Caliphs. Then the Prophet (ﷺ) said something which I could not understand. I asked my father: What did he say? He said: He has said that all of them (twelve Caliphs) will be from the Quraish"
+"4709","It has been narrated on the authority of Jabir b. Samura that the Prophet (ﷺ) said:This order will continue to be dominant until there have been twelve Caliphs. The narrator says: Then he said something which I could not understand"
+"4710","It has been reported on the authority of Jabir b. Samura who said:I went with my father to the Messenger of Allah (may peeace be upon him) and I heard him say: This religion would continue to remain powerful and dominant until there have been twelve Caliphs. Then he added something which I couldn't catch on account of the noise of the people. I asked my father: What did he say? My father said: He has said that all of them will be from the Quraish"
+"4711","It has been narrated on the authority of Amir b. Sa'd b. Abu Waqqas who said:I wrote (a letter) to Jabir b. Samura and sent it to him through my servant Nafi'"
+"4712","Ibn Samura al-'Adawi reported:I heard Allah's Messenger (ﷺ) say"
+"4713","It has been narrated on the authority of 'Abdullah b. 'Umar who said:I was present with my father when he was wounded. People praised him and said: May God give you a noble recompense! He said: I am hopeful (of God's mercy) as well as afraid (of His wrath) People said: Appoint anyone as your successor. He said: Should I carry the burden of conducting your affairs in my life as well as in my death? (So far as Caliphate is concerned) I wish I could acquit myself (before the Almighty) in a way that there is neither anything to my credit nor anything to my discredit. If I would appoint my successor"
+"4714","It has been reported on the authority of Ibn 'Umar who said:I entered the apartment of (my sister) Hafsa. She said: Do yoa know that your father is not going to nominate his successor? I said: He won't do that (i. e. he would nominate). She said: He is going to do that. The narrator said: I took an oath that I will talk to him about the matter. I kept quiet until the next morning"
+"4715","It has been reported on the authority of 'Abd al-Rahman b. Samura who said:The Messenger of Allah (ﷺ) said to me: 'Abd al-Rahman"
+"4716","The same tradition has been narrated through a different chain of transmitters"
+"4717","It has been narrated by Abu Musa who said:Two of my cousins and I entered the apartment of the Prophet (ﷺ). One of them said: Messenger of Allah"
+"4718","It has been reported on the authority of Abu Musa who said:I went to the Prophet (ﷺ) and with me were two men from the Ash'ari tribe. One of them was on my right hand and the other on my left. Both of them made a request for a position (of authority) while the Prophet (ﷺ) was brushing his teeth with a tooth-stick. He said (to me): Abu Musa (or 'Abdullah b. Qais)"
+"4719","It has been narrated on the authority of Abu Dharr who said:I said to the Prophet (ﷺ): Messenger of Allah"
+"4720","It has been reported on the authority of Abu Dharr that the Messenger of of Allah (ﷺ) said:Abu Dharr"
+"4721","It has been narrated on the authority of 'Abdullah b. 'Umar that the Messenger of Allah (ﷺ) said:Behold! the Dispensers of justice will be seated on the pulpits of light beside God"
+"4722","It has been reported on the authority of Abd al-Rahman b. Shumasa who said:I came to A'isha to inquire something from her. She said: From which people art thou? I said: I am from the people of Egypt. She said: What was the behaviour of your governor towards you in this war of yours? I said: We did not experience anything bad from him. If the camel of a man from us died"
+"4723","This hadith has been narrated on the authority of Abd al-Rahman b. Shumasa with another chain of transmitters"
+"4724","It has been narrated on the authority of Ibn 'Umar that the Prophet (May be upon him) said:Beware. every one of you is a shepherd and every one is answerable with regard to his flock. The Caliph is a shepherd over the people and shall be questioned about his subjects (as to how he conducted their affairs). A man is a guardian over the members of his family and shal be questioned about them (as to how he looked after their physical and moral well-being). A woman is a guardian over the household of her husband and his children and shall be questioned about them (as to how she managed the household and brought up the children). A slave is a guardian over the property of his master and shall be questioned about it (as to how he safeguarded his trust). Beware"
+"4725","This tradition has been narrated through more; than one chain of transmitters"
+"4726","This tradition has been narrated through more; than one chain of transmitters"
+"4727","This hadith has been transmitted on the authority of Ibn 'Umar"
+"4728","A hadith having the same meaning has been transmitted on the authority of 'Abdullah b. 'Umar"
+"4729","It has been narrated on the authority of Hasan who said:Ubaidullah b Ziyad visited Ma'qil b. Yasir al-Muzani in his last iliness. Ma'qil said (to him): I am narrating to you a tradition I heard from the Messenger of Allah (ﷺ). If I knew that I am to survive this illness. I would"
+"4730","It has been narrated through a different chain of transmitters on the authority of Hasan who said:Ibn"
+"4731","It has been narrated on the authority of Abu Malik that Ubaidullah b. Ziyad visited Ma'qil b. Yaser in the latter's illness. Ma'qil said to him:I am narrating to you a tradition. If I were not at death's door"
+"4732","It has been narrated on the authority of Abu al-Aswad who said:My father related to me that Ma'qil b. Yasir fell ill. 'Ubaidullah b. Ziyad called on him to inquire after his health. Here follows the tradition as narrated by Hasan from Ma'qil"
+"4733","It has been narrated on the authority of Hasan that A'idh b. 'Amr who was one of the Companions of the Messenger of Allah (ﷺ) called on 'Ubaidullah b. Ziyad and said (to him):O my son"
+"4734","It has been narrated on the authority of Abu Huraira who said:One day the Messenger of Allah (ﷺ) stood among us (to deliver a sermon). He talked about the misappropriation of booty"
+"4735","The above tradition has been narrated on the same authority through different chains of transmitters"
+"4736","Abu Huraira has narrated this hadith with a slight variation of words"
+"4737","Abu Huraira has narrated this hadith similar to the above mentioned hadith"
+"4738","It has been narrated on the authority of Abu Humaid as-Sa'idi who said:The Messenger of Allah (ﷺ) appointed a man from the Asad tribe who was called Ibn Lutbiyya in charge of Sadaqa (i. e. authorised hign to receive Sadaqa from the people on behalf of the State. When he returned (with the collictions)"
+"4739","It has been reported on the authority of Abu Humaid as-Sa'idi who said:The Prophet (ﷺ) appointed Ibn Lutbiyya"
+"4740","It has been reported on the authority of Abu Humaid as-Sa'idi who said:The Messenger of Allah (ﷺ) appointed a man from the Azd tribe called Ibn al-Utbiyya"
+"4741","This tradition has been hanoed down through a different chain of transmitters on the authority of Hisham with aslight variation in the wording"
+"4742","It has been narrated on the authority of Abu Humaid as-Sa'idi that the Messenger of Allah (ﷺ) appointed a man in charge of Sadaqa (authorising him to receive charity from the people on behalf of the State). He came (back to the Holy prophet) with a large number of things and started saying:This is for you and this has been presented to me as a gift. Here follows the tradition that has gone before except that 'Urwa (one of the narrators in the chain of transmitters) asked Abu Humaid: Did you hear it from the Messenger of Allah (himself) (ﷺ)? He replied: My ears heard it from his mouth"
+"4743","It has been reported on the authority of 'Adi b. 'Amira al-Kindi who said:I heard the Messenger of Allah (ﷺ) say: Whosoever from you is appointed by us to a position of authority and he conceals from us a needle or something smaller than that"
+"4744","This hadith has been narrated on the authority of Isma'il with the same chain of transmitters"
+"4745","Adi b. 'Amira al-Kindi heard Allah's Messenger (ﷺ) as saying (as) was narrated in the (above-mentioned) hadith"
+"4746","It has been narrated on the authority of Ibn Juraij that the Qur'anic injunction:"" 0 you who believe"
+"4747","It has been narrated on the authority of Abu Huraira that the Holy prophet (ﷺ) said:Whoso obeys me obeys God"
+"4748","It has been narrated on the authority of Abu Huraira that the Holy prophet (ﷺ) said:Whoso obeys me obeys God"
+"4749","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:Whoso obeys me obeys God; and whose disobeys me disobeys God. Whoso obeys my commander obeys me"
+"4750","This hadith has been narrated on the authority of Abu Huraira through another chain of transmitters"
+"4751","This hadith has been narrated on the authority of Abu Huraira by more than one chain of transmitters"
+"4752","Hammam b. Munabbih has transmitted this hadith on the authority of Abu Huraira"
+"4753","According to one version of the tradition"
+"4754","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:It is obligatory for you to listen to the ruler and obey him in adversity and prosperity"
+"4755","It has been narrated on the authority of Abu Dharr who said:My friend (i. e. the Holy Prophet) advised me to listen (to the man in position of authority) and obey (him) even if he were a slave maimed (and disabled)"
+"4756","In another version of the tradition"
+"4757","Abu 'Imran narrated this hadith with a slight change of wording"
+"4758","It has been narrated on the authority of Yahya b. Husain who learnt the tradition from his grandmother. She said that she heard the Prophet (ﷺ) delivering his sermon on the occasion of the Last Pilgrimage. He was saying:If a slave is appointed over you and he conducts your affairs according to the Book of Allah"
+"4759","This hadith has been transmitted on the authority of Shu'ba with the same chain of transmitters"
+"4760","In other versions of the above tradition"
+"4761","Another version of the tradition does not qualify the slave with the epithets"" maimed"
+"4762","It has been narrated on the authority of Yahya b. Husain who learnt the tradition from his grandmother. Umm Husain. He said':I heard her say: I performed Hajjat-ul-Wada' in the company of the Messenger of Allah (ﷺ). He said a lot of things (on this occasion). Then I heard him say: If a maimed slave is appointed a commander over you the narrator says: I think she said:"" a black stave"" who leads you according to the Book of Allah"
+"4763","It has been narrated on the authority of Ibn 'Umar that the Prophet (ﷺ) said:It is obligatory upon a Muslim that he should listen (to the ruler appointed over him) and obey him whether he likes it or not"
+"4764","This hadith has been transmitted on the authority of 'Ubaidullah"
+"4765","It has been narrated on the authority of Abu 'Abd al-Rahman from 'Ali that the Messenger of Allah (ﷺ) sent a force (on a mission) and appointed over them a man. He kindled a fire and said:Enter it. Some people made up their minds to enter it (the fire)"
+"4766","It has been narrated on the authority of 'All who said:The Mersenger of Allah (ﷺ) sent an expeditionand appointed over the Mujahids a man from the Ansar. (While making the appointment)"
+"4767","This hadith has been transmitted on the authority of A'mash"
+"4768","It has been narrated on the authority of"" Ubida who learnt the tradition from his father who"
+"4769","This hadith has been narrated on the authority of 'Ubada b. Walid with the same chain of transmitters"
+"4770","The same tradition has been handed down through more than one chain of transmitters"
+"4771","It has been narrated on the authority of Junida b. Abu Umayya who said:We called upon 'Ubada b. Samit who was ill and said to him: May God give you health I Narrate to us a tradition which God may prove beneficial (to us) and which you have heard from the Messenger of Allah (ﷺ). He said: The Messenger of Allah (ﷺ) called us and we took the oath of allegiance to him. Among the injunctions he made binding upon us was: Listening and obedience (to the Amir) in our pleasure and displeasure"
+"4772","It has been narrated on the authority of Abu Huraira that the Prophet of Allah (ﷺ) said:A commander (of the Muslims) is a shield for them. They fight behind him and they are protected by (him from tyrants and aggressors). If he enjoins fear of God"
+"4773","It has been narrated by Abu Huraira that the Prophet (may pceace be upon him) said:Banu Isra'il were ruled over by the Prophets. When one Prophet died"
+"4774","The same tradition has been transmitted by a different chain of narrators"
+"4775","It has been narrated on the authority of 'Abdullah who said:The Messenger of Allah (ﷺ) said: After me there will be favouritism and many things that you will not like. They (his Companions) said: Messenger of Allah"
+"4776","It has been narrated on the authority of 'Abd al-Rahman b. Abd Rabb al-Ka'ba who said:I entered the mosque when 'Abdullah b. 'Amr b. al-'As was sitting in the shade of the Ka'ba and the people had gathered around him. I betook myself to them and sat near him. (Now) Abdullah said: I accompanied the Messenger of Allah (ﷺ) on a journey. We halted at a place. Some of us began to set right their tents"
+"4777","This hadith has been narrated on the authority of A'mash with a different chain of transmitters"
+"4778","It has been narrated on the authority of 'Abd Rabb al-Ka'ba as-Sa'idl who said:I saw a group of people near the Ka'ba.... Then he narrated the tradition as narrated by A'mash"
+"4779","It has been narrated on the authority of Usaid b. Hudair that a man from the Ansar took the Messenger of Allah (ﷺ) aside and said to him:Will you not appoint me governor as you have appointed so and so? He (the Messenger of Allah) said: You will surely come across preferential treatment after me"
+"4780","This tradition has been narrated on the same authority through a different chain of transmitters. Another version of the tradition narrated on the authority of Shu'ba does not include the words:"" He took the Messenger of Allah (ﷺ) aside"
+"4781","This tradition has been narrated on the same authority through a different chain of transmitters. Another version of the tradition narrated on the authority of Shu'ba does not include the words:"" He took the Messenger of Allah (ﷺ) aside"
+"4782","It has been narrated on the authority of Alqama b. Wai'l al-Hadrami who learnt the tradition from his father. The latter said:Salama b. Yazid al-ju'afi asked the Messenger of Allah (ﷺ): Prophet of Allah"
+"4783","It has been narrated through a different chain of transmitters"
+"4784","It has been narrated on the authority of Hudhaifa b. al-Yaman who said:People used to ask the Messenger of Allah (ﷺ) about the good times"
+"4785","It his been narrated through a different chain of transmitters"
+"4786","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:One who defected from obedience (to the Amir) and separated from the main body of the Muslims - if he died in that state-would die the death of one belonging to the days of Jahiliyya (i.e. would not die as a Muslim). One who fights under the banner of a people who are blind (to the cause for which they are fighting"
+"4787","The same tradition has been narrated by the same authority through another chain of transmitters with a slight difference in wording"
+"4788","It has been narrated (through a different chain of transmitters) on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:Whoever defects from obedience (to the Amir) and separates from the main body of the Muslim - and dies in that state - dies the death of one belonging to the days of jahiliyya. And he who is killed under the banner of a man who is blind (to the cause for which he is fighting)"
+"4789","This hadlth has been narrated on the authority of Jarir with the same chain of transmitters with a slight variation in wording"
+"4790","It has been narrated on the authority of Ibn 'Abbas that the messenger of Allah (ﷺ) said:One who found in his Amir something which he disliked should hold his patience"
+"4791","It has been narrated (through a different chain of transmitters) on the authority of Ibn Abbas that the Messenger of Allah (may peace be upoh him) said:One who dislikes a thing done by his Amir should be patient over it"
+"4792","It has been narrated on the authority of Ibn 'Abdullah al-Bajali that the Messenger of Allah (ﷺ) said:One who is killed under the banner of a man who is blind (to his just cause)"
+"4793","It has been reported on the authority of Nafi"
+"4794","It has been narrated on the authority of Ibn 'Umar that he visited Ibn Muti'"
+"4795","The same tradition has been transmitted by a different chain of narrators"
+"4796","It has been narrated on the authority of 'Arfaja who said:I have heard the Messenger of Allah (ﷺ) say: Different evils will make their appearance in the near future. Anyone who tries to disrupt the affairs of this Umma while they are united you should strike him with the sword whoever he be. (If remonstrance does not prevail with him and he does not desist from his disruptive activities"
+"4797","In another version of the tradition narrated on the same authority through a different chains of transmitters we have the words:"" Kill him"
+"4798","It has been narrated (through a still different chain of transmitters) on the Same authority (i. e. 'Arfaja) who said similarly-but adding:"" Kill all of them."" I heard the Messenger of Allah (ﷺ) say: When you are holding to one single man as your leader"
+"4799","It has been narrated on the authority of Aba Sa'id al-Khudri that the Messenger of Allah (ﷺ) said:When oath of allegiance has been taken for two caliphs"
+"4800","It has been narrated on the authority of Umm Salama that the Messenger of Allah (ﷺ) said:In the near future there will be Amirs and you will like their good deeds and dislike their bad deeds. One who sees through their bad deeds (and tries to prevent their repetition by his band or through his speech)"
+"4801","It has been narrated (through a different chain of tmnamitters) on the authority of Umm Salama (wife of the Holy Prophet) that he said:Amirs will be appointed over you"
+"4802","Another version of the tradition narrated on the same authority attributes the same words to the Messenger of Allah (ﷺ) except that it replaces kariha with ankhara and vice versa"
+"4803","Another version omits a portion at the end of the tradition-a portion which begins with man radiya wa taba and ends with the last word of the tradition"
+"4804","It has been narrated on the authority of 'Auf b. Malik that the Messenger of Allah (ﷺ) said:The best of your rulers are those whom you love and who love you"
+"4805","It has been narrated on the authority of Auf b. Malik al-Ashja'i who said that he heard the Messenger of Allah (ﷺ) say:The best of your rulers are those whom you love and who love you"
+"4806","The above hadith has been narrated through addtional chains of transmitters"
+"4807","It has been narrated on the authority of Jabir who said:We were one thousand and four hundred on the Day of Hudaibiya. We swore fealty to hiin (the Holy Prophet) and 'Umar was holding the latter's hand (when he was sitting) under the tree (called) Samura (to administer the oath to the Companions). The narrator added: We took oath to the effect that we would not flee (from the battlefield if there was an encounter with the Meccans)"
+"4808","It has been narrated (through a different chain of transmitters) on the authority of Jabir who said:While swearing fealty to the Prophet (ﷺ) we did not take the oath to death but that we would not run away (from the battlefield)"
+"4809","It has been narrated on the authority of Abu Zubair who heard Jabir being questioned as to how many people were there on the Day of Hudaibiya. He replied:We were fourteen hundred. We swore fealty to him"
+"4810","It has been narrated (through a different chain of transmitters) on the authority of Abu Zubair who heard Jabir being questioned as to whether the Prophet (ﷺ) took the oath of fealty at Dhu'l-Hulaifa. He said:No! But he offered his prayers at that place"
+"4811","It has been narrated (through a different chain of transmitters) on the authority of Jabir who said:We were one thousand and four hundred on the Day of Hudaibiya when the Prophet (ﷺ) said to us: Today you are the best people on the earth. And Jabir said: If I had the eyesight"
+"4812","It has been narrated on the authority of Salim b. Abu al-Ja'd who said:I asked Jabir b. 'Abdullah about the number of the Companions (of the Prophet who took the oath of fealty under) the tree. He said: If we were a hundred thousand"
+"4813","It has been narrated on the authority of Jabir who said:If we had been a hundred thousand in number"
+"4814","It has been narrated (through a different chain of transmitters) on the authority of Salim b. al-Ja'd who said:I asked Jabir: How many were you on the Day of Hudaibiya? He said: One thousand and four hundred"
+"4815","It has been narrated on the authority of 'Abdullah b. Abu Aufa who said:The Companions of the Tree (i e. those who swore fealty under the tree) were one thousand and three hundred"
+"4816","The same tradition has been handed down through a different chain of transmitters"
+"4817","It has been narrated on the authority of Ma'qil b. Yasar who aaid:I remember being present on the Day of the Tree"
+"4818","This hadith has been narrated on the authority of Yunus with the same chain of transmitters"
+"4819","It has been narrated on the authority of Sa'id b. Musayyab who said:My father was one of those who swore fealty to the Messenger of Allah (ﷺ) near the tree. When we passed that way next year intending to perform the Hajj"
+"4820","It has been narrated on the authority of Sa'id b. Musayyab who said:My father was one of those who swore fealty to the Messenger of Allah (ﷺ) near the tree. When we passed that way next year intending to perform the Hajj"
+"4821","The tradition has been narrated on the authority of Sa'id b. Musayyib who learnt it from his father. The latter said:I had seen the tree. When I came to the spot afterwards"
+"4822","It has been narrated on the authority of Yazid b. Abu Ubaid (the freed slave of Salama b. al-Akwa') who said:1 asked Salama as to what effect he had sworn fealty to the Messenger of Allah (ﷺ) on the Day of Hudaibiya. He said: To the effect that we will die fighting"
+"4823","The above tradition has also been handed down through a different chain of transmitters"
+"4824","It has been narrated on the authority of Abdullah b. Zaid who said:A person came to him and said: Here is Ibn Hanzala who is making people swear allegiance to him. He ("
+"4825","It has been narrated by Salama b. al-Akwa' that he visited al-Hajjaj who said to him:O son of al-Akwa'"
+"4826","It has been reported on the authority of Mujashi' b. Mas'ud as-Sulami who said:I came to the Prophet (ﷺ) to offer him my pledge of migration. He said: The period of migration has expired (and those who wereto get the reward for this great act of devotion have got it). You may now give your pledge to serve the cause of Islam"
+"4827","It has been reported on the authority of Mujashi' b. Mas'ud who said:I brought my brother Abu Ma'bad to the Messenger of Allah (may peace he upon him) after the conquest of Mecca and said: Messenger of Allah"
+"4828","Another version of the tradition transmitted on the authority of Asim has the same wording but does not mention the name of Abu Ma'bad"
+"4829","It has been narrated on the authority of Ibn 'Abbas that the Messenger of Allah (ﷺ) said on the day of the Conquest of Mecca:There is no Hijra now"
+"4830","The above tradition has been handed down through a different chain of transmitters"
+"4831","A'isha reported that the Messenger of Allah (ﷺ) was asked about migration"
+"4832","It has been narrated on the authority of Abu Sa'id al-Khudari that a Bedouin asked the Messenger of Allah (ﷺ) about Migration. He replied:Do you talk of Hijra? The affair of Hijra is very difficult. But have you got camels? The bedouin said: Yes. He asked: Do you pay the poor-rate payable on their account? He replied: Yes. He (the Holy Prophet) said: Go on doing good deeds (across the seas)"
+"4833","This tradition has been handed down through a different chain of transmitter with the addition of the following words at the end:"" Do you milk them on the day they arrive at the water? He replied: Yes"
+"4834","It has been narrated on the authority of 'A'isha"
+"4835","It has been narrated on the authority of 'Urwa that 'A'isha described to him the way the Prophet (ﷺ) took the oath of fealty from women. She said:The Messenger of Allah (ﷺ) never touched a woman with his hand. He would only take a vow from her and when he had taken the (verbal) vow"
+"4836","It has been narrated on the authority of Abdullah b. 'Umar who said:We used to take oath to the Messenger of Allah (ﷺ) that we would listen to and obey his orders. He would tell us (to say in the oath): As far as it lies in my power"
+"4837","It has been narrated on the authority of Ibn 'Umar who said:The Messenger of Allah (ﷺ) inspected me on the battlefield on the Day of Uhud"
+"4838","This tradition has been handed down through a different chain Of transmitters with the following change in the wording:"" I was fourteen years old and he thought me too young (to participate in the fight)"
+"4839","It has been narrated on the authority of Ibn 'Umar who said:The Messenger of Allah (ﷺ) forbade that one should travel to the land of the enemy taking the Qur'an with him"
+"4840","It has been narrated on the authority of Abdullah b. Umar that the Messenger of Allah (ﷺ) used to forbid that one should travel to the land of the enemy taking the Qur'an (with him) lest it should fall into the hands of the enemy"
+"4841","It has been narrated on the authority of Ibn 'Umar that the Messenger of Allah (ﷺ) said:Do not take the Qur'an on a journey with you"
+"4842","The above hadith has been narrated through several other chains with slight differences of wording"
+"4843","It has been narrated on the authority of Ibn 'Umar that the Messenger of Allah (ﷺ) had a race of the horses which had been especially prepared for the purpose from Hafya' to Thaniyyat al-Wada' (the latter being the winning post)"
+"4844","This tradition has been handed down through several other chains of transmitters. One of the chaines has the addition of the following words from Abdullah b. 'Umar:"" I came first in the race and my horse jumped into the mosque with me"
+"4845","It has been narrated on the authority of Ibn Umar that the Messenger of Allah (ﷺ) said:There will be great benefit in the forelock of the horses until the Day of judgment"
+"4846","The same tradition has been handed down through a different chain of transmitters"
+"4847","It has been narrated on the authority of Jarir b. Abdullah who said:I saw that the Messenger of Allah (ﷺ) was twisting the forelock of a horse with his fingers and he was saying: (A great) benefit. i. e. reward (for rearing them for Jihad) and spoils of war"
+"4848","The above tradition has also been narrated on the authority of Yunus through a different chain of transmitters"
+"4849","The same tradition has been narrated on the authority of Urwat al-Bariqi who said that the Prophet (ﷺ) said:Great good is attached to the forelock of the horses until the Day of Judgment"
+"4850","Urwat al-Bariqi reported Allah's Messenger (ﷺ) having said this:Good is tied to the forelock of the horses. It Was said to him: Messenger of Allah"
+"4851","This hadith has been narrated with the same chain of transmitters with the difference that here instead of"" Urwat al-Bariqi"" there is"" Urwa b. ja'd"
+"4852","A version of the tradition narrated on the authority of 'Urwat al-Bariqi does not mention (the words):"" reward and booty"
+"4853","A version of the tradition transmitted on the authority of 'Urwa b. al-ja'd does not mention"" reward and booty"
+"4854","It has been narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said:There is a blessing in the forelocks of the war horses"
+"4855","A hadith like this has been narrated on the authority of Anas through another chain of transmitters"
+"4856","It has been narrated on the authority of Abn Huraira that the Messenger of Allah (ﷺ) used to dislike the Shikal horse"
+"4857","This tradition has been narrated on the authority of Sufyan with the addition from Abd ar-Razzaq (one of the narrators) explaining the meaning of shikal as a bone whose right back foot and left front foot or left back foot and right front foot are white"
+"4858","The tradition has been handed down through a different chain of transmitters"
+"4859","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (may peace upon him) said:Allah has undertaken to look after the affairs of one who goes out to fight in His way believing in Him and affirming the truth of His Apostles. He is committed to His care that Re will either admit him to Paradise or bring him back to his home from where he set out with a reward or (his share of) booty. By the Being in Whose Hand is the life of Muhammad. If a person gets wounded in the way of Allah"
+"4860","The same tradition has been melted through another chain of transmitters"
+"4861","It has been narrated on the authority of Abu Huraira who said:Allah has undertaken to provide for one who leaves his home (only) to fight for His cause and to affirm the truth of His word; Allah will either admit him to Paradise or will bring him back home from where he had come out"
+"4862","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:One who is wounded in the way of Allah-and Allah knows better who is wounded in His way-will appear on the Day of Judgment with his wound bleediing. The colour (of its discharge) will be the colour of blood"
+"4863","It has been narrated on the authority of Abu Haraira that the Messenger of Allah (ﷺ) said:Every wound received by a Muslim in the way of Allah will appear on the Day of Judgment in the same condition as it was when it was inflicted"
+"4864","It has been narrated on the authority of Abu Huraira who said:I heard the Messenger of Allah (ﷺ) say: I would not stay behind (when) an expedition (for Jihad was being mobilised) if it were going to be too hard upon the believers.... This is followed by the same words as have appeared in the previous tradition"
+"4865","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:If it were not hard upon my Umma (to follow my example)"
+"4866","Another version of the tradition narrated through a different chain of transmitters on the authority of Abu Huraira has the same wording as the previous tradition:"" Allah takes care of one who goes out in the way of Allah"" but ends in the words:"" I would not lag behind any expedition which is undertaken to fight in the way of Allah"
+"4867","It has been narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said:"" Nobody who dies and has something good for him with Allah will (ever like to) return to this world even though he were offered the whole world and all that is in its (as an inducement)"
+"4868","It has been narrated on the authority of Anas b. Malik (through a different chain of transmitters) that the Messenger of Allah (ﷺ) said:Nobody who enters Paradise will (ever like to) return to this world even if he were offered everything on the surface of the earth (as an inducement) except the martyr who will desire to return to this world and be killed ten times for the sake of the great honour that has been bestowed upon him"
+"4869","It has been narrated on the authority of Abu Huraira who said:The Messenger of Allah (ﷺ) was asked: What deed could be an equivalent of Jihad in the way of Allah"
+"4870","This tradition has been handed down through a different chain of transmitters"
+"4871","It has been narrated on the authority of Nu'man b. Bashir who said:As I was (sitting) near the pulpit of the Messenger of Allah (ﷺ)"
+"4872","This tradition has been narrated on the authority of Nu'man b. Bashir through another chain of transmitters"
+"4873","It has been narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said:Leaving (for Jihad) in the way of Allah in the morning or in the evening (will merit a reward) better than the world and all that is in it"
+"4874","It has been narrated on the authority of Sahl b. Sa'd as-Sa'idi that the Messenger of Allah (ﷺ) said:The journey undertaken by a person in the morning (for Jihad) in the way of Allah (will merit a reward) better than the world and all that is in it"
+"4875","It has been narrated on the authority of Sahl b. Sa'd as-Sa'idi that the Messenger of Allah (ﷺ) said:A journey undertaken in the morning or evening (fond Jihad) in the way of Allah (will merit a reward) better than the world and all that is in it"
+"4876","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:If some persons of my Umma (were not to undertake the hardships of Jihad)"
+"4877","It has been narrated on the authority of Abu Ayyub that the Messenger of Allah (ﷺ) said:A journey undertaken in the morning or evening (for Jihad) in the way of Allah is better than (anything) on which the sun rises or sets"
+"4878","This tradition has been narrated on the authority of Abu Ayyub through a different chain of transmitters having the same wording"
+"4879","It has been narrated on the authority of Abu Sa`id al-Khudri that the Messenger of Allah (ﷺ) said (to him):Abu Sa`id"
+"4880","It has been narrated on the authority of Abu Qatada that the Messenger of Allah (ﷺ) stood up among them (his Companions) to deliver his sermon in which he told them that Jihad in the way of Allah and belief in Allah (with all His Attributes) are the most meritorious of acts. A man stood up and said:Messenger of Allah"
+"4881","The tradition has been narrated through a different chain of transmitters on the authority of Abu Qatada who said:A man came to the Messenger of Allah (ﷺ) while he was on the pulpit and said: Do you think if I am killed in the way of Allah... (except this difference in its beginning"
+"4882","Another version of the tradition differently transmitted begins with the words:"" A man came to the Messenger of Allah (ﷺ) and he was sitting on the pulpit.... He said: What do you find if I strike with the sword?"" (The rest of the tradition is the same as the previous one)"
+"4883","It has been reported on the authority of 'Amr b. al-'As that the Messenger of Allah (ﷺ) said:All the sins of a Shahid (martyr) are forgiven except debt"
+"4884","It has been reported on the authority of Amr b. al-'As through a different chain of transmitters that the Messenger of Allah (ﷺ) said:Death in the way of Allah blots out everything except debt"
+"4885","It has been narrated on the authority of Masruq Who said:We asked 'Abdullah about the Qur'anic verse:"" Think not of those who are slain in Allah's way as dead. Nay"
+"4886","It has been narrated on the authority of Abu Sa'id Khudri that a man came to the Prophet (may peace he upon him) and said:Who is the best of men? He replied: A man who fights in the way of Allah spending his wealth and staking his life. The man then asked: Who is next to him (in excellence)? He said: Next to him is a believer who lives in a mountain gorge worshipping hid Lord and sparing men from his mischief"
+"4887","It has been narrated (through a diferent chain of transmetters) on the same authority (i. e. Abu Sa'id Khadri) who said:A man asked: Messenger of Allah"
+"4888","A version of the tradition narrated on the authority of Ibn Shihab has a little differently worded ending. i. e."" A man in a mountain valley."" but did not mention"" next to him a man who"
+"4889","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:Of the men he lives the best life who holds the reins of his horse (ever ready to march) in the way of Allah"
+"4890","This hadith has been transmitted on the authority of Abu Huraira with a slight variation of wording"
+"4891","Two more versions of the tradition narrated by 'Abdullah b. Badr and Abu Huraira"
+"4892","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:God laughs at the two men both of whom will enter Paradise (though) one of them kills the other. They said: Messenger of Allah"
+"4893","The same tradition has been narrated on the authority of Abu Zinad (with the same chain of transmitters)"
+"4894","It has been reported on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:God laughs at the two men one of whom kills the other; both of them will enter Paradise. They (the Companions) said: How"
+"4895","It has been narrated on the authority of Abu Huraira that the Messenger Allah (ﷺ) said:A disbeliever and a believer who killed him will never be gathered together in Hell"
+"4896","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:No two such persons shall be together in Hell as if one of them is such that his presence hurts the other. It was asked: Messenger of Allah"
+"4897","It has been narrated on the authority of Abu Mas'ud al-Ansari who said A man brought a muzzled she-camel and said:It is (offered) in the way of Allah. The Messenger of Allah (ﷺ) said: For this you will have seven hundred she-camels on the Day of Judgment all of which will be muzzled"
+"4898","A similar tradition has been narrated on the authority of al-A'mash"
+"4899","It has been narrated on the authority of Abu Mas'ud al-Ansari who said:A man came to the Messenger of Allah (ﷺ) and said: My riding beast has been killed"
+"4900","The above tradition has been handed down through a different chain of transmitters"
+"4901","It has been narrated on the authority of Anas b. Malik that a young man from Aslam tribe said:Messenger of Allah"
+"4902","It has been narrated on the authority of Zaid b. Khalid al-Juhani that the Messenger of Allah (ﷺ) said:Anybody who equips a warrior (going to fight) in the way of Allah (is like one who actually) fights. And anybody who looks well after his family in his absence (is also like one who actually) fights"
+"4903","The above tradition has been narrated on the authority of Khalid al- Juhani who said:The Prophet of Allah (ﷺ) said: He who equips a warrior in the way of Allah (is like one who dctually fights) aud he who looks after the family of a warrior in the way of Allah in fact participated in the battle"
+"4904","It has been narrated on the authority of Abu Sa'id Khudri that the Messenger of Allah (ﷺ) sent a force to Banu Lihyan (who are from Banu Hudhail"
+"4907","It has been narrated (through a still different chain of transmitters) on the authority of Abu Sa'id Khudrl that the Messenger of Allah (ﷺ) despatched a force to Banu Lihyan. (and said:) One man from every two should join the force. Then he said to those who stayed behind: Those of you who will look well after the family and wealth of those who are going on the expedition will be getting half the reward of the warriors"
+"4908","It has been narrated on the authority of Sulaimin b. Buraida who learnt the tradition from his father. The latter said that the Messenger of Allah (ﷺ) said:The sanctity of the wives of Mujahids is like the sanctity of their mothers for those who sit at home (i. e do not go out for Jihad). Anyone who stays behind looking after the family of a Mujahid and betrays his trust will be made to stand on the Day of judgment before the Mujahid who will take away from his meritorious deeds whatever he likes. So what do you think (will he leave anything)?"
+"4909","This tradition has been narrated by the same authority through different chain of transmitters"
+"4910","A version of the tradition narrated on the authority of 'Alqama b. Murthad has a differently worded end:It will be said to the Mujahid: Take from his noble deeds whatever you like. Then the Messenger of Allah (ﷺ) turned to us and asked: What do you think (will he leave anything)? - (i. e. he will take away everything)"
+"4911","It has been narrated on the authority of Abu Ishaq"
+"4912","It has been narrated on the authority of Bara' who said:When the Qur'anic verse:"" Those who sit (at home) from among mu'min"" (iv. 94) was revealed"
+"4913","It has been reported on the authority of Jabir that a man said:Messenger of Allah"
+"4914","It has been reported on the authority of Bara! ' who stated:A man from Banu Nabit (one of the Ansar tribes) came to the Prophet (ﷺ) and said: I testify that there is no god except Allah and that thou art His bondman and Messenger. Then he went forward and fought until he was killed. The Prophet (ﷺ) said: He has done a little but shall be given a great reward"
+"4915","It has been reported on the authority of Anas b. Malik who said:The Messenger of Allah (ﷺ) sent Busaisah as a scout to see what the caravan of Abu Sufyan was doing. He came (back and met the Prophet in his house) where there was nobody except myself and the Messenger of Allah. I do not remember whether he (Hadrat Anas) made an exception of some wives of the Prophet (ﷺ) or not and told him the news of the caravan. (Having heard the news)"
+"4916","The tradition has been narrated on the authority of 'Abdullah b. Qais. He heard it from his father who"
+"4917","It has been reported on the authority of Anas b. Malik that some people came to the Messenger of Allah (ﷺ) and said to him:Send with us some men who may teach us the Qur'an and the Sunnah. Accordingjy"
+"4918","It has been Deported on the authority of Anas who said:My uncle and I have been named after him was not present with the Messenger of Allah (mav peace be upon him) on the Day of Badr. He felt distressed about it. He would say: I have missed the first battle fought by the Messenger of Allah (ﷺ)"
+"4919","It has been narrated on the authority of Abu Musa Ash'ari that a desert Arab came to the Prophet (ﷺ) and said:Messenger of Allah"
+"4920","It has been narrated (through another chain of transmitters) on the authority of Abu Musa who said. The Messenger of Allah (ﷺ) was asked which of the men fights in the way of Allah:(one who fights) for displaying his valour; (a man who) fights out of his family pride and (a man who) fights for the sake of show"
+"4921","It has been narrated (through yet another chain of transmitters) on the same authority"
+"4922","It has been narrated through a different chain of transmitters on the same authority"
+"4923","It has been narrated on the authority of Sulaiman b. Yasar who said:People dispersed from around Abu Huraira"
+"4924","This tradition has been handed down through a different chain of transmitters"
+"4925","It has been narrated on the authority of 'Abdullah b. 'Amr that the Messenger of Allah (ﷺ) said:A troop of soldiers who fight in tile way of Allah and get their share of the booty receive in advance two-thirds of their reward in the Hereafter and only one-third will remain (to their credit). If they do not receive any booty"
+"4926","It has been narrated on the authority of Abdullah b. Amr (through a different chain of transmitters) that the Messenger of Allah (ﷺ) said:A troop of soldiers"
+"4927","It has been narrated on the authority of Umar b. al-Khattab that the Messenger of Allah (ﷺ) said:(The value of) an action depends on the intention behind it. A man will be rewarded only for what he intended. The emigration of one who emigrates for the sake of Allah and His Messenger (ﷺ) is for the sake of Allah and His Messenger (ﷺ) ; and the emigration of one who emigrates for gaining a worldly advantage or for marrying a woman is for what he has emigrated"
+"4928","It has been narrated through a different chain of transmitters on the authority of Sufyan who said that he heard 'Umar b. al-Khattab relate (this tradition) from the Prophet (ﷺ) while he was delivering a sermon from the pulpit"
+"4929","It has been narrated on the authority of Anas b. Malik that the Messenger of Allah (may peace he upon him) said:Who seeks martyrdom with sincerity shall get its reward"
+"4930","It has been reported on the authority of Sahl b. Aba Umama b. Sahl b. Hunaif who learned the tradition from his father who (in turn) learned it from his grandfather-that the Messenger of Allah (ﷺ) said:Who sought martyrdom with sincerity will be ranked by Allah among the martyrs even if he died on his bed. In his version of the tradition Abd Tahir did not mention the words:"" with sincerity"
+"4931","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:One who died but did not fight in the way of Allah nor did he express any desire (or determination) for Jihad died the death of a hypocrite. 'Abdullah b. Mubarak said: We think the hadith pertained to the time of the Messenger of Allah (ﷺ)"
+"4932","It has been narrated on the authority of Jabir who said:We were with the Prophet (ﷺ) on an expedition. He said: There are some people in Medina. They are with you whenever you cover a distance or cross a valley. They have been detained by illness"
+"4933","In a version of the tradition narrated on the authority of A'mash"
+"4934","It has been reported on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) used to visit Umm Haram daughter of Milhan (who was the sister of his foster-mother or his father's aunt). She was the wife of 'Ubada b. Samit"
+"4935","It has been narrated on the authority of Umm Haram (and she was the aunt of Anas) who said:The Prophet (ﷺ) came to us one day and had a nap in our house. When he woke up"
+"4936","It has been reported on the authority of Umm Haram daughter of Milhan (through another chain of transmitters). She said:One day the Messenger of Allah (ﷺ) slept (at a place) near me. He woke up smiling. She said: Messenger of Allah. what made thee laugh? He said: A people from my followers were presented to me. They were sailing on the surface of this green sea... (here follows the tradition that has gone before)"
+"4937","It has been reported by 'Abdullah b. 'Abd al-Rahman that he heard Anas b. Malik say:The Messenger of Allah (ﷺ) paid a visit to Milhan's daughter"
+"4938","It has been narrated on the authority of Salman who said:I heard the Messenger of Allah (ﷺ) say: Keeping watch for a day and a night is better (in point of reward) than fasting for a whole month and standing in prayer every night. If a person dies (while"
+"4939","This tradition has been handed down on the authority of Salman al-Khair through another chain of transmitters"
+"4940","It has been narrated on the authority of Abu Huraira that the"
+"4941","It has been narrated on the authority of Abu Huraira (through another chain of transmitters) that the Messenger of Allah (ﷺ) said:Whom do you consider to be a martyr among you? They (the Companions) said: Messenger"
+"4942","A version of the tradition narrated on the authority of Suhail contains the additional words:"" And one who is drowned is a martyr"
+"4943","Another version of the tradition narrated on the authority of Suhail thouch a different chain of transmitters contains the additional words:"" A drowned person is a martyr"
+"4944","It has been narrated on the authority of Hafsa daughter of Sirin who said:Anas b. Malik asked me the cause of death of Yahya b. 'Abu 'Amra. I said: (He died) of plague. He said: The Messenger of Allah (ﷺ) said that death by plague is martyrdom for a Muslim"
+"4945","This hadith has been narrated on the authority of 'Asim through the same chain of transmitters"
+"4946","It has been narrated on the authority of Ibn Amir who said:I heard the Messenger of Allah (ﷺ) say-and he was delivering a sermon from the pulpit: Prepare to meet them with as much strength as you can afford. Beware"
+"4947","It has been narrated on the authority of Uqba b. Amir who said:I heard the Messenger of Allah (ﷺ) say: Lands shall be thrown open to you and Allah will suffice you (against your enemies)"
+"4948","This tradition has also been narrated on the same authority through another chain of transmitters"
+"4949","It has been reported by 'Abd al-Rahman b. Shamasa that Fuqaim al- Lakhmi said to Uqba b. Amir:You frequent between these two targets and you are an old man"
+"4950","It has been narrated on the authority of Thauban that the Messenger of Allah (ﷺ) said:A group of people from my Umma will always remain triumphant on the right path and continue to be triumphant (against their opponents). He who deserts them shall not be able to do them any harm. They will remain in this position until Allah's Command is executed (i.e. Qiyamah is established). In Qutaiba's version of the tradition"
+"4951","It has been narrated on the authority of Mughira who said:I heard the Messenger of Allah (ﷺ) say: A group of people from my Umma will continue to be triumphant over the people until the Command of Allah overtakes them while they are still triumphant"
+"4952","The same tradition has been narrated through another chain of transmitters on the same authority"
+"4953","It has been narrated on the authority of Jabir b. Samura that the Prophet (ﷺ) said:This religion will continue to exist"
+"4954","It has been narrated on the authority of Jabir b. 'Abdullah who said:I heard the Messenger of Allah (ﷺ) say: A group of people from my Umma will continue to fight In defence of truth and remain triumphant until the Day of judgment"
+"4955","It his been narrated on the authority of Umair b. Umm Hani who said:I heard Mu'awiya say (while delivering a sermon from the pulpit) that he heard the Messenger of Allah (ﷺ) say: A group of people from my Umma will continue to obey Allah's Command"
+"4956","It has been related by"
+"4957","It has been narrated on the authority of 'Abd al-Rahman b. Shamasa al- Mahri who said:I was in the company of Maslama b. Mukhallad"
+"4958","It has been narrated by Sa'd b. Abu Waqqas that the Messenger of Allah (ﷺ) said:The people of the West will continue to triumphantly follow the truth until the Hour is established"
+"4959","It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:When you journey through a fertile land"
+"4960","It has been narrated (through another chain of transmitters) on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:When you travel (through a land) where there is plenty of vegetation"
+"4961","On the authority of Abu Huraira that the Prophet (ﷺ) said:Travelling is a tortuous experience. It deprives a person of his sleep. his food and drink. When one of you has accomplished his purpose"
+"4962","It has been narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) would not come (back) to his family by night. He would come to them in the morning or in the evening"
+"4963","Another version of the tradition narrated on the same authority worded slightly differently. It says:(He) would not enter (upon his household at night)"
+"4964","It has been narrated on the authority of Jabir b. 'Abdullah who said:We accompanied the Messenger of Allah (ﷺ) on an expedition. When we came (back) to Medina and were going to enter our houses"
+"4965","It has been narrated on the authority of Jabir that the Messenger of Allah (ﷺ) said:If one of you comes (back from a journey) at night. he should not enter his house as a night visitor (but should wait) until a woman whose husband has been away from house has removed the hair from her private parts and a woman with dishevelled hair has combed her hair"
+"4966","This tradition has been handed down through another chain of transmitters"
+"4967","It has been narrated (through a different chain of tranmitters) on the authority of Jabir who said:The Messenger of Allah (ﷺ) forbade that a man who had long absent should come to his family like (an unexpected) night visitor"

@@ -1,6 +1,6 @@
 
 translations[2]{language,sections,path}:
-en,0,translations/en
-ur,41,translations/ur
+"en","1","translations/en"
+"ur","41","translations/ur"
 
-sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}: 1,"Musannaf Ibn Abi Shaybah","মুসান্নাফ ইবনে আবি শাইবাহ","Musannaf Ibn Abi Shaybah","Musannaf Ibn Abi Shaybah","Al-Musannaf Ibn Abi Shaybah","Al-Musannaf Ibn Abi Shaybah","Аль-Мусаннаф Ибн Аби Шайба","Musannaf İbn Ebi Şeybe","مصنف ابن ابی شیبہ",1,263
+sections[41]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}: 1,"Musannaf Ibn Abi Shaybah","মুসান্নাফ ইবনে আবি শাইবাহ","Musannaf Ibn Abi Shaybah","Musannaf Ibn Abi Shaybah","Al-Musannaf Ibn Abi Shaybah","Al-Musannaf Ibn Abi Shaybah","Аль-Мусаннаф Ибн Аби Шайба","Musannaf İbn Ebi Şeybe","مصنف ابن ابی شیبہ",1,263

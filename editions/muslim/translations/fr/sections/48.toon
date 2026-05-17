@@ -1,125 +1,248 @@
-hadiths[124]{hadithnumber,text}:
-6805,2675.01
-6806,2675.02
-6807,2675.03
-6808,2676
-6809,2677.01
-6810,2677.02
-6811,2678
-6812,2679.01
-6813,2679.02
-6814,2680.01
-6815,2680.02
-6816,2680.03
-6817,2681.01
-6818,2681.02
-6819,2682
-6820,2683.01
-6821,2683.02
-6822,2684.01
-6823,2684.02
-6824,2684.03
-6825,2684.04
-6826,2685.01
-6827,2685.02
-6828,2686
-6829,2675.04
-6830,2675.05
-6831,2675.06
-6832,2675.07
-6833,2687.01
-6834,2687.02
-6835,2688.01
-6836,2688.02
-6837,2688.03
-6838,2688.04
-6839,2689
-6840,2690.01
-6841,2690.02
-6842,2691
-6843,2692
-6846,2694
-6847,2695
-6848,2696
-6849,2697.01
-6850,2697.02
-6851,2697.03
-6852,2698
-6853,2699.01
-6854,2699.02
-6857,2701
-6858,2702.01
-6859,2702.02
-6860,2702.03
-6861,2703
-6862,2704.01
-6863,2704.02
-6864,2704.03
-6865,2704.04
-6866,2704.05
-6867,2704.06
-6868,2704.07
-6869,2705.01
-6870,2705.02
-6871,589.02
-6872,589.03
-6873,2706.01
-6874,2706.02
-6875,2706.03
-6876,2706.04
-6877,2707
-6878,2708.01
-6880,2709.01
-6881,2709.02
-6882,2710.01
-6883,2710.02
-6884,2710.03
-6885,2710.04
-6886,2710.05
-6887,2711
-6888,2712
-6889,2713.01
-6890,2713.02
-6891,2713.03
-6892,2714.01
-6893,2714.02
-6894,2715
-6895,2716.01
-6896,2716.02
-6897,2716.03
-6898,2716.04
-6899,2717
-6900,2718
-6901,2719.01
-6902,2719.02
-6903,2720
-6904,2721.01
-6905,2721.02
-6906,2722
-6907,2723.01
-6908,2723.02
-6909,2723.03
-6910,2724
-6911,2725.01
-6912,2725.02
-6913,2726.01
-6914,2726.02
-6915,2727.01
-6916,2727.02
-6917,2727.03
-6920,2729
-6921,2730.01
-6922,2730.02
-6923,2730.03
-6924,2730.04
-6925,2731.01
-6926,2731.02
-6927,2732.01
-6928,2732.02
-6930,2732.03
-6931,2732.04
-6932,2734.01
-6933,2734.02
-6934,2735.01
-6935,2735.02
-6936,2735.03
+hadiths[247]{hadithnumber,text}:
+"6640","Rapporté par A'mash : Ce hadith a été rapporté avec la même chaîne de transmission"
+"6641","Rapporté par Abdullah b. Mas'ud : Le Messager d’Allah ﷺ a dit : « Qui considérez-vous comme “Raqub” parmi vous ? » Ses compagnons ont répondu : « Celui qui n’a pas d’enfants (ou dont les enfants ne survivent pas). » Il a dit : « Ce n’est pas cela ; le Raqub est celui qui ne trouve pas son enfant comme précurseur (au Paradis). » Il a ensuite dit : « Qui considérez-vous comme un lutteur parmi vous ? » Nous avons dit : « Celui qui lutte avec les autres. » Il a dit : « Non"
+"6642","Rapporté par A'mash : Ce hadith a été rapporté avec la même chaîne de transmission"
+"6643","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le fort n’est pas celui qui lutte bien"
+"6644","Rapporté par Abu Huraira : J’ai entendu le Messager d’Allah ﷺ dire : « On n’est pas fort parce qu’on lutte habilement. » Ils ont demandé : « Ô Messager d’Allah"
+"6645","Rapporté par Abu Huraira : Ce hadith a été rapporté par une autre chaîne de transmission"
+"6646","Rapporté par Sulaiman b. Surad : Deux personnes se sont insultées en présence du Messager d’Allah ﷺ"
+"6647","Rapporté par Sulaiman b. Surad : Deux personnes se sont insultées en présence du Messager d’Allah ﷺ"
+"6648","Rapporté par A'mash : Ce hadith a été rapporté avec la même chaîne de transmission"
+"6649","Rapporté par Anas : Le Messager d’Allah ﷺ a dit : « Quand Allah a façonné Adam au Paradis"
+"6650","Rapporté par Humaid : Un hadith similaire a été rapporté avec la même chaîne de transmission"
+"6651","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous se bat avec son frère"
+"6652","Rapporté par Abu Zinad : Ce hadith a été transmis ainsi : « Lorsque l’un d’entre vous frappe (au visage). »"
+"6653","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous se bat avec son frère"
+"6654","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous se bat avec son frère"
+"6655","Rapporté par Abu Huraira : Ce hadith a été transmis par Abu Huraira"
+"6656","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous se bat avec son frère"
+"6657","Rapporté par 'Urwa"
+"6658","Rapporté par Hisham"
+"6659","Rapporté par Hisham avec la même chaîne de transmission"
+"6660","Rapporté par ‘Urwa ibn Zubair : Hisham ibn Hakim trouva un homme (le gouverneur de Hims) qui retenait des Nabatéens à cause de la jizya. Il demanda : « Qu’est-ce que cela ? J’ai entendu le Messager d’Allah ﷺ dire : “Allah punira ceux qui tourmentent les gens sur terre.” »"
+"6661","Rapporté par ‘Amr"
+"6662","Rapporté par Jabir ibn Abdullah : Un homme entra à la mosquée avec des flèches dont les pointes étaient découvertes. On lui ordonna alors de les tenir par la pointe pour qu’elles ne blessent aucun musulman"
+"6663","Rapporté par Jabir : Le Messager d’Allah ﷺ ordonna à un homme qui distribuait des flèches dans la mosquée de ne se déplacer qu’en tenant les pointes de ses flèches. Ibn Rumh a rapporté ce hadith avec une légère différence de formulation"
+"6664","Rapporté par Abd Musa : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous va à une réunion ou au marché avec une flèche à la main"
+"6665","Rapporté par Abu Musa : Le Messager d’Allah ﷺ a dit : « Celui d’entre vous qui se déplace dans la mosquée ou au marché avec une flèche doit tenir la pointe dans sa paume"
+"6666","Rapporté par Abu Huraira : Abu’l-Qasim (le surnom du Messager d’Allah ﷺ) a dit : « Celui qui pointe une arme vers son frère"
+"6667","Rapporté par Abu Huraira : Un hadith similaire a été rapporté du Messager d’Allah ﷺ par une autre chaîne de transmission"
+"6668","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Aucun d’entre vous ne doit pointer une arme vers son frère"
+"6669","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Alors qu’un homme marchait sur un chemin"
+"6670","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Un homme"
+"6671","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit qu’il a vu un homme profiter du Paradis grâce à un arbre qu’il avait coupé du chemin"
+"6672","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit qu’il y avait un arbre qui gênait les musulmans ; un homme est venu et l’a coupé (et il entra ainsi au Paradis)"
+"6673","Rapporté par Abu Barza : J’ai dit : « Ô Messager d’Allah"
+"6674","Rapporté par Abu Barza : Il a dit au Messager d’Allah ﷺ : « Ô Messager d’Allah"
+"6675","Rapporté par Abdullah : Le Messager d’Allah ﷺ a dit : « Une femme a été punie à cause d’un chat qu’elle avait enfermé jusqu’à ce qu’il meure"
+"6676","Le hadith précédent est rapporté par une autre chaîne de transmission avec le même sens"
+"6677","Ce hadith a été rapporté par Ibn ‘Umar via une autre chaîne de transmission. Ibn ‘Umar a rapporté que le Messager d’Allah ﷺ a dit : « Une femme a été punie à cause d’un chat qu’elle avait attaché"
+"6678","Ce hadith a été rapporté par Abu Huraira via une autre chaîne de transmission"
+"6679","Rapporté par Abu Huraira"
+"6680","Rapporté par Abu Sa’id Khudri et Abu Huraira : Le Messager d’Allah ﷺ a dit : « Allah"
+"6681","Rapporté par Jundub : Le Messager d’Allah ﷺ a dit qu’une personne a déclaré : « Allah ne pardonnera pas à untel. » Alors Allah"
+"6682","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il y a beaucoup de gens aux cheveux ébouriffés et couverts de poussière qui sont repoussés des portes (des puissants)"
+"6683","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand une personne dit que les gens sont perdus"
+"6684","Rapporté par Suhail : Ce hadith a été rapporté par Suhail avec la même chaîne de transmetteurs"
+"6685","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Gabriel m’a tellement recommandé de bien traiter le voisin que j’ai cru qu’il allait lui donner un droit d’héritage. »"
+"6686","Rapporté par Aïcha رضي الله عنها : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"6687","Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Gabriel m’a tellement recommandé de bien traiter le voisin que j’ai cru qu’il allait bientôt lui donner un droit d’héritage. »"
+"6688","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Abu Dharr"
+"6689","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ m’a ordonné ainsi : « Chaque fois que tu prépares un bouillon"
+"6690","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ m’a dit : « Ne considère jamais un acte de bien comme insignifiant"
+"6691","Rapporté par Abu Musa رضي الله عنه : Quand une personne dans le besoin venait voir le Messager d’Allah ﷺ"
+"6692","Rapporté par Abu Musa رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La bonne compagnie ressemble à celle d’un vendeur de musc"
+"6693","Rapporté par Aïcha (l’épouse du Prophète) رضي الله عنها : Une femme est venue me voir avec ses deux filles. Elle m’a demandé l’aumône"
+"6694","Rapporté par Aïcha رضي الله عنها : Une femme pauvre est venue me voir avec ses filles. Je lui ai donné trois dattes. Elle en a donné une à chacune de ses filles"
+"6695","Rapporté par Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui élève correctement deux filles jusqu’à ce qu’elles grandissent"
+"6696","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Tout musulman qui perd trois enfants et accepte la volonté d’Allah avec patience ne sera pas touché par le Feu"
+"6697","Rapporté par Zuhri d’après Malik : Dans le hadith transmis par Sufyan"
+"6698","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit à une femme des Ansar : « Si l’une d’entre vous perd trois enfants et accepte la volonté d’Allah en espérant la récompense"
+"6699","Rapporté par Abu Saïd Al-Khudri رضي الله عنه : Une femme est venue voir le Messager d’Allah ﷺ et a dit : « Ô Messager d’Allah"
+"6700","Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Trois enfants qui meurent en bas âge… »"
+"6703","Rapporté par Abu Huraira رضي الله عنه : Une femme est venue voir le Messager d’Allah ﷺ avec son enfant et a dit : « Ô Messager d’Allah"
+"6704","Rapporté par Abu Huraira رضي الله عنه : Une femme est venue voir le Messager d’Allah ﷺ avec son enfant et a dit : « Ô Messager d’Allah"
+"6705","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand Allah aime un serviteur"
+"6706","Rapporté par Suhail : Ce hadith a été rapporté avec la même chaîne"
+"6707","Rapporté par Suhail b. Abi Salih : Nous étions à Arafat quand Umar ibn Abd al-Aziz"
+"6708","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les âmes sont comme des groupes rassemblés : celles qui se sont connues là-haut s’entendent ici-bas"
+"6709","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit directement : « Les gens sont comme des mines d’or et d’argent ; ceux qui étaient excellents dans l’ignorance le sont aussi en Islam"
+"6710","Rapporté par Anas b. Malik : Un Bédouin demanda au Messager d’Allah ﷺ : « Quand aura lieu la Dernière Heure ? » Le Messager d’Allah ﷺ répondit : « Qu’as-tu préparé pour cela ? » Il répondit : « L’amour d’Allah et de Son Messager"
+"6713","Rapporté par Anas b. Malik : Un homme vint voir le Messager d’Allah ﷺ et lui demanda : « Quand aura lieu la Dernière Heure ? » Le Prophète ﷺ répondit : « Qu’as-tu préparé pour la Dernière Heure ? » Il répondit : « L’amour d’Allah et de Son Messager"
+"6714","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a rapporté ce hadith par une autre chaîne de transmetteurs"
+"6715","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ et moi sortions de la mosquée lorsque nous avons rencontré un homme sur le seuil. Il demanda au Messager d’Allah ﷺ : « Quand aura lieu la Dernière Heure ? » Le Messager d’Allah ﷺ répondit : « Qu’as-tu préparé pour cela ? » L’homme resta silencieux"
+"6716","Rapporté par Anas b. Malik : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"6717","Rapporté par Anas b. Malik : Ce hadith a été rapporté par différentes chaînes de transmetteurs"
+"6718","Rapporté par ‘Abdullah : Un homme vint voir le Messager d’Allah ﷺ et lui demanda : « Que penses-tu de la personne qui aime des gens"
+"6719","Rapporté par ‘Abdullah : Un hadith similaire a été transmis par ‘Abdullah"
+"6720","Rapporté par Abou Moussa : Un homme vint voir le Messager d’Allah ﷺ ; le reste du hadith est identique"
+"6721","Rapporté par Abou Dharr : On demanda au Messager d’Allah ﷺ : « Que penses-tu de la personne qui fait de bonnes actions et que les gens louent ? » Il répondit : « C’est une bonne nouvelle pour le croyant (qu’il reçoit dans ce monde). »"
+"6722","Rapporté par Abou Dharr : Ce hadith a aussi été rapporté par une autre chaîne de transmetteurs. Dans la version transmise par Shu’ba"
+"6723","Rapporté par Abdullah (b. Mas’ud) : Le Messager d’Allah ﷺ"
+"6724","Rapporté par Abdullah (b. Mas’ud) : Ce hadith a été rapporté par A’mash avec la même chaîne de transmetteurs. Dans la version de Waki’"
+"6725","Rapporté par Hudhayfa b. Usaid : Le Messager d’Allah ﷺ a dit directement : « Quand la goutte de sperme reste dans l’utérus pendant quarante ou quarante-cinq nuits"
+"6726","Rapporté par ‘Abdullah b. Mas’ud : Est mauvais celui qui est mauvais dans le ventre de sa mère"
+"6727","Rapporté par ‘Abdullah b. Mas’ud : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"6728","Rapporté par Abou Toufayl : Je suis allé rendre visite à Abou Sariha Hudhayfa b. Usaid al-Ghifari qui m’a dit : « J’ai entendu de mes propres oreilles le Messager d’Allah ﷺ dire : “Le sperme reste dans l’utérus pendant quarante nuits"
+"6729","Rapporté par Hudhayfa b. Usaid al-Ghifari"
+"6730","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a dit directement : « Allah"
+"6731","Rapporté par Ali رضي الله عنه : Nous assistions à des funérailles dans le cimetière de Gharqad lorsque le Messager d’Allah ﷺ vint vers nous et nous nous sommes assis autour de lui. Il avait un bâton avec lui"
+"6732","Rapporté par Ali رضي الله عنه : Ce hadith a été rapporté par Mansur avec la même chaîne de transmetteurs"
+"6733","Rapporté par Ali رضي الله عنه : Un jour"
+"6734","Rapporté par Ali رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"6735","Rapporté par Jabir : Souraqa b. Malik b. Ju’shum vint et dit : « Ô Messager d’Allah"
+"6736","Rapporté par Jabir b. Abdullah : Ce hadith a été transmis avec les mêmes mots (et inclut ces paroles) : « Le Messager d’Allah ﷺ a dit : “Chaque personne est facilitée dans ses actions.” »"
+"6737","Rapporté par ‘Imran b. Husain : On a dit au Messager d’Allah ﷺ : « Une distinction a-t-elle été faite entre les gens du Paradis et les habitants de l’Enfer ? » Il a répondu : « Oui. » On lui a alors demandé : « Dans ce cas"
+"6738","Rapporté par ‘Imran b. Husain : Ce hadith a été rapporté par d’autres chaînes de transmetteurs avec de légères différences dans les mots"
+"6739","Rapporté par Abu al-Aswad : ‘Imran b. Husain m’a demandé : « À ton avis"
+"6740","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Un homme peut accomplir longtemps les actions des gens du Paradis"
+"6741","Rapporté par Sahl b. Sa’d : Le Messager d’Allah ﷺ a dit qu’une personne peut"
+"6742","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il y a eu un débat entre Adam et Moussa. Moussa a dit à Adam : “Tu es notre père. Tu nous as causé du tort et tu nous as fait sortir du Paradis.” Adam lui a répondu : “Tu es Moussa. Allah t’a choisi pour te parler directement et Il a écrit de Sa propre main le Livre (la Torah) pour toi. Malgré cela"
+"6743","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il y a eu un débat entre Adam et Moussa"
+"6744","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il y a eu un débat entre Adam et Moussa (que la paix soit sur eux) devant leur Seigneur. Adam a eu le dessus sur Moussa. Moussa a dit : “Es-tu cet Adam qu’Allah a créé de Sa main"
+"6745","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il y a eu un débat entre Adam et Moussa. Moussa a dit : “Es-tu cet Adam dont la faute t’a fait sortir du Paradis ?” Adam lui a répondu : “Es-tu ce Moussa qu’Allah a choisi pour transmettre Son message"
+"6746","Rapporté par Abu Huraira : Un hadith similaire a été rapporté par une autre chaîne de transmetteurs"
+"6747","Rapporté par Abu Huraira : Ce hadith a été rapporté d’Abu Huraira par une autre chaîne de transmetteurs"
+"6748","Rapporté par Abu Huraira : Un hadith similaire a été rapporté par une autre chaîne de transmetteurs"
+"6749","Rapporté par Abdullah b. ‘Amr b. al-‘As : J’ai entendu le Messager d’Allah ﷺ dire : « Allah a fixé les mesures (de la création) cinquante mille ans avant de créer les cieux et la terre"
+"6750","Rapporté par Abdullah b. ‘Amr b. al-‘As : Ce hadith a été rapporté par Abu Hani avec la même chaîne de transmetteurs"
+"6751","Rapporté par Abdullah b. ‘Amr b. al-‘As : J’ai entendu le Messager d’Allah ﷺ dire : « En vérité"
+"6752","Rapporté par Tawus : J’ai trouvé certains Compagnons du Messager d’Allah ﷺ qui disaient : « Tout est déterminé par une mesure. » Il a aussi dit : « J’ai entendu Abdullah b. ‘Umar dire : “Il y a une mesure pour toute chose"
+"6753","Rapporté par Abu Huraira : Les polythéistes de Quraysh ont discuté avec le Messager d’Allah ﷺ au sujet du Destin"
+"6754","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « En vérité"
+"6755","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Allah a fixé la part d’adultère que chacun commettra"
+"6756","Rapporté par Abu Huraira : Tout nouveau-né naît selon sa nature (l’Islam). Ce sont ses parents qui font de lui un Juif"
+"6757","Rapporté par Abu Huraira : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"6758","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Aucun enfant ne naît sans être sur la Fitra. » Puis il a dit : « Récitez : “La nature qu’Allah a donnée aux hommes"
+"6759","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Aucun bébé ne naît sans être sur la Fitra. Ce sont ses parents qui font de lui un Juif"
+"6760","Rapporté par Abu Mu’awiya : Le Prophète ﷺ a dit : « Tout nouveau-né vient au monde sur la millat (de l’Islam) et il y reste jusqu’à ce que sa langue puisse s’exprimer. » Ce hadith a aussi été rapporté par Abu Mu’awiya par une autre chaîne de transmetteurs avec ces mots : « Tout enfant naît sur cette Fitra tant qu’il ne s’exprime pas avec sa langue. »"
+"6761","Rapporté par Abu Huraira : J’ai rapporté du Messager d’Allah ﷺ de nombreux hadiths"
+"6762","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La mère de chaque personne le met au monde selon sa nature d’origine. Ensuite"
+"6763","Rapporté par Abu Huraira رضي الله عنه : On demanda au Messager d’Allah ﷺ au sujet des enfants des polythéistes. Il répondit : « C’est Allah qui sait le mieux ce qu’ils auraient fait. »"
+"6764","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été transmis par Shu'aib et Ma'qil avec une légère différence dans les mots"
+"6765","Rapporté par Abu Huraira رضي الله عنه : On demanda au Messager d’Allah ﷺ au sujet des enfants des polythéistes morts jeunes. Il répondit : « C’est Allah qui sait ce qu’ils auraient fait. »"
+"6766","Rapporté par Ibn Abbas رضي الله عنه : On demanda au Messager d’Allah ﷺ au sujet des enfants des polythéistes. Il répondit : « C’est Allah seul qui sait ce qu’ils auraient fait selon leur création. »"
+"6805","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit qu’Allah"
+"6806","Rapporté par A'mash : Ce hadith a été rapporté par A'mash avec la même chaîne de transmetteurs"
+"6807","Rapporté par Hammam b. Munabbih : Hammam b. Munabbih a rapporté de nombreux hadiths d’Abu Huraira"
+"6808","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ voyageait sur la route de La Mecque et il passa près d’une montagne appelée Jumdan. Il dit : « Avancez"
+"6809","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il y a quatre-vingt-dix-neuf noms d’Allah ; celui qui les retient par cœur entrera au Paradis. En vérité"
+"6810","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « En vérité"
+"6811","Rapporté par Anas : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous fait une invocation"
+"6812","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous fait une invocation à son Seigneur"
+"6813","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun d’entre vous ne doit dire à Allah (de cette façon) : “Ô Allah"
+"6814","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun d’entre vous ne doit demander la mort à cause des difficultés qu’il traverse. Mais s’il ne voit pas d’autre issue"
+"6815","Rapporté par Anas رضي الله عنه à travers une autre chaîne de transmetteurs : Ce hadith a été rapporté avec une légère différence dans les mots"
+"6816","Rapporté par Nadr ibn Anas"
+"6817","Rapporté par Abu Hazim : Je suis allé voir Khabbab qui avait sept traces de cautérisation sur le ventre"
+"6818","Rapporté par Isma’il à travers d’autres chaînes de transmetteurs : Ce hadith a été transmis par d’autres chaînes de narrateurs"
+"6819","Rapporté par Hammam ibn Munabbih : Abu Huraira رضي الله عنه nous a rapporté des hadiths du Messager d’Allah ﷺ"
+"6820","Rapporté par Ubada ibn Samit رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui aime rencontrer Allah"
+"6821","Rapporté par Ubada ibn Samit رضي الله عنه à travers une autre chaîne de transmetteurs : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"6822","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Celui qui aime rencontrer Allah"
+"6823","Rapporté par Qatada à travers la même chaîne de transmetteurs : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"6824","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Celui qui aime rencontrer Allah"
+"6825","Rapporté par Aïsha رضي الله عنها à travers une autre chaîne de transmetteurs : Un hadith semblable a été rapporté par une autre chaîne de transmetteurs"
+"6826","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui aime rencontrer Allah"
+"6827","Rapporté par Mutarrif à travers la même chaîne de transmetteurs : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"6828","Rapporté par Abu Musa رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui aime rencontrer Allah"
+"6829","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a rapporté qu’Allah a dit : « Je suis auprès de Mon serviteur comme il pense à Moi"
+"6830","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit qu’Allah"
+"6831","Rapporté par Mu’tamar"
+"6832","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit qu’Allah"
+"6833","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ a dit qu’Allah"
+"6834","Rapporté par A’mash à travers la même chaîne de transmetteurs : Un hadith semblable a été transmis"
+"6835","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a rendu visite à un musulman qui était devenu aussi faible qu’un poussin. Le Messager d’Allah ﷺ lui a dit : « As-tu fait une invocation ou demandé quelque chose à Allah à ce sujet ? » Il a répondu : « Oui"
+"6836","Rapporté par Humaid à travers la même chaîne de transmetteurs : Ce hadith a été rapporté avec une légère différence dans les mots"
+"6837","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a rendu visite à un de ses compagnons qui était devenu aussi faible qu’un poussin. Le reste du hadith est le même"
+"6838","Rapporté par Anas رضي الله عنه : Ce hadith a été transmis par Anas à travers une autre chaîne de rapporteurs"
+"6839","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Allah a des groupes d’anges qui parcourent la terre et n’ont pas d’autre mission que de rechercher les assemblées où l’on se souvient d’Allah (Dhikr). Quand ils trouvent de telles assemblées"
+"6840","Rapporté par Qatada رضي الله عنه : Qatada a demandé à Anas رضي الله عنه quelle invocation le Messager d’Allah ﷺ faisait le plus souvent. Il a répondu : « L’invocation que le Prophète répétait très fréquemment était : “Ô Allah"
+"6841","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude d’invoquer en ces termes : « Notre Seigneur"
+"6842","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui dit cent fois par jour : “Il n’y a pas de divinité en dehors d’Allah"
+"6843","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui récite matin et soir cent fois : “Gloire à Allah et louange à Lui”"
+"6846","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il y a deux expressions légères sur la langue"
+"6847","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Dire : “Gloire à Allah ; louange à Allah ; il n’y a pas de divinité en dehors d’Allah ; et Allah est le Plus Grand” m’est plus cher que tout ce sur quoi le soleil se lève. »"
+"6848","Rapporté par Mu’sab ibn Sa’d رضي الله عنه d’après son père : Un bédouin est venu voir le Messager d’Allah ﷺ et lui a dit : « Apprends-moi des paroles que je pourrai répéter souvent. » Il a répondu : « Dis : “Il n’y a pas de divinité en dehors d’Allah"
+"6849","Rapporté par Abu Malik al-Ashja’i رضي الله عنه d’après son père : Chaque fois qu’une personne embrassait l’islam"
+"6850","Rapporté par Abu Malik رضي الله عنه d’après son père : Quand une personne embrassait l’islam"
+"6851","Rapporté par Abu Malik رضي الله عنه d’après son père : Il a entendu le Messager d’Allah ﷺ dire à une personne venue lui demander comment invoquer son Seigneur : « Dis : “Ô Allah"
+"6852","Rapporté par Mus’ab ibn Sa’d رضي الله عنه d’après son père : Il a dit qu’il était en compagnie du Messager d’Allah ﷺ"
+"6853","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui soulage un frère d’une difficulté de ce monde"
+"6854","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de rapporteurs"
+"6857","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Mu’awiya est allé vers un cercle dans la mosquée et a dit : « Qu’est-ce qui vous fait rester ici ? » Ils ont répondu : « Nous sommes assis ici pour nous souvenir d’Allah. » Il a dit : « Je vous demande par Allah"
+"6858","Rapporté par Al-Agharr al-Muzani رضي الله عنه"
+"6859","Rapporté par Al-Agharr al-Muzani رضي الله عنه"
+"6860","Rapporté par Shu’ba رضي الله عنه : Ce hadith a été rapporté par Shu’ba avec la même chaîne de rapporteurs"
+"6861","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui se repent avant que le soleil ne se lève de l’ouest (avant le Jour de la Résurrection)"
+"6862","Rapporté par Abu Musa رضي الله عنه : Nous étions en voyage avec le Messager d’Allah ﷺ lorsque les gens se mirent à dire « Allahu Akbar » à haute voix. Le Messager d’Allah ﷺ a dit : « Ô gens"
+"6863","Rapporté par ‘Asim رضي الله عنه : Ce hadith a été rapporté par ‘Asim avec la même chaîne de rapporteurs"
+"6864","Rapporté par Abu Musa رضي الله عنه : Il a raconté qu’il était avec le Messager d’Allah ﷺ en train de gravir une colline. Chaque fois que quelqu’un montait"
+"6865","Rapporté par Abu Musa رضي الله عنه : Ce hadith a été transmis par Abu Musa avec une légère différence dans les mots"
+"6866","Rapporté par Abu Musa رضي الله عنه : Nous étions en voyage avec le Messager d’Allah ﷺ ; le reste du hadith est le même que celui rapporté par ‘Asim"
+"6867","Rapporté par Abu Musa رضي الله عنه : Nous étions avec le Messager d’Allah ﷺ lors d’une expédition. Le reste du hadith est identique"
+"6868","Rapporté par Abu Musa Al-Ash‘ari رضي الله عنه : Le Messager d’Allah ﷺ m’a dit : « Ne veux-tu pas que je t’enseigne des paroles qui font partie des trésors du Paradis"
+"6869","Rapporté par Abu Bakr رضي الله عنه : J’ai dit au Messager d’Allah ﷺ : « Apprends-moi une invocation que je pourrai réciter dans ma prière. » Il a répondu : « Dis : “Ô Allah"
+"6870","Rapporté par ‘Amr ibn al-‘As رضي الله عنه"
+"6871","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ avait l’habitude de dire ces invocations : « Ô Allah"
+"6872","Rapporté par Hisham رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"6873","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ disait : « Ô Allah"
+"6874","Rapporté par Anas رضي الله عنه : Il rapporte du Messager d’Allah ﷺ cette invocation"
+"6875","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ cherchait refuge auprès d’Allah contre les choses mentionnées dans le hadith précédent"
+"6876","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ faisait cette invocation : « Ô Allah"
+"6877","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ cherchait refuge auprès d’Allah contre le mal de ce qui a été décrété"
+"6878","Rapporté par Khaula bint Hakim Sulamiyya رضي الله عنها : J’ai entendu le Messager d’Allah ﷺ dire : « Quand quelqu’un s’arrête dans un endroit et dit : “Je cherche refuge dans la Parole Parfaite d’Allah contre le mal de ce qu’Il a créé”"
+"6880","Rapporté par Khaula bint Hakim Sulamiyya رضي الله عنها : J’ai entendu le Messager d’Allah ﷺ dire : « Lorsque l’un de vous s’arrête dans un endroit"
+"6881","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été transmis avec une légère différence dans les mots"
+"6882","Rapporté par Al-Bara’ ibn ‘Azib رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque tu vas te coucher"
+"6883","Rapporté par Al-Bara’ ibn ‘Azib رضي الله عنه : Ce hadith a été transmis avec une légère différence dans les mots"
+"6884","Rapporté par Al-Bara’ ibn ‘Azib رضي الله عنه : Le Messager d’Allah ﷺ a ordonné à une personne en ces termes : « Lorsque tu vas te coucher la nuit"
+"6885","Rapporté par Al-Bara’ ibn ‘Azib رضي الله عنه : Le Messager d’Allah ﷺ a dit à une personne : « Ô untel"
+"6886","Rapporté par Al-Bara’ ibn ‘Azib رضي الله عنه : Le Messager d’Allah ﷺ a ordonné à une personne en ces termes"
+"6887","Rapporté par Al-Bara’ رضي الله عنه : Chaque fois que le Messager d’Allah ﷺ allait se coucher"
+"6888","Rapporté par Abdullah ibn ‘Umar رضي الله عنه : Il a conseillé à une personne"
+"6889","Rapporté par Suhail رضي الله عنه : Abu Salih nous recommandait"
+"6890","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ nous recommandait"
+"6891","Rapporté par Abu Huraira رضي الله عنه : Fatima (la fille du Prophète ﷺ) est venue voir le Messager d’Allah ﷺ pour demander un serviteur. Il lui a dit : « Dis : “Ô Allah"
+"6892","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ disait que lorsque l’un de vous va se coucher"
+"6893","Rapporté par Ubaidullah b. Umar : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"6894","Rapporté par Anas : Le Messager d’Allah ﷺ a dit : « Quand tu vas te coucher"
+"6895","Rapporté par Farwa' b. Naufal Ashja'i : J’ai demandé à Aïsha رضي الله عنها : « Avec quels mots le Messager d’Allah ﷺ invoquait-il Allah ? » Elle répondit qu’il disait : « Je cherche refuge auprès de Toi contre le mal de ce que j’ai fait et contre le mal de ce que je n’ai pas fait. »"
+"6896","Rapporté par Farwa' b. Naufal : J’ai demandé à Aïsha رضي الله عنها au sujet de l’invocation que faisait le Messager d’Allah ﷺ. Elle répondit qu’il disait : « Ô Allah"
+"6897","Rapporté par Muhammad b. Ja'far : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"6898","Rapporté par Farwa' b. Naufal d’après Aïsha رضي الله عنها : Le Messager d’Allah ﷺ invoquait ainsi : « Ô Allah"
+"6899","Rapporté par Ibn 'Abbas : Le Messager d’Allah ﷺ disait : « Ô Allah"
+"6900","Rapporté par Abu Huraira : Lorsque le Messager d’Allah ﷺ partait en voyage le matin"
+"6901","Rapporté par Abu Musa Ash'ari d’après son père : Le Messager d’Allah ﷺ invoquait ainsi : « Ô Allah"
+"6902","Rapporté par Shu'ba : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"6903","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ invoquait ainsi : « Ô Allah"
+"6904","Rapporté par Abdullah : Le Messager d’Allah ﷺ invoquait ainsi : « Ô Allah"
+"6905","Rapporté par Abu Ishaq : Ce hadith a été rapporté avec la même chaîne de transmetteurs mais avec une légère différence dans les mots"
+"6906","Rapporté par Zaid b. Alqam : Je ne vais rien dire d’autre que ce que le Messager d’Allah ﷺ disait. Il invoquait : « Ô Allah"
+"6907","Rapporté par Abdullah b. Mas'ud : Quand venait le soir"
+"6908","Rapporté par Abdullah : Quand venait le soir"
+"6909","Rapporté par Abdullah : Quand venait le soir"
+"6910","Rapporté par Abu Huraira : Ce hadith a été rapporté selon Abu Huraira : Le Messager d’Allah ﷺ invoquait ainsi : « Il n’y a pas de divinité en dehors d’Allah"
+"6911","Rapporté par Ali رضي الله عنه : Le Messager d’Allah ﷺ m’a dit : « Dis : “Ô Allah"
+"6912","Rapporté par ‘Asim b. Kulaib : Ce hadith a été rapporté avec la même chaîne de transmetteurs : Le Messager d’Allah ﷺ m’a dit : « Dis : “Ô Allah"
+"6913","Rapporté par Juwairiya رضي الله عنها : Le Messager d’Allah ﷺ sortit de chez elle le matin alors qu’elle était occupée à prier l’aube dans son lieu de prière. Il revint dans la matinée et elle était encore assise là. Il lui dit : « Es-tu restée à la même place depuis que je t’ai quittée ? » Elle répondit : « Oui. » Alors le Messager d’Allah ﷺ dit : « J’ai récité quatre paroles trois fois après t’avoir quittée"
+"6914","Rapporté par Juwairiya رضي الله عنها : Le Messager d’Allah ﷺ passa près d’elle alors qu’elle priait l’aube"
+"6915","Rapporté par Ali رضي الله عنه : Fatima avait des callosités aux mains à force de moudre le grain. Il était revenu au Prophète ﷺ des prisonniers de guerre. Fatima alla voir le Prophète ﷺ mais ne le trouva pas chez lui. Elle rencontra Aïsha رضي الله عنها et lui parla de sa difficulté. Quand le Prophète ﷺ revint"
+"6916","Rapporté par Shu'ba : Ce hadith a été rapporté avec la même chaîne de transmetteurs mais avec une légère différence dans les mots"
+"6917","Rapporté par Ibn Abi Laili : Ce hadith a été transmis avec cette addition : Ali رضي الله عنه a dit : « Depuis que j’ai entendu cela du Messager d’Allah ﷺ"
+"6920","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque vous entendez le chant du coq"
+"6921","Rapporté par Ibn 'Abbas رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude d’invoquer"
+"6922","Rapporté par Hisham avec la même chaîne de transmetteurs : Ce hadith a été rapporté avec la même chaîne de transmission"
+"6923","Rapporté par Ibn 'Abbas رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude d’invoquer ainsi lors des difficultés ; le reste du hadith est identique"
+"6924","Rapporté par Ibn 'Abbas رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"6925","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ a été interrogé sur les meilleures paroles. Il a répondu : « Celles qu’Allah a choisies pour Ses Anges et Ses serviteurs : “Gloire à Allah et louange à Lui.” »"
+"6926","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Voulez-vous que je vous informe des paroles qu’Allah aime le plus ? » J’ai dit : « Ô Messager d’Allah"
+"6927","Rapporté par Abu Dharr رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de serviteur croyant qui invoque pour son frère en son absence sans que les Anges ne disent : “Pareillement pour toi aussi.” »"
+"6928","Rapporté par Umm Darda’ رضي الله عنها : Mon mari m’a rapporté qu’il a entendu le Messager d’Allah ﷺ dire : « Celui qui invoque pour son frère en son absence"
+"6930","Rapporté par Safwan (Ibn 'Abdullah b. Safwan"
+"6931","Rapporté par Safwan b. 'Abdullah b. Safwan : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"6932","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Allah est satisfait de Son serviteur qui dit : “Al-Hamdu lillah” en mangeant une bouchée de nourriture ou en buvant. »"
+"6933","Rapporté par Ishaaq bin Yusuf Al-Azraq"
+"6934","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’invocation de chacun d’entre vous est exaucée tant qu’il ne s’impatiente pas et ne dit pas : “J’ai invoqué mais cela n’a pas été exaucé.” »"
+"6935","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’invocation de l’un de vous est exaucée tant qu’il ne s’impatiente pas et ne dit pas : “J’ai invoqué mon Seigneur mais cela n’a pas été exaucé.” »"
+"6936","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’invocation du serviteur est exaucée tant qu’il ne demande pas quelque chose de péché ou de couper les liens familiaux"

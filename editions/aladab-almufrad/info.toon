@@ -1,57 +1,57 @@
 
 translations[2]{language,sections,path}:
-en,57,translations/en
-ur,3,translations/ur
+"en","57","translations/en"
+"ur","57","translations/ur"
 
 sections[57]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-  1,"Parents","الوالدين","পিতামাতা","Parents","Les Parents","Orang Tua","Родители","Ebeveynler","والدین",1,46,1,46
-  2,"Ties of Kinship","صلة الرحم","আত্মীয়তার বন্ধন","Ties of Kinship","Liens de Parenté","Hubungan Keluarga","Родственные связи","Akrabalık Bağları","رشتے داریاں",47,73,47,73
-  3,"Mawlas (Clients of Manumission)","الموالي","মাওলা (মুক্তদাসের ক্লায়েন্ট)","Mawlas (Clients of Manumission)","Mawlas (Clients d'Affranchissement)","Mawla (Klien Pembebasan)","Мавалы (Клиенты Освобождения)","Mevlalar (Özgürlük Müşterileri)","مولا (آزاد کردہ غلام)",74,75,74,75
-  4,"Looking after girls","العناية بالبنات","কন্যাদের যত্ন","Looking after girls","S'occuper des Filles","Merawat Anak Perempuan","Забота о девочках","Kızların Bakımı","لڑکیوں کی دیکھ بھال",76,83,76,83
-  5,"Looking after children","العناية بالأطفال","শিশুদের যত্ন","Looking after children","S'occuper des Enfants","Merawat Anak-anak","Забота о детях","Çocukların Bakımı","بچوں کی دیکھ بھال",84,100,84,100
-  6,"Neighbours","الجيران","প্রতিবেশী","Neighbours","Voisins","Tetangga","Соседи","Komşular","پڑوسی",101,128,101,128
-  7,"Generosity and Orphans","الإحسان واليتامى","উদারতা ও এতিম","Generosity and Orphans","Générosité et Orphelins","Kemurahan Hati dan Anak Yatim","Щедрость и Сироты","Cömertlik ve Yetimler","سخاوت اور یتیم",129,142,129,142
-  8,"Kindness to Animals","الرحمة بالحيوان","পশুদের প্রতি দয়া","Kindness to Animals","Bonté envers les Animaux","Kebaikan terhadap Hewan","Доброта к Животным","Hayvanlara Merhamet","جانوروں پر رحم",143,173,143,173
-  9,"Supplication","الدعاء","দোয়া","Supplication","Supplication","Doa","Мольба","Dua","دعا",174,245,174,245
-  10,"Greetings","السلام","সালাম","Greetings","Salutations","Salam","Приветствия","Selamlaşma","سلام",246,271,246,271
-  11,"Speech","كتاب الكلام","কথাবার্তা","Speech","Parole","Pembicaraan","Речь","Konuşma","گفتگو",272,314,272,314
-  12,"Manners of Eating","آداب الطعام","খাওয়ার আদব","Manners of Eating","Manières de Manger","Adab Makan","Правила Еды","Yeme Adabı","کھانے کے آداب",315,373,315,373
-  13,"Visiting the Sick","عيادة المريض","অসুস্থদের দেখতে যাওয়া","Visiting the Sick","Visiter les Malades","Menjenguk Orang Sakit","Посещение Больных","Hasta Ziyareti","بیماروں کی عیادت",374,404,374,404
-  14,"Funerals","الجنائز","জানাজা","Funerals","Funérailles","Jenazah","Похороны","Cenaze","جنازہ",405,467,405,467
-  15,"Sneezing and Yawning","العطاس والتثاؤب","হাঁচি এবং হাইতোলা","Sneezing and Yawning","Éternuements et Bâillements","Bersin dan Menguap","Чихание и Зевота","Hapşırma ve Esneme","چھینک اور جمائی",468,476,468,476
-  16,"Dress","اللباس","পোশাক","Dress","Habillement","Pakaian","Одежда","Giyim","لباس",477,513,477,513
-  17,"Sleeping","النوم","ঘুম","Sleeping","Sommeil","Tidur","Сон","Uyku","نیند",514,536,514,536
-  18,"Virtues","الفضائل","গুণাবলী","Virtues","Vertus","Keutamaan","Добродетели","Faziletler","فضائل",537,591,537,591
-  19,"Knowledge","العلم","জ্ঞান","Knowledge","Connaissance","Ilmu","Знание","İlim","علم",592,627,592,627
-  20,"The Elderly","المسنين","বয়োবৃদ্ধ","The Elderly","Personnes Âgées","Lansia","Пожилые","Yaşlılar","بزرگ",628,647,628,647
-  21,"The Young","الصغار","শিশু","The Young","Jeunes","Anak-anak","Молодые","Gençler","نوجوان",648,670,648,670
-  22,"Sitting and Gathering","المجالس واللقاء","বসা এবং সমাবেশ","Sitting and Gathering","Séances et Rassemblements","Majelis dan Pertemuan","Собрания ve Toplantılar","Oturma ve Toplantı","بیٹھک اور مجلس",671,736,671,736
-  23,"Joking","المداعبة","রসিকতা","Joking","Plaisanterie","Bercanda","Шутки","Şaka","مذاق",737,746,737,746
-  24,"Poetry","الشعر","কবিতা","Poetry","Poésie","Puisi","Поэзия","Şiir","شاعری",747,754,747,754
-  25,"Dreams","الرؤيا","স্বপ্ন","Dreams","Rêves","Mimpi","Сны","Rüya","خواب",755,767,755,767
-  26,"Good Character","حسن الخلق","সুন্দর চরিত্র","Good Character","Bon Caractère","Akhlak yang Baik","Хороший Характер","Güzel Ahlak","اچھا اخلاق",768,811,768,811
-  27,"Modesty","الحياء","লজ্জা","Modesty","Pudeur","Rasa Malu","Скромность","Hayâ","حیا",812,827,812,827
-  28,"Shaking Hands","المصافحة","হাত মেলানো","Shaking Hands","Poignée de Main","Bersalaman","Рукопожатие","Tokalaşma","مصافحہ",828,840,828,840
-  29,"Praise and Gratitude","المدح والشكر","প্রশংসা এবং কৃতজ্ঞতা","Praise and Gratitude","Louange et Gratitude","Pujian dan Syukur","Похвала и Благодарность","Övgü ve Şükür","تعریف اور شکریہ",841,870,841,870
-  30,"Advice","النصيحة","উপদেশ","Advice","Conseil","Nasihat","Совет","Nasihat","نصیحت",871,895,871,895
-  31,"Majesty and Humility","العظمة والتواضع","عظمت اور عاجزی","Majesty and Humility","Majesté et Humilité","Kemuliaan dan Kerendahan Hati","Величие и Смирение","Büyüklük ve Tevazu","عظمت اور تواضع",896,918,896,918
-  32,"The Elderly and the Young","الكبير والصغير","بڑے اور چھوٹے","The Elderly and the Young","Aînés et Jeunes","Orang Tua dan Anak Muda","Старшие и Младшие","Büyükler ve Küçükler","بڑے اور چھوٹے",919,932,919,932
-  33,"The Judge","القاضي","قاضی","The Judge","Juge","Hakim","Судья","Hakim","قاضی",933,942,933,942
-  34,"The Rights of the Prophet","حقوق النبي","نبی کے حقوق","The Rights of the Prophet","Droits du Prophète","Hak-hak Nabi","Права Пророка","Peygamberin Hakları","نبی کے حقوق",943,968,943,968
-  35,"The Rights of the Muslims","حقوق المسلمين","مسلمانوں کے حقوق","The Rights of the Muslims","Droits des Musulmans","Hak-hak Muslim","Права Мусульман","Müslümanların Hakları","مسلمانوں کے حقوق",969,1007,969,1007
-  36,"The Rights of the Parents","حقوق الوالدين","والدین کے حقوق","The Rights of the Parents","Droits des Parents","Hak-hak Orang Tua","Права Родителей","Ebeveynlerin Hakları","والدین کے حقوق",1008,1043,1008,1043
-  37,"The Rights of the Neighbour","حقوق الجار","پڑوسی کے حقوق","The Rights of the Neighbour","Droits du Voisin","Hak-hak Tetangga","Права Соседа","Komşunun Hakları","پڑوسی کے حقوق",1044,1062,1044,1062
-  38,"The Rights of the Spouse","حقوق الزوجين","شوہر اور بیوی کے حقوق","The Rights of the Spouse","Droits du Conjoint","Hak-hak Suami Istri","Права Супругов","Eşin Hakları","شوہر اور بیوی کے حقوق",1063,1073,1063,1073
-  39,"The Rights of the Poor","حقوق الفقراء","غریبوں کے حقوق","The Rights of the Poor","Droits des Pauvres","Hak-hak Orang Miskin","Права Бедных","Fakirlerin Hakları","غریبوں کے حقوق",1074,1093,1074,1093
-  40,"The Rights of the Orphan","حقوق اليتيم","یتیم کے حقوق","The Rights of the Orphan","Droits de l'Orphelin","Hak-hak Anak Yatim","Права Сироты","Yetimin Hakları","یتیم کے حقوق",1094,1108,1094,1108
-  41,"The Rights of the Slave","حقوق المملوك","غلام کے حقوق","The Rights of the Slave","Droits de l'Esclave","Hak-hak Budak","Права Раба","Kölenin Hakları","غلام کے حقوق",1109,1135,1109,1135
-  42,"The Rights of the Animal","حقوق الحيوان","جانور کے حقوق","The Rights of the Animal","Droits de l'Animal","Hak-hak Hewan","Права Животного","Hayvanın Hakları","جانور کے حقوق",1136,1153,1136,1153
-  43,"The Rights of the Road","حقوق الطريق","راستے کے حقوق","The Rights of the Road","Droits de la Route","Hak-hak Jalan","Права Дороги","Yolun Hakları","راستے کے حقوق",1154,1174,1154,1174
-  44,"The Rights of the Guest","حقوق الضيف","مہمان کے حقوق","The Rights of the Guest","Droits de l'Invité","Hak-hak Tamu","Права Гостя","Misafirin Hakları","مہمان کے حقوق",1175,1193,1175,1193
-  45,"The Rights of the Host","حقوق المضيف","میزبان کے حقوق","The Rights of the Host","Droits de l'Hôte","Hak-hak Tuan Rumah","Права Хозяина","Ev Sahibinin Hakları","میزبان کے حقوق",1194,1214,1194,1214
-  46,"The Rights of the Friend","حقوق الصديق","دوست کے حقوق","The Rights of the Friend","Droits de l'Ami","Hak-hak Teman","Права Друга","Arkadaşın Hakları","دوست کے حقوق",1215,1235,1215,1235
-  47,"The Rights of the Enemy","حقوق العدو","دشمن کے حقوق","The Rights of the Enemy","Droits de l'Ennemi","Hak-hak Musuh","Права Врага","Düşmanın Hakları","دشمن کے حقوق",1236,1254,1236,1254
-  48,"The Rights of the Ruler","حقوق الحاكم","حاکم کے حقوق","The Rights of the Ruler","Droits du Souverain","Hak-hak Penguasa","Права Правителя","Hükümdarın Hakları","حاکم کے حقوق",1255,1274,1255,1274
-  49,"The Rights of the Ruled","حقوق المحكوم","م ruled کے حقوق","The Rights of the Ruled","Droits des Gouvernés","Hak-hak yang Diperintah","Права Подданных","Yönetilenlerin Hakları","م ruled کے حقوق",1275,1294,1275,1294
-  50,"The Rights of the Teacher","حقوق المعلم","استاد کے حقوق","The Rights of the Teacher","Droits de l'Enseignant","Hak-hak Guru","Права Учителя","Öğretmenin Hakları","استاد کے حقوق",1295,1308,1295,1308
-  51,"The Rights of the Student","حقوق التلميذ","طالب علم کے حقوق","The Rights of the Student","Droits de l'Étudiant","Hak-hak Murid","Права Ученика","Öğrencinin Hakları","طالب علم کے حقوق",1309,1326,1309,1326
+"  1","Parents","الوالدين","পিতামাতা","Parents","Les Parents","Orang Tua","Родители","Ebeveynler","والدین","1","46","1","46"
+"  2","Ties of Kinship","صلة الرحم","আত্মীয়তার বন্ধন","Ties of Kinship","Liens de Parenté","Hubungan Keluarga","Родственные связи","Akrabalık Bağları","رشتے داریاں","47","73","47","73"
+"  3","Mawlas (Clients of Manumission)","الموالي","মাওলা (মুক্তদাসের ক্লায়েন্ট)","Mawlas (Clients of Manumission)","Mawlas (Clients d'Affranchissement)","Mawla (Klien Pembebasan)","Мавалы (Клиенты Освобождения)","Mevlalar (Özgürlük Müşterileri)","مولا (آزاد کردہ غلام)","74","75","74","75"
+"  4","Looking after girls","العناية بالبنات","কন্যাদের যত্ন","Looking after girls","S'occuper des Filles","Merawat Anak Perempuan","Забота о девочках","Kızların Bakımı","لڑکیوں کی دیکھ بھال","76","83","76","83"
+"  5","Looking after children","العناية بالأطفال","শিশুদের যত্ন","Looking after children","S'occuper des Enfants","Merawat Anak-anak","Забота о детях","Çocukların Bakımı","بچوں کی دیکھ بھال","84","100","84","100"
+"  6","Neighbours","الجيران","প্রতিবেশী","Neighbours","Voisins","Tetangga","Соседи","Komşular","پڑوسی","101","128","101","128"
+"  7","Generosity and Orphans","الإحسان واليتامى","উদারতা ও এতিম","Generosity and Orphans","Générosité et Orphelins","Kemurahan Hati dan Anak Yatim","Щедрость и Сироты","Cömertlik ve Yetimler","سخاوت اور یتیم","129","142","129","142"
+"  8","Kindness to Animals","الرحمة بالحيوان","পশুদের প্রতি দয়া","Kindness to Animals","Bonté envers les Animaux","Kebaikan terhadap Hewan","Доброта к Животным","Hayvanlara Merhamet","جانوروں پر رحم","143","173","143","173"
+"  9","Supplication","الدعاء","দোয়া","Supplication","Supplication","Doa","Мольба","Dua","دعا","174","245","174","245"
+"  10","Greetings","السلام","সালাম","Greetings","Salutations","Salam","Приветствия","Selamlaşma","سلام","246","271","246","271"
+"  11","Speech","كتاب الكلام","কথাবার্তা","Speech","Parole","Pembicaraan","Речь","Konuşma","گفتگو","272","314","272","314"
+"  12","Manners of Eating","آداب الطعام","খাওয়ার আদব","Manners of Eating","Manières de Manger","Adab Makan","Правила Еды","Yeme Adabı","کھانے کے آداب","315","373","315","373"
+"  13","Visiting the Sick","عيادة المريض","অসুস্থদের দেখতে যাওয়া","Visiting the Sick","Visiter les Malades","Menjenguk Orang Sakit","Посещение Больных","Hasta Ziyareti","بیماروں کی عیادت","374","404","374","404"
+"  14","Funerals","الجنائز","জানাজা","Funerals","Funérailles","Jenazah","Похороны","Cenaze","جنازہ","405","467","405","467"
+"  15","Sneezing and Yawning","العطاس والتثاؤب","হাঁচি এবং হাইতোলা","Sneezing and Yawning","Éternuements et Bâillements","Bersin dan Menguap","Чихание и Зевота","Hapşırma ve Esneme","چھینک اور جمائی","468","476","468","476"
+"  16","Dress","اللباس","পোশাক","Dress","Habillement","Pakaian","Одежда","Giyim","لباس","477","513","477","513"
+"  17","Sleeping","النوم","ঘুম","Sleeping","Sommeil","Tidur","Сон","Uyku","نیند","514","536","514","536"
+"  18","Virtues","الفضائل","গুণাবলী","Virtues","Vertus","Keutamaan","Добродетели","Faziletler","فضائل","537","591","537","591"
+"  19","Knowledge","العلم","জ্ঞান","Knowledge","Connaissance","Ilmu","Знание","İlim","علم","592","627","592","627"
+"  20","The Elderly","المسنين","বয়োবৃদ্ধ","The Elderly","Personnes Âgées","Lansia","Пожилые","Yaşlılar","بزرگ","628","647","628","647"
+"  21","The Young","الصغار","শিশু","The Young","Jeunes","Anak-anak","Молодые","Gençler","نوجوان","648","670","648","670"
+"  22","Sitting and Gathering","المجالس واللقاء","বসা এবং সমাবেশ","Sitting and Gathering","Séances et Rassemblements","Majelis dan Pertemuan","Собрания ve Toplantılar","Oturma ve Toplantı","بیٹھک اور مجلس","671","736","671","736"
+"  23","Joking","المداعبة","রসিকতা","Joking","Plaisanterie","Bercanda","Шутки","Şaka","مذاق","737","746","737","746"
+"  24","Poetry","الشعر","কবিতা","Poetry","Poésie","Puisi","Поэзия","Şiir","شاعری","747","754","747","754"
+"  25","Dreams","الرؤيا","স্বপ্ন","Dreams","Rêves","Mimpi","Сны","Rüya","خواب","755","767","755","767"
+"  26","Good Character","حسن الخلق","সুন্দর চরিত্র","Good Character","Bon Caractère","Akhlak yang Baik","Хороший Характер","Güzel Ahlak","اچھا اخلاق","768","811","768","811"
+"  27","Modesty","الحياء","লজ্জা","Modesty","Pudeur","Rasa Malu","Скромность","Hayâ","حیا","812","827","812","827"
+"  28","Shaking Hands","المصافحة","হাত মেলানো","Shaking Hands","Poignée de Main","Bersalaman","Рукопожатие","Tokalaşma","مصافحہ","828","840","828","840"
+"  29","Praise and Gratitude","المدح والشكر","প্রশংসা এবং কৃতজ্ঞতা","Praise and Gratitude","Louange et Gratitude","Pujian dan Syukur","Похвала и Благодарность","Övgü ve Şükür","تعریف اور شکریہ","841","870","841","870"
+"  30","Advice","النصيحة","উপদেশ","Advice","Conseil","Nasihat","Совет","Nasihat","نصیحت","871","895","871","895"
+"  31","Majesty and Humility","العظمة والتواضع","عظمت اور عاجزی","Majesty and Humility","Majesté et Humilité","Kemuliaan dan Kerendahan Hati","Величие и Смирение","Büyüklük ve Tevazu","عظمت اور تواضع","896","918","896","918"
+"  32","The Elderly and the Young","الكبير والصغير","بڑے اور چھوٹے","The Elderly and the Young","Aînés et Jeunes","Orang Tua dan Anak Muda","Старшие и Младшие","Büyükler ve Küçükler","بڑے اور چھوٹے","919","932","919","932"
+"  33","The Judge","القاضي","قاضی","The Judge","Juge","Hakim","Судья","Hakim","قاضی","933","942","933","942"
+"  34","The Rights of the Prophet","حقوق النبي","نبی کے حقوق","The Rights of the Prophet","Droits du Prophète","Hak-hak Nabi","Права Пророка","Peygamberin Hakları","نبی کے حقوق","943","968","943","968"
+"  35","The Rights of the Muslims","حقوق المسلمين","مسلمانوں کے حقوق","The Rights of the Muslims","Droits des Musulmans","Hak-hak Muslim","Права Мусульман","Müslümanların Hakları","مسلمانوں کے حقوق","969","1007","969","1007"
+"  36","The Rights of the Parents","حقوق الوالدين","والدین کے حقوق","The Rights of the Parents","Droits des Parents","Hak-hak Orang Tua","Права Родителей","Ebeveynlerin Hakları","والدین کے حقوق","1008","1043","1008","1043"
+"  37","The Rights of the Neighbour","حقوق الجار","پڑوسی کے حقوق","The Rights of the Neighbour","Droits du Voisin","Hak-hak Tetangga","Права Соседа","Komşunun Hakları","پڑوسی کے حقوق","1044","1062","1044","1062"
+"  38","The Rights of the Spouse","حقوق الزوجين","شوہر اور بیوی کے حقوق","The Rights of the Spouse","Droits du Conjoint","Hak-hak Suami Istri","Права Супругов","Eşin Hakları","شوہر اور بیوی کے حقوق","1063","1073","1063","1073"
+"  39","The Rights of the Poor","حقوق الفقراء","غریبوں کے حقوق","The Rights of the Poor","Droits des Pauvres","Hak-hak Orang Miskin","Права Бедных","Fakirlerin Hakları","غریبوں کے حقوق","1074","1093","1074","1093"
+"  40","The Rights of the Orphan","حقوق اليتيم","یتیم کے حقوق","The Rights of the Orphan","Droits de l'Orphelin","Hak-hak Anak Yatim","Права Сироты","Yetimin Hakları","یتیم کے حقوق","1094","1108","1094","1108"
+"  41","The Rights of the Slave","حقوق المملوك","غلام کے حقوق","The Rights of the Slave","Droits de l'Esclave","Hak-hak Budak","Права Раба","Kölenin Hakları","غلام کے حقوق","1109","1135","1109","1135"
+"  42","The Rights of the Animal","حقوق الحيوان","جانور کے حقوق","The Rights of the Animal","Droits de l'Animal","Hak-hak Hewan","Права Животного","Hayvanın Hakları","جانور کے حقوق","1136","1153","1136","1153"
+"  43","The Rights of the Road","حقوق الطريق","راستے کے حقوق","The Rights of the Road","Droits de la Route","Hak-hak Jalan","Права Дороги","Yolun Hakları","راستے کے حقوق","1154","1174","1154","1174"
+"  44","The Rights of the Guest","حقوق الضيف","مہمان کے حقوق","The Rights of the Guest","Droits de l'Invité","Hak-hak Tamu","Права Гостя","Misafirin Hakları","مہمان کے حقوق","1175","1193","1175","1193"
+"  45","The Rights of the Host","حقوق المضيف","میزبان کے حقوق","The Rights of the Host","Droits de l'Hôte","Hak-hak Tuan Rumah","Права Хозяина","Ev Sahibinin Hakları","میزبان کے حقوق","1194","1214","1194","1214"
+"  46","The Rights of the Friend","حقوق الصديق","دوست کے حقوق","The Rights of the Friend","Droits de l'Ami","Hak-hak Teman","Права Друга","Arkadaşın Hakları","دوست کے حقوق","1215","1235","1215","1235"
+"  47","The Rights of the Enemy","حقوق العدو","دشمن کے حقوق","The Rights of the Enemy","Droits de l'Ennemi","Hak-hak Musuh","Права Врага","Düşmanın Hakları","دشمن کے حقوق","1236","1254","1236","1254"
+"  48","The Rights of the Ruler","حقوق الحاكم","حاکم کے حقوق","The Rights of the Ruler","Droits du Souverain","Hak-hak Penguasa","Права Правителя","Hükümdarın Hakları","حاکم کے حقوق","1255","1274","1255","1274"
+"  49","The Rights of the Ruled","حقوق المحكوم","م ruled کے حقوق","The Rights of the Ruled","Droits des Gouvernés","Hak-hak yang Diperintah","Права Подданных","Yönetilenlerin Hakları","م ruled کے حقوق","1275","1294","1275","1294"
+"  50","The Rights of the Teacher","حقوق المعلم","استاد کے حقوق","The Rights of the Teacher","Droits de l'Enseignant","Hak-hak Guru","Права Учителя","Öğretmenin Hakları","استاد کے حقوق","1295","1308","1295","1308"
+"  51","The Rights of the Student","حقوق التلميذ","طالب علم کے حقوق","The Rights of the Student","Droits de l'Étudiant","Hak-hak Murid","Права Ученика","Öğrencinin Hakları","طالب علم کے حقوق","1309","1326","1309","1326"

@@ -1,85 +1,166 @@
-hadiths[84]{hadithnumber,text}:
-3568,1444.01
-3569,1444.02
-3570,1444.03
-3571,1445.01
-3572,1445.02
-3573,1445.03
-3574,1445.04
-3575,1445.05
-3576,1445.06
-3577,1445.07
-3578,1445.08
-3579,1445.09
-3580,1445.10
-3581,1446.01
-3582,1446.02
-3583,1447.01
-3584,1447.02
-3585,1448
-3586,1449.01
-3587,1449.02
-3588,1449.03
-3589,1449.04
-3590,1450
-3591,1451.01
-3592,1451.02
-3593,1451.03
-3594,1451.04
-3595,1451.05
-3596,1451.06
-3597,1452.01
-3598,1452.02
-3599,1452.03
-3600,1453.01
-3601,1453.02
-3602,1453.03
-3603,1453.04
-3604,1453.05
-3605,1454
-3606,1455.01
-3607,1455.02
-3608,1456.01
-3609,1456.02
-3610,1456.03
-3611,1456.04
-3612,1456.05
-3613,1457.01
-3614,1457.02
-3615,1458.01
-3616,1458.02
-3617,1459.01
-3618,1459.02
-3619,1459.03
-3620,1459.04
-3621,1460.01
-3622,1460.02
-3623,1460.03
-3624,1460.04
-3625,1460.05
-3626,1461.01
-3627,1461.02
-3628,1462
-3629,1463.01
-3630,1463.02
-3631,1464.01
-3632,1464.02
-3633,1465.01
-3634,1465.02
-3635,1466
-3636,715.04
-3637,715.05
-3638,715.06
-3639,715.07
-3640,715.08
-3641,715.09
-3642,715.10
-3643,715.11
-3644,715.12
-3645,1467.01
-3646,1467.02
-3647,1468.01
-3648,1468.02
-3649,1469
-3650,1470.01
-3651,1470.02
+hadiths[165]{hadithnumber,text}:
+"3445","Un hadith semblable a été transmis par ‘Amr ibn Dinar"
+"3446","Rapporté par Nubaih b. Wahb : ‘Umar b. Ubaidullah voulait marier Talha b. ‘Umar à la fille de Shaiba b. Jubair ; il envoya donc un messager à Aban b. Uthman pour qu’il assiste au mariage"
+"3447","Rapporté par Nubaih b. Wahb : ‘Umar b. Ubaidullah b. Ma’mar m’a envoyé auprès d’Aban b. Uthman car il voulait demander en mariage la fille de Shaiba b. Uthman pour son fils. Aban b. Uthman était alors occupé par la saison du pèlerinage. Il a dit : « Je le considère comme un homme du désert (car c’est courant là-bas) de penser qu’un Muhrim peut se marier ou être marié à quelqu’un. C’est ‘Uthman b. ‘Affan qui nous a rapporté cela du Messager d’Allah ﷺ. »"
+"3448","Rapporté par ‘Uthman b. ‘Affan : Le Messager d’Allah ﷺ a dit : « Un Muhrim ne doit ni se marier lui-même"
+"3449","Rapporté par ‘Uthman b. ‘Affan : Il a rapporté directement du Messager d’Allah ﷺ qu’il a dit : « Un Muhrim ne doit ni se marier (dans cet état)"
+"3450","Rapporté par Nabaih b. Wahb : ‘Umar b. ‘Ubaidullah b. Ma’mar voulait marier son fils Talha à la fille de Shaiba b. Jubair pendant le pèlerinage. Aban b. Uthman était alors l’émir des pèlerins. Il (‘Umar b. ‘Ubaidullah) a donc envoyé quelqu’un à Aban pour lui dire : « Je veux marier Talha b. ‘Umar et je souhaite vraiment que tu sois présent à la cérémonie. » Aban lui a répondu : « Je te trouve bien ignorant"
+"3451","Rapporté par Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a épousé Maymouna alors qu’il était en état d’ihram. Ibn Numair a ajouté : « J’ai raconté cela à Zuhri et il a dit : Yazid b. al-Asamm رضي الله عنه m’a dit que le Prophète ﷺ l’a épousée alors qu’il n’était pas Muhrim. »"
+"3452","Rapporté par Ibn ‘Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a épousé Maymouna alors qu’il était Muhrim"
+"3453","Rapporté par Yazid b. al-Asamm : Maymouna"
+"3454","Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Aucun de vous ne doit surenchérir sur une transaction d’un autre"
+"3455","Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Une personne ne doit pas conclure une transaction alors que son frère l’a déjà engagée sans qu’elle soit finalisée"
+"3456","Rapporté par Ibn ‘Umar رضي الله عنهما : Le hadith ci-dessus a été rapporté par Ibn ‘Umar à travers une autre chaîne"
+"3457","Rapporté par Nafi’ : Un hadith similaire a été rapporté avec la même chaîne de transmetteurs"
+"3458","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a interdit qu’un citadin vende la marchandise d’un villageois ou qu’on surenchérisse dans une vente (pour piéger quelqu’un)"
+"3459","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne surenchérissez pas dans une vente pour piéger quelqu’un. Personne ne doit entrer dans une transaction déjà engagée par son frère"
+"3460","Rapporté par Zuhri : Un hadith similaire a été rapporté avec la même chaîne de transmetteurs"
+"3461","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le musulman ne doit pas acheter en concurrence avec son frère"
+"3462","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté à travers une autre chaîne de transmetteurs"
+"3464","Rapporté par ‘Uqba b. ‘Amir alors qu’il était sur le minbar : Le Messager d’Allah ﷺ a dit : « Le croyant est le frère du croyant"
+"3465","Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ a interdit le Shighar"
+"3466","Rapporté par Abdullah b. ‘Umar رضي الله عنهما : Un hadith similaire a été rapporté"
+"3467","Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ a interdit le Shighar"
+"3468","Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de Shighar en islam. »"
+"3469","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a interdit le Shighar. Ibn Numair a ajouté : « Le Shighar"
+"3470","Rapporté par Ibn ‘Umar رضي الله عنهما : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"3471","Rapporté par Jabir b. Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a interdit le Shighar"
+"3472","Rapporté par 'Uqba b. Amir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La condition la plus importante à respecter est celle qui rend les rapports intimes licites. » Dans la version transmise par Ibn Muthanna"
+"3473","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Une femme sans mari (divorcée ou veuve) ne doit pas être mariée sans qu’on la consulte"
+"3474","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"3475","Rapporté par Aïsha رضي الله عنها : J’ai demandé au Messager d’Allah ﷺ au sujet d’une vierge dont le mariage est conclu par son tuteur : faut-il la consulter ou non ? Le Messager d’Allah ﷺ a répondu : « Oui"
+"3476","Rapporté par Ibn ‘Abbas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Une femme sans mari a plus de droit sur elle-même que son tuteur"
+"3477","Rapporté par Ibn ‘Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Une femme déjà mariée a plus de droit sur elle-même que son tuteur. Il faut aussi consulter la vierge"
+"3478","Rapporté par Sufyan"
+"3479","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ m’a épousée alors que j’avais six ans"
+"3480","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ m’a épousée alors que j’avais six ans"
+"3481","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ m’a épousée alors que j’avais sept ans"
+"3482","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ m’a épousée alors que j’avais six ans"
+"3483","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ s’est marié avec moi au mois de Shawwal et m’a emmenée chez lui comme épouse pendant le mois de Shawwal. Parmi les femmes du Messager d’Allah ﷺ"
+"3484","Rapporté par Sufyan"
+"3485","Rapporté par Abu Huraira رضي الله عنه : J’étais avec le Messager d’Allah ﷺ lorsqu’un homme est venu lui annoncer qu’il avait conclu un mariage avec une femme des Ansar. Le Messager d’Allah ﷺ lui a dit : « L’as-tu regardée ? » Il répondit : « Non. » Il lui dit : « Va la regarder"
+"3486","Rapporté par Abu Huraira رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ et a dit : « J’ai conclu un mariage avec une femme des Ansar. » Le Messager d’Allah ﷺ lui a dit : « L’as-tu regardée ? Car il y a quelque chose de particulier dans les yeux des Ansar. » Il répondit : « Oui"
+"3487","Rapporté par Sahl b. Sa’d al-Sa’idi رضي الله عنه : Une femme est venue voir le Messager d’Allah ﷺ et a dit : « Ô Messager d’Allah"
+"3488","Rapporté par Sahl b. Sa’d رضي الله عنه : Ce hadith a été rapporté avec une légère différence de mots"
+"3489","Rapporté par Abu Salama b. ‘Abd al-Rahman : J’ai demandé à Aïsha"
+"3490","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a vu une trace de couleur jaune sur ‘Abd al-Rahman b. ‘Auf et lui a demandé : « Qu’est-ce que c’est ? » Il répondit : « Ô Messager d’Allah"
+"3491","Rapporté par Anas b. Malik رضي الله عنه : ‘Abd al-Rahman b. ‘Auf رضي الله عنه s’est marié du vivant du Messager d’Allah ﷺ pour un poids de noyau de datte en or"
+"3492","Rapporté par Anas b. Malik رضي الله عنه : ‘Abd al-Rahman b. ‘Auf رضي الله عنه a épousé une femme pour un poids de noyau de datte en or"
+"3493","Rapporté par Humaid"
+"3494","Rapporté par ‘Abd al-Rahman b. ‘Auf رضي الله عنه : Le Messager d’Allah ﷺ a vu sur moi les signes de la joie du mariage"
+"3495","Rapporté par Anas b. Malik : ‘Abd al-Rahman a épousé une femme pour un poids de noyau de datte en or"
+"3496","Rapporté par Shu’ba"
+"3497","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ partit en expédition vers Khaybar et nous avons accompli la prière du matin très tôt à l’aube. Ensuite"
+"3498","Rapporté par Anas رضي الله عنه : Ce hadith a été rapporté par une autre chaîne"
+"3500","Rapporté par Anas رضي الله عنه : J’étais assis derrière Abou Talha le jour de Khaybar et mes pieds touchaient ceux du Messager d’Allah ﷺ. Nous sommes arrivés chez les gens de Khaybar au lever du soleil"
+"3501","Rapporté par Anas رضي الله عنه : Safiyya رضي الله عنها fut attribuée à Dihya parmi les captives"
+"3502","Rapporté par Anas رضي الله عنه : J’ai aussi assisté au repas de noces de Zaynab. Le Prophète ﷺ a servi du pain et de la viande aux invités"
+"3503","Rapporté par Anas رضي الله عنه : Lorsque la période de ‘Idda de Zaynab fut terminée"
+"3504","Rapporté par Anas رضي الله عنه : Je n’ai jamais vu le Messager d’Allah ﷺ offrir un repas de noces aussi généreux que celui de son mariage avec Zaynab"
+"3505","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ n’a jamais offert de repas de noces meilleur que celui de son mariage avec Zaynab. Thabit al-Bunani demanda : « Qu’a-t-il servi lors du repas de noces ? » Anas répondit : « Il a servi du pain et de la viande en abondance"
+"3506","Rapporté par Anas ibn Malik رضي الله عنه : Lorsque le Messager d’Allah ﷺ épousa Zaynab bint Jahsh"
+"3507","Rapporté par Anas ibn Malik رضي الله عنه : J’étais la personne la mieux informée sur le hijab (le voile et la séparation). Ubayy ibn Ka’b me questionnait à ce sujet. Anas رضي الله عنه raconta : Le Messager d’Allah ﷺ se leva le matin comme jeune marié de Zaynab bint Jahsh رضي الله عنها"
+"3508","Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ s’est marié et il est allé voir son épouse. Ma mère"
+"3509","Rapporté par Ibn Omar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous est invité à un festin"
+"3510","Rapporté par Ibn Omar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous est invité à un festin"
+"3511","Rapporté par Ibn Omar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous est invité à un repas de noces"
+"3512","Rapporté par Ibn Omar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Acceptez le festin lorsque vous y êtes invités. »"
+"3513","Rapporté par Ibn Omar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous invite son frère"
+"3514","Rapporté par Ibn Omar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui est invité à un repas de noces ou à un festin similaire doit l’accepter. »"
+"3515","Rapporté par Abdallah ibn Omar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Venez au festin lorsque vous y êtes invités. »"
+"3516","Rapporté par Nafil : J’ai entendu Abdallah ibn Omar رضي الله عنه raconter que le Messager d’Allah ﷺ a dit : « Acceptez le festin lorsque vous y êtes invités. » Et Abdallah ibn Omar se rendait au festin"
+"3517","Rapporté par Ibn Omar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque vous êtes invités à un festin"
+"3518","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous est invité à un festin"
+"3519","Rapporté par Abd Zubair : Un hadith similaire a été rapporté avec la même chaîne de transmetteurs"
+"3520","Rapporté par Abou Hourayra رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si l’un d’entre vous est invité"
+"3521","Rapporté par Abou Hourayra رضي الله عنه : Il disait : « Le pire des repas est celui du mariage où seuls les riches sont invités et les pauvres sont ignorés. Celui qui ne vient pas au festin désobéit à Allah et à Son Messager ﷺ. »"
+"3522","Rapporté par Soufyan : J’ai dit à Zouhri : « Abou Bakr"
+"3523","Rapporté par Abu Huraira رضي الله عنه : Un hadith similaire a été rapporté par Abu Huraira رضي الله عنه par une autre chaîne de transmetteurs"
+"3524","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La pire nourriture est celle du festin de mariage où l’on refuse l’entrée à celui qui vient"
+"3526","Rapporté par Aishah (la mère des croyants) رضي الله عنها : La femme de Rifa’a est venue voir le Messager d’Allah ﷺ et a dit : « J’étais mariée à Rifa’a"
+"3527","Rapporté par Aishah (la mère des croyants) رضي الله عنها"
+"3528","Rapporté par Aishah (la mère des croyants) رضي الله عنها : Rifa’a al-Qurazi a divorcé de sa femme"
+"3568","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ était avec elle quand elle a entendu la voix d’une personne demandant la permission d’entrer chez Hafsa. Aïsha رضي الله عنها a dit : « Messager d’Allah"
+"3569","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Ce qui devient interdit à cause de l’allaitement est ce qui devient interdit à cause de la naissance. »"
+"3570","Rapporté par Aïsha رضي الله عنها : Le hadith ci-dessus est rapporté par une autre chaîne"
+"3571","Rapporté par Aïsha رضي الله عنها : Aflah"
+"3572","Rapporté par Aïsha رضي الله عنها : Aflah ibn Abu Qulais"
+"3573","Rapporté par Aïsha رضي الله عنها : Aflah"
+"3574","Rapporté par Aïcha رضي الله عنها : Aflah"
+"3575","Rapporté par Aïcha رضي الله عنها : Mon oncle par allaitement est venu me demander la permission d’entrer"
+"3576","Rapporté par Hicham selon la même chaîne de transmetteurs : Le frère d’Abu’l-Qu’ais a demandé la permission d’entrer chez Aïcha رضي الله عنها. Le reste est identique"
+"3577","Rapporté par Hicham selon la même chaîne de transmetteurs"
+"3578","Rapporté par Aïcha رضي الله عنها : Mon oncle par allaitement"
+"3579","Rapporté par Aïcha رضي الله عنها : Son oncle par allaitement"
+"3580","Rapporté par Aïcha رضي الله عنها : Aflah ibn Qu’ais m’a demandé la permission d’entrer"
+"3581","Rapporté par Ali رضي الله عنه : J’ai dit au Messager d’Allah ﷺ : « Pourquoi choisis-tu (ton épouse) parmi les Quraysh"
+"3582","Un hadith similaire a été rapporté par A’mash avec la même chaîne de transmetteurs"
+"3583","Rapporté par Ibn Abbas رضي الله عنهما : On a proposé au Prophète ﷺ d’épouser la fille de Hamza"
+"3584","Un hadith similaire a été rapporté par Hammam"
+"3585","Rapporté par Umm Salama رضي الله عنها"
+"3586","Rapporté par Umm Habiba"
+"3587","Un hadith similaire a été rapporté par Hicham avec la même chaîne de transmetteurs"
+"3588","Rapporté par Umm Habiba"
+"3589","Le hadith précédent est rapporté par d’autres chaînes"
+"3590","Rapporté par Aïcha رضي الله عنها"
+"3591","Rapporté par Umm al-Fadl رضي الله عنها : Un bédouin est venu trouver le Messager d’Allah ﷺ alors qu’il était chez moi et a dit : « Messager d’Allah"
+"3592","Rapporté par Umm Fadl رضي الله عنها : Une personne de Banu ‘Amir ibn Sa’sa a dit : « Messager d’Allah"
+"3593","Rapporté par Umm Fadl رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Être allaité une ou deux fois"
+"3594","Dans la version rapportée par Ibn Bishr"
+"3595","Rapporté par Umm Fadl رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Un ou deux allaitements ne rendent pas le mariage interdit. »"
+"3596","Rapporté par Umm Fadl رضي الله عنها : Quelqu’un a demandé au Messager d’Allah ﷺ : « Un seul allaitement rend-il le mariage interdit ? » Il a répondu : « Non. »"
+"3597","Rapporté par Aïcha رضي الله عنها : Il avait été révélé dans le Coran que dix tétées claires rendaient le mariage interdit"
+"3598","Rapporté par Amra : Elle a entendu Aïcha رضي الله عنها parler de l’allaitement qui rend le mariage interdit. Aïcha رضي الله عنها a dit : « Il a été révélé dans le Coran dix tétées claires"
+"3599","Rapporté par Aïcha رضي الله عنها : Des hadiths similaires ont été rapportés par Aïcha à travers une autre chaîne de transmetteurs"
+"3600","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Sahla bint Suhail est venue voir le Messager d’Allah ﷺ et lui a dit : « Ô Messager d’Allah"
+"3601","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Salim"
+"3602","Rapporté par Ibn Abu Mulaika : Al-Qasim ibn Muhammad ibn Abu Bakr lui a rapporté qu’Aïcha رضي الله عنها a dit : Sahla bint Suhail ibn ‘Amr est venue voir le Messager d’Allah ﷺ et lui a dit : « Ô Messager d’Allah"
+"3603","Rapporté par Umm Salama رضي الله عنها à Aïcha رضي الله عنها : « Un jeune garçon proche de la puberté vient chez toi. Pour ma part"
+"3604","Rapporté par Zaynab"
+"3605","Rapporté par Umm Salama"
+"3606","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ est venu me rendre visite alors qu’un homme était assis près de moi"
+"3607","Rapporté par Abu al-Ahwas : Ce hadith est rapporté par une autre chaîne de transmetteurs avec une légère variation dans les mots"
+"3608","Rapporté par Abu Sa‘id al-Khudri رضي الله عنه : Lors de la bataille de Hunayn"
+"3609","Rapporté par Abu Sa‘id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ envoya une petite armée. Le reste du hadith est le même"
+"3610","Rapporté par un autre transmetteur : De la même manière"
+"3611","Rapporté par Abu Sa‘id (al-Khudri) رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs et les mots sont : « Ils ont fait des captives (des femmes) le jour d’Autas alors qu’elles avaient des maris. Ils avaient peur d’avoir des relations avec elles jusqu’à ce que ce verset soit révélé : “Et les femmes déjà mariées"
+"3612","Rapporté par Qatada : Un hadith similaire a été rapporté avec la même chaîne de transmetteurs"
+"3613","Rapporté par Aïcha رضي الله عنها : Sa’d ibn Abu Waqqas et Abd ibn Zam’a رضي الله عنهما se disputaient au sujet d’un jeune garçon. Sa’d a dit : « Ô Messager d’Allah"
+"3614","Rapporté par Ibn ‘Uyayna et Ma‘mar : Un hadith similaire a été rapporté"
+"3615","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’enfant appartient à celui sur le lit duquel il est né"
+"3616","Rapporté par Abu Huraira رضي الله عنه : Un hadith similaire a été rapporté"
+"3617","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ est venu me voir"
+"3618","Rapporté par Aïcha رضي الله عنها : Un jour"
+"3619","Rapporté par Aïcha رضي الله عنها : Un physionomiste est venu (chez nous) alors que le Messager d’Allah ﷺ était présent. Usama ibn Zayd et Zayd ibn Haritha dormaient tous les deux. Le physionomiste a dit : « Ces pieds sont de la même famille. » Le Messager d’Allah ﷺ a été content d’entendre cela"
+"3620","Rapporté par Zuhri et Yunus : Un hadith similaire a été rapporté"
+"3621","Rapporté par ‘Abd al-Malik ibn Abu Bakr ibn ‘Abd al-Rahman ibn al-Harith ibn Hisham"
+"3622","Rapporté par Ibn Abu Bakr ibn ‘Abd al-Rahman : Quand le Messager d’Allah ﷺ a épousé Umm Salama et qu’elle a passé la nuit avec lui"
+"3623","Rapporté par Abu Bakr ibn ‘Abd al-Rahman : Quand le Messager d’Allah ﷺ a épousé Umm Salama et qu’il lui a rendu visite"
+"3624","Un hadith semblable a été rapporté par Ibn Humaid"
+"3625","Rapporté par Umm Salama رضي الله عنها : Le Messager d’Allah ﷺ l’a épousée"
+"3626","Rapporté par Anas ibn Malik رضي الله عنه : Quand quelqu’un qui est déjà marié épouse une femme vierge"
+"3627","Rapporté par Abu Qilaba d’après Anas رضي الله عنه : Il fait partie de la Sunna de rester une semaine avec une femme vierge après l’avoir épousée. Khalid (un des narrateurs) a dit : « Si je voulais"
+"3628","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ avait neuf épouses. Lorsqu’il partageait son temps entre elles"
+"3629","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Je n’ai jamais trouvé de femme plus aimante envers moi que Sauda bint Zam’a. J’aurais aimé être exactement comme elle"
+"3630","Rapporté par Hisham avec la même chaîne de transmetteurs : Quand Sauda est devenue âgée (le reste du hadith est identique) et dans la version de Sharik"
+"3631","Rapporté par Aïcha (la mère des croyants) رضي الله عنها : J’étais jalouse des femmes qui se proposaient au Messager d’Allah ﷺ et j’ai dit : « Lorsque Allah"
+"3632","Rapporté par Hisham d’après son père"
+"3633","Rapporté par ‘Ata : Alors qu’ils étaient avec Ibn ‘Abbas رضي الله عنهما lors des funérailles de Maymouna à Sarif"
+"3634","Rapporté par Ibn Juraij avec la même chaîne de transmetteurs : Maymouna رضي الله عنها fut la dernière d’entre elles à mourir à Médine"
+"3635","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « On épouse une femme pour quatre raisons : sa richesse"
+"3636","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Je me suis marié du vivant du Messager d’Allah ﷺ. Je l’ai rencontré et il m’a dit : « Jabir"
+"3637","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Je me suis marié"
+"3638","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : ‘Abdullah est mort en laissant derrière lui neuf ou sept filles. J’ai épousé une femme qui avait déjà été mariée. Le Messager d’Allah ﷺ m’a dit : « Jabir"
+"3639","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Le Messager d’Allah ﷺ m’a dit : « Jabir"
+"3640","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Nous étions avec le Messager d’Allah ﷺ lors d’une expédition. Au retour"
+"3641","Rapporté par Jabir ibn ‘Abdullah رضي الله عنه : Je suis parti avec le Messager d’Allah ﷺ lors d’une expédition"
+"3642","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Nous étions en voyage avec le Messager d’Allah ﷺ"
+"3643","Rapporté par ‘Abdullah ibn Amr رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Toute la vie d’ici-bas est une jouissance"
+"3644","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La femme est comme une côte. Si tu essaies de la redresser"
+"3645","Rapporté par un autre groupe de transmetteurs : Un hadith semblable a été rapporté par une autre chaîne de narrateurs"
+"3646","Rapporté par Abu Huraira رضي الله عنه : La femme a été créée à partir d’une côte et ne pourra jamais être complètement droite pour toi ; si tu veux profiter d’elle"
+"3647","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui croit en Allah et au Jour dernier"
+"3648","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un croyant ne doit pas détester une croyante ; s’il n’aime pas l’un de ses traits"
+"3649","Un hadith semblable a été rapporté par Abu Huraira رضي الله عنه"
+"3650","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si ce n’était pas pour Ève"
+"3651","Rapporté par Hammam b. Munabbih : Voici quelques-uns des hadiths qu’Abu Huraira رضي الله عنه nous a transmis du Messager d’Allah ﷺ"

@@ -1,185 +1,322 @@
-hadiths[184]{hadithnumber,text}:
-5385,2065.01
-5386,2065.02
-5387,2065.03
-5388,2066.01
-5389,2066.02
-5390,2066.03
-5391,2066.04
-5392,2066.05
-5394,2067.01
-5395,2067.02
-5396,2067.03
-5397,2067.04
-5398,2067.05
-5399,2067.06
-5400,2067.07
-5401,2068.01
-5402,2068.02
-5403,2068.03
-5404,2068.04
-5405,2068.05
-5406,2068.06
-5407,2068.07
-5408,2068.08
-5409,2069.01
-5410,2069.02
-5411,2069.03
-5412,2069.04
-5413,2069.05
-5414,2069.06
-5415,2069.07
-5416,2069.08
-5417,2069.09
-5418,2069.10
-5419,2070
-5420,2071.01
-5421,2071.02
-5422,2071.03
-5423,2071.04
-5424,2072
-5425,2073
-5426,2074
-5427,2075.01
-5428,2075.02
-5429,2076.01
-5430,2076.02
-5431,2076.03
-5432,2076.04
-5433,2076.05
-5434,2077.01
-5435,2077.02
-5436,2077.03
-5437,2078.01
-5438,2078.02
-5439,2078.03
-5440,2079.01
-5441,2079.02
-5442,2080.01
-5443,2080.02
-5444,2080.03
-5445,2081
-5446,2082.01
-5447,2082.02
-5448,2082.03
-5449,2083.01
-5450,2083.02
-5451,2083.03
-5452,2084
-5453,2085.01
-5454,2085.02
-5455,2085.03
-5456,2085.04
-5457,2085.05
-5458,2085.06
-5459,2085.07
-5460,2085.08
-5461,2085.09
-5462,2086
-5463,2087.01
-5464,2087.02
-5465,2088.01
-5466,2088.02
-5467,2088.03
-5468,2088.04
-5469,2088.05
-5470,2089.01
-5471,2089.02
-5472,2090
-5473,2091.01
-5474,2091.02
-5475,2091.03
-5476,2091.04
-5477,2091.05
-5478,2092.01
-5479,2092.02
-5480,2092.03
-5481,2092.04
-5482,2092.05
-5483,2093.01
-5484,2093.02
-5485,2093.03
-5486,2094.01
-5487,2094.02
-5488,2094.03
-5489,2095
-5490,2078.04
-5491,2078.05
-5492,2078.06
-5493,2078.07
-5494,2096
-5495,2097.01
-5496,2097.02
-5497,2098.01
-5498,2098.02
-5499,2099.01
-5500,2099.02
-5501,2099.03
-5502,2099.04
-5503,2099.05
-5504,2100.01
-5505,2100.02
-5506,2101.01
-5507,2101.02
-5508,2102.01
-5509,2102.02
-5510,2103
-5511,2104.01
-5512,2104.02
-5513,2105
-5514,2106.01
-5515,2106.02
-5516,2106.03
-5517,2106.04
-5518,2106.05
-5520,2107.01
-5523,2107.04
-5524,2107.05
-5525,2107.06
-5526,2107.07
-5527,2107.08
-5528,2107.09
-5529,2107.10
-5530,2107.11
-5531,2107.12
-5532,2107.13
-5533,2107.14
-5534,2107.15
-5535,2108.01
-5536,2108.02
-5537,2109.01
-5538,2109.02
-5546,2113.01
-5547,2113.02
-5548,2114
-5549,2115
-5550,2116.01
-5551,2116.02
-5552,2117
-5553,2118
-5554,2119.01
-5555,2119.02
-5558,2119.05
-5559,2120.01
-5560,2120.02
-5561,2120.03
-5562,2120.04
-5563,2121.01
-5564,2121.02
-5565,2122.01
-5566,2122.02
-5567,2122.03
-5568,2123.01
-5573,2125.01
-5574,2125.02
-5575,2125.03
-5576,2125.04
-5577,2126
-5578,2127.01
-5579,2127.02
-5580,2127.03
-5581,2127.04
-5582,2128
-5583,2129
-5584,2130.01
-5585,2130.02
+hadiths[321]{hadithnumber,text}:
+"5247","Rapporté par Jabir رضي الله عنه : Ce hadith est rapporté avec une légère différence de formulation"
+"5248","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Fermez les portes. » Le reste du hadith est similaire"
+"5249","Rapporté par Jabir رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5250","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand la nuit tombe ou qu’il fait nuit"
+"5251","Rapporté par Jabir ibn Abdullah رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5252","Rapporté par Ibn Juraij رضي الله عنه : Ce hadith a été transmis par Ibn Juraij"
+"5253","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne laissez pas sortir vos animaux et vos enfants au moment du coucher du soleil jusqu’à ce que la première et la partie la plus sombre de la nuit soient passées"
+"5254","Rapporté par Jabir ibn Abdullah رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5255","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Couvrez les récipients et attachez les outres à eau"
+"5256","Rapporté par Laith ibn Sa’d رضي الله عنه : Ce hadith est rapporté par Laith ibn Sa’d avec la même chaîne de transmetteurs"
+"5257","Rapporté par Salim"
+"5258","Rapporté par Abu Musa رضي الله عنه : Une maison a brûlé à Médine pendant la nuit avec ses habitants à l’intérieur. Quand on a informé le Messager d’Allah ﷺ de ce qui s’était passé"
+"5259","Rapporté par Hudhayfa رضي الله عنه : Quand nous étions invités à un repas avec le Messager d’Allah ﷺ"
+"5260","Rapporté par Hudhayfa ibn al-Yaman رضي الله عنه : Quand nous étions invités à un repas avec le Messager d’Allah ﷺ"
+"5261","Rapporté par A’mash رضي الله عنه : Ce hadith est rapporté avec la même chaîne de transmetteurs"
+"5262","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand une personne entre chez elle et mentionne le nom d’Allah en entrant et en mangeant"
+"5263","Rapporté par Jabir ibn Abdullah رضي الله عنه : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"5264","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne mangez pas avec la main gauche"
+"5265","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand l’un de vous veut manger"
+"5266","Rapporté par Zuhri"
+"5267","Rapporté par Salim"
+"5268","Rapporté par Salama ibn Akwa’"
+"5269","Rapporté par ‘Umar ibn Abu Salama رضي الله عنه : J’étais sous la garde du Messager d’Allah ﷺ"
+"5270","Rapporté par ‘Umar ibn Abu Salama رضي الله عنه : Un jour"
+"5271","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a interdit de retourner les outres à eau à l’envers et de boire directement à leur embouchure"
+"5272","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a interdit de retourner les outres à eau à l’envers et de boire directement à leur embouchure"
+"5273","Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"5274","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a désapprouvé le fait de boire de l’eau en étant debout"
+"5275","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a interdit de boire en étant debout. Qatada a rapporté : Nous lui avons demandé : « Et pour manger ? » Anas a répondu : « C’est encore pire et plus répréhensible. »"
+"5276","Rapporté par Anas رضي الله عنه : Ce hadith est rapporté d’Anas avec une autre chaîne de transmetteurs"
+"5277","Rapporté par Abu Sa’id Khudri رضي الله عنه : Le Messager d’Allah ﷺ a mis en garde contre le fait de boire en étant debout"
+"5278","Rapporté par Abu Sa’id Khudri رضي الله عنه : Abu Sa’id Khudri a rapporté ce hadith par une autre chaîne de transmetteurs"
+"5279","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun d’entre vous ne doit boire en étant debout ; et si quelqu’un oublie"
+"5280","Rapporté par Ibn Abbas رضي الله عنه : J’ai servi de l’eau de Zamzam au Messager d’Allah ﷺ"
+"5281","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a bu de l’eau de Zamzam dans un seau alors qu’il était debout"
+"5282","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a bu de l’eau de Zamzam alors qu’il était debout"
+"5283","Rapporté par Ibn Abbas رضي الله عنه : J’ai servi de l’eau de Zamzam au Messager d’Allah ﷺ"
+"5284","Rapporté par Shu’ba : Ce hadith est rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"5285","Rapporté par Abu Qatada رضي الله عنه d’après son père : Le Messager d’Allah ﷺ a interdit de souffler dans un récipient"
+"5286","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de respirer trois fois pendant qu’il buvait (c’est-à-dire qu’il buvait en trois gorgées)"
+"5287","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ respirait trois fois (en dehors du récipient) pendant qu’il buvait et il a dit : « C’est plus désaltérant"
+"5288","Rapporté par Anas رضي الله عنه : Ce hadith est rapporté d’Anas avec une légère différence dans les mots"
+"5289","Rapporté par Anas ibn Malik رضي الله عنه : On a apporté au Messager d’Allah ﷺ une coupe de lait mélangé à de l’eau. À sa droite se trouvait un bédouin et à sa gauche"
+"5290","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ est venu à Médine quand j’avais dix ans"
+"5291","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ est venu chez nous et a demandé à boire. Nous avons trait une chèvre pour lui"
+"5292","Rapporté par Sahl ibn Sa’d Sa’idi رضي الله عنه : Le Messager d’Allah ﷺ a reçu une boisson"
+"5293","Rapporté par Sahl ibn Sa’d رضي الله عنه : Ce hadith est rapporté par Sahl ibn Sa’d avec une légère différence dans les mots"
+"5294","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous mange"
+"5295","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous mange"
+"5296","Rapporté par Ibn Ka’b ibn Malik رضي الله عنه d’après son père : Il a vu le Messager d’Allah ﷺ lécher ses trois doigts après avoir mangé. Ibn Hatim n’a pas mentionné « trois ». Ce hadith est aussi rapporté par une autre chaîne de transmetteurs"
+"5297","Rapporté par Ibn Ka’b ibn Malik رضي الله عنه d’après son père : Le Messager d’Allah ﷺ mangeait avec trois doigts et il léchait sa main avant de l’essuyer (avec une serviette)"
+"5298","Rapporté par Abdullah ibn Ka'b : Son père Ka'b lui a raconté que le Messager d’Allah ﷺ mangeait avec trois doigts"
+"5299","Rapporté par Ka'b ibn Malik : Un hadith similaire a été rapporté par une autre chaîne de transmetteurs"
+"5300","Rapporté par Jabir : Le Messager d’Allah ﷺ a ordonné de lécher les doigts et le plat"
+"5301","Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « Quand l’un d’entre vous fait tomber une bouchée"
+"5302","Rapporté par Sufyan : Ce hadith a été transmis par la même chaîne de transmetteurs"
+"5303","Rapporté par Jabir : J’ai entendu le Messager d’Allah ﷺ dire : « Le diable est présent auprès de chacun de vous dans tout ce qu’il fait"
+"5304","Rapporté par A'mash : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"5305","Rapporté par Jabir : Le Messager d’Allah ﷺ a parlé du fait de lécher les doigts et de ramasser la bouchée tombée"
+"5306","Rapporté par Anas : Quand le Messager d’Allah ﷺ mangeait"
+"5307","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand l’un d’entre vous mange"
+"5308","Rapporté par Hammad : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"5309","Rapporté par Abu Mas'ud Ansari : Un homme des Ansar"
+"5310","Rapporté par Abu Mas'ud Ansari : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5311","Rapporté par Jabir : Ce hadith a aussi été transmis par Jabir"
+"5312","Rapporté par Anas : Le Messager d’Allah ﷺ avait un voisin perse qui préparait d’excellentes soupes. Un jour"
+"5313","Rapporté par Abu Huraira : Un jour"
+"5314","Rapporté par Abu Huraira : Un jour"
+"5315","Rapporté par Jabir ibn Abdullah : Quand on creusait la tranchée"
+"5316","Rapporté par Anas ibn Malik : Abu Talha a dit à Umm Sulaim : « J’ai remarqué que la voix du Messager d’Allah ﷺ était faible"
+"5317","Rapporté par Anas ibn Malik : Abu Talha m’a envoyé inviter le Messager d’Allah ﷺ à manger. Quand je suis arrivé"
+"5318","Rapporté par Anas ibn Malik : Abu Talha m’a envoyé vers le Messager d’Allah ﷺ ; le reste du hadith est le même"
+"5319","Rapporté par Anas ibn Malik : Abu Talha a demandé à Umm Sulaim de préparer un repas spécialement pour le Messager d’Allah ﷺ. Il m’a ensuite envoyé l’inviter ; le reste du hadith est le même"
+"5320","Rapporté par Anas ibn Malik : Il a rapporté cet événement concernant le festin offert par Abu Talha au Messager d’Allah ﷺ"
+"5321","Rapporté par Anas ibn Malik : Ce hadith a été rapporté avec une légère différence : le Messager d’Allah ﷺ a mangé"
+"5322","Rapporté par Anas ibn Malik : Abu Talha a vu le Messager d’Allah ﷺ allongé sur le ventre dans la mosquée. Il est allé voir Umm Sulaim et lui a dit : « J’ai vu le Messager d’Allah ﷺ allongé sur le ventre dans la mosquée"
+"5323","Rapporté par Anas b. Malik : Je suis allé rendre visite au Messager d’Allah ﷺ un jour et je l’ai trouvé assis avec ses compagnons"
+"5324","Rapporté par Anas b. Malik : Anas b. Malik a rapporté ce hadith concernant l’accueil du Messager d’Allah ﷺ par Abu Talha"
+"5325","Rapporté par Anas b. Malik : Un tailleur a invité le Messager d’Allah ﷺ à un repas qu’il avait préparé. Anas b. Malik a dit : « Je suis allé à ce festin avec le Messager d’Allah ﷺ. Il lui a servi du pain d’orge et une soupe avec de la courge et des morceaux de viande. » Anas a dit : « J’ai vu le Messager d’Allah ﷺ chercher les morceaux de courge dans le plat"
+"5326","Rapporté par Anas b. Malik : Une personne a invité le Messager d’Allah ﷺ à un repas. Je l’ai accompagné. Il a servi une soupe avec de la courge. Le Messager d’Allah ﷺ a mangé cette courge avec plaisir. Anas a dit : « Quand j’ai vu cela"
+"5327","Rapporté par Anas b. Malik : Un tailleur a invité le Messager d’Allah ﷺ à un festin. Thabit a ajouté : « J’ai entendu Anas dire que"
+"5328","Rapporté par Abdullah b. Busr : Le Messager d’Allah ﷺ est venu chez mon père et nous lui avons servi un plat avec des dattes"
+"5329","Rapporté par Shu’ba : Ce hadith a été rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"5330","Rapporté par Abdullah b. Ja’far : J’ai vu le Messager d’Allah ﷺ manger du concombre avec des dattes fraîches"
+"5331","Rapporté par Anas b. Malik : J’ai vu le Messager d’Allah ﷺ accroupi"
+"5332","Rapporté par Anas : On a apporté des dattes au Messager d’Allah ﷺ. Il les a distribuées alors qu’il était assis droit"
+"5333","Rapporté par Jabala b. Suhaim : Ibn Zubair nous donnait des dattes à manger à une époque où les gens souffraient de la famine. Un jour"
+"5334","Rapporté par Shu’ba : Ce hadith a été rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"5335","Rapporté par Jabala b. Suhaim : J’ai entendu Ibn ‘Umar dire que le Messager d’Allah ﷺ a interdit à quelqu’un de prendre deux dattes à la fois sans demander l’accord de ses compagnons"
+"5336","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Une famille qui possède des dattes ne connaîtra pas la faim. »"
+"5337","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Aïsha"
+"5338","Rapporté par Amir b. Sa’d b. Abu Waqqas"
+"5339","Rapporté par ‘Amir b. Sa’d b. Abu Waqqas : Le Messager d’Allah ﷺ a dit : « Celui qui mange sept dattes ‘ajwa’ le matin"
+"5340","Rapporté par Ibn Hashim : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5341","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Les dattes ‘ajwa’ de ‘Aliya’ ont des vertus curatives et sont un antidote si on les mange le matin. »"
+"5342","Rapporté par Sa’id b. Zaid b. ‘Amr b. Nufail : J’ai entendu le Messager d’Allah ﷺ dire : « La truffe est une sorte de “Manna”"
+"5343","Rapporté par Sa’id b. Zaid b. ‘Amr : J’ai entendu le Messager d’Allah ﷺ dire : « La truffe est une sorte de “Manna”"
+"5344","Rapporté par Sa’id b. Zaid : J’ai entendu le Messager d’Allah ﷺ dire : « La truffe est une bénédiction"
+"5345","Rapporté par Sa’id b. Zaid b. ‘Amr b. Nufail : Le Messager d’Allah ﷺ a dit : « La truffe est une sorte de “Manna” qu’Allah"
+"5346","Rapporté par Sa’id b. Zaid : Le Messager d’Allah ﷺ a dit : « La truffe est une sorte de “Manna” qu’Allah a fait descendre sur Moussa"
+"5347","Rapporté par Sa’id b. Zaid : Le Messager d’Allah ﷺ a dit : « La truffe est le “Manna” qu’Allah"
+"5348","Rapporté par Sa'id b. Zaid : Le Messager d’Allah ﷺ a dit : « La truffe est une sorte de “manna” et son jus est un remède pour les yeux. »"
+"5349","Rapporté par Jabir b. Abdullah : Nous étions avec le Messager d’Allah ﷺ à Marr az-Zahran et nous cueillions les fruits de l’arbre Arak. Le Messager d’Allah ﷺ a alors dit : « Cueillez seulement les fruits noirs"
+"5350","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Le meilleur des condiments"
+"5351","Rapporté par Sulaiman b. Bilal"
+"5352","Rapporté par Jabir b. Abdullah : Le Messager d’Allah ﷺ a demandé à sa famille s’il y avait un condiment. Ils ont répondu : « Nous n’avons que du vinaigre. » Il en a demandé"
+"5353","Rapporté par Jabir b. Abdullah : Un jour"
+"5354","Rapporté par Jabir b. Abdullah : Le Messager d’Allah ﷺ m’a pris la main et m’a conduit chez lui"
+"5355","Rapporté par Jabir b. Abdullah : Alors que j’étais assis chez moi"
+"5356","Rapporté par Abd Ayyub al-Ansari : Quand on apportait de la nourriture au Messager d’Allah ﷺ"
+"5357","Rapporté par Shu'ba"
+"5358","Rapporté par Aflah"
+"5359","Rapporté par Abu Huraira : Un homme est venu voir le Messager d’Allah ﷺ et a dit : « J’ai très faim. » Le Prophète ﷺ a envoyé un message à l’une de ses épouses pour demander de la nourriture"
+"5360","Rapporté par Abu Huraira : Un invité a passé la nuit chez un homme parmi les Ansar"
+"5361","Rapporté par Abu Huraira : Un homme est venu voir le Messager d’Allah ﷺ pour qu’il l’accueille comme invité"
+"5362","Rapporté par Miqdad : Mes deux compagnons et moi étions si affamés que nous avions perdu la vue et l’ouïe. Nous nous sommes présentés comme invités chez les Compagnons du Prophète ﷺ"
+"5363","Rapporté par Mughira"
+"5364","Rapporté par 'Abd al-Rahman b. Abu Bakr : Nous étions cent trente avec le Messager d’Allah ﷺ. Il a dit : « L’un de vous a-t-il de la nourriture ? » Quelqu’un avait environ un sa’ de farine"
+"5365","Rapporté par 'Abd al-Rahman b. Abu Bakr : Les gens de Suffa étaient très pauvres. Un jour"
+"5366","Rapporté par 'Abd al-Rahman b. Abd Bakr : Des invités sont venus chez nous. Mon père avait l’habitude d’aller parler au Messager d’Allah ﷺ la nuit. En partant"
+"5367","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « La nourriture pour deux personnes suffit pour trois"
+"5368","Rapporté par Jabir b. Abdullah : J’ai entendu le Messager d’Allah ﷺ dire : « La nourriture pour une personne suffit pour deux"
+"5369","Rapporté par Jabir"
+"5370","Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « La nourriture pour une personne suffit pour deux"
+"5371","Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « La nourriture pour une personne suffit pour deux"
+"5372","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit qu’un non-musulman mange avec sept intestins"
+"5373","Rapporté par Ibn 'Umar رضي الله عنه : Ce hadith a été rapporté par Ibn 'Umar"
+"5374","Rapporté par Nafi' : Ibn 'Umar رضي الله عنه a vu un homme pauvre. Il a placé de la nourriture devant lui et cet homme a beaucoup mangé. Ibn 'Umar a dit : « Il ne devrait pas venir chez moi"
+"5375","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le croyant mange avec un seul intestin"
+"5376","Rapporté par Jabir رضي الله عنه : Ce hadith a été transmis par Jabir"
+"5377","Rapporté par Abu Musa رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le croyant mange avec un seul intestin"
+"5378","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté par Abu Huraira avec une chaîne de transmetteurs différente"
+"5379","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a invité un non-musulman. Il a ordonné qu’on lui donne du lait de chèvre. On a trait une chèvre et il a bu son lait. Puis on en a trait une deuxième"
+"5380","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ ne critiquait jamais la nourriture qu’on lui servait. S’il aimait"
+"5381","Rapporté par A'mash : Ce hadith a été rapporté par A'mash avec la même chaîne de transmetteurs"
+"5382","Rapporté par A'mash : Un hadith similaire a été rapporté par A'mash"
+"5383","Rapporté par Abu Huraira رضي الله عنه : Je n’ai jamais vu le Messager d’Allah ﷺ critiquer la nourriture qu’on lui servait ; s’il aimait"
+"5385","Rapporté par Umm Salama (l’épouse du Prophète ﷺ) رضي الله عنها : Celui qui boit dans un récipient en argent boit en réalité dans son ventre le feu de l’Enfer"
+"5386","Rapporté par Ubaidullah"
+"5387","Rapporté par Abd al-Rahman"
+"5388","Rapporté par Mu'awiya ibn Suwaid ibn Muqarrin رضي الله عنه : Je suis allé voir al-Bara' ibn 'Azib رضي الله عنه et je l’ai entendu dire : Le Messager d’Allah ﷺ nous a ordonné de faire sept choses et nous a interdit d’en faire sept autres. Il nous a ordonné de visiter les malades"
+"5389","Rapporté par Ash'ath ibn Sulaim : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5390","Rapporté par Ash'ath ibn Abu ash-Sha'tha' : Ce hadith a été rapporté avec la même chaîne de transmetteurs (et avec ces mots) : Il n’y a aucun doute que les mots « accomplir les vœux » ont été mentionnés"
+"5391","Rapporté par Ash'ath ibn Sulaim : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5392","Rapporté par Ash'ath ibn Sulaim : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5394","Rapporté par Abdullah ibn Ukaim رضي الله عنه : Alors que nous étions avec Hudhayfa à Mada’in"
+"5395","Rapporté par Abdullah ibn Ukaim رضي الله عنه : Ce hadith a été rapporté par Abdullah ibn Ukaim avec une légère variation dans les mots"
+"5396","Rapporté par Ibn Ukaim رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5397","Rapporté par Shu'ba"
+"5398","Rapporté par Shu'ba : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5399","Rapporté par Hudhaila : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5400","Rapporté par 'Abd al-Rahman ibn Abu Laila : Hudhayfa demanda de l’eau et un mage lui en donna dans un récipient en argent. Il dit alors : « J’ai entendu le Messager d’Allah ﷺ dire : “Ne portez pas de soie ni de brocart"
+"5401","Rapporté par Ibn Umar : Omar ibn al-Khattab vit quelqu’un vendre des vêtements en soie à la porte de la mosquée. Il dit alors : « Ô Messager d’Allah"
+"5402","Rapporté par Ibn Umar : Ce hadith a été rapporté par Ibn Umar par une autre chaîne de transmetteurs"
+"5403","Rapporté par Ibn Umar : Omar vit Utarid al-Tamimi au marché vendre des vêtements en soie. C’était quelqu’un qui se rendait chez les rois et leur vendait ces habits à prix élevé. Omar dit : « Ô Messager d’Allah"
+"5404","Rapporté par Abdullah ibn Umar : Omar ibn al-Khattab trouva un vêtement en soie à vendre au marché ; il l’acheta et l’apporta au Messager d’Allah ﷺ en disant : « Ô Messager d’Allah"
+"5405","Rapporté par Ibn Shihab : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5406","Rapporté par Ibn Umar : Omar vit un homme de la tribu d’Utarid vendre un vêtement fait de brocart ou de soie et dit au Messager d’Allah ﷺ : « Si seulement tu l’achetais ! » Le Prophète ﷺ répondit : « Celui qui le porte n’aura aucune part dans l’au-delà. » Ensuite"
+"5407","Rapporté par Ibn Umar : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5408","Rapporté par Ibn Umar : Omar vit une personne avec un vêtement en brocart et l’apporta au Messager d’Allah ﷺ. Le reste du hadith est le même"
+"5409","Rapporté par Abdullah"
+"5410","Rapporté par Khalifa ibn Ka'b Abu Dhubyan : J’ai entendu Abdullah ibn Zubayr s’adresser aux gens et dire : « Attention ! Ne faites pas porter de vêtements en soie à vos femmes"
+"5411","Rapporté par Asim al-Abwal d’après Abu Uthman : Omar nous écrivit alors que nous étions à Adharbaïdjan : « Utba ibn Farqad"
+"5412","Rapporté par Asim : Ce hadith a été transmis par Asim"
+"5413","Rapporté par Abu Uthman : Alors que nous étions avec Utba ibn Farqad"
+"5414","Rapporté par la même chaîne de transmetteurs : Le hadith précédent est rapporté de la même manière par une autre chaîne"
+"5415","Rapporté par Qatada : J’ai entendu Abu Uthman al-Nahdi dire : Nous avons reçu une lettre d’Omar alors que nous étions à Adharbaïdjan ou en Syrie avec Utba ibn Farqad"
+"5416","Rapporté par Qatada : Ce hadith a été rapporté par Qatada"
+"5417","Rapporté par Suwaid ibn Ghafala : Omar nous fit un discours à un endroit appelé Jabiya (en Syrie) et dit : « Le Messager d’Allah ﷺ nous a interdit de porter de la soie"
+"5418","Rapporté par Qatada : Ce hadith a été rapporté par Qatada avec la même chaîne de transmetteurs"
+"5419","Rapporté par Jabir ibn Abdullah : Un jour"
+"5420","Rapporté par Ali : Un manteau en soie fut offert au Messager d’Allah ﷺ"
+"5421","Rapporté par Muhammad ibn Ja’far : Ce hadith a été rapporté avec une légère variation dans les mots"
+"5422","Rapporté par Ali : Ukaidir de Duma offrit au Messager d’Allah ﷺ un vêtement en soie"
+"5423","Rapporté par Ali ibn Abu Talib : Le Messager d’Allah ﷺ me donna à porter un vêtement sous forme de manteau en soie. Je sortis en le portant"
+"5424","Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ envoya une tunique en soie à Omar"
+"5425","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui porte de la soie dans ce monde n’en portera pas dans l’au-delà. »"
+"5426","Rapporté par Abu Umama رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui porte de la soie dans ce monde n’en portera pas dans l’au-delà. »"
+"5427","Rapporté par Uqba b. 'Amir رضي الله عنه : Un vêtement de soie a été présenté au Messager d’Allah ﷺ. Il l’a porté"
+"5428","Rapporté par Yazid b. Abu Habib رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5429","Rapporté par Anas b. Malik رضي الله عنه : Il a informé ses compagnons que le Messager d’Allah ﷺ avait accordé une permission à Abd al-Rahman b. ‘Awf et Zubair b. ‘Awwam de porter une chemise en soie pendant un voyage"
+"5430","Rapporté par Sa’d رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5431","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a accordé une permission"
+"5432","Rapporté par Shu’ba رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5433","Rapporté par Anas b. Malik رضي الله عنه : ‘Abd al-Rahman b. ‘Awf et Zubair b. ‘Awwam se sont plaints au Messager d’Allah ﷺ à propos des poux ; il leur a permis de porter des chemises en soie"
+"5434","Rapporté par Abdullah b. ‘Amr b. al-As رضي الله عنه : Le Messager d’Allah ﷺ m’a vu porter deux vêtements teints au safran. Il a dit : « Ce sont des vêtements que portent les non-croyants"
+"5435","Rapporté par Yahya b. Abu Kathir رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5436","Rapporté par Abdullah b. ‘Amr رضي الله عنه : Le Messager d’Allah ﷺ m’a vu porter deux vêtements teints au safran. Il m’a dit : « Est-ce ta mère qui t’a demandé de faire cela ? » J’ai répondu : « Je vais les laver. » Il a dit : « Non"
+"5437","Rapporté par Ali b. Abu Talib رضي الله عنه : Le Messager d’Allah ﷺ a interdit de porter de la soie"
+"5438","Rapporté par Ali b. Abu Talib رضي الله عنه : Le Messager d’Allah ﷺ m’a interdit de réciter le Coran pendant que je suis en ruku’"
+"5439","Rapporté par Ali b. Abu Talib رضي الله عنه : Le Messager d’Allah ﷺ m’a interdit de porter des bagues en or"
+"5440","Rapporté par Qatada رضي الله عنه : Nous avons demandé à Anas b. Malik quel vêtement le Messager d’Allah ﷺ préférait porter. Il a répondu : « Le manteau du Yémen. »"
+"5441","Rapporté par Anas رضي الله عنه : Le vêtement que le Messager d’Allah ﷺ préférait était le manteau du Yémen"
+"5442","Rapporté par Abu Burda رضي الله عنه : Je suis allé voir Aïcha رضي الله عنها et elle nous a montré le vêtement inférieur grossier (du Messager d’Allah) fabriqué au Yémen ainsi que des vêtements en tissu mulabbad. Elle a juré au nom d’Allah que le Messager d’Allah ﷺ est mort dans ces deux vêtements"
+"5443","Rapporté par Abu Burda رضي الله عنه : Aïcha رضي الله عنها nous a montré le vêtement inférieur et le vêtement supérieur faits de tissu mulabbad et a dit : « C’est dans ces vêtements que le Messager d’Allah ﷺ est mort. » Ibn Hatim (l’un des narrateurs) a précisé : « Le vêtement inférieur était en tissu grossier. »"
+"5444","Rapporté par Ayyub رضي الله عنه : Ce hadith a été rapporté avec une légère différence dans les mots"
+"5445","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ est sorti un matin en portant une couverture faite de poils noirs de chameau ou de mouton"
+"5446","Rapporté par Aïcha رضي الله عنها : L’oreiller sur lequel le Messager d’Allah ﷺ s’appuyait était en cuir rempli de fibres de palmier"
+"5447","Rapporté par Aïcha رضي الله عنها : La literie sur laquelle le Messager d’Allah ﷺ dormait était en cuir rempli de fibres de palmier"
+"5448","Rapporté par Hisham b. ‘Urwa رضي الله عنه : Ce hadith a été rapporté avec une légère différence dans les mots"
+"5449","Rapporté par Jabir رضي الله عنه : Quand je me suis marié"
+"5450","Rapporté par Jabir ibn Abdullah : Lorsque je me suis marié"
+"5451","Rapporté par Jabir ibn Abdullah : Ce hadith a été rapporté par Sufyan avec la même chaîne de transmetteurs"
+"5452","Rapporté par Jabir ibn Abdullah : Le Messager d’Allah ﷺ a dit : « Il doit y avoir une literie pour un homme"
+"5453","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Allah ne regardera pas celui qui laisse traîner son vêtement par orgueil. »"
+"5454","Rapporté par Ibn 'Umar : Ce hadith a aussi été rapporté par d’autres chaînes de transmetteurs"
+"5455","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Celui qui laisse traîner son vêtement par orgueil"
+"5456","Rapporté par Ibn 'Umar : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5457","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Celui qui laisse traîner son vêtement par orgueil"
+"5458","Rapporté par Salim رضي الله عنه : J’ai entendu Ibn Omar رضي الله عنه dire qu’il avait entendu le Messager d’Allah ﷺ dire la même chose (que ce qui a été mentionné plus haut)"
+"5459","Rapporté par Muslim ibn Yannaq : Ibn 'Umar a vu une personne qui laissait traîner son vêtement"
+"5460","Rapporté par Muslim ibn Yannaq : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5461","Rapporté par Muhammad ibn 'Abbad ibn Ja'far : J’ai demandé à Muslim ibn Yasar"
+"5462","Rapporté par Ibn 'Umar : Je suis passé devant le Messager d’Allah ﷺ avec mon vêtement qui traînait par terre. Il a dit : « 'Abdullah"
+"5463","Rapporté par Abu Huraira : Il a vu une personne dont le vêtement traînait par terre"
+"5464","Rapporté par Abu Huraira : Ce hadith a été rapporté par Shu'ba avec la même chaîne de transmetteurs. Dans la version rapportée par Ibn Ja'far"
+"5465","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit qu’il y avait une personne qui marchait avec orgueil à cause de ses cheveux épais et de ses beaux vêtements. Il a été englouti par la terre et continuera d’y enfoncer jusqu’à la Dernière Heure"
+"5466","Rapporté par Abu Huraira : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5467","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il y avait une personne qui marchait avec orgueil à cause de ses beaux vêtements et qui était satisfait de lui-même. Allah l’a fait engloutir par la terre"
+"5468","Rapporté par Abu Huraira : Ce hadith a été transmis par une autre chaîne de transmetteurs"
+"5469","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il y avait une personne (qui vivait avant vous) qui était fière de son manteau. » Le reste du hadith est le même"
+"5470","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a interdit de porter une bague en or"
+"5471","Rapporté par Abu Huraira : Le hadith précédent est rapporté par une autre chaîne de transmetteurs"
+"5472","Rapporté par Abdullah ibn 'Abbas : Le Messager d’Allah ﷺ a vu une personne portant une bague en or à la main. Il l’a retirée et l’a jetée en disant : « L’un de vous veut-il une braise de l’Enfer et la met sur sa main ? » Après le départ du Messager d’Allah ﷺ"
+"5473","Rapporté par Abdullah : Le Messager d’Allah ﷺ s’est fait fabriquer une bague en or"
+"5474","Rapporté par Ibn 'Umar : Ce hadith a été rapporté par d’autres chaînes de transmetteurs"
+"5475","Rapporté par Ibn 'Umar رضي الله عنه : Ce hadith a également été rapporté de la même manière par Ibn 'Umar à travers plusieurs autres chaînes de transmetteurs"
+"5476","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ s’était fait fabriquer une bague en argent"
+"5477","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ s’était fait fabriquer une bague en or"
+"5478","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ s’était fait fabriquer une bague en argent"
+"5479","Rapporté par Anas رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5480","Rapporté par Anas ibn Malik رضي الله عنه : Lorsque le Messager d’Allah ﷺ décida d’écrire des lettres à l’Empereur byzantin"
+"5481","Rapporté par Anas رضي الله عنه : Lorsque le Messager d’Allah ﷺ décida d’écrire des lettres aux non-Arabes (c’est-à-dire aux empereurs persan et byzantin)"
+"5482","Rapporté par Anas رضي الله عنه : Lorsque le Messager d’Allah ﷺ décida d’écrire au Kisra (roi de Perse)"
+"5483","Rapporté par Anas ibn Malik رضي الله عنه : Un jour"
+"5484","Rapporté par Anas ibn Malik رضي الله عنه : Un jour"
+"5485","Rapporté par Ibn Juraij رضي الله عنه : Un hadith similaire a été rapporté par Ibn Juraij avec la même chaîne de transmetteurs"
+"5486","Rapporté par Anas ibn Malik رضي الله عنه : La bague du Messager d’Allah ﷺ était en argent et elle contenait une pierre abyssinienne"
+"5487","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ portait une bague en argent à la main droite"
+"5488","Rapporté par Yunus ibn Yazid رضي الله عنه : Ce hadith a été rapporté par Yunus ibn Yazid avec la même chaîne de transmetteurs"
+"5489","Rapporté par Anas رضي الله عنه : La bague du Messager d’Allah ﷺ était à ce doigt"
+"5490","Rapporté par Ali رضي الله عنه : Le Prophète ﷺ m’a interdit de porter ma bague à ce doigt (l’index) ou à celui qui est à côté. ‘Asim (un des transmetteurs) a dit qu’il ne se souvenait plus lequel des deux doigts il avait montré. Il a aussi interdit de porter des vêtements en qassi (soie décorée)"
+"5491","Rapporté par Ali رضي الله عنه : Un hadith similaire a été rapporté par Ali à travers une autre chaîne de transmetteurs"
+"5492","Rapporté par Ali ibn Abu Talib رضي الله عنه : Il (le Messager d’Allah ﷺ) a interdit"
+"5493","Rapporté par Ali رضي الله عنه : Le Messager d’Allah ﷺ m’a interdit de porter une bague à ces deux doigts"
+"5494","Rapporté par Jabir رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire lors d’une expédition à laquelle nous participions : « Portez régulièrement des sandales"
+"5495","Rapporté par Abou Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous met ses sandales"
+"5496","Rapporté par Abou Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun de vous ne doit marcher avec une seule sandale ; il doit soit porter les deux"
+"5497","Rapporté par Abou Razin رضي الله عنه : Abou Huraira est venu vers nous"
+"5498","Rapporté par Abou Huraira رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5499","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a interdit qu’un homme mange avec la main gauche"
+"5500","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque la lanière de la sandale de l’un d’entre vous se casse"
+"5501","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a interdit de s’enrouler complètement dans un vêtement en laissant les bras coincés"
+"5502","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne marchez pas avec une seule sandale"
+"5503","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun de vous ne doit s’allonger sur le dos en posant un pied sur l’autre. »"
+"5504","Rapporté par ‘Abbad ibn Tamim رضي الله عنه"
+"5505","Rapporté par Zuhri : Ce hadith a été rapporté avec la même chaîne de transmission"
+"5506","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ a interdit aux hommes de teindre leurs vêtements ou leurs cheveux avec du safran. Hammad a précisé que cela concerne uniquement les hommes"
+"5507","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a interdit de porter des vêtements teints au safran"
+"5508","Rapporté par Jabir رضي الله عنه : Lorsque Abu Qubafa (le père d’Abu Bakr) est venu le jour de la Victoire (pour prêter allégeance au Prophète ﷺ)"
+"5509","Rapporté par Jabir ibn Abdullah رضي الله عنه : Abu Qubafa a été amené devant le Prophète ﷺ le jour de la conquête de La Mecque"
+"5510","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les Juifs et les Chrétiens ne teignent pas leurs cheveux"
+"5511","Rapporté par Aïcha رضي الله عنها : Gabriel (paix sur lui) avait promis à Allah et à Son Messager ﷺ de venir à une heure précise. Cette heure arriva"
+"5512","Rapporté par Abu Hazim : Ce hadith a été rapporté avec la même chaîne de transmission"
+"5513","Rapporté par Maymouna رضي الله عنها : Un matin"
+"5514","Rapporté par Abu Talha رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les anges n’entrent pas dans une maison où il y a un chien ou une image. »"
+"5515","Rapporté par Abu Talha رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Les anges n’entrent pas dans une maison où il y a un chien ou une statue. »"
+"5516","Rapporté par Zuhri : Ce hadith a été rapporté avec la même chaîne de transmission"
+"5517","Rapporté par Abu Talha"
+"5518","Rapporté par Abu Talha رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les anges n’entrent pas dans une maison où il y a une image. » Busr a dit : Zayd ibn Khalid tomba malade et nous sommes allés lui rendre visite. Dans sa maison"
+"5520","Rapporté par Abu Talha al-Ansari رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les anges n’entrent pas dans une maison où il y a une image ou un portrait. » Je suis allé voir Aïcha رضي الله عنها et lui ai dit : « J’ai entendu que le Messager d’Allah ﷺ a dit : “Les anges n’entrent pas dans une maison où il y a une image ou un chien.” » Je lui ai demandé si elle avait entendu cela. Elle répondit : « Non"
+"5523","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ est revenu d’un voyage et j’avais couvert ma porte avec un rideau représentant des chevaux ailés. Il m’a ordonné de l’enlever"
+"5524","Rapporté par Waki’ : Ce hadith a été rapporté avec la même chaîne de transmission"
+"5525","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ est entré (dans mon appartement) et j’avais accroché un fin rideau avec des images à la porte. Son visage a changé de couleur. Il a alors saisi ce rideau"
+"5526","Rapporté par Aïcha رضي الله عنها : Ce hadith a été rapporté par une autre chaîne de transmission"
+"5527","Rapporté par Zuhri : Ce hadith a été rapporté avec la même chaîne de transmission"
+"5528","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ est venu me rendre visite alors que j’avais une étagère recouverte d’un rideau fin sur lequel il y avait des images. Dès qu’il l’a vue"
+"5529","Rapporté par Aïsha رضي الله عنها : Elle avait un tissu avec des images dessus"
+"5530","Rapporté par Aïsha رضي الله عنها : Ce hadith a été rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"5531","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ m’a rendu visite alors que j’avais mis un rideau avec des images à ma porte. Il l’a enlevé et nous en avons fait des coussins"
+"5532","Rapporté par Aïsha"
+"5533","Rapporté par Aïsha رضي الله عنها : Elle a acheté un tapis avec des images dessus. Quand le Messager d’Allah ﷺ l’a vu"
+"5534","Rapporté par Aïsha رضي الله عنها : Ce hadith a aussi été rapporté par une autre chaîne de transmetteurs. Certains autres hadiths transmis par d’autres chaînes sont plus complets et il y a un ajout dans ceux transmis par le neveu de Majishun : elle (Aïsha) aurait dit : « Je l’ai pris et j’en ai fait deux coussins"
+"5535","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ceux qui font des images seront punis au Jour de la Résurrection et on leur dira : “Insufflez une âme dans ce que vous avez créé.” »"
+"5536","Rapporté par Ibn ‘Umar رضي الله عنه : Un hadith similaire a été rapporté par une autre chaîne de transmetteurs"
+"5537","Rapporté par ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les gens les plus sévèrement punis au Jour de la Résurrection seront les créateurs d’images. » Ashajj"
+"5538","Rapporté par ‘Abdullah رضي الله عنه : Ce hadith a été rapporté par Abû Mu‘awiya par une autre chaîne de transmetteurs avec ces mots : « En vérité"
+"5546","Rapporté par Abû Hurayra رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les anges n’accompagnent pas les voyageurs qui ont avec eux un chien et une cloche. »"
+"5547","Rapporté par Abû Hurayra رضي الله عنه : Ce hadith a été rapporté par Suhail avec la même chaîne de transmetteurs"
+"5548","Rapporté par Abû Hurayra رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La cloche est l’instrument de musique du diable. »"
+"5549","Rapporté par Abû Bashir Ansari رضي الله عنه : Il a eu l’occasion d’accompagner le Messager d’Allah ﷺ lors de certains de ses voyages. Le Messager d’Allah ﷺ a envoyé l’un de ses messagers — ‘Abdullah b. Abî Bakr a dit : « Je pense qu’il a dit ces mots quand les gens étaient aux lieux de repos » : « Qu’aucun collier de ficelles ne reste sur le cou des chameaux"
+"5550","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a interdit de frapper les animaux au visage ou de les marquer au fer sur le visage"
+"5551","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5552","Rapporté par Jabir رضي الله عنه : Un âne dont le visage avait été marqué au fer est passé devant le Messager d’Allah ﷺ. Il a alors dit : « Qu’Allah maudisse celui qui l’a marqué au visage. »"
+"5553","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a vu un âne qui avait été marqué au fer sur le visage. Il a désapprouvé cela et a dit : « Par Allah"
+"5554","Rapporté par Anas رضي الله عنه : Umm Sulaym a donné naissance à un enfant. Elle lui a dit : « Anas"
+"5555","Rapporté par Anas رضي الله عنه : Quand sa mère a donné naissance à un enfant"
+"5558","Rapporté par Anas b. Malik رضي الله عنه : J’ai vu dans la main du Messager d’Allah ﷺ un instrument pour marquer au fer"
+"5559","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a interdit le Qaza. J’ai demandé à Nafi’ : « Qu’est-ce que le Qaza ? » Il a répondu : « C’est raser une partie de la tête d’un garçon et laisser une autre partie non rasée. »"
+"5560","Rapporté par ‘Ubaidullah رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5561","Rapporté par ‘Umar b. Nafi’ رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5562","Rapporté par Ibn 'Umar : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5563","Rapporté par Abu Sa'id Al-Khudri : Le Messager d’Allah ﷺ a dit : « Évitez de vous asseoir sur les chemins. » Ses compagnons dirent : « Ô Messager d’Allah"
+"5564","Rapporté par Zaid b. Aslam : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"5565","Rapporté par Asma"
+"5566","Rapporté par Shu'ba : Ce hadith a été transmis par Shu'ba avec une légère différence dans les mots"
+"5567","Rapporté par Asma"
+"5568","Rapporté par Aïsha رضي الله عنها : Une jeune fille des Ansar"
+"5573","Rapporté par Abdullah : Allah a maudit les femmes qui se tatouent et celles qui se font tatouer"
+"5574","Rapporté par Mansur : Ce hadith a été rapporté par Mansur avec la même chaîne de transmetteurs"
+"5575","Rapporté par Mansur : Ce hadith a été rapporté par Mansur sans l’histoire concernant Umm Ya'qub"
+"5576","Rapporté par Abdullah : Ce hadith a été transmis par Abdullah"
+"5577","Rapporté par Jabir b. Abdullah : Le Messager d’Allah ﷺ a réprimandé le fait qu’une femme ajoute quoi que ce soit à ses cheveux (sous forme de cheveux artificiels)"
+"5578","Rapporté par 'Abd al-Rahman b. 'Auf : Il a entendu Mu'awiya b. Abi Sufyan"
+"5579","Rapporté par Zuhri : Ce hadith a été transmis par Zuhri avec une légère différence dans les mots"
+"5580","Rapporté par Sa'id b. Musayyib : Mu'awiya est venu à Médine"
+"5581","Rapporté par Sa'id b. Musayyib : Un jour"
+"5582","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il y a deux types d’habitants de l’Enfer que je n’ai pas encore vus : des gens qui ont des fouets comme des queues de bœuf et qui frappent les gens"
+"5583","Rapporté par Aïsha رضي الله عنها : Une femme a demandé : « Ô Messager d’Allah"
+"5584","Rapporté par Asma’ : Une femme vint voir le Messager d’Allah ﷺ et dit : « J’ai une coépouse. Est-ce mal si je lui fais croire que j’ai reçu quelque chose de mon mari alors qu’en réalité il ne me l’a pas donné ? » Le Messager d’Allah ﷺ répondit : « Celle qui crée une telle illusion d’avoir reçu ce qu’on ne lui a pas donné est comme celle qui porte un vêtement de mensonge. »"
+"5585","Rapporté par Hisham : Ce hadith a été rapporté par Hisham avec la même chaîne de transmetteurs"

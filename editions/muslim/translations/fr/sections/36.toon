@@ -1,256 +1,389 @@
-hadiths[255]{hadithnumber,text}:
-5114,977.03
-5115,977.04
-5127,1979.01
-5128,1979.02
-5129,1979.03
-5130,1979.04
-5131,1980.01
-5132,1980.02
-5133,1980.03
-5134,1980.04
-5135,1980.05
-5136,1980.06
-5137,1981
-5138,1980.07
-5139,1982
-5140,1983
-5141,1984
-5142,1985.01
-5143,1985.02
-5144,1985.03
-5145,1986.01
-5146,1986.02
-5147,1986.03
-5148,1986.04
-5149,1987.01
-5150,1987.02
-5151,1987.03
-5152,1987.04
-5153,1987.05
-5154,1988.01
-5155,1988.02
-5156,1988.03
-5157,1988.04
-5158,1988.05
-5159,1988.06
-5160,1989.01
-5161,1989.02
-5162,1990.01
-5163,1990.02
-5164,1991.01
-5165,1991.02
-5166,1992.01
-5167,1992.02
-5168,1993.01
-5169,1993.02
-5170,1993.03
-5171,1994
-5172,1995.01
-5173,1995.02
-5174,1995.03
-5175,1995.04
-5176,1995.05
-5177,1995.06
-5178,17.04
-5179,17.05
-5180,17.06
-5181,17.07
-5182,1996.01
-5183,1996.02
-5184,1996.03
-5185,1996.04
-5186,1997.01
-5187,1997.02
-5188,1997.03
-5189,1997.04
-5190,1997.05
-5191,1997.06
-5192,1997.07
-5193,1997.08
-5194,1997.09
-5195,1997.10
-5196,1997.11
-5197,1997.12
-5198,1997.13
-5199,1997.14
-5200,1997.15
-5201,1997.16
-5202,1998.01
-5203,1998.02
-5205,1999.02
-5206,1999.03
-5209,977.07
-5210,2000
-5211,2001.01
-5212,2001.02
-5213,2001.03
-5215,1733.06
-5216,1733.07
-5217,2002
-5218,2003.01
-5219,2003.02
-5220,2003.03
-5221,2003.04
-5222,2003.05
-5223,2003.06
-5224,2003.07
-5225,2003.08
-5226,2004.01
-5227,2004.02
-5228,2004.03
-5229,2004.04
-5230,2004.05
-5231,2005.01
-5232,2005.02
-5233,2006.01
-5234,2006.02
-5235,2006.03
-5236,2007
-5237,2008
-5238,2009.01
-5239,2009.02
-5240,168.02
-5241,168.03
-5242,2010.01
-5243,2010.02
-5244,2011.01
-5245,2011.02
-5246,2012.01
-5247,2012.02
-5248,2012.03
-5249,2012.04
-5250,2012.05
-5251,2012.06
-5252,2012.07
-5253,2013.01
-5254,2013.02
-5255,2014.01
-5256,2014.02
-5257,2015
-5258,2016
-5259,2017.01
-5260,2017.02
-5261,2017.03
-5262,2018.01
-5263,2018.02
-5264,2019
-5265,2020.01
-5266,2020.02
-5267,2020.03
-5268,2021
-5269,2022.01
-5270,2022.02
-5271,2023.01
-5272,2023.02
-5273,2023.03
-5274,2024.01
-5275,2024.02
-5276,2024.03
-5277,2025.01
-5278,2025.02
-5279,2026
-5280,2027.01
-5281,2027.02
-5282,2027.03
-5283,2027.04
-5284,2027.05
-5285,267.04
-5286,2028.01
-5287,2028.02
-5288,2028.03
-5289,2029.01
-5290,2029.02
-5291,2029.03
-5292,2030.01
-5293,2030.02
-5294,2031.01
-5295,2031.02
-5296,2032.01
-5297,2032.02
-5298,2032.03
-5299,2032.04
-5300,2033.01
-5301,2033.02
-5302,2033.03
-5303,2033.04
-5304,2033.05
-5305,2033.06
-5306,2034
-5307,2035.01
-5308,2035.02
-5309,2036.01
-5310,2036.02
-5311,2036.03
-5312,2037
-5313,2038.01
-5314,2038.02
-5315,2039
-5316,2040.01
-5317,2040.02
-5318,2040.03
-5319,2040.04
-5320,2040.05
-5321,2040.06
-5322,2040.07
-5323,2040.08
-5324,2040.09
-5325,2041.01
-5326,2041.02
-5327,2041.03
-5328,2042.01
-5329,2042.02
-5330,2043
-5331,2044.01
-5332,2044.02
-5333,2045.01
-5334,2045.02
-5335,2045.03
-5336,2046.01
-5337,2046.02
-5338,2047.01
-5339,2047.02
-5340,2047.03
-5341,2048
-5342,2049.01
-5343,2049.02
-5344,2049.03
-5345,2049.04
-5346,2049.05
-5347,2049.06
-5348,2049.07
-5349,2050
-5350,2051.01
-5351,2051.02
-5352,2052.01
-5353,2052.02
-5354,2052.03
-5355,2052.04
-5356,2053.01
-5357,2053.02
-5358,2053.03
-5359,2054.01
-5360,2054.02
-5361,2054.03
-5362,2055.01
-5363,2055.02
-5364,2056
-5365,2057.01
-5366,2057.02
-5367,2058
-5368,2059.01
-5369,2059.02
-5370,2059.03
-5371,2059.04
-5372,2060.01
-5373,2060.02
-5374,2060.03
-5375,2061.01
-5376,2061.02
-5377,2062.01
-5378,2062.02
-5379,2063
-5380,2064.01
-5381,2064.02
-5382,2064.03
-5383,2064.04
+hadiths[388]{hadithnumber,text}:
+"4990","Rapporté par Abu Tha’laba al-Khushani رضي الله عنه : Le Messager d’Allah ﷺ a interdit de manger toute bête de proie ayant des crocs"
+"4991","Rapporté par plusieurs rapporteurs : Ce hadith a été transmis par plusieurs autres chaînes de rapporteurs"
+"4992","Rapporté par Abu Huraira رضي الله عنه : « Le Messager d’Allah ﷺ a dit : “Il est interdit de manger la chair de toutes les bêtes de proie qui ont des crocs.” »"
+"4993","Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"4994","Rapporté par Ibn 'Abbas رضي الله عنه : « Le Messager d’Allah ﷺ a interdit de manger la chair de toutes les bêtes de proie qui ont des crocs"
+"4995","Ce hadith a été transmis par Shu'ba"
+"4996","Rapporté par Ibn 'Abbas رضي الله عنه : « Le Messager d’Allah ﷺ a interdit de manger la chair de toutes les bêtes de proie qui ont des crocs"
+"4997","Ce hadith a été rapporté par Ibn 'Abbas رضي الله عنه selon une chaîne différente de transmetteurs"
+"4998","Rapporté par Jabir رضي الله عنه : « Le Messager d’Allah ﷺ nous a envoyés en expédition et a nommé Abu 'Ubaida comme chef pour intercepter une caravane des Quraysh. Il ne nous a donné qu’un sac de dattes"
+"4999","Rapporté par Jabir ibn 'Abdullah رضي الله عنه : « Le Messager d’Allah ﷺ nous a envoyés en expédition. Nous étions trois cents cavaliers et notre chef était 'Ubaida ibn al-Jarrah. Nous guettions une caravane des Quraysh. Nous sommes restés sur la côte pendant quinze jours"
+"5000","Rapporté par 'Amr"
+"5001","Rapporté par Jabir ibn 'Abdullah رضي الله عنه : « Le Messager d’Allah ﷺ nous a envoyés en expédition"
+"5002","Rapporté par Jabir ibn 'Abdullah رضي الله عنه : « Le Messager d’Allah ﷺ a envoyé une expédition de trois cents personnes et a nommé Abu 'Ubaida ibn Jarrah comme chef. Nos provisions se sont épuisées : Abu 'Ubaida a rassemblé tout ce qu’il restait dans un sac et nous a nourris ainsi pendant un temps. Ensuite"
+"5003","Rapporté par Jabir ibn Abdullah رضي الله عنه : « Le Messager d’Allah ﷺ a envoyé une expédition sur la côte et j’en faisais partie. Le reste du hadith est le même"
+"5004","Rapporté par Jabir ibn Abdullah رضي الله عنه : « Le Messager d’Allah ﷺ a envoyé une expédition vers la terre de la tribu de Juhaina et a désigné une personne comme chef. »"
+"5005","Rapporté par 'Ali ibn Abi Talib رضي الله عنه : « Le Messager d’Allah ﷺ a interdit"
+"5006","Ce hadith a été rapporté par Zuhri selon une chaîne différente"
+"5007","Rapporté par Abu Tha'laba رضي الله عنه : « Le Messager d’Allah ﷺ a interdit de manger la chair des ânes domestiques. »"
+"5008","Rapporté par Ibn 'Umar رضي الله عنه : « Le Messager d’Allah ﷺ a interdit de manger la chair des ânes domestiques. »"
+"5009","Rapporté par Ibn 'Umar رضي الله عنه : « Le Messager d’Allah ﷺ a interdit de manger la chair des ânes domestiques le jour de Khaybar"
+"5010","Rapporté par Shaibani : « J’ai demandé à 'Abdullah ibn Abu Aufa رضي الله عنه si la chair des ânes domestiques était permise ou interdite. Il a dit : “Nous avons souffert de la faim le jour de Khaybar alors que nous étions avec le Messager d’Allah ﷺ. Nous avons trouvé des ânes domestiques à l’extérieur de Médine"
+"5011","Rapporté par Sulaiman Shaibini : « J’ai entendu Abdullah ibn Abu Aufa رضي الله عنه dire : “Nous avons souffert de la faim pendant les nuits de Khaybar. Le jour de Khaybar"
+"5012","Rapporté par 'Adi (fils de Thabit) : « J’ai entendu al-Bara' et Abdullah ibn Abu Aufa رضي الله عنه dire : “Nous avons trouvé des ânes domestiques et nous les avons cuisinés. Puis l’annonceur du Messager d’Allah ﷺ a proclamé que les marmites devaient être renversées.” »"
+"5013","Rapporté par al-Bara' رضي الله عنه : « Le jour de Khaybar"
+"5014","Al-Bara' رضي الله عنه a dit : « On nous a interdit de manger la chair des ânes domestiques. »"
+"5015","Rapporté par Bara' ibn 'Azib رضي الله عنه : « Le Messager d’Allah ﷺ nous a ordonné de jeter la chair des ânes domestiques"
+"5016","Ce hadith a été rapporté par 'Asim avec la même chaîne de transmetteurs"
+"5017","Rapporté par Ibn 'Abbas رضي الله عنه : Je ne sais pas si le Messager d’Allah ﷺ a interdit (la consommation de l’âne domestique) parce qu’ils étaient les bêtes de somme des gens"
+"5018","Rapporté par Salama b. Akwa' رضي الله عنه : Nous sommes partis à Khaybar avec le Messager d’Allah ﷺ. Puis Allah nous a accordé la victoire sur eux. Ce soir-là"
+"5019","Rapporté par Yazid b. Abu Ubaid : Ce hadith a été transmis par Yazid b. Abu Ubaid"
+"5020","Rapporté par Anas رضي الله عنه : Lorsque le Messager d’Allah ﷺ a conquis Khaybar"
+"5021","Rapporté par Anas b. Malik رضي الله عنه : Le jour de Khaybar"
+"5022","Rapporté par Jabir b. 'Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a interdit de manger la viande des ânes domestiques le jour de Khaybar"
+"5023","Rapporté par Jabir b. 'Abdullah رضي الله عنه : À l’époque de Khaybar"
+"5024","Rapporté par Ibn Juraij : Ce hadith a été transmis par Ibn Juraij"
+"5025","Rapporté par Asma' رضي الله عنها : Nous avons abattu un cheval et nous en avons mangé du vivant du Messager d’Allah ﷺ"
+"5026","Rapporté par Hisham : Ce hadith a été transmis par Hisham"
+"5027","Rapporté par Ibn 'Umar رضي الله عنه : On a demandé au Messager d’Allah ﷺ au sujet de la consommation de la viande de lézard. Il a répondu : « Je n’en mange pas"
+"5028","Rapporté par Ibn 'Umar رضي الله عنه : Une personne a interrogé le Messager d’Allah ﷺ à propos de la consommation du lézard. Il a répondu : « Je n’en mange pas"
+"5029","Rapporté par Ibn 'Umar رضي الله عنه alors qu’il était assis sur la chaire : Quelqu’un a demandé au Messager d’Allah ﷺ"
+"5030","Rapporté par 'Ubaidullah : Ce hadith a été rapporté par 'Ubaidullah avec la même chaîne de transmetteurs"
+"5031","Rapporté par Ibn 'Umar رضي الله عنه : Un hadith concernant la consommation du lézard a été transmis du Prophète ﷺ par Ibn 'Umar"
+"5032","Rapporté par Ibn 'Umar رضي الله عنه : Il y avait avec le Messager d’Allah ﷺ quelques compagnons"
+"5033","Rapporté par Taubat Al-'Anbari : Al-Sha'bi (l’un des narrateurs) m’a demandé si j’avais entendu le hadith transmis par Hasan du Prophète ﷺ. Il a dit : « Je suis resté en compagnie d’Ibn 'Umar pendant deux ans"
+"5034","Rapporté par Abdullah b. 'Abbas رضي الله عنه : Khalid b. Walid et moi sommes allés dans la maison de Maymouna avec le Messager d’Allah ﷺ"
+"5035","Rapporté par Abdullah b. 'Abbas رضي الله عنه : Khalid b. Walid"
+"5036","Rapporté par Khalid b. Walid رضي الله عنه : Il a rendu visite à Maymouna"
+"5037","Rapporté par Ibn 'Abbas رضي الله عنه : Alors que nous étions dans la maison de Maymouna"
+"5038","Rapporté par Ibn 'Abbas رضي الله عنه : On a apporté au Messager d’Allah ﷺ de la viande de lézard alors que Khalid b. Walid était aussi présent. Le reste du hadith est le même"
+"5039","Rapporté par Sa'id b. Jubair رضي الله عنه : Il a entendu Ibn 'Abbas dire : Ma tante maternelle Umm Hufaid a offert au Messager d’Allah ﷺ du beurre clarifié"
+"5040","Rapporté par Yazid b. al-Asamm : Un jeune marié de Médine nous a invités à un repas de noces"
+"5041","Rapporté par Abu Zubair : Il a entendu Jabir b. 'Abdullah dire qu’on a présenté au Messager d’Allah ﷺ de la viande de lézard"
+"5042","Rapporté par Abu Zubair : J’ai demandé à Jabir au sujet de la consommation du lézard. Il m’a répondu : « Ne mange pas cela"
+"5043","Rapporté par Abu Sa’id : Un homme a dit : « Ô Messager d’Allah"
+"5044","Rapporté par Abu Sa’id : Un Bédouin est venu voir le Messager d’Allah ﷺ et a dit : « Je vis dans une région basse où il y a beaucoup de lézards"
+"5045","Rapporté par Ibn Abu Awfa : Nous avons participé à sept expéditions avec le Messager d’Allah ﷺ et nous avons mangé des sauterelles"
+"5046","Rapporté par Abu Ya’fur"
+"5047","Rapporté par Abu Ya’fur"
+"5048","Rapporté par Anas ibn Malik : Nous avons poursuivi un lièvre à Marr az-Zahrin (une vallée près de La Mecque). Mes compagnons ont couru mais se sont fatigués ; j’ai aussi essayé jusqu’à ce que je l’attrape. Je l’ai apporté à Abu Talha. Il l’a égorgé et a envoyé sa cuisse et ses deux pattes arrière au Messager d’Allah ﷺ par mon intermédiaire"
+"5049","Rapporté par Yahya"
+"5050","Rapporté par Ibn Buraida : Abdullah ibn al-Mughaffal a vu l’un de ses compagnons lancer de petits cailloux et lui a dit : « Ne lance pas de cailloux"
+"5051","Rapporté par Kahmas : Ce hadith a été transmis par Kahmas"
+"5052","Rapporté par Abdullah ibn Mughaffal : Le Messager d’Allah ﷺ a interdit de lancer des cailloux. Ibn Ja’far rapporte dans sa version que le Prophète ﷺ a dit : « Cela ne permet ni de vaincre un ennemi"
+"5053","Rapporté par Sa’id ibn Jubair : Un proche de Abdullah ibn Mughaffal a lancé des cailloux. Il l’a interdit de le faire et a dit que le Messager d’Allah ﷺ avait interdit de lancer des cailloux en disant : « Cela ne permet pas d’attraper un gibier"
+"5054","Rapporté par Ayyub"
+"5055","Rapporté par Shaddid ibn Aus : Je me souviens de deux choses que le Messager d’Allah ﷺ a dites : « En vérité"
+"5056","Rapporté par Khalid al-Hadhdha’ à travers différentes chaînes de rapporteurs : Ce hadith a été transmis par Khalid al-Hadhdha’ à travers différentes chaînes"
+"5057","Rapporté par Hishim ibn Zaid ibn Anas ibn Malik : Je suis allé chez al-Hakam ibn Ayyub avec mon grand-père Anas ibn Malik"
+"5058","Rapporté par Shu’ba à travers d’autres chaînes de rapporteurs : Ce hadith a été transmis par Shu’ba à travers d’autres chaînes"
+"5059","Rapporté par Ibn Abbas : Le Messager d’Allah ﷺ a dit : « Ne prenez rien de vivant comme cible. »"
+"5060","Rapporté par Shu’ba à travers une chaîne différente de rapporteurs : Ce hadith a été transmis par Shu’ba à travers une chaîne différente"
+"5061","Rapporté par Sa’id ibn Jubair : Ibn Umar est passé près d’un groupe d’hommes qui avaient attaché une poule et lui tiraient dessus à l’arc. Dès qu’ils ont vu Ibn Umar"
+"5062","Rapporté par Sa’id ibn Jubair : Ibn Umar est passé près de jeunes Qurayshites qui avaient attaché un oiseau pour en faire une cible et lui tiraient dessus à l’arc. Chaque flèche manquée revenait au propriétaire de l’oiseau. Dès qu’ils ont vu Ibn Umar"
+"5063","Rapporté par Jabir ibn Abdullah : Le Messager d’Allah ﷺ a interdit de tuer un animal après l’avoir attaché"
+"5064","Rapporté par Jundab ibn Sufyan : J’étais avec le Messager d’Allah ﷺ le jour de l’Aïd al-Adha. Avant qu’il ne revienne après avoir accompli la prière"
+"5065","Rapporté par Jundab ibn Sufyan : J’étais avec le Messager d’Allah ﷺ lors de l’Aïd al-Adha. Après avoir terminé la prière avec les gens"
+"5066","Rapporté par al-Aswad ibn Qais"
+"5067","Rapporté par Jundab al-Bajali : J’ai vu le Messager d’Allah ﷺ accomplir la prière de l’Aïd le jour du sacrifice (le 10 de Dhou al-Hijja)"
+"5068","Rapporté par Shu'ba : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5069","Rapporté par Al-Bara’ : Mon oncle maternel"
+"5070","Rapporté par Al-Bara’ ibn Azib : Son oncle maternel"
+"5071","Rapporté par Al-Bara’ ibn Azib : Le Messager d’Allah ﷺ a prononcé un discours le jour du sacrifice et a dit : « Aucun de vous ne doit sacrifier d’animal avant d’avoir terminé la prière de l’Aïd. » Mon oncle maternel a dit : « Ô Messager d’Allah"
+"5072","Rapporté par Al-Bara’ : Le Messager d’Allah ﷺ a dit : « Celui qui prie comme nous"
+"5073","Rapporté par Al-Bara’ ibn Azib : Le Messager d’Allah ﷺ a dit : « La première chose que nous faisons le jour de l’Aïd al-Adha est de prier"
+"5074","Rapporté par Al-Bara’ ibn Azib : Un hadith semblable a été rapporté par une autre chaîne de transmetteurs"
+"5075","Rapporté par Al-Bara’ ibn Azib : Le Messager d’Allah ﷺ nous a adressé un discours le jour du sacrifice après la prière de l’Aïd. Le reste du hadith est identique"
+"5076","Rapporté par Al-Bara’ ibn Azib : Le Messager d’Allah ﷺ nous a parlé le jour du sacrifice et a dit : « Personne ne doit sacrifier d’animal avant d’avoir terminé la prière de l’Aïd. » Quelqu’un a dit : « J’ai une chèvre laitière de moins d’un an"
+"5077","Rapporté par Al-Bara’ ibn Azib : Abu Burda a sacrifié son animal avant la prière de l’Aïd. Le Messager d’Allah ﷺ a dit : « Offre un autre animal à la place"
+"5078","Rapporté par Shu'ba : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"5079","Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ a dit le jour du sacrifice : « Celui qui a sacrifié son animal avant la prière doit recommencer. » Un homme s’est levé et a dit : « Ô Messager d’Allah"
+"5080","Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ a accompli la prière de l’Aïd puis a prononcé un sermon en ordonnant : « Celui qui a sacrifié l’animal avant la prière doit en sacrifier un autre. » Le reste du hadith est identique"
+"5081","Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ nous a parlé le jour de l’Aïd al-Adha. Il a senti l’odeur de la viande et a interdit de sacrifier les animaux avant la prière de l’Aïd"
+"5082","Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « N’offrez en sacrifice qu’un animal adulte"
+"5083","Rapporté par Jabir ibn Abdullah : Le Messager d’Allah ﷺ a dirigé la prière de l’Aïd avec nous à Médine le jour du sacrifice. Certains ont sacrifié leurs animaux avant lui"
+"5084","Rapporté par Uqba ibn Amir : Le Messager d’Allah ﷺ a distribué des chèvres à ses compagnons pour qu’ils les sacrifient. Ils les ont sacrifiées"
+"5085","Rapporté par Amir al-Juhani : Le Messager d’Allah ﷺ nous a distribué des animaux à sacrifier pour l’Aïd al-Adha. J’ai reçu un agneau de moins d’un an. J’ai dit : « Ô Messager d’Allah"
+"5086","Rapporté par Uqba ibn Amir al-Juhani : Ce hadith a été transmis avec une légère différence de formulation"
+"5087","Rapporté par Anas : Le Messager d’Allah ﷺ a sacrifié de ses propres mains deux béliers cornus"
+"5088","Rapporté par Anas : Le Messager d’Allah ﷺ a sacrifié deux béliers cornus de couleur blanche avec des marques noires. Il a dit aussi : « Je l’ai vu les sacrifier de ses propres mains"
+"5089","Rapporté par Shu'ba : Qatada m’a informé qu’il avait entendu Anas dire que le Messager d’Allah (que la paix soit sur lui) avait sacrifié des béliers cornus et ainsi de suite. J’ai demandé : « As-tu entendu cela d’Anas ? » Il a répondu : « Oui. »"
+"5090","Rapporté par Anas : Ce hadith a été transmis par Anas avec une légère variation de formulation"
+"5091","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a ordonné qu’on lui apporte un bélier aux pattes noires"
+"5092","Rapporté par Rafi' b. Khadij : Nous avons dit au Messager d’Allah ﷺ : « Nous allons affronter l’ennemi demain"
+"5093","Rapporté par Rafi' b. Khadij : Alors que nous étions avec le Messager d’Allah ﷺ à Dhu’l-Hulaifa"
+"5094","Rapporté par Rafi' b. Khadij"
+"5095","Rapporté par Sa'id b. Masruq : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5096","Rapporté par Rafi' b. Khadij : Nous avons dit au Messager d’Allah ﷺ : « Nous allons affronter l’ennemi demain et nous n’avons pas de grands couteaux. » Le reste du hadith est le même"
+"5097","Rapporté par Abu Ubaid : J’étais avec Ali b. Abi Talib le jour de l’Aïd. Il a commencé par la prière de l’Aïd avant de faire le sermon"
+"5098","Rapporté par Abu 'Ubaid"
+"5099","Rapporté par Zuhri : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5100","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Aucun de vous ne doit manger la viande de son animal sacrifié plus de trois jours. »"
+"5101","Rapporté par Ibn 'Umar : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5102","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a interdit de manger la viande des animaux sacrifiés plus de trois jours. Salim (le fils d’Ibn 'Umar) a dit : « Ibn 'Umar ne mangeait pas la viande des animaux sacrifiés plus de trois jours. » Ibn Abu 'Umar a dit : « Plus de trois jours. »"
+"5103","Rapporté par Abdullah b. Waqid : Le Messager d’Allah ﷺ a interdit de manger la viande des animaux sacrifiés plus de trois jours. Abdullah b. Abu Bakr a dit : « J’en ai parlé à 'Amra"
+"5104","Rapporté par Jabir : Le Messager d’Allah ﷺ a interdit de manger la viande des animaux sacrifiés plus de trois jours"
+"5105","Rapporté par Jabir b. Abdullah : Nous ne mangions pas la viande de nos animaux sacrifiés plus de trois jours à Mina. Puis le Messager d’Allah ﷺ nous a permis en disant : « Mangez et gardez-en comme provision pour le voyage. » J’ai demandé à 'Ata’ si Jabir avait aussi dit : « Jusqu’à ce que nous arrivions à Médine. » Il a répondu : « Oui. »"
+"5106","Rapporté par Jabir b. 'Abdullah : Nous ne mangions pas la viande des animaux sacrifiés plus de trois jours"
+"5107","Rapporté par Jabir : Nous avons fait provision de la viande des animaux sacrifiés pour notre voyage vers Médine du vivant du Messager d’Allah ﷺ"
+"5108","Rapporté par Abu Sa'id al-Khudri : Le Messager d’Allah ﷺ a dit : « Ô gens de Médine"
+"5109","Rapporté par Salama b. al-Akwa' : Le Messager d’Allah ﷺ a dit : « Celui d’entre vous qui sacrifie un animal"
+"5110","Rapporté par Thauban : Le Messager d’Allah ﷺ a sacrifié son animal"
+"5111","Rapporté par Mu'awiya b. Salih : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5114","Rapporté par ‘Abdullah b. Buraida"
+"5115","Rapporté par Ibn Buraida"
+"5116","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le sacrifice de Fara’ et 'Atira n’a pas de fondement en Islam. » Ibn Rafi' a ajouté dans son récit que Fara’ désigne le premier-né d’un chameau"
+"5117","Rapporté par Abdullah b. Buraida"
+"5118","Rapporté par Ibn Buraida"
+"5119","Rapporté par Umm Salama : Le Messager d’Allah ﷺ a dit : « Quand l’un d’entre vous veut sacrifier un animal et que le mois de Dhou’l-Hijja commence"
+"5120","Rapporté par Umm Salama : Le Messager d’Allah ﷺ a dit : « Si l’un d’entre vous a l’intention d’offrir un sacrifice"
+"5121","Rapporté par Umm Salama رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Si quelqu’un possède un animal destiné au sacrifice pour l’Aïd al-Adha"
+"5122","Rapporté par ‘Amr b. Muslim b. ‘Ammar al-Laithi : Alors que nous étions dans un bain public juste avant l’Aïd al-Adha"
+"5123","Rapporté par ‘Amr b. Muslim al-Jundani : Ibn Musayyib lui a dit qu’Umm Salama"
+"5124","Rapporté par Abu Tufail ‘Amir b. Withila : J’étais en compagnie de ‘Ali b. Abi Talib lorsqu’une personne est venue lui demander : « Qu’est-ce que le Messager d’Allah ﷺ t’a dit en secret ? » ‘Ali s’est alors mis en colère et a répondu : « Le Messager d’Allah ﷺ ne m’a rien dit en secret qu’il aurait caché aux gens"
+"5125","Rapporté par Abu Tufail : Nous avons dit à ‘Ali b. Abi Talib : « Informe-nous de quelque chose que le Messager d’Allah ﷺ t’aurait confié en secret. » Il a répondu : « Il ne m’a rien dit en secret qu’il aurait caché aux gens"
+"5126","Rapporté par Abu Tufail : On a demandé à ‘Ali si le Messager d’Allah ﷺ lui avait accordé une faveur spéciale en lui révélant un secret caché aux autres. Il a répondu : « Le Messager d’Allah ﷺ ne nous a rien confié de secret qu’il n’ait pas rendu public"
+"5127","Rapporté par ‘Ali b. Abi Talib رضي الله عنه : J’ai reçu"
+"5128","Rapporté par Juraij avec la même chaîne de transmission : Ce hadith a été rapporté de la même manière"
+"5129","Rapporté par Husain b. ‘Ali : ‘Ali a dit : J’ai reçu une chamelle parmi le butin le jour de Badr"
+"5130","Rapporté par une autre chaîne de transmetteurs : Le hadith ci-dessus a été rapporté de la même façon"
+"5131","Rapporté par Anas b. Malik : J’étais le servant de certaines personnes dans la maison d’Abu Talha le jour où l’alcool a été interdit. Leur boisson était faite de dattes sèches ou fraîches"
+"5132","Rapporté par ‘Abd al-Aziz b. Suhaib : Des personnes ont interrogé Anas b. Malik au sujet du Fadikh (une boisson alcoolisée à base de dattes fraîches). Il a répondu : « Nous n’avions pas d’autre alcool que ce Fadikh. C’est ce Fadikh que je servais à Abu Talha"
+"5133","Rapporté par Anas b. Malik : Je me tenais parmi les oncles de ma tribu et je leur servais du Fadikh alors que j’étais le plus jeune d’entre eux"
+"5134","Rapporté par Anas : Je me tenais parmi les membres de ma tribu et je leur servais de l’alcool. Le reste du hadith est le même"
+"5135","Rapporté par Anas b. Malik : Je servais du vin à Abu Talha"
+"5136","Rapporté par Anas b. Malik : Je servais du vin à Abu Talha"
+"5137","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a interdit de mélanger des dattes fraîches et non mûres pour en faire une boisson"
+"5138","Rapporté par Anas b. Malik : Je servais à boire à Abu ‘Ubaida b. Jarrah"
+"5139","Rapporté par Anas b. Malik : Allah a révélé le verset dans lequel Il interdit l’alcool. À cette époque"
+"5140","Rapporté par Anas : Le Messager d’Allah ﷺ a été interrogé sur l’utilisation du khamr à partir duquel on prépare du vinaigre. Il a répondu : « Non (c’est interdit). »"
+"5141","Rapporté par Wa’il al-Hadrami : Tariq b. Suwaid al-Ju’fi a interrogé le Messager d’Allah ﷺ au sujet de l’alcool. Il l’a interdit et a exprimé son aversion pour sa préparation. Tariq a dit : « Je le prépare comme remède. » Il a répondu : « Ce n’est pas un remède"
+"5142","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le vin est préparé à partir des fruits de ces deux arbres : le palmier-dattier et la vigne. »"
+"5143","Rapporté par une autre chaîne de transmetteurs d’Abu Huraira : Ce hadith a été rapporté par une chaîne différente"
+"5144","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Le vin provient de la vigne et du palmier-dattier. » Abu Kuraib l’a rapporté avec une légère variation de mots"
+"5145","Rapporté par Jabir b. ‘Abdullah al-Ansari : Le Messager d’Allah (que la paix soit sur lui) a interdit de mélanger des raisins et des dattes fraîches"
+"5146","Rapporté par Jabir b. 'Abdullah al-Ansari : Le Messager d’Allah ﷺ a interdit de préparer le Nabidh en mélangeant des dattes fraîches et des raisins"
+"5147","Rapporté par Jabir b. Abdullah : Le Messager d’Allah ﷺ a dit : « Ne mélangez pas des dattes fraîches avec des dattes sèches"
+"5148","Rapporté par Jabir b. Abdullah al-Ansari : Le Messager d’Allah ﷺ a interdit de préparer le Nabidh en mélangeant des raisins et des dattes fraîches. Il a aussi interdit de préparer le Nabidh en mélangeant des dattes pas mûres avec des dattes fraîches"
+"5149","Rapporté par Abu Sa'id : Le Messager d’Allah ﷺ a interdit de mélanger des dattes fraîches avec des raisins"
+"5150","Rapporté par Abu Sa'id : Le Messager d’Allah ﷺ nous a interdit de mélanger des raisins avec des dattes sèches"
+"5151","Rapporté par Abi Maslama : Ce hadith est rapporté avec la même chaîne de transmetteurs"
+"5152","Rapporté par Abu Sa'id al-Khudri : Le Messager d’Allah ﷺ a dit : « Celui parmi vous qui boit du Nabidh doit le faire à partir de raisins seuls"
+"5153","Rapporté par Isma'il b. Muslim al-'Abadi selon la même chaîne de transmetteurs : Le Messager d’Allah ﷺ nous a interdit de mélanger des dattes sèches avec des dattes pas mûres"
+"5154","Rapporté par Abu Qatada"
+"5155","Rapporté par Yahya b. Abu Kathir : Ce hadith est rapporté avec la même chaîne de transmetteurs"
+"5156","Rapporté par Abu Qatada : Le Messager d’Allah ﷺ a dit : « Ne préparez pas le Nabidh en mélangeant des dattes presque mûres avec des dattes fraîches"
+"5157","Rapporté par Yahya b. Abu Kathir : Ce hadith est rapporté par ces deux chaînes de transmetteurs"
+"5158","Rapporté par 'Abdullah b. Abu Qatada"
+"5159","Rapporté par Abu Qatada : Ce hadith est rapporté par une autre chaîne de transmetteurs"
+"5160","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a interdit de préparer le Nabidh en mélangeant des raisins et des dattes"
+"5161","Rapporté par Abu Huraira : Ce hadith est rapporté par une autre chaîne de transmetteurs"
+"5162","Rapporté par Ibn 'Abbas : Le Messager d’Allah ﷺ a interdit de mélanger des dattes et des raisins"
+"5163","Rapporté par une autre chaîne de transmetteurs : Ce hadith est rapporté avec une légère différence dans les mots"
+"5164","Rapporté par Ibn Umar : Il lui a été interdit de préparer le Nabidh en mélangeant des dattes pas mûres avec des dattes fraîches"
+"5165","Rapporté par Ibn 'Umar : Il leur a été interdit de préparer le Nabidh en mélangeant des dattes sèches avec des dattes fraîches"
+"5166","Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a interdit de préparer le Nabidh dans une courge ou dans un récipient verni"
+"5167","Rapporté par une autre chaîne de transmetteurs : Ce hadith est rapporté avec une légère différence dans les mots"
+"5168","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Ne préparez pas le Nabidh dans une courge"
+"5169","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a interdit de préparer le Nabidh dans un récipient verni"
+"5170","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit au groupe de Abd al-Qais : « Je vous interdis (de préparer le Nabidh) dans une courge"
+"5171","Rapporté par Ali رضي الله عنه : Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans des calebasses et des jarres vernies. Ce hadith a été rapporté par une autre chaîne de transmetteurs avec une légère différence dans les mots"
+"5172","Rapporté par Ibrahim : J’ai demandé à Aswad s’il avait interrogé la Mère des croyants sur les récipients dans lesquels le Prophète ﷺ n’aimait pas que l’on prépare le nabidh. Aswad a répondu : Oui. J’ai demandé : Mère des croyants"
+"5173","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans des calebasses et des jarres vernies"
+"5174","Ce hadith a été rapporté de la même façon par une autre chaîne de transmetteurs"
+"5175","Rapporté par Thumama b. Hazn Al-Qushairi : J’ai rencontré Aïcha رضي الله عنها et je lui ai demandé dans quels récipients on pouvait préparer le nabidh. Elle m’a raconté qu’un groupe de la tribu ‘Abd al-Qais est venu voir le Messager d’Allah ﷺ et l’a interrogé au sujet du nabidh. Le Prophète ﷺ leur a interdit de préparer le nabidh dans des jarres vernies"
+"5176","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans des jarres vernies"
+"5177","Rapporté par Ishaq b. Suwaid : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"5178","Rapporté par Ibn Abbas رضي الله عنهما : Un groupe de la tribu ‘Abd al-Qais est venu voir le Messager d’Allah ﷺ. Le Prophète ﷺ leur a dit : « Je vous interdis de préparer le nabidh dans des calebasses"
+"5179","Rapporté par Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans des calebasses"
+"5180","Rapporté par Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans des calebasses"
+"5181","Rapporté par Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans des calebasses"
+"5182","Rapporté par Abu Saïd رضي الله عنه : Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans une cruche verte (enduite de poix)"
+"5183","Rapporté par Abu Saïd Al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans des calebasses"
+"5184","Rapporté par Qatada : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5185","Rapporté par Abu Saïd رضي الله عنه : Le Messager d’Allah ﷺ a interdit de boire dans des cruches vertes"
+"5186","Rapporté par Saïd b. Jubair : J’atteste qu’Ibn ‘Umar et Ibn Abbas رضي الله عنهما ont témoigné que le Messager d’Allah ﷺ a interdit de préparer le nabidh dans des calebasses"
+"5187","Rapporté par Saïd b. Jubair : J’ai demandé à Ibn ‘Umar رضي الله عنه au sujet de la préparation du nabidh dans une cruche verte (enduite de poix). Il a répondu que le Messager d’Allah ﷺ avait interdit de préparer le nabidh dans une cruche verte (enduite de poix). Je suis alors allé voir Ibn Abbas رضي الله عنه et je lui ai dit : As-tu entendu ce qu’a dit Ibn ‘Umar ? Il a répondu : Qu’a-t-il dit ? J’ai dit : Il a affirmé que le Messager d’Allah ﷺ a interdit de préparer le nabidh dans une cruche verte (enduite de poix). Il a répondu : Ibn ‘Umar a dit la vérité. Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans une cruche verte (enduite de poix). J’ai demandé : Qu’est-ce que le nabidh d’une cruche ? Il a répondu : Tout ce qui est préparé dans une cruche en terre"
+"5188","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a parlé aux gens lors d’une de ses expéditions. Ibn ‘Umar a dit : Je me suis avancé vers lui"
+"5189","Rapporté par Ibn ‘Umar رضي الله عنه : Ce hadith a été rapporté par différentes chaînes de transmetteurs"
+"5190","Rapporté par Thabit : J’ai dit à Ibn ‘Umar رضي الله عنه que le Messager d’Allah ﷺ avait interdit de préparer le nabidh dans une cruche verte (enduite de poix). Il a répondu : C’est ce qu’ils ont dit. J’ai demandé : Le Messager d’Allah ﷺ a-t-il interdit cela ? Il a répondu : Ils l’ont dit"
+"5191","Rapporté par un homme : Un homme a demandé à Ibn ‘Umar رضي الله عنه si le Messager d’Allah ﷺ avait interdit de préparer le nabidh dans une cruche verte (enduite de poix). Il a répondu : Oui. Puis Tawus a dit : Par Allah"
+"5192","Rapporté par Ibn ‘Umar رضي الله عنه : Un homme est venu le voir et a demandé : Est-ce que le Messager d’Allah ﷺ a interdit de préparer le nabidh dans une cruche verte (enduite de poix) et dans une jarre vernie ? Il a répondu : Oui"
+"5193","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans une cruche verte (enduite de poix) et dans une jarre vernie"
+"5194","Rapporté par Ibrahim b. Maisarah : Il a entendu Tawus dire : J’étais assis avec Ibn ‘Umar رضي الله عنه quand un homme est venu lui demander : Est-ce que le Messager d’Allah ﷺ a interdit de préparer le nabidh dans une cruche verte (enduite de poix)"
+"5195","Rapporté par Muharib b. Dithar : J’ai entendu Ibn ‘Umar رضي الله عنه dire : Le Messager d’Allah ﷺ a interdit de préparer le nabidh dans un récipient enduit de poix"
+"5196","Rapporté par Muharib b. Dithar : Un hadith similaire a été rapporté de la part d’Ibn ‘Umar par une autre chaîne de transmetteurs. Le narrateur a dit : « Je pense qu’il a aussi mentionné le tronc creux. »"
+"5197","Rapporté par ‘Uqba b. Huraith : J’ai entendu Ibn ‘Umar dire : « Le Messager d’Allah ﷺ a interdit (la préparation du Nabidh) dans une cruche verte enduite de poix"
+"5198","Rapporté par Jabalah : J’ai entendu Ibn ‘Umar raconter que le Messager d’Allah ﷺ avait interdit (la préparation du Nabidh) dans une cruche enduite de poix. Je lui ai demandé : « Qu’est-ce que le Huntama ? » Il a répondu : « C’est une cruche (enduite de poix). »"
+"5199","Rapporté par Zadhan : J’ai dit à Ibn ‘Umar : « Dis-le-moi dans ta langue"
+"5200","Rapporté par Shu‘ba : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5201","Rapporté par Sa‘id b. Musayyib : J’ai entendu ‘Abdullah b. ‘Umar dire cela près de la chaire tout en la montrant du doigt"
+"5202","Rapporté par Jabir et Ibn ‘Umar : Le Messager d’Allah ﷺ a interdit (la préparation) du Nabidh dans le tronc creux"
+"5203","Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ a interdit (la préparation du Nabidh) dans une cruche verte enduite de poix"
+"5205","Rapporté par Jabir b. Abdullah : On préparait du Nabidh pour lui dans un grand récipient en pierre"
+"5206","Rapporté par Jabir : On préparait du Nabidh pour le Messager d’Allah ﷺ dans une outre en peau"
+"5209","Rapporté par Ibn Buraida"
+"5210","Rapporté par ‘Abdullah b. ‘Amr : Lorsque le Messager d’Allah ﷺ a interdit (la préparation) du Nabidh dans certains récipients"
+"5211","Rapporté par ‘A’isha : On a interrogé le Messager d’Allah ﷺ au sujet du Bit’i"
+"5212","Rapporté par ‘A’isha : Le Messager d’Allah ﷺ a été interrogé à ce sujet"
+"5213","Rapporté par Zuhri : Ce hadith a été rapporté avec cette chaîne de transmetteurs"
+"5215","Rapporté par Abu Burda"
+"5216","Rapporté par Abu Burda"
+"5217","Rapporté par Jabir رضي الله عنه : Un homme est venu de Jaïshan"
+"5218","Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ a dit : « Tout ce qui enivre est du khamr"
+"5219","Rapporté par Ibn ‘Umar"
+"5220","Rapporté par Musa b. Uqba : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5221","Rapporté par Nafi‘ : J’ai entendu cela uniquement du Messager d’Allah ﷺ qui a dit : « Tout ce qui enivre est du khamr"
+"5222","Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ a dit : « Celui qui boit (du vin) dans ce monde en sera privé dans l’au-delà. »"
+"5223","Rapporté par Ibn 'Umar رضي الله عنه : Celui qui a bu du vin dans ce monde sans se repentir en sera privé (de la boisson pure) dans l’au-delà. On demanda à Malik : « Ce hadith est-il Marfu’ ? » Il répondit : « Oui. »"
+"5224","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui boit du vin dans ce monde ne recevra pas la boisson pure dans l’au-delà"
+"5225","Rapporté par Ibn 'Umar رضي الله عنه : Il a rapporté ce hadith du Messager d’Allah ﷺ par une autre chaîne de transmetteurs"
+"5226","Rapporté par Ibn 'Abbas رضي الله عنه : On préparait du nabidh pour le Messager d’Allah ﷺ en début de nuit"
+"5227","Rapporté par Ibn 'Abbas رضي الله عنه : On préparait du nabidh pour le Messager d’Allah ﷺ dans une outre. Shu’ba a précisé : c’était la nuit du lundi. Il en buvait le lundi et le mardi jusqu’à l’après-midi. S’il en restait"
+"5228","Rapporté par Ibn 'Abbas رضي الله عنه : On faisait tremper des raisins dans l’eau pour le Messager d’Allah ﷺ"
+"5229","Rapporté par Ibn 'Abbas رضي الله عنه : On préparait du nabidh à base de raisins pour le Messager d’Allah ﷺ dans une outre. Il en buvait ce jour-là"
+"5230","Rapporté par Yahya Abu 'Umar al-Nakhai : Des gens ont interrogé Ibn 'Abbas رضي الله عنه sur la vente et le commerce du vin. Il leur demanda : « Êtes-vous musulmans ? » Ils répondirent : « Oui. » Il dit alors : « Sa vente"
+"5231","Rapporté par Thumama (Ibn Hazn al-Qushairi) : J’ai rencontré Aïsha رضي الله عنها et je lui ai demandé au sujet du nabidh servi au Prophète ﷺ. Aïsha appela une servante abyssinienne et lui dit : « Demande-lui"
+"5232","Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Nous préparions du nabidh pour le Messager d’Allah ﷺ dans une outre dont le haut était fermé et qui avait un trou en bas. Nous préparions le nabidh le matin"
+"5233","Rapporté par Sahl ibn Sa’d رضي الله عنه : Abu Usaid al-Sa’idi invita le Messager d’Allah ﷺ à son festin de mariage"
+"5234","Rapporté par Sahl رضي الله عنه : Abu Usaid al-Sa’idi est venu voir le Messager d’Allah ﷺ ; le reste du hadith est identique"
+"5235","Rapporté par Sahl ibn Sa’d رضي الله عنه : (Il a rapporté ce hadith par une autre chaîne) et a dit : « Dans un grand bol en pierre"
+"5236","Rapporté par Sahl ibn Sa’d رضي الله عنه : On parla d’une femme arabe devant le Messager d’Allah ﷺ. Il ordonna à Abu Usaid de lui transmettre un message"
+"5237","Rapporté par Anas رضي الله عنه : J’ai servi à boire au Messager d’Allah ﷺ dans cette coupe : du miel"
+"5238","Rapporté par Abu Bakr Siddiq رضي الله عنه : Alors que nous voyagions avec le Messager d’Allah ﷺ de La Mecque à Médine"
+"5239","Rapporté par Al-Bara’ رضي الله عنه : Lorsque le Messager d’Allah ﷺ quitta La Mecque pour Médine"
+"5240","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ reçut deux coupes à Bayt al-Maqdis lors du Voyage Nocturne : l’une contenait du vin"
+"5241","Rapporté par Abu Huraira رضي الله عنه : Ce hadith est rapporté par une autre chaîne"
+"5242","Rapporté par Abu Humaid Sa’idi رضي الله عنه : Je suis venu voir le Messager d’Allah ﷺ avec une coupe de lait provenant de Naqi’"
+"5243","Rapporté par Abu Humaid Sa’idi رضي الله عنه : Il a rapporté par une autre chaîne qu’il avait apporté une coupe de lait au Messager d’Allah ﷺ"
+"5244","Rapporté par Jabir ibn ‘Abdullah رضي الله عنه : Nous étions avec le Messager d’Allah ﷺ et il demanda de l’eau. Quelqu’un dit : « Ô Messager d’Allah"
+"5245","Rapporté par Jabir رضي الله عنه : Un homme connu sous le nom d’Abu Humaid apporta au Prophète ﷺ une coupe de lait d’al-Naqi’. Le Messager d’Allah ﷺ lui dit : « Pourquoi ne l’as-tu pas couverte"
+"5246","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Couvrez les récipients"
+"5247","Rapporté par Jabir رضي الله عنه : Ce hadith est rapporté avec une légère différence de formulation"
+"5248","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Fermez les portes. » Le reste du hadith est similaire"
+"5249","Rapporté par Jabir رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5250","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand la nuit tombe ou qu’il fait nuit"
+"5251","Rapporté par Jabir ibn Abdullah رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5252","Rapporté par Ibn Juraij رضي الله عنه : Ce hadith a été transmis par Ibn Juraij"
+"5253","Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne laissez pas sortir vos animaux et vos enfants au moment du coucher du soleil jusqu’à ce que la première et la partie la plus sombre de la nuit soient passées"
+"5254","Rapporté par Jabir ibn Abdullah رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5255","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Couvrez les récipients et attachez les outres à eau"
+"5256","Rapporté par Laith ibn Sa’d رضي الله عنه : Ce hadith est rapporté par Laith ibn Sa’d avec la même chaîne de transmetteurs"
+"5257","Rapporté par Salim"
+"5258","Rapporté par Abu Musa رضي الله عنه : Une maison a brûlé à Médine pendant la nuit avec ses habitants à l’intérieur. Quand on a informé le Messager d’Allah ﷺ de ce qui s’était passé"
+"5259","Rapporté par Hudhayfa رضي الله عنه : Quand nous étions invités à un repas avec le Messager d’Allah ﷺ"
+"5260","Rapporté par Hudhayfa ibn al-Yaman رضي الله عنه : Quand nous étions invités à un repas avec le Messager d’Allah ﷺ"
+"5261","Rapporté par A’mash رضي الله عنه : Ce hadith est rapporté avec la même chaîne de transmetteurs"
+"5262","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand une personne entre chez elle et mentionne le nom d’Allah en entrant et en mangeant"
+"5263","Rapporté par Jabir ibn Abdullah رضي الله عنه : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"5264","Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne mangez pas avec la main gauche"
+"5265","Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand l’un de vous veut manger"
+"5266","Rapporté par Zuhri"
+"5267","Rapporté par Salim"
+"5268","Rapporté par Salama ibn Akwa’"
+"5269","Rapporté par ‘Umar ibn Abu Salama رضي الله عنه : J’étais sous la garde du Messager d’Allah ﷺ"
+"5270","Rapporté par ‘Umar ibn Abu Salama رضي الله عنه : Un jour"
+"5271","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a interdit de retourner les outres à eau à l’envers et de boire directement à leur embouchure"
+"5272","Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a interdit de retourner les outres à eau à l’envers et de boire directement à leur embouchure"
+"5273","Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"5274","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a désapprouvé le fait de boire de l’eau en étant debout"
+"5275","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a interdit de boire en étant debout. Qatada a rapporté : Nous lui avons demandé : « Et pour manger ? » Anas a répondu : « C’est encore pire et plus répréhensible. »"
+"5276","Rapporté par Anas رضي الله عنه : Ce hadith est rapporté d’Anas avec une autre chaîne de transmetteurs"
+"5277","Rapporté par Abu Sa’id Khudri رضي الله عنه : Le Messager d’Allah ﷺ a mis en garde contre le fait de boire en étant debout"
+"5278","Rapporté par Abu Sa’id Khudri رضي الله عنه : Abu Sa’id Khudri a rapporté ce hadith par une autre chaîne de transmetteurs"
+"5279","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun d’entre vous ne doit boire en étant debout ; et si quelqu’un oublie"
+"5280","Rapporté par Ibn Abbas رضي الله عنه : J’ai servi de l’eau de Zamzam au Messager d’Allah ﷺ"
+"5281","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a bu de l’eau de Zamzam dans un seau alors qu’il était debout"
+"5282","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a bu de l’eau de Zamzam alors qu’il était debout"
+"5283","Rapporté par Ibn Abbas رضي الله عنه : J’ai servi de l’eau de Zamzam au Messager d’Allah ﷺ"
+"5284","Rapporté par Shu’ba : Ce hadith est rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"5285","Rapporté par Abu Qatada رضي الله عنه d’après son père : Le Messager d’Allah ﷺ a interdit de souffler dans un récipient"
+"5286","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de respirer trois fois pendant qu’il buvait (c’est-à-dire qu’il buvait en trois gorgées)"
+"5287","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ respirait trois fois (en dehors du récipient) pendant qu’il buvait et il a dit : « C’est plus désaltérant"
+"5288","Rapporté par Anas رضي الله عنه : Ce hadith est rapporté d’Anas avec une légère différence dans les mots"
+"5289","Rapporté par Anas ibn Malik رضي الله عنه : On a apporté au Messager d’Allah ﷺ une coupe de lait mélangé à de l’eau. À sa droite se trouvait un bédouin et à sa gauche"
+"5290","Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ est venu à Médine quand j’avais dix ans"
+"5291","Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ est venu chez nous et a demandé à boire. Nous avons trait une chèvre pour lui"
+"5292","Rapporté par Sahl ibn Sa’d Sa’idi رضي الله عنه : Le Messager d’Allah ﷺ a reçu une boisson"
+"5293","Rapporté par Sahl ibn Sa’d رضي الله عنه : Ce hadith est rapporté par Sahl ibn Sa’d avec une légère différence dans les mots"
+"5294","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous mange"
+"5295","Rapporté par Ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque l’un de vous mange"
+"5296","Rapporté par Ibn Ka’b ibn Malik رضي الله عنه d’après son père : Il a vu le Messager d’Allah ﷺ lécher ses trois doigts après avoir mangé. Ibn Hatim n’a pas mentionné « trois ». Ce hadith est aussi rapporté par une autre chaîne de transmetteurs"
+"5297","Rapporté par Ibn Ka’b ibn Malik رضي الله عنه d’après son père : Le Messager d’Allah ﷺ mangeait avec trois doigts et il léchait sa main avant de l’essuyer (avec une serviette)"
+"5298","Rapporté par Abdullah ibn Ka'b : Son père Ka'b lui a raconté que le Messager d’Allah ﷺ mangeait avec trois doigts"
+"5299","Rapporté par Ka'b ibn Malik : Un hadith similaire a été rapporté par une autre chaîne de transmetteurs"
+"5300","Rapporté par Jabir : Le Messager d’Allah ﷺ a ordonné de lécher les doigts et le plat"
+"5301","Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « Quand l’un d’entre vous fait tomber une bouchée"
+"5302","Rapporté par Sufyan : Ce hadith a été transmis par la même chaîne de transmetteurs"
+"5303","Rapporté par Jabir : J’ai entendu le Messager d’Allah ﷺ dire : « Le diable est présent auprès de chacun de vous dans tout ce qu’il fait"
+"5304","Rapporté par A'mash : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"5305","Rapporté par Jabir : Le Messager d’Allah ﷺ a parlé du fait de lécher les doigts et de ramasser la bouchée tombée"
+"5306","Rapporté par Anas : Quand le Messager d’Allah ﷺ mangeait"
+"5307","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand l’un d’entre vous mange"
+"5308","Rapporté par Hammad : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"5309","Rapporté par Abu Mas'ud Ansari : Un homme des Ansar"
+"5310","Rapporté par Abu Mas'ud Ansari : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"5311","Rapporté par Jabir : Ce hadith a aussi été transmis par Jabir"
+"5312","Rapporté par Anas : Le Messager d’Allah ﷺ avait un voisin perse qui préparait d’excellentes soupes. Un jour"
+"5313","Rapporté par Abu Huraira : Un jour"
+"5314","Rapporté par Abu Huraira : Un jour"
+"5315","Rapporté par Jabir ibn Abdullah : Quand on creusait la tranchée"
+"5316","Rapporté par Anas ibn Malik : Abu Talha a dit à Umm Sulaim : « J’ai remarqué que la voix du Messager d’Allah ﷺ était faible"
+"5317","Rapporté par Anas ibn Malik : Abu Talha m’a envoyé inviter le Messager d’Allah ﷺ à manger. Quand je suis arrivé"
+"5318","Rapporté par Anas ibn Malik : Abu Talha m’a envoyé vers le Messager d’Allah ﷺ ; le reste du hadith est le même"
+"5319","Rapporté par Anas ibn Malik : Abu Talha a demandé à Umm Sulaim de préparer un repas spécialement pour le Messager d’Allah ﷺ. Il m’a ensuite envoyé l’inviter ; le reste du hadith est le même"
+"5320","Rapporté par Anas ibn Malik : Il a rapporté cet événement concernant le festin offert par Abu Talha au Messager d’Allah ﷺ"
+"5321","Rapporté par Anas ibn Malik : Ce hadith a été rapporté avec une légère différence : le Messager d’Allah ﷺ a mangé"
+"5322","Rapporté par Anas ibn Malik : Abu Talha a vu le Messager d’Allah ﷺ allongé sur le ventre dans la mosquée. Il est allé voir Umm Sulaim et lui a dit : « J’ai vu le Messager d’Allah ﷺ allongé sur le ventre dans la mosquée"
+"5323","Rapporté par Anas b. Malik : Je suis allé rendre visite au Messager d’Allah ﷺ un jour et je l’ai trouvé assis avec ses compagnons"
+"5324","Rapporté par Anas b. Malik : Anas b. Malik a rapporté ce hadith concernant l’accueil du Messager d’Allah ﷺ par Abu Talha"
+"5325","Rapporté par Anas b. Malik : Un tailleur a invité le Messager d’Allah ﷺ à un repas qu’il avait préparé. Anas b. Malik a dit : « Je suis allé à ce festin avec le Messager d’Allah ﷺ. Il lui a servi du pain d’orge et une soupe avec de la courge et des morceaux de viande. » Anas a dit : « J’ai vu le Messager d’Allah ﷺ chercher les morceaux de courge dans le plat"
+"5326","Rapporté par Anas b. Malik : Une personne a invité le Messager d’Allah ﷺ à un repas. Je l’ai accompagné. Il a servi une soupe avec de la courge. Le Messager d’Allah ﷺ a mangé cette courge avec plaisir. Anas a dit : « Quand j’ai vu cela"
+"5327","Rapporté par Anas b. Malik : Un tailleur a invité le Messager d’Allah ﷺ à un festin. Thabit a ajouté : « J’ai entendu Anas dire que"
+"5328","Rapporté par Abdullah b. Busr : Le Messager d’Allah ﷺ est venu chez mon père et nous lui avons servi un plat avec des dattes"
+"5329","Rapporté par Shu’ba : Ce hadith a été rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"5330","Rapporté par Abdullah b. Ja’far : J’ai vu le Messager d’Allah ﷺ manger du concombre avec des dattes fraîches"
+"5331","Rapporté par Anas b. Malik : J’ai vu le Messager d’Allah ﷺ accroupi"
+"5332","Rapporté par Anas : On a apporté des dattes au Messager d’Allah ﷺ. Il les a distribuées alors qu’il était assis droit"
+"5333","Rapporté par Jabala b. Suhaim : Ibn Zubair nous donnait des dattes à manger à une époque où les gens souffraient de la famine. Un jour"
+"5334","Rapporté par Shu’ba : Ce hadith a été rapporté par Shu’ba avec la même chaîne de transmetteurs"
+"5335","Rapporté par Jabala b. Suhaim : J’ai entendu Ibn ‘Umar dire que le Messager d’Allah ﷺ a interdit à quelqu’un de prendre deux dattes à la fois sans demander l’accord de ses compagnons"
+"5336","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Une famille qui possède des dattes ne connaîtra pas la faim. »"
+"5337","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Aïsha"
+"5338","Rapporté par Amir b. Sa’d b. Abu Waqqas"
+"5339","Rapporté par ‘Amir b. Sa’d b. Abu Waqqas : Le Messager d’Allah ﷺ a dit : « Celui qui mange sept dattes ‘ajwa’ le matin"
+"5340","Rapporté par Ibn Hashim : Ce hadith a été rapporté avec la même chaîne de transmetteurs"
+"5341","Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Les dattes ‘ajwa’ de ‘Aliya’ ont des vertus curatives et sont un antidote si on les mange le matin. »"
+"5342","Rapporté par Sa’id b. Zaid b. ‘Amr b. Nufail : J’ai entendu le Messager d’Allah ﷺ dire : « La truffe est une sorte de “Manna”"
+"5343","Rapporté par Sa’id b. Zaid b. ‘Amr : J’ai entendu le Messager d’Allah ﷺ dire : « La truffe est une sorte de “Manna”"
+"5344","Rapporté par Sa’id b. Zaid : J’ai entendu le Messager d’Allah ﷺ dire : « La truffe est une bénédiction"
+"5345","Rapporté par Sa’id b. Zaid b. ‘Amr b. Nufail : Le Messager d’Allah ﷺ a dit : « La truffe est une sorte de “Manna” qu’Allah"
+"5346","Rapporté par Sa’id b. Zaid : Le Messager d’Allah ﷺ a dit : « La truffe est une sorte de “Manna” qu’Allah a fait descendre sur Moussa"
+"5347","Rapporté par Sa’id b. Zaid : Le Messager d’Allah ﷺ a dit : « La truffe est le “Manna” qu’Allah"
+"5348","Rapporté par Sa'id b. Zaid : Le Messager d’Allah ﷺ a dit : « La truffe est une sorte de “manna” et son jus est un remède pour les yeux. »"
+"5349","Rapporté par Jabir b. Abdullah : Nous étions avec le Messager d’Allah ﷺ à Marr az-Zahran et nous cueillions les fruits de l’arbre Arak. Le Messager d’Allah ﷺ a alors dit : « Cueillez seulement les fruits noirs"
+"5350","Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Le meilleur des condiments"
+"5351","Rapporté par Sulaiman b. Bilal"
+"5352","Rapporté par Jabir b. Abdullah : Le Messager d’Allah ﷺ a demandé à sa famille s’il y avait un condiment. Ils ont répondu : « Nous n’avons que du vinaigre. » Il en a demandé"
+"5353","Rapporté par Jabir b. Abdullah : Un jour"
+"5354","Rapporté par Jabir b. Abdullah : Le Messager d’Allah ﷺ m’a pris la main et m’a conduit chez lui"
+"5355","Rapporté par Jabir b. Abdullah : Alors que j’étais assis chez moi"
+"5356","Rapporté par Abd Ayyub al-Ansari : Quand on apportait de la nourriture au Messager d’Allah ﷺ"
+"5357","Rapporté par Shu'ba"
+"5358","Rapporté par Aflah"
+"5359","Rapporté par Abu Huraira : Un homme est venu voir le Messager d’Allah ﷺ et a dit : « J’ai très faim. » Le Prophète ﷺ a envoyé un message à l’une de ses épouses pour demander de la nourriture"
+"5360","Rapporté par Abu Huraira : Un invité a passé la nuit chez un homme parmi les Ansar"
+"5361","Rapporté par Abu Huraira : Un homme est venu voir le Messager d’Allah ﷺ pour qu’il l’accueille comme invité"
+"5362","Rapporté par Miqdad : Mes deux compagnons et moi étions si affamés que nous avions perdu la vue et l’ouïe. Nous nous sommes présentés comme invités chez les Compagnons du Prophète ﷺ"
+"5363","Rapporté par Mughira"
+"5364","Rapporté par 'Abd al-Rahman b. Abu Bakr : Nous étions cent trente avec le Messager d’Allah ﷺ. Il a dit : « L’un de vous a-t-il de la nourriture ? » Quelqu’un avait environ un sa’ de farine"
+"5365","Rapporté par 'Abd al-Rahman b. Abu Bakr : Les gens de Suffa étaient très pauvres. Un jour"
+"5366","Rapporté par 'Abd al-Rahman b. Abd Bakr : Des invités sont venus chez nous. Mon père avait l’habitude d’aller parler au Messager d’Allah ﷺ la nuit. En partant"
+"5367","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « La nourriture pour deux personnes suffit pour trois"
+"5368","Rapporté par Jabir b. Abdullah : J’ai entendu le Messager d’Allah ﷺ dire : « La nourriture pour une personne suffit pour deux"
+"5369","Rapporté par Jabir"
+"5370","Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « La nourriture pour une personne suffit pour deux"
+"5371","Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « La nourriture pour une personne suffit pour deux"
+"5372","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit qu’un non-musulman mange avec sept intestins"
+"5373","Rapporté par Ibn 'Umar رضي الله عنه : Ce hadith a été rapporté par Ibn 'Umar"
+"5374","Rapporté par Nafi' : Ibn 'Umar رضي الله عنه a vu un homme pauvre. Il a placé de la nourriture devant lui et cet homme a beaucoup mangé. Ibn 'Umar a dit : « Il ne devrait pas venir chez moi"
+"5375","Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le croyant mange avec un seul intestin"
+"5376","Rapporté par Jabir رضي الله عنه : Ce hadith a été transmis par Jabir"
+"5377","Rapporté par Abu Musa رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le croyant mange avec un seul intestin"
+"5378","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté par Abu Huraira avec une chaîne de transmetteurs différente"
+"5379","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a invité un non-musulman. Il a ordonné qu’on lui donne du lait de chèvre. On a trait une chèvre et il a bu son lait. Puis on en a trait une deuxième"
+"5380","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ ne critiquait jamais la nourriture qu’on lui servait. S’il aimait"
+"5381","Rapporté par A'mash : Ce hadith a été rapporté par A'mash avec la même chaîne de transmetteurs"
+"5382","Rapporté par A'mash : Un hadith similaire a été rapporté par A'mash"
+"5383","Rapporté par Abu Huraira رضي الله عنه : Je n’ai jamais vu le Messager d’Allah ﷺ critiquer la nourriture qu’on lui servait ; s’il aimait"

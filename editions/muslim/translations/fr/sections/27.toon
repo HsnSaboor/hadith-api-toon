@@ -1,89 +1,177 @@
-hadiths[88]{hadithnumber,text}:
-4254,1646.01
-4255,1646.02
-4256,1646.03
-4257,1646.04
-4258,1646.05
-4259,1646.06
-4260,1647.01
-4261,1647.02
-4262,1648
-4263,1649.01
-4264,1649.02
-4265,1649.03
-4266,1649.04
-4267,1649.05
-4268,1649.06
-4269,1649.07
-4270,1649.08
-4271,1650.01
-4272,1650.02
-4273,1650.03
-4274,1650.04
-4275,1651.01
-4276,1651.02
-4277,1651.03
-4278,1651.04
-4279,1651.05
-4280,1651.06
-4281,1652.01
-4282,1652.02
-4283,1653.01
-4284,1653.02
-4285,1654.01
-4286,1654.02
-4287,1654.03
-4288,1654.04
-4289,1654.05
-4290,1654.06
-4291,1655
-4292,1656.01
-4293,1656.02
-4294,1656.03
-4295,1656.04
-4296,1656.05
-4297,1656.06
-4298,1657.01
-4299,1657.02
-4300,1657.03
-4301,1658.01
-4302,1658.02
-4303,1658.03
-4304,1658.04
-4305,1658.05
-4306,1659.01
-4307,1659.02
-4308,1659.03
-4309,1659.04
-4310,1659.05
-4311,1660.01
-4312,1660.02
-4313,1661.01
-4314,1661.02
-4315,1661.03
-4316,1662
-4317,1663
-4318,1664.01
-4319,1664.02
-4320,1665.01
-4321,1665.02
-4322,1666.01
-4323,1666.02
-4324,1667
-4325,1501.03
-4326,1501.04
-4327,1501.05
-4328,1501.06
-4329,1501.07
-4330,1501.08
-4331,1502.02
-4332,1503.04
-4333,1503.05
-4334,1503.06
-4335,1668.01
-4336,1668.02
-4337,1668.03
-4338,997.03
-4339,997.04
-4340,997.05
-4341,997.06
+hadiths[176]{hadithnumber,text}:
+"4124","Rapporté par Sulaiman ibn Bilal"
+"4125","Rapporté par Abu Hurayra رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « Jurer facilite la vente d’une marchandise"
+"4126","Rapporté par Abu Qatada al-Ansari رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « Méfiez-vous de jurer ; cela facilite la vente d’une marchandise"
+"4127","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Celui qui a un associé dans une maison ou un jardin n’a pas le droit de vendre sans l’accord de son associé. S’il est d’accord"
+"4128","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Le Messager d’Allah ﷺ a établi le droit de préemption dans toute propriété partagée et non divisée"
+"4129","Rapporté par Jabir ibn ‘Abdullah رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Il y a un droit de préemption dans tout ce qui est partagé"
+"4130","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Aucun de vous ne doit empêcher son voisin de fixer une poutre dans son mur. » Abu Huraira رضي الله عنه ajouta : « Pourquoi est-ce que je vous vois éviter cet ordre du Prophète ﷺ ? Par Allah"
+"4131","Ce hadith est rapporté par Zuhri avec la même chaîne de transmetteurs"
+"4132","Rapporté par Sa'id b. Zaid b. 'Amr b. Nufail رضي الله عنهم : Le Messager d’Allah ﷺ a dit : « Celui qui s’approprie injustement ne serait-ce qu’une petite portion de terre"
+"4133","Rapporté par Sa'id b. Zaid b. 'Amr b. Nufail رضي الله عنهم : Arwi (bint Uwais) a eu un différend avec lui au sujet d’une partie du terrain de sa maison. Il lui dit : « Laisse ce terrain et retire ta réclamation"
+"4134","Rapporté par Hisham b. Urwa d’après son père رضي الله عنه : Arwa bint Uwais a eu un litige avec Sa'id b. Zaid"
+"4135","Rapporté par Sa'id b. Zaid رضي الله عنه : J’ai entendu l’Envoyé d’Allah ﷺ dire : « Celui qui prend injustement une portion de terre devra porter autour du cou sept terres le Jour de la Résurrection. »"
+"4136","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il ne faut pas prendre une portion de terre sans en avoir le droit"
+"4137","Rapporté par Muhammad b. Ibrahim : Abu Salama lui a rapporté qu’il avait un différend avec sa famille au sujet d’un terrain"
+"4138","Ce hadith est rapporté par Abu Salama avec une autre chaîne de transmetteurs"
+"4139","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque vous vous disputez à propos d’un chemin"
+"4140","Rapporté par Usama b. Zaid رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un musulman n’hérite pas d’un non-musulman"
+"4141","Rapporté par Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Donnez les parts à ceux qui y ont droit"
+"4142","Rapporté par Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Donnez les parts à ceux qui y ont droit"
+"4143","Rapporté par Tawus d’après Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Répartissez les biens entre les ayants droit selon le Livre d’Allah"
+"4144","Une autre chaîne de Tawus rapporte la même chose que les récits précédents transmis par Tawus (les chaînes de Wuhaib et Rowh bin Qasim)"
+"4145","Rapporté par Jabir b. Abdullah رضي الله عنهما : Je suis tombé malade et le Messager d’Allah ﷺ est venu me rendre visite à pied avec Abu Bakr. J’ai perdu connaissance. Le Prophète ﷺ a fait ses ablutions puis a aspergé sur moi l’eau de ses ablutions. J’ai ressenti un soulagement et j’ai dit : « Ô Messager d’Allah"
+"4146","Rapporté par Jabir b. Abdullah رضي الله عنه : Le Messager d’Allah ﷺ et Abu Bakr رضي الله عنه sont venus me rendre visite à pied chez Banu Salama"
+"4147","Rapporté par Jabir b. Abdullah رضي الله عنهما : Alors que j’étais malade"
+"4148","Rapporté par Jabir b. Abdullah رضي الله عنه : Alors que j’étais malade"
+"4149","Ce hadith est transmis par Shu'ba avec une légère différence dans les mots"
+"4150","Rapporté par Abu Talha : Omar b. al-Khattab رضي الله عنه prononça un sermon un vendredi où il évoqua l’Envoyé d’Allah ﷺ"
+"4151","Ce hadith est rapporté par Qatada avec la même chaîne de transmetteurs"
+"4152","Rapporté par Al-Bara’ رضي الله عنه : La dernière verset révélé dans le Saint Coran est : « Ils te demandent un avis juridique ; dis : Allah vous donne un avis sur Kalala (la personne qui n’a ni parents ni enfants) » (sourate 4"
+"4153","Rapporté par Abu Ishaq : Il a entendu al-Bara’ b. Azib رضي الله عنه dire : « Le dernier verset révélé dans le Saint Coran concerne Kalala"
+"4154","Rapporté par Abu Ishaq : Il a entendu al-Bara’ b. Azib رضي الله عنه dire : « La dernière sourate complète révélée dans le Saint Coran est la sourate at-Tawba (c’est-à-dire al-Bara’at"
+"4155","Rapporté par Aba Ishaq d’après al-Bara’ رضي الله عنه : Ce hadith a été rapporté avec une légère différence dans les mots"
+"4156","Rapporté par al-Bara’ رضي الله عنه : Le dernier verset révélé était : « Ils te demandent un avis religieux... » (sourate 4"
+"4157","Rapporté par Abu Huraira رضي الله عنه : Quand on amenait le corps d’une personne décédée qui avait des dettes au Messager d’Allah ﷺ"
+"4158","Rapporté par al-Zuhri : Ce hadith a été transmis par une autre chaîne de rapporteurs"
+"4159","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Par Celui qui détient la vie de Muhammad dans Sa main"
+"4160","Rapporté par Hammam b. Munabbih : Voici ce qu’Abu Huraira رضي الله عنه nous a rapporté du Messager d’Allah ﷺ. Il a transmis de nombreux hadiths"
+"4161","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui laisse des biens"
+"4162","Rapporté par Shu’ba : Ce hadith a été transmis par la même chaîne de rapporteurs"
+"4163","Rapporté par Omar b. Khattab رضي الله عنه : J’ai donné un cheval de race dans le sentier d’Allah. Celui qui l’a reçu l’a négligé. J’ai pensé qu’il allait le vendre à bas prix. J’ai demandé au Messager d’Allah ﷺ à ce sujet"
+"4164","Rapporté par Malik b. Anas : Ce hadith a été transmis par la même chaîne de rapporteurs"
+"4165","Rapporté par Zaid b. Aslam d’après son père : Omar رضي الله عنه a donné un cheval dans le sentier d’Allah. Il a constaté que le cheval était négligé par son nouveau propriétaire"
+"4166","Rapporté par Zaid b. Aslam : Ce hadith a été transmis par la même chaîne de rapporteurs"
+"4167","Rapporté par Ibn 'Umar : Omar b. al-Khattab رضي الله عنه a donné un cheval dans le sentier d’Allah"
+"4168","Rapporté par Ibn 'Umar : Ce hadith a été transmis par une autre chaîne de rapporteurs"
+"4169","Rapporté par Salim d’après Ibn Umar رضي الله عنه : Omar a donné un cheval dans le sentier d’Allah"
+"4170","Rapporté par Ibn 'Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Celui qui reprend son aumône est comme un chien qui vomit"
+"4171","Rapporté par une autre chaîne : Ce hadith est également rapporté par une autre chaîne"
+"4172","Rapporté par Muhammad"
+"4173","Rapporté par Ibn Abbas رضي الله عنهما : J’ai entendu le Messager d’Allah ﷺ dire : « La comparaison de celui qui donne une aumône puis la reprend est celle d’un chien qui vomit puis mange son vomi. »"
+"4174","Rapporté par Ibn Abbas رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Celui qui reprend son cadeau est comme celui qui mange du vomi. »"
+"4175","Rapporté par Qatada : Ce hadith a été transmis par la même chaîne de rapporteurs"
+"4176","Rapporté par Abdullah b. Tawus d’après son père"
+"4177","Rapporté par Nu’man b. Bashir : Son père l’a amené auprès du Messager d’Allah ﷺ et a dit : « J’ai donné cet esclave à mon fils. » Le Messager d’Allah ﷺ a dit : « As-tu fait un don semblable à chacun de tes fils ? » Il a répondu : « Non. » Le Messager d’Allah ﷺ a alors dit : « Reprends-le. »"
+"4178","Rapporté par Nu’man b. Bashir : Mon père m’a amené auprès du Messager d’Allah ﷺ et a dit : « J’ai donné cet esclave à mon fils. » Il a alors demandé : « As-tu fait ce don à chacun de tes fils ? » Il a répondu : « Non. » Le Prophète ﷺ a alors dit : « Reprends-le. »"
+"4179","Rapporté par Zuhri : Ce hadith a été transmis par différentes chaînes de rapporteurs"
+"4180","Rapporté par Nu'man b. Bashir : Son père lui avait offert un esclave. Le Messager d’Allah ﷺ a dit : « Qui est cet esclave (comment l’as-tu obtenu) ? » Nu'man b. Bashir répondit : « Mon père me l’a offert. » Il demanda alors : « As-tu donné un cadeau semblable à tous tes frères ? » Il répondit : « Non. » Le Prophète ﷺ dit alors : « Rends-le. »"
+"4181","Rapporté par Nu'man b. Bashir : Mon père m’a offert une partie de ses biens. Ma mère"
+"4182","Rapporté par Nu'man b. Bashir : Sa mère"
+"4183","Rapporté par Nu'man b. Bashir : Le Messager d’Allah ﷺ lui a demandé : « As-tu d’autres fils que lui ? » Il répondit : « Oui. » Le Prophète ﷺ demanda : « As-tu donné un cadeau semblable à tous"
+"4184","Rapporté par Nu'man b. Bashir (qu’Allah soit satisfait d’eux) : Le Messager d’Allah ﷺ a dit à son père : « Ne m’appelle pas comme témoin d’une injustice. »"
+"4185","Rapporté par Nu'man b. Bashir (qu’Allah soit satisfait d’eux) : Mon père m’a emmené voir le Messager d’Allah ﷺ et a dit : « Messager d’Allah"
+"4186","Rapporté par Nu'man b. Bashir : Mon père m’a offert un cadeau"
+"4187","Rapporté par Jabir (qu’Allah soit satisfait de lui) : L’épouse de Bashir a dit à son mari : « Offre ton esclave à mon fils comme cadeau"
+"4188","Rapporté par Jabir b. 'Abdullah (qu’Allah soit satisfait d’eux) : Le Messager d’Allah ﷺ a dit : « Tout homme à qui l’on fait un don à vie"
+"4189","Rapporté par Jabir b. 'Abdullah (qu’Allah soit satisfait d’eux) : Le Messager d’Allah (que la paix soit sur lui) a dit : « Celui qui fait un don à vie à quelqu’un"
+"4190","Rapporté par Jabir b. 'Abdullah al-Ansari (qu’Allah soit satisfait de lui) : Le Messager d’Allah ﷺ a dit : « Quand une personne fait un don à vie (Umra) à quelqu’un et dit : “Je te donne ceci"
+"4191","Rapporté par Jabir (qu’Allah soit satisfait de lui) : L’Umra pour laquelle le Messager d’Allah ﷺ a donné son accord"
+"4192","Rapporté par Jabir b. 'Abdullah (qu’Allah soit satisfait de lui) : Le Messager d’Allah ﷺ a ordonné que celui à qui l’on fait un don à vie"
+"4193","Rapporté par Jabir (b. 'Abdullah) (qu’Allah soit satisfait de lui) : Le Messager d’Allah ﷺ a dit : « Le don à vie appartient à celui à qui il a été accordé. »"
+"4194","Rapporté par Jabir b. 'Abdullah : Un hadith semblable a été rapporté par une autre chaîne de transmetteurs"
+"4195","Rapporté par Jabir : Ce hadith a été rapporté directement du Messager d’Allah ﷺ"
+"4196","Rapporté par Jabir (b. 'Abdullah) (qu’Allah soit satisfait de lui) : Le Messager d’Allah ﷺ a dit : « Gardez vos biens pour vous et ne les gaspillez pas"
+"4197","Ce hadith est rapporté par Jabir à travers d’autres chaînes de transmetteurs"
+"4198","Rapporté par Jabir (qu’Allah soit satisfait de lui) : Une femme a donné son jardin à son fils comme don à vie. Il est décédé"
+"4199","Rapporté par Sulaiman b. Yasir : Jabir a donné cet avis : l’héritier a le droit d’hériter du don à vie"
+"4200","Rapporté par Jabir b. 'Abdullah : Le Messager d’Allah ﷺ a dit : « Le don à vie est permis. »"
+"4201","Rapporté par Jabir b. Abdullah (qu’Allah soit satisfait d’eux) : Le Messager d’Allah ﷺ a dit : « Le don à vie devient l’héritage de celui à qui il a été accordé. »"
+"4202","Rapporté par Abu Huraira (qu’Allah soit satisfait de lui) : Le Messager d’Allah ﷺ a dit : « Le don à vie est permis. »"
+"4203","Ce hadith est rapporté par Qatada avec la même chaîne de transmetteurs"
+"4204","Rapporté par Ibn Umar (qu’Allah soit satisfait d’eux) : Le Messager d’Allah ﷺ a dit : « Il est du devoir d’un musulman qui possède quelque chose à léguer de ne pas passer deux nuits sans avoir rédigé son testament à ce sujet. »"
+"4205","Rapporté par 'Ubaidullah : Ce hadith a été rapporté par 'Ubaidullah avec la même chaîne de transmetteurs"
+"4206","Rapporté par Nafi' : Un hadith similaire a été rapporté par Nafi'"
+"4207","Rapporté par Salim"
+"4208","Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"4209","Rapporté par Amir b. Sa'd"
+"4210","Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs"
+"4211","Rapporté par 'Amir b. Sa'd"
+"4254","Rapporté par ‘Umar b. al-Khattab رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Allah"
+"4255","Rapporté par Zuhri : Ce hadith a été transmis par Zuhri"
+"4256","Rapporté par Salim d’après son père رضي الله عنه : Le Messager d’Allah ﷺ a entendu ‘Umar jurer par son père. Le reste du hadith est le même"
+"4257","Rapporté par Abdullah ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ a trouvé Omar ibn al-Khattab parmi des cavaliers"
+"4258","Rapporté par Ibn Umar رضي الله عنه à travers une autre chaîne de transmetteurs : (le même hadith)"
+"4259","Rapporté par Ibn Umar رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « Celui qui doit faire un serment"
+"4260","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui fait un serment en disant : “Par Lat (et al-‘Uzza)”"
+"4261","Rapporté par Zuhri : (le même hadith)"
+"4262","Rapporté par Abd al-Rahman ibn Samura رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne jurez ni par les idoles ni par vos pères. »"
+"4263","Rapporté par Abu Musa al-Ash‘ari رضي الله عنه : Je suis venu voir le Messager d’Allah ﷺ avec un groupe d’Ash‘arites pour lui demander de nous donner une monture. Le Prophète ﷺ a dit : « Par Allah"
+"4264","Rapporté par Abu Musa رضي الله عنه : Mes amis m’ont envoyé auprès du Messager d’Allah ﷺ pour lui demander de leur fournir des montures"
+"4265","Rapporté par Ayyub : Nous étions assis avec Abu Musa lorsqu’il a fait servir de la viande de volaille. Un homme des Banu Tamim est alors venu le voir. Il avait le teint rouge"
+"4266","Rapporté par Abu Musa al-Ash‘ari رضي الله عنه avec une légère différence dans les mots : (le même hadith)"
+"4267","Rapporté par Zahdam al-Jarmi : Nous étions en compagnie d’Abu Musa. Le reste du hadith est le même"
+"4268","Rapporté par Zahdam al-Jarmi : J’ai rendu visite à Abu Musa alors qu’il mangeait de la viande de volaille. Le reste du hadith est le même"
+"4269","Rapporté par Abu Musa al-Ash‘ari رضي الله عنه : Nous sommes venus voir le Messager d’Allah ﷺ pour lui demander de nous donner des chameaux pour voyager. Le Prophète ﷺ a dit : « Je n’ai rien pour vous équiper. Par Allah"
+"4270","Rapporté par Abu Musa رضي الله عنه : Nous avons marché à pied et sommes venus voir le Messager d’Allah ﷺ pour lui demander de nous donner des montures. Le reste du hadith est le même"
+"4271","Rapporté par Abu Huraira رضي الله عنه : Un homme est resté tard le soir avec le Messager d’Allah ﷺ"
+"4272","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui fait un serment et trouve ensuite quelque chose de mieux doit expier son serment et faire ce qui est mieux. »"
+"4273","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui fait un serment et trouve ensuite quelque chose de mieux doit faire ce qui est mieux et expier son serment. »"
+"4274","Rapporté par Suhail"
+"4275","Rapporté par Tamim ibn Tarafa : Un mendiant est venu voir ‘Adi ibn Hatim et lui a demandé le prix d’un esclave"
+"4276","Rapporté par ‘Adi ibn Hatim رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui fait un serment et trouve ensuite quelque chose de mieux doit faire ce qui est mieux et rompre son serment. »"
+"4277","Rapporté par ‘Adi رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand l’un de vous fait un serment et trouve ensuite quelque chose de mieux"
+"4278","Rapporté par ‘Adi ibn Hatim رضي الله عنه à travers une autre chaîne de transmetteurs : (le même hadith)"
+"4279","Rapporté par Tamim ibn Tarafa : Il a entendu ‘Adi ibn Hatim dire qu’un homme est venu lui demander cent dirhams. ‘Adi a dit : « Tu me demandes cent dirhams alors que je suis le fils de Hatim ; par Allah"
+"4280","Rapporté par Tamim ibn Tarafa : J’ai entendu ‘Adi ibn Hatim dire qu’un homme lui a fait cette demande"
+"4281","Rapporté par Abd al-Rahman ibn Samura رضي الله عنه : Le Messager d’Allah ﷺ m’a dit : « Abd al-Rahman ibn Samura"
+"4282","Rapporté par ‘Abd al-Rahman b. Samura : Ce hadith a été rapporté par une autre chaîne de transmetteurs"
+"4283","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ton serment doit porter sur quelque chose à propos de laquelle ton compagnon te croira. » ‘Amr a dit : « Sur ce à quoi ton compagnon te croira. »"
+"4284","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Un serment doit être compris selon l’intention de celui qui le prononce. »"
+"4285","Rapporté par Abu Huraira رضي الله عنه : (Sayyiduna) Soulayman avait soixante épouses. Un jour"
+"4286","Rapporté par Abu Huraira رضي الله عنه : Le Prophète d’Allah ﷺ a dit que Soulayman b. Dawud"
+"4287","Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté du Messager d’Allah ﷺ par une autre chaîne de transmetteurs"
+"4288","Rapporté par Abu Huraira رضي الله عنه : Soulayman b. Dawud a dit : « Je vais certainement avoir des rapports avec soixante-dix épouses cette nuit"
+"4289","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit que Soulayman b. Dawud a dit un jour : « Je vais passer la nuit avec mes quatre-vingt-dix épouses"
+"4290","Rapporté par Abu Zinad : Ce hadith a été rapporté par la même chaîne de transmetteurs"
+"4291","Rapporté par Hammam b. Munabbih : Voici ce qu’Abu Huraira nous a rapporté du Messager d’Allah ﷺ"
+"4292","Rapporté par Ibn ‘Umar رضي الله عنه : Omar رضي الله عنه a dit : « Ô Messager d’Allah"
+"4293","Rapporté par Ibn ‘Umar رضي الله عنه : Ce hadith est transmis par Ibn ‘Umar avec une légère variation dans les mots"
+"4294","Rapporté par ‘Abdullah b. ‘Umar رضي الله عنه : Omar b. Khattab رضي الله عنه a demandé au Messager d’Allah ﷺ"
+"4295","Rapporté par Ibn ‘Umar رضي الله عنه : Lorsque le Messager d’Allah ﷺ est revenu de la bataille de Hunayn"
+"4296","Rapporté par Nafi‘ : On a mentionné devant Ibn ‘Umar que le Messager d’Allah ﷺ avait accompli la ‘Umra depuis Ji‘rana. Il a dit : « Il n’est pas entré en état d’Ihram à partir de là"
+"4297","Rapporté par Ibn ‘Umar رضي الله عنه : Ce hadith a été transmis par une autre chaîne de transmetteurs"
+"4298","Rapporté par Zadhan Abi Umar : Je suis allé voir Ibn ‘Umar alors qu’il venait d’affranchir un esclave. Il a pris un morceau de bois ou quelque chose du sol et a dit : « (L’affranchissement d’un esclave) n’a même pas une récompense équivalente à cela"
+"4299","Rapporté par Zadhan : Ibn ‘Umar a appelé son esclave et a vu des marques (de coups) sur son dos. Il lui a dit : « Je t’ai fait du mal. » Il a répondu : « Non. » Mais Ibn ‘Umar a dit : « Tu es libre. » Il a alors pris quelque chose du sol et a dit : « Je n’ai même pas de récompense équivalente à cela. J’ai entendu le Messager d’Allah ﷺ dire : “Celui qui frappe un esclave sans raison valable ou le gifle (sans faute grave)"
+"4300","Rapporté par une autre chaîne de transmetteurs : Ce hadith a été rapporté avec une légère variation dans les mots"
+"4301","Rapporté par Mu‘awiya b. Suwaid : J’ai giflé un esclave qui nous appartenait puis je me suis enfui. Je suis revenu juste avant midi et j’ai prié derrière mon père. Il a appelé l’esclave et moi"
+"4302","Rapporté par Hilal b. Yasaf : Un homme s’est mis en colère et a giflé sa servante. Suwaid b. Muqarrin lui a dit : « Tu n’as pas trouvé d’autre endroit à frapper que son visage ? Sache que j’étais l’un des sept fils de Muqarrin"
+"4303","Rapporté par Hilal b. Yasaf : Nous vendions du tissu dans la maison de Suwaid b. Muqarrin"
+"4304","Rapporté par Suwaid b. Muqarrin : Il avait une servante et l’un des membres de la famille l’a giflée. Suwaid lui a dit : « Ne sais-tu pas qu’il est interdit de frapper le visage ? » Il a ajouté : « J’étais le septième parmi mes frères du vivant du Messager d’Allah ﷺ"
+"4305","Rapporté par Wahb b. Jarir : Shu‘ba m’a informé que Muhammad b. Munkadir m’a demandé : « Quel est ton nom ? » Le reste du hadith est identique"
+"4306","Rapporté par Abu Mas‘ud al-Badri رضي الله عنه : Je frappais mon esclave avec un fouet quand j’ai entendu une voix derrière moi : « Comprends"
+"4307","Rapporté par A'mash : Ce hadith a été rapporté par A'mash avec une variation dans les mots : « Le fouet est tombé de ma main à cause de la crainte que m’inspirait le Prophète ﷺ. »"
+"4308","Rapporté par Abu Mas'ud al-Ansari : Alors que je frappais mon serviteur"
+"4309","Rapporté par Abu Mas'ud : Je frappais mon esclave alors qu’il disait : « Je cherche protection auprès d’Allah »"
+"4310","Rapporté par Shu'ba : Ce hadith a été rapporté par Shu'ba avec la même chaîne de transmetteurs"
+"4311","Rapporté par Abu Huraira رضي الله عنه : Abu’l-Qasim (l’un des noms du Messager d’Allah ﷺ) a dit : « Celui qui accuse son esclave d’adultère subira un châtiment le Jour de la Résurrection"
+"4312","Rapporté par Ibn Ghazwan : J’ai entendu Abu'l-Qasim ﷺ"
+"4313","Rapporté par Al-Ma'rur b. Suwaid : Nous sommes allés voir Abu Dharr (Ghifari) à Rabadha. Il portait un manteau et son esclave en avait un similaire. Nous lui avons dit : « Abu Dharr"
+"4314","Rapporté par A'mash : Ce hadith a été rapporté par A'mash avec une légère variation dans les mots. Par exemple"
+"4315","Rapporté par Ma'rur b. Suwaid : J’ai vu Abu Dharr porter des vêtements"
+"4316","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il faut nourrir l’esclave"
+"4317","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand l’esclave de l’un d’entre vous prépare à manger et qu’il le sert après avoir supporté la chaleur et la fumée"
+"4318","Rapporté par Ibn Umar : Le Messager d’Allah ﷺ a dit : « Quand un esclave prend soin de son maître et adore Allah correctement"
+"4319","Rapporté par Ibn Umar : Ce hadith a été rapporté par Ibn 'Umar par une autre chaîne de transmetteurs"
+"4320","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Un esclave croyant a deux récompenses. Par Celui qui détient la vie d’Abu Huraira"
+"4321","Rapporté par Abu Tahir : Ce hadith a été transmis par Abu Tahir avec une légère variation dans les mots"
+"4322","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand un esclave accomplit les devoirs envers Allah et envers son maître"
+"4323","Rapporté par Abu Huraira : Le hadith précédent a été rapporté par une autre chaîne de transmetteurs d’Abu Huraira"
+"4324","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il est bon pour un esclave d’adorer Allah correctement et de bien servir son maître. C’est un bien pour lui. »"
+"4325","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Celui qui renonce à sa part dans un esclave et qui a assez d’argent pour payer la totalité du prix de l’esclave"
+"4326","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Celui qui affranchit sa part d’un esclave doit assurer la liberté totale de l’esclave"
+"4327","Rapporté par Abdullah b. 'Umar : Le Messager d’Allah ﷺ a dit : « Celui qui renonce à sa part dans un esclave"
+"4328","Rapporté par un autre transmetteur : Ce hadith a été rapporté par une autre chaîne de transmetteurs avec une légère variation dans les mots"
+"4329","Rapporté par Salim b. 'Abdullah d’après son père : Le Messager d’Allah ﷺ a dit : « Celui qui affranchit un esclave qu’il possède avec un autre"
+"4330","Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Celui qui renonce à sa part dans un esclave"
+"4331","Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Si un esclave appartient à deux personnes et que l’une d’elles l’affranchit"
+"4332","Rapporté par Shu'ba : « Celui qui affranchit une part d’un esclave doit lui assurer la liberté complète à partir de ses biens. »"
+"4333","Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui affranchit sa part dans un esclave"
+"4334","Rapporté par un autre transmetteur : « Il devra travailler pour obtenir la liberté de la part dans laquelle il n’a pas été affranchi"
+"4335","Rapporté par ‘Imran b. Husain رضي الله عنه : Un homme qui ne possédait rien d’autre a affranchi six de ses esclaves au moment de sa mort. Le Messager d’Allah ﷺ les a fait venir"
+"4336","Rapporté par un autre transmetteur : « Un homme parmi les Ansar a légué la liberté de six de ses esclaves au moment de sa mort. »"
+"4337","Rapporté par un autre transmetteur d’après ‘Imran b. Husain رضي الله عنه"
+"4338","Rapporté par Jabir b. ‘Abdullah رضي الله عنه : Un homme parmi les Ansar a déclaré son esclave libre après sa mort"
+"4339","Rapporté par Jabir رضي الله عنه : Un homme parmi les Ansar"
+"4340","Rapporté par un autre transmetteur d’après Jabir رضي الله عنه"
+"4341","Rapporté par d’autres transmetteurs d’après le Messager d’Allah ﷺ"

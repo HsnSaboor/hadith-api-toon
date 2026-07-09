@@ -1,6 +1,8 @@
-hadiths[33]{hadithnumber,text}:
-"254","Said b. Cübeyr yanındaki itimat ettiği bir adamdan"
-"255","Aişe r.anha anlatıyor: Resul-i Ekrem geceleri teheccüd namazı kıldığında"
+hadiths[count]{hadithnumber,text}:
+"254.1","Said b. Cübeyr yanındaki itimat ettiği bir adamdan"
+"254.2","Said b. Cübeyr yanındaki itimat ettiği bir adamdan"
+"255.1","Aişe r.anha anlatıyor: Resul-i Ekrem geceleri teheccüd namazı kıldığında"
+"255.2","Aişe r.anha anlatıyor: Resul-i Ekrem geceleri teheccüd namazı kıldığında"
 "256","Resulullah s.a.v.'in zevcesi Aişe r.anha rivayet eder; Resulullah Sallallahu Aleyhi ve Sellem buyurdular ki: «Namazda uyuklayammz yatsın uykusunu aldıktan sonra namazını kılsın. Zira uyuklayarak namaz kılan belki de farkında olmadan istiğfar edeceği yerde kendine küfreder.» Diğer tahric: Buharî"
 "257","İsmail b. Ebi Hakim'e şöyle rivayet edildi: Resulullah Sallallahu Aleyhi ve Sellem gece namazı kılan bir kadını işitince: «—Bu kimdir?» dedi. Ona: «Tuveyt'in kızı Havle'dir. Geceleri uyumaz"
 "258","Eslem'den: Ömer b. el-Hattab (r.a.) geceleri dilediği kadar namaz kılar"
@@ -19,6 +21,8 @@ hadiths[33]{hadithnumber,text}:
 "271","Aişe (r.anha) derdi ki: Fecir'den önce uyanamamasından korkan kimse"
 "272","Nafi' dedi ki: Mekke'de Abdullah b. Ömer (r.a.) ile beraberdim. Hava bulutluydu. Abdullah fecrin atmasından korkarak bir rekat vitir namazı kıldı. Hava açıldıktan sonra"
 "273","Nafi’ dedi ki: Abdullah b. Ömer (r.a.) vitir namazında iki rekatta selam verir Hatta bazı isteklerini bildirir"
+"274","Yahya bana Malik'ten, o da İbn Şihab'tan, Sad ibn Ebi Vakkas'ın yatsıdan sonra bir rekat vitir kıldığını anlattı. Malik dedi"
+"275","Yahya bana Malik'ten, o da Abdullah ibn Dinar'dan, Abdullah ibn Ömer'in nakletti dedi."
 "276","Said b. Cübeyr anlatıyor: Abdullah b. Abbas uykusundan uyandı"
 "277","İmam Malik der ki: Bana Abdullah b. Abbas"
 "278","Abdullah b. Mes'ud (r.a.) der ki: Sabah namazına kaamet edilirken de vitir namazı kılabilirim"
@@ -30,5 +34,3 @@ hadiths[33]{hadithnumber,text}:
 "284","Ebu Seleme b. Abdurrahman der ki: Bir sabah namazında kameti işiten cemaatten bir kısmı sünnet kılmaya kalktılar"
 "285","Abdullah b. Ömer (r.a.)"
 "286","Kasım b. Muhammed de Abdullah b. Ömer'in yaptığı gibi farz'dan önce kılamadığı sabah namazının sünnetini güneş doğduktan sonra kıldı"
-"287","Abdullah b. Ömer (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem"
-"288","Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: «Cemaatle kılınan namaz"

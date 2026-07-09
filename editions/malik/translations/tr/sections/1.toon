@@ -1,4 +1,4 @@
-hadiths[29]{hadithnumber,text}:
+hadiths[count]{hadithnumber,text}:
 "1","İbni Şihab (Ez-Zührî)'den: rivayet edildiğine göre: Ömer b. Abdülaziz bir gün (ikindi) namazını geciktirdi. O sırada huzuruna giren Urve b. Zübeyr (onu uyarmak için) şu hadisi nakletti: «— Kufe'de bir gün Muğire b. Şube (ikindi) namazını geciktirmişti. O sırada yanına girmiş olan Ebu Mes'ud el-Ensârî: — Bunu neden yaptın Muğire? Hatırlamıyor musun"
 "2","Urve der ki: Âişe (r.anha) bana: «Resulullah Sallallahu Aleyhi ve Sellem ikindi namazım"
 "3","Ata b. Yesar anlatıyor: Bir adam Resulullah Sallallahu Aleyhi ve Sellem'in huzuruna gelerek"
@@ -12,6 +12,7 @@ hadiths[29]{hadithnumber,text}:
 "11","Enes b. Malik (r.a.) der ki: İkindi namazını kıldıktan sonra Kuba'ya giden kimse oraya vardığında güneş hala yüksekte bulunurdu.[17] Diğer tahric: Buhari"
 "12","(Tabiinden) Kasım b. Muhammed der ki: Ashab'a yetiştim. Onlar öğle namazını hava biraz serinleyince kılıyorlardı. Bu Hadis Sadece Muvatta da var"
 "13","Ebu Süheyl"
+"14","Yahya bana, Malik'ten, o da Amr ibn Yahya ibn Yahya el-Mezini'den, o da İbn Ebi Salit'ten, Osman ibn Affan'ın Medine'de cuma namazını, Malal'de (Medine'ye yedi mil uzaklıkta bir yerde) ikindi namazını kıldığını anlattı. Malik yorum yaptı"
 "15","Ebu Hureyre'den: Resulullah Sallallahu Aleyhi ve Sellem: «Namazın bir rek'atına yetişen"
 "16","Abdullah b. Ömer şöyle derdi: (İmamla) rukua yetişemezsen"
 "17","Abdullah b. Ömer ve Zeyd b. Sabit: «Kim imamla rukua yetişirse secdeye"
@@ -20,11 +21,12 @@ hadiths[29]{hadithnumber,text}:
 "20","Abdullah b. Abbas (r.a.) der ki: «Güneşin dönmesi"
 "21","Abdullah b. Ömer r.a.'in rivayetine göre"
 "22","Yahya b. Saîd rivayet eder: Ömer b. El-Hattab (r.a.) ikindi namazından dönerken"
+"23","Yahya bana Malik'ten Yahya ibn Said'in söylediğini anlattı"
 "24","İmam Malik der ki: Kanaatime göre -Allah bilir- bütün vakit baygın kalmıştır. Yoksa namaz vakti çıkmadan ayılan kimse mutlaka namazını kılmalıdır. Bu Hadis Sadece Muvatta da var"
 "25","Saîd b. el-Museyyeb rivayet eder: Resulullah Sallallahu Aleyhi ve Sellem"
 "26","Zeyd b. Eslem rivayet eder: Resulullah bir gece Mekke yolunda konakladı. Kendilerini namaza kaldırması için de Bilal'i vazifelendirdi ve uyudu. Ashab da uyudu. (Bir süre sonra) Bilal da uyudu. Ancak güneş doğunca uyanabildiler. Uyanıp telaşa düşünce Resulullah Sallallahu Aleyhi ve Sellem hemen bineklerine binmelerini"
 "27","Ata b. Yesar'dan: Resulullah Sallallahu Aleyhi ve Sellem: «Sıcağın şiddeti"
-"28","وَذَكَرَ : « أَنَّ النَّارَ اشْتَكَتْ إِلَى رَبِّهَا، فَأَذِنَ لَهَا فِي كُلِّ عَامٍ بِنَفَسَيْنِ، نَفَسٍ فِي الشِّتَاءِ وَنَفَسٍ فِي الصَّيْفِ »(26). Ebu Hureyre'den: Resulullah Sallallahu Aleyhi ve Sellem: «Sıcak şiddetli olunca (öğle) namazını biraz te'hir edin; serin vakte bırakın"
+"28","Şöyle buyurmuştur: \"Ateş, Rabbine şikayette bulundu, O da ona her yıl, biri kışın, diğeri yazın olmak üzere iki nefes nefes almasına izin verdi\"(26). Ebu Hureyre'den: Resulullah Sallallahu Aleyhi ve Sellem: «Sıcak şiddetli sonunda (öğle) namazını biraz te'hir edin; Bu senin için işe yarayacak"
 "29","Ebu Hureyre'den: Resulullah Sallallahu Aleyhi ve Sellem buyurdular ki: «Çok sıcakta namazı biraz te'hir edin. Zira sıcaklığın şiddeti"
 "30","Said b. El Müseyyeb'den: Resulullah Sallallahu aleyhi ve Sellem buyurdular ki: «Şu bitkiden (sarmısaktan) yiyen mescitlerimize girip bizi sarmısak kokusuyla rahatsız etmesin.»"
 "31","İmam Malik"

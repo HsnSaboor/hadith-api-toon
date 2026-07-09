@@ -1,3 +1,5 @@
-hadiths[2]{hadithnumber,text}:
-"1839","Ebu Hureyre (r.a.)'den Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edildi: «İnsanların yakmış olduğu ateş"
-"1840","Ebu Hureyre r.a.'in: «Siz cehennem ateşini"
+hadiths[count]{hadithnumber,text}:
+"1839.1","Ebu Hureyre (r.a.)'den Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edildi: «İnsanların yakmış olduğu ateş"
+"1839.2","Ebu Hureyre (r.a.)'den Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edildi: «İnsanların yakmış olduğu ateş"
+"1840.1","Ebu Hureyre r.a.'in: «Siz cehennem ateşini"
+"1840.2","Ebu Hureyre r.a.'in: «Siz cehennem ateşini"

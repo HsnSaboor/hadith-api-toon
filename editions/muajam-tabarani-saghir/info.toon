@@ -1,3 +1,9 @@
+metadata:
+  book_id: muajam-tabarani-saghir
+  book_name: "muajam-tabarani-saghir"
+  total_hadiths: 0
+  available_languages: ""
+
 
 translations[2]{language,sections,path}:
 "en","3","translations/en"

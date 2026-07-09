@@ -1,3 +1,9 @@
+metadata:
+  book_id: qudsi
+  book_name: "qudsi"
+  total_hadiths: 0
+  available_languages: ""
+
 
 translations[13]{language,sections,path}:
 "bn","1","translations/bn"
@@ -14,5 +20,5 @@ translations[13]{language,sections,path}:
 "tr","1","translations/tr"
 "ur","1","translations/ur"
 
-sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_ta,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
 "  1","Forty Hadith Qudsi","الأحاديث القدسية","চল্লিশ হাদিস কুদসি","Forty Hadith Qudsi","Quarante Hadiths Qudsi","Empat Puluh Hadits Qudsi","Сорок хадисов Кудси","நாற்பது குத்ஸி ஹதீஸ்கள்","Kırk Kudsî Hadis","چالیس احادیث قدسی","1","40","1","40"

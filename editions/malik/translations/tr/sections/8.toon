@@ -1,6 +1,8 @@
-hadiths[40]{hadithnumber,text}:
-"287","Abdullah b. Ömer (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem"
-"288","Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: «Cemaatle kılınan namaz"
+hadiths[count]{hadithnumber,text}:
+"287.1","Abdullah b. Ömer (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem"
+"287.2","Abdullah b. Ömer (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem"
+"288.1","Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: «Cemaatle kılınan namaz"
+"288.2","Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: «Cemaatle kılınan namaz"
 "289","Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: «Nefsim ekinde olan (Allah)’a yemin ederim. İçimden öyle geçiyor ki odun toplatıp"
 "290","Zeyd b. Sabit (r.a.) dedi ki: «Farz namazlar hariç"
 "291","Said b. el-Müseyyeb'den: Resulullah Sallallahu Aleyhi ve Sellem; «Bizimle münafıklar arasındaki fark yatsı ile sabah namazında bulunmamızdır. Onlar bu iki vakte gelemezler"
@@ -13,6 +15,7 @@ hadiths[40]{hadithnumber,text}:
 "298","İmam Malik"
 "299","İmâm-ı Mâlik'den; Said b. Cübeyr'in buna benzer bir fetvasını duymuştum"
 "300","Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem buyurdular ki: «Sizden biri cemaate namaz kıldırdığı vakit namazı uzatmasın. Çünkü cemaatte zayıf"
+"301","Yahya bana Malik'ten Nafi'nin söylediğini nakletti"
 "302","Yahya b. Said rivayet eder: Bir adam Akik'de cemaate imamlık yapıyordu. Ömer b. Abdulaziz haber salarak onu imamlıktan men etti. İmam Malik der ki: Adamın babası belli olmadığı için onu imamlıktan men etti"
 "303","Enes b. Malik (r.a.) rivayet ediyor: Resulullah Sallallahu Aleyhi ve Sellem atla. giderken düştü"
 "304","Resul-i Ekrem'in zevcesi Aişe (r.anha) rivayet ederek der ki: Resulullah Sallallahu Aleyhi ve Sellem rahatsızdı"
@@ -37,5 +40,3 @@ hadiths[40]{hadithnumber,text}:
 "323","Kunfuz'un torunu Muhammed b. Zeyd"
 "324","Ubeydullah b. Esved el-Havlani'den: Resuluîlah Sallallahu Aleyhi ve Sellem'in hanımı Meymune'nin odasında idim. Namaz kılarken ayaklarına kadar uzanan bir entari giyer"
 "325","Hişam b. Urve babasından naklediyor: Kadının biri bana: «— Etek giymem zor oluyor. Entari ve baş örtüsüyle namaz kılabilir miyim?» diye sordu"
-"326","Ebu Hureyre r.a.'den: Resulullah Sallallahu Aleyhi ve Sellem Tebük seferinde öğle ile ikindiyi cemetti. İbn Abdilber"
-"327","Muaz b. Cebel anlatıyor: Resulullah Sallallahu Aleyhi ve Sellem ile beraber Tebük seferine çıkmıştık. Resulullah Sallallahu Aleyhi ve Sellem öğle ile ikindiyi"

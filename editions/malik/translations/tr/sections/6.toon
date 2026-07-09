@@ -1,11 +1,11 @@
-hadiths[10]{hadithnumber,text}:
-"246","Aişe r.anha anlattı: Bir gece Resûlullah Sallallahu Aleyhi ve Sellem teravih namazını kıldı. Cemaat de beraberinde kıldı"
-"247","Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem kesin emir vermeksizin Ramazanda teravih namazına teşvik ederek: «Kim inanarak ve Allah'ın rızasını düşünerek Ramazanı ihya ederse geçmiş günahları affolunur"
+hadiths[count]{hadithnumber,text}:
+"246.1","Aişe r.anha anlattı: Bir gece Resûlullah Sallallahu Aleyhi ve Sellem teravih namazını kıldı. Cemaat de beraberinde kıldı"
+"246.2","Aişe r.anha anlattı: Bir gece Resûlullah Sallallahu Aleyhi ve Sellem teravih namazını kıldı. Cemaat de beraberinde kıldı"
+"247.1","Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem kesin emir vermeksizin Ramazanda teravih namazına teşvik ederek: «Kim inanarak ve Allah'ın rızasını düşünerek Ramazanı ihya ederse geçmiş günahları affolunur"
+"247.2","Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem kesin emir vermeksizin Ramazanda teravih namazına teşvik ederek: «Kim inanarak ve Allah'ın rızasını düşünerek Ramazanı ihya ederse geçmiş günahları affolunur"
 "248","Abdurrahman b. Abdüîkari anlatır: Ramazan'da Hz. Ömer'le beraber mescide gittik. Cemaat dağınık vaziyette"
 "249","Saib b. Yezid'den: Hz. Ömer (r.a.)"
 "250","Yezid b. Ruman rivayet eder: Müslümanlar Hz. Ömer'in (r.a.) hilafeti zamanında"
 "251","A'rac rivayet eder: Ramazan da müslümanlar (Kunut dualarında) kafirlere beddua ediyorlardı. îmam"
 "252","Abdullah b. Ebî Bekir'den: Babam: «Ramazanda teravih namazından dönünce"
 "253","Urve'den: Hz. Aişe'nin azatlısı Zekvan"
-"254","Said b. Cübeyr yanındaki itimat ettiği bir adamdan"
-"255","Aişe r.anha anlatıyor: Resul-i Ekrem geceleri teheccüd namazı kıldığında"

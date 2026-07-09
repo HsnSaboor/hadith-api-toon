@@ -1,3 +1,9 @@
+metadata:
+  book_id: dehlawi
+  book_name: "dehlawi"
+  total_hadiths: 0
+  available_languages: ""
+
 
 translations[3]{language,sections,path}:
 "en","1","translations/en"

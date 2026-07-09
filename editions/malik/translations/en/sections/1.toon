@@ -1,11 +1,11 @@
-hadiths[31]{hadithnumber,text}:
-"1","He said"
-"2","Urwa said that A'isha"
+hadiths[count]{hadithnumber,text}:
+"1",""
+"2",""
 "3","Yahya related to me from Malik from Zayd ibn Aslam that Ata ibn Yasar said"
 "4","Yahya related to me from Malik from Yahya ibn Said from Amra bint Abd ar-Rahman that A'isha"
 "5","Yahya related to me from Malik from Zayd ibn Aslam from Ata ibn Yasar and from Busr ibn Said and from al-Araj-all of whom related it from Abu Hurayra - that the Messenger of Allah"
-"6","Yahya related to me from Malik from Nafi'"
-"7","Yahya related to me from Malik"
+"6","And he narrated to me from Malik, from his uncle Abu Suhayl ibn Malik, from his father, that 'Umar ibn al-Khattab wrote to Abu Musa: \"Pray Dhuhr when the sun declines, and 'Asr while the sun is white and clear before it turns yellow, and Maghrib when the sun has set. And delay 'Isha' as long as people are not asleep, and pray Subh while the stars are visible and intertwined, and recite in it two long chapters from the Mufassal.\""
+"7","Yahya related to me from Malik, from Hisham ibn Urwah, from his father, that Umar ibn al-Khattab wrote to Abu Musa al-Ash'ari: \"Pray the 'Asr prayer while the sun is white and clear, for the duration it takes a rider to travel three parasangs, and pray the 'Isha prayer between you and the first third of the night. If you delay, then until the middle of the night, and do not be among the heedless.\""
 "8","Yahya related to me from Malik from Hisham ibn Urwa from his father that Umar ibn al-Khattab wrote to Abu Musa al-Ashari that he should pray asr when the sun was still pure white so that a man could ride three farsakhs (before maghrib) and that he should pray Isha during the first third of the night"
 "9","Yahya related to me from Malik from Yazid ibn Ziyad that Abdullah ibn Rafi"
 "10","Yahya related to me from Malik from Ishaq ibn Abdullah ibn Abi Talha that Anas ibn Malik said"

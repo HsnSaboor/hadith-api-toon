@@ -1,8 +1,5 @@
-hadiths[7]{hadithnumber,text}:
-"1596","Sahl Ibn Abi Hathma a rapporté que des notables de sa tribu lui ont appris ce qui suit: «Abdallah Ibn Sahl et Mouhayssa"
-"1717","Abou Houraira a rapporté que l'Envoyé d'Allah r (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah) a dit: «Celui pour qui Allah"
-"1718","Yahia Ibn Sa'id a rapporté qu'un homme"
-"1719","Nafe' Ibn Joubair a rapporté que Osman Ibn Al-'As alla chez l'Envoyé d'Allah (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah) et lui dit: «J'éprouve une douleur qui me fait sentir la mort». L'Envoyé d'Allah r (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah) lui répondit: «Passe ta main là où tu sens la douleur"
-"1720","Aicha a rapporté que l'Envoyé d'Allah r (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah)"
-"1721","Amra Bint Abdul Rahman a rapporté que Abou Bakr Al Sid-diq était entré chez Aicha et la trouvait plaignante; une juive l'exorcisait"
-"1722","Zaid Ibn Aslam a rapporté qu'un homme"
+hadiths[count]{hadithnumber,text}:
+"1596.1","Sahl Ibn Abi Hathma a rapporté que des notables de sa tribu lui ont appris ce qui suit: «Abdallah Ibn Sahl et Mouhayssa"
+"1596.2","Sahl Ibn Abi Hathma a rapporté que des notables de sa tribu lui ont appris ce qui suit: «Abdallah Ibn Sahl et Mouhayssa"
+"1597.1","[1597] Malik m'a dit, sous l'autorité de Yahya bin Saeed, qu'il a dit : J'ai entendu Abu al-Hubab Saeed bin Yassar dire : J'ai entendu Abu Hurairah dire : J'ai entendu le Messager de Dieu, que Dieu le bénisse et lui accorde la paix, dire : On m'a ordonné de manger des villages. Ils disent : Yathrib, mais ça y est. Médine expulse les gens tout comme un four expulse les scories de fer.\\nMutta Imam Malik Hadith : 1597 Hadith arabe :"
+"1597.2","[1597] Malik m'a dit, sous l'autorité de Yahya bin Saeed, qu'il a dit : J'ai entendu Abu al-Hubab Saeed bin Yassar dire : J'ai entendu Abu Hurairah dire : J'ai entendu le Messager de Dieu, que Dieu le bénisse et lui accorde la paix, dire : On m'a ordonné de manger des villages. Ils disent : Yathrib, mais ça y est. Médine expulse les gens tout comme un four expulse les scories de fer.\\nMutta Imam Malik Hadith : 1597 Hadith arabe :"

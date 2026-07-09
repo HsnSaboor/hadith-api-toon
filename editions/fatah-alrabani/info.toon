@@ -1,3 +1,9 @@
+metadata:
+  book_id: fatah-alrabani
+  book_name: "fatah-alrabani"
+  total_hadiths: 0
+  available_languages: ""
+
 translations[2]{language,sections,path}:
 "en","1","translations/en"
 "ur","3","translations/ur"

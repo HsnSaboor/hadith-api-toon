@@ -1,2 +1,3 @@
-hadiths[1]{hadithnumber,text}:
-"1856","İmam Malik'den rivayet edildiğine göre Lokman Hekim oğluna vasiyet edip şöyle demiştir: «Yavrum! Alimlerle otur"
+hadiths[count]{hadithnumber,text}:
+"1856.1","İmam Malik'den rivayet edildiğine göre Lokman Hekim oğluna vasiyet edip şöyle demiştir: «Yavrum! Alimlerle otur"
+"1856.2","İmam Malik'den rivayet edildiğine göre Lokman Hekim oğluna vasiyet edip şöyle demiştir: «Yavrum! Alimlerle otur"

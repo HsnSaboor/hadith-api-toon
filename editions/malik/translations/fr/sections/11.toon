@@ -1,9 +1,9 @@
-hadiths[8]{hadithnumber,text}:
-"442","Sahl Ibn Abi Hathama a dit que la prière de la crainte (en cas de danger)"
-"443","Nafé a rapporté: «Quand on demandait Abdallah Ibn Omar"
-"444","Sa'id Ibn Al-Moussaiab"
-"446","Abdallah Ibn Abbas a rapporté: «Il y eut une éclipse .alors que l'Envoyé d'Allah (salallahou alayhi wa salam)r (Sur lui la grâce et la paix d'Allah) se trouvait avec les hommes. Il se leva pour prier avec eux"
-"447","Aicha"
-"448","Asma la fille de Abou Bakr AlSiddiq a rapporté: «Je vins trouver Aicha la femme du Prophète (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) et il y eut une éclipse du soleil"
-"449","Abbad Ibn Tamim a rapporté qu'il a entendu Abdallah Ibn Zaid Al-Mazini dire: «l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) se rendit au «moussalla» (lieu de la prière) pour faire la prière consacrée à l'obtention de la pluie"
-"450","Amr Ibn Chou'aib a rapporté: «quand l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) invoquait Allah pour obtenir de la pluie"
+hadiths[count]{hadithnumber,text}:
+"441.1","Yahya m'a raconté ce que Malik a dit"
+"441.2","Yahya m'a raconté ce que Malik a dit"
+"442.1","Sahl Ibn Abi Hathama a dit que la prière de la crainte (en cas de danger)"
+"442.2","Sahl Ibn Abi Hathama a dit que la prière de la crainte (en cas de danger)"
+"443.1","Nafé a rapporté: «Quand on demandait Abdallah Ibn Omar"
+"443.2","Nafé a rapporté: «Quand on demandait Abdallah Ibn Omar"
+"444.1","Sa'id Ibn Al-Moussaiab"
+"444.2","Sa'id Ibn Al-Moussaiab"

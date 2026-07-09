@@ -1,7 +1,9 @@
-hadiths[6]{hadithnumber,text}:
-"1395","Telah menceritakan kepada kami dari Malik dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dan dari [Abu Salamah bin Abdurrahman bin 'Auf] bahwa Rasulullah Shalla Allahu 'alaihi wa sallam memutuskan syuf'ah dari barang-barang yang belum dibagi di antara anggota persero"
-"1398","Yahya berkata Malik berkata; dari [Muhammad bin Umarah] dari [Abu Bakar bin Hazm] bahwa ['Utsman bin 'Affan] berkata; ""Jika telah di pasang batas-batas pada tanah"
-"1475","Telah menceritakan kepadaku Malik dari [Abdurrahman bin Abu 'Amrah Al Anshari] bahwa ibunya ingin berwasiat"
-"1476","Telah menceritakan kepadaku Malik dari [Yahya bin Said] berkata; ""Abdurrahman bin Abu Bakar meninggal ketika dia tertidur"
-"1477","Telah menceritakan kepadaku Malik dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam"
-"1478","Telah menceritakan kepadaku Malik dari [Nafi'] dari [Abdullah bin Umar] bahwa dia telah membebaskan anak hasil zina beserta dan ibunya"
+hadiths[count]{hadithnumber,text}:
+"1395.1","Telah menceritakan kepada kami dari Malik dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dan dari [Abu Salamah bin Abdurrahman bin 'Auf] bahwa Rasulullah Shalla Allahu 'alaihi wa sallam memutuskan syuf'ah dari barang-barang yang belum dibagi di antara anggota persero"
+"1395.2","Telah menceritakan kepada kami dari Malik dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dan dari [Abu Salamah bin Abdurrahman bin 'Auf] bahwa Rasulullah Shalla Allahu 'alaihi wa sallam memutuskan syuf'ah dari barang-barang yang belum dibagi di antara anggota persero"
+"1396.1","kata Malik"
+"1396.2","kata Malik"
+"1397.1","Malik meriwayatkan saya bahwa dia mendengar hal seperti itu dari Sulaiman bin Yasar. Malik berbicara tentang seorang laki-laki yang membeli salah satu mitra dalam sebuah properti bersama"
+"1397.2","Malik meriwayatkan saya bahwa dia mendengar hal seperti itu dari Sulaiman bin Yasar. Malik berbicara tentang seorang laki-laki yang membeli salah satu mitra dalam sebuah properti bersama"
+"1398.1","Yahya berkata Malik berkata; dari [Muhammad bin Umarah] dari [Abu Bakar bin Hazm] bahwa ['Utsman bin 'Affan] berkata; \"\"Jika telah di pasang batas-batas pada tanah"
+"1398.2","Yahya berkata Malik berkata; dari [Muhammad bin Umarah] dari [Abu Bakar bin Hazm] bahwa ['Utsman bin 'Affan] berkata; \"\"Jika telah di pasang batas-batas pada tanah"

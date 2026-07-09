@@ -1,10 +1,7 @@
-hadiths[9]{hadithnumber,text}:
-"1497","Nafi' (r.a)'den rivayete göre"
-"1498","Yahya b. Saıd (r.a)'dan rivayete göre o Saıd b. Müseyyeb'in şöyle dediğini aktardı. Bir kimse cariyesini ölümüne bağlı olarak azad etse bu müdebber cariyesi ile ilişkide bulunabilir. Bu cariyesini satmak veya bağışlama hakkı yoktur. Müdebber cariyenin çocukları da aynen kendisi gibidir. (Sadece imam-ı Malik'in Muvatta'ında geçmektedir)"
-"1607","Enes b. Malik'ten: Resulullah Sallallahu Aleyhi ve Sellem"
-"1608","Ebu Hureyre (r.a.) şöyle derdi: «Ben Medine'de ceylanları otlar halde görsem onları ürkütmem. Çünkü Resulullah Sallallahu Aleyhi ve Sellem «İki kara taşlığın arasındaki Medine haremdir» buyurdu"
-"1610","İmam Malik'e rivayet edildiğine göre bir adam: «Ben Medine'nin Esvaf mevkiinde bir kuş avladığım sırada Zeyd b. Sabit yanıma gelerek kuşu elimden alıp serbest bıraktı» dedi"
-"1611","Mu'minlerin annesi Aişe (r.anha) şunları anlattı: Resulullah Sallallahu Aleyhi ve Sellem"
-"1612","Hz. Aişe (r.anha) der ki Amir b. Fuheyre şöyle diyordu: «Ölümü tatmadan şiddetini hissettim. Korkak kimsenin ölümü tepesinden iner (beklemediği yönden gelir).»"
-"1613","Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: «Medine kapılarında melekler vardır. Oraya veba salgını ve Deccal giremez.»"
-"1614","Ebu Hakim oğlu İsmail'den: Ömer b. Abdulaziz'in şöyle de­diğini işittim: Resulullah Sallallahu Aleyhi ve Sellem'in (vefatından önceki) son sözü şu oldu: «Allah yahudileri ve hıristiyanları kahretsin. Onlar Nebilerinin mezarlarını mescidler edindiler. Arap diyarında iki din bir arada kalmayacaktır»"
+hadiths[count]{hadithnumber,text}:
+"1497.1","Nafi' (r.a)'den rivayete göre"
+"1497.2","Nafi' (r.a)'den rivayete göre"
+"1498.1","Yahya b. Saıd (r.a)'dan rivayete göre o Saıd b. Müseyyeb'in şöyle dediğini aktardı. Bir kimse cariyesini ölümüne bağlı olarak azad etse bu müdebber cariyesi ile ilişkide bulunabilir. Bu cariyesini satmak veya bağışlama hakkı yoktur. Müdebber cariyenin çocukları da aynen kendisi gibidir. (Sadece imam-ı Malik'in Muvatta'ında geçmektedir)"
+"1498.2","Yahya b. Saıd (r.a)'dan rivayete göre o Saıd b. Müseyyeb'in şöyle dediğini aktardı. Bir kimse cariyesini ölümüne bağlı olarak azad etse bu müdebber cariyesi ile ilişkide bulunabilir. Bu cariyesini satmak veya bağışlama hakkı yoktur. Müdebber cariyenin çocukları da aynen kendisi gibidir. (Sadece imam-ı Malik'in Muvatta'ında geçmektedir)"
+"1499.1","Malik dedi"
+"1499.2","Malik dedi"

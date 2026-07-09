@@ -1,9 +1,5 @@
-hadiths[8]{hadithnumber,text}:
-"1596","Telah menceritakan kepadaku Yahya dari Malik dari [Abu Laila bin Abdullah bin Abdurrahman bin Sahl] dari [Sahl bin Abu Hatsmah] bahwa ada beberapa orang petinggi kaumnya mengabarkan kepadanya"
-"1597","Yahya berkata; dari Malik dari [Yahya bin Sa'id] dari [Busyair bin Yasar] bahwa ia mengabarkan kepadanya"
-"1717","Telah menceritakan kepadaku Malik dari [Muhammad bin Abdullah bin Abu Sha'sha'ah] ia berkata; Aku mendengar [Abu Hubab Sa'id bin Yasar] berkata; Aku mendengar [Abu Hurairah] berkata"
-"1718","Telah menceritakan kepadaku dari Malik dari [Yahya bin Sa'id] berkata"
-"1719","Telah menceritakan kepadaku dari Malik dari [Yazid bin Khushaifah] bahwa ['Amru bin Abdullah bin Ka'b Al Aslami] mengabarkan kepadanya"
-"1720","Telah menceritakan kepadaku Malik dari [Ibnu Syihab] dari ['Urwah bin Zubair] dari [Aisyah] berkata"
-"1721","Telah menceritakan kepadaku dari Malik dari [Yahya bin Sa'id] dari ['Amrah binti Abdurrahman] bahwa [Abu Bakar As Shiddiq] pernah menemui Aisyah yang saat itu sedang sakit"
-"1722","Telah menceritakan kepadaku dari Malik dari dari [Zaid bin Aslam] bahwa pada masa Rasulullah shallallahu 'alaihi wasallam ada seorang laki-laki menderita luka yang mengeluarkan darah. Kemudian dia memanggil dua orang dari Bani Anmar"
+hadiths[count]{hadithnumber,text}:
+"1596.1","Telah menceritakan kepadaku Yahya dari Malik dari [Abu Laila bin Abdullah bin Abdurrahman bin Sahl] dari [Sahl bin Abu Hatsmah] bahwa ada beberapa orang petinggi kaumnya mengabarkan kepadanya"
+"1596.2","Telah menceritakan kepadaku Yahya dari Malik dari [Abu Laila bin Abdullah bin Abdurrahman bin Sahl] dari [Sahl bin Abu Hatsmah] bahwa ada beberapa orang petinggi kaumnya mengabarkan kepadanya"
+"1597.1","Yahya berkata; dari Malik dari [Yahya bin Sa'id] dari [Busyair bin Yasar] bahwa ia mengabarkan kepadanya"
+"1597.2","Yahya berkata; dari Malik dari [Yahya bin Sa'id] dari [Busyair bin Yasar] bahwa ia mengabarkan kepadanya"

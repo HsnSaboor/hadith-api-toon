@@ -1,3 +1,9 @@
+metadata:
+  book_id: silsila-sahih
+  book_name: "silsila-sahih"
+  total_hadiths: 0
+  available_languages: ""
+
 
 translations[2]{language,sections,path}:
 "en","27","translations/en"

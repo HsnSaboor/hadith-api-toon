@@ -1,2 +1,3 @@
-hadiths[1]{hadithnumber,text}:
-"1857","Zaid Ibn Aslam a rapporté d'après son père que Omar Ibn Al-Khattab avait attribué à son affranchi appelé Hounaii"
+hadiths[count]{hadithnumber,text}:
+"1857.1","Zaid Ibn Aslam a rapporté d'après son père que Omar Ibn Al-Khattab avait attribué à son affranchi appelé Hounaii"
+"1857.2","Zaid Ibn Aslam a rapporté d'après son père que Omar Ibn Al-Khattab avait attribué à son affranchi appelé Hounaii"

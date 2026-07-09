@@ -1,3 +1,9 @@
+metadata:
+  book_id: lulu-wal-marjan
+  book_name: "lulu-wal-marjan"
+  total_hadiths: 0
+  available_languages: ""
+
 
 translations[3]{language,sections,path}:
 "en","55","translations/en"

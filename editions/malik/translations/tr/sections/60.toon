@@ -1,2 +1,3 @@
-hadiths[1]{hadithnumber,text}:
-"1857","Zeyd b. Eslem (r.a)'in babasından rivayete göre"
+hadiths[count]{hadithnumber,text}:
+"1857.1","Zeyd b. Eslem (r.a)'in babasından rivayete göre"
+"1857.2","Zeyd b. Eslem (r.a)'in babasından rivayete göre"

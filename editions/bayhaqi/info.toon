@@ -1,6 +1,34 @@
 
-translations[2]{language,sections,path}:
-"en","71","translations/en"
-"ur","71","translations/ur"
+metadata:
+  book_id: bayhaqi
+  book_name: "bayhaqi"
+  total_hadiths: 21815
+  available_languages: "en,ur"
+  intro: "As-Sunan al-Kubra li al-Bayhaqi, also known as al-Sunan al-Kabir, is a collection of hadith and athar compiled by Imam Abu Bakr Ahmad ibn al-Husayn ibn `Ali al-Bayhaqi (d. 458 AH/1066 CE - rahimahullah). It is a major topical collection arranged by legal chapters, gathering reports from the Prophet Muhammad (ﷺ) together with reports from the Companions and early authorities, often with variant routes and hadith-critical discussion. Its stature is reflected in al-Dhahabī’s praise: he counted al-Bayhaqī’s al-Sunan al-Kabīr alongside Ibn Ḥazm’s al-Muḥallā, Ibn Qudāmah’s al-Mughnī, and Ibn ʿAbd al-Barr’s al-Tamhīd as works whose deep study makes one “the true scholar.” It contains approximately 22,000 reports."
+  intro_ar: "السنن الكبرى للبيهقي، والمعروفة أيضًا باسم السنن الكبير، هي مجموعة من الأحاديث والآثار جمعها الإمام أبو بكر أحمد بن الحسين بن علي البيهقي (ت 458 هـ / 1066 م - رحمه الله). وهي مجموعة موضوعية كبيرة مرتبة حسب الأبواب الفقهية، تجمع أحاديث النبي محمد (ﷺ) مع آثار الصحابة والسلف، وغالبًا ما تتضمن طرقًا مختلفة ومناقشات حديثية نقدية. مكانتها تنعكس في مدح الذهبي: فقد عد السنن الكبير للبيهقي إلى جانب المحلى لابن حزم، والمغني لابن قدامة، والتمهيد لابن عبد البر من الأعمال التي تجعل من يدرسها بعمق \"العالم الحقيقي\". يحتوي على ما يقرب من 22,000 حديث."
 
-sections[71]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}: 1,"Sunan Al-Kubra Bayhaqi","সুনান আল-কুবরা বায়হাকি","Sunan Al-Kubra Bayhaqi","Sunan Al-Kubra Bayhaqi","Sunan Al-Kubra Bayhaqi","Sunan Al-Kubra Bayhaqi","Сунан аль-Кубра Байхаки","Sunan Al-Kubra Beyhaki","سنن الکبریٰ بیحقی",1,124
+translations[3]{language,sections,path}:
+"en","19","translations/en"
+"ur","19","translations/ur"
+"ar","19","translations/ar"
+
+sections[19]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+"1","The Book of Purification","كتاب الطهارة","পবিত্রতার কিতাব","The Book of Purification","Le Livre de la Purification","Kitab Thaharah","Книга очищения","Taharet Kitabı","کتاب الطہارت","1","1148","1","1148"
+"2","The Book of Menstruation","كتاب الحيض","হায়েজের কিতাব","The Book of Menstruation","Le Livre de la Menstruation","Kitab Haid","Книга менструации","Hayız Kitabı","کتاب الحیض","1149","2296","1149","2296"
+"3","The Book of Friday","كتاب الجمعة","জুমার কিতাব","The Book of Friday","Le Livre du Vendredi","Kitab Jumat","Книга пятницы","Cuma Kitabı","کتاب الجمعہ","2297","3444","2297","3444"
+"4","The Book of Pilgrimage","كتاب الحج","হজ্জের কিতাব","The Book of Pilgrimage","Le Livre du Pèlerinage","Kitab Haji","Книга хаджа","Hac Kitabı","کتاب الحج","3445","4592","3445","4592"
+"5","The Book of Sales","كتاب البيوع","বাইয়ের কিতাব","The Book of Sales","Le Livre des Ventes","Kitab Jual Beli","Книга продаж","Büyu Kitabı","کتاب البیع","4593","5740","4593","5740"
+"6","The Book of Interdiction","كتاب الحجر","হাজরের কিতাব","The Book of Interdiction","Le Livre de l'Interdiction","Kitab Hajr","Книга запрета","Hacir Kitabı","کتاب الحجر","5741","6888","5741","6888"
+"7","The Book of Borrowing","كتاب العارية","আরিয়তের কিতাব","The Book of Borrowing","Le Livre du Prêt","Kitab Ariyah","Книга заимствования","Ariyet Kitabı","کتاب العاریہ","6889","8036","6889","8036"
+"8","The Book of Mudarabah","كتاب القراض","মুদারাবার কিতাব","The Book of Mudarabah","Le Livre de la Mudarabah","Kitab Mudharabah","Книга мударабы","Mudarebe Kitabı","کتاب المضاربت","8037","9187","8037","9187"
+"9","The Book of Hiring","كتاب الإجارة","ইজারার কিতাব","The Book of Hiring","Le Livre du Louage","Kitab Ijarah","Книга найма","İcare Kitabı","کتاب الاجارہ","9188","10335","9188","10335"
+"10","The Book of Wills","كتاب الوصايا","ওসিয়তের কিতাব","The Book of Wills","Le Livre des Testaments","Kitab Wasiat","Книга завещаний","Vasiyet Kitabı","کتاب الوصیت","10336","11483","10336","11483"
+"11","The Book of Revocation","كتاب الرجعة","ফাস্খের কিতাব","The Book of Revocation","Le Livre de la Révocation","Kitab Rujuk","Книга отмены","Rücu Kitabı","کتاب الفسخ","11484","12631","11484","12631"
+"12","The Book of Ila","كتاب الإيلاء","ইলার কিতাব","The Book of Ila","Le Livre d'Ila","Kitab Ila'","Книга ила","Îlâ Kitabı","کتاب الایلا","12632","13779","12632","13779"
+"13","The Book of Zihar","كتاب الظهار","জিহারের কিতাব","The Book of Zihar","Le Livre du Zihar","Kitab Zihar","Книга зихара","Zıhar Kitabı","کتاب الظہار","13780","14927","13780","14927"
+"14","The Book of Waiting Periods","كتاب العدد","ইদ্দতের কিতাব","The Book of Waiting Periods","Le Livre des Périodes d'Attente","Kitab Iddah","Книга выжидания","İddet Kitabı","کتاب العدة","14928","16075","14928","16075"
+"15","The Book of Maintenance","كتاب النفقات","নাফাকার কিতাব","The Book of Maintenance","Le Livre de la Pension","Kitab Nafkah","Книга содержания","Nafaka Kitabı","کتاب النفقہ","16076","17223","16076","17223"
+"16","The Book of Drinks and Their Punishment","كتاب الأشربة والحد فيها","পানীয় ও তাদের শাস্তি গ্রন্থ","The Book of Drinks and Their Punishment","Le Livre des Boissons et de Leur Punition","Kitab Minuman dan Hukumannya","Книга напитков и их наказания","İçecekler ve Cezaları Kitabı","کتابِ مشروبات اور اُن کی سزا","17224","18371","17224","18371"
+"17","The Book of Sacrifices","كتاب الضحايا","কুরবানী গ্রন্থ","The Book of Sacrifices","Le Livre des Sacrifices","Kitab Kurban","Книга жертвоприношений","Kurbanlar Kitabı","کتابِ قربانیاں","18372","19519","18372","19519"
+"18","The Book of Testimonies","كتاب الشهادات","সাক্ষ্য গ্রন্থ","The Book of Testimonies","Le Livre des Témoignages","Kitab Persaksian","Книга свидетельств","Şahitlikler Kitabı","کتابِ شہادات","19520","20667","19520","20667"
+"19","The Book of Emancipation of Mothers of Children","كتاب عتق أمهات الأولاد","মাতৃগণের মুক্তি গ্রন্থ","The Book of Emancipation of Mothers of Children","Le Livre de l'Émancipation des Mères d'Enfants","Kitab Pembebasan Ibu Para Anak","Книга освобождения матерей детей","Çocukların Annelerinin Azat Edilmesi Kitabı","کتابِ عتقِ امہاتِ اولاد","20668","21818","20668","21818"

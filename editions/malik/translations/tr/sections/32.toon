@@ -1,13 +1,5 @@
-hadiths[12]{hadithnumber,text}:
-"1450","Said b. el-Müseyyeb (r.a.)'den: Ömer b. Hattab (r.a.)"
-"1451","İbn Şihab der ki: Ömer b. Hattab (r.a.) zamanında yitik develer"
-"1452","Şurahbîl b. Said'den: Sa'd b. Ubade"
-"1453","Nebi s.a.v.'in hanımı Hz. Aişe'den: Bir adam Resulul­lah Sallallahu Aleyhi ve Sellem'e: «Annem aniden öldü. Sanıyorum ki konuşabilseydi"
-"1454","İmam Malik'e şöyle rivayet edildi: el-Haris b. el-Hazreç oğullarından olan Ensardan bir adam"
-"1455","Abdullah b. Ömer (r.a)'den rivayete göre"
-"1456","Amr b. Süleym ez Züraki (r.a)'ın haber verdiğine göre"
-"1458","Amir b. Sa'd b. ebi Vakkas (r.a.)'nın babasından rivayetle şöyle demiştir: ""Veda haccı senesi hastalığım ın artması üzerine Rasulullah Sallallahu Aleyhi ve Sellem beni ziyarete gelmişti. Ona: ""Ey Allah'ın Rasulü! Gördüğün gibi hastalığım çok şiddetlendi. Ben mal mülk sahibi biriyim. Kızımdan başka da varisim yok. Malımın üçte ikisini ona verebilir miyim?"" Rasulullah Sallallahu Aleyhi ve Sellem: ""Hayır"" dedi. Ben de: ""Peki yarısını verebilir miyim?"" dedim Yine: ""Hayır"" buyurdu. Sonra Rasulullah Sallallahu Aleyhi ve Sellem: ""Üçte birini verebilirsin; o da çoktur ama varislerini zengin bırakman"
-"1459","Hişam b. Urve (r.a)'ın babasından rivayete göre"
-"1460","Yahya b. Said (r.a)'den rivayete göre"
-"1462","Ömer b. Abdurrahman b. Delaf el Müzeni (r.a) babasından rivayet ederek şöyle demiştir: ""Cüheyne kabilesinden bir adam hacıları yarışmada geçer ve develeri onların ellerinden satın alır ve bu develerden kar sağlardı. Sonra yine yarış eder hacıları geçerdi. Daha sonraları bu kişi iflas etti. Durum Ömer b. Hattab'a aktarıldı. O da şöyle dedi: ""Bundan sonra ey insanlar Üseyfia"
-"1465","Muhammed b. Sirin (r.a.)'dan rivayete göre"
+hadiths[count]{hadithnumber,text}:
+"1386.1","Malik bana Zeyd ibn Eslem'den babasının şöyle dediğini nakletti:"
+"1386.2","Malik bana Zeyd ibn Eslem'den babasının şöyle dediğini nakletti:"
+"1387.1","Malik bana, el-Ala ibn Abdurrahman'dan, o da babasından, o da babasından, Osman ibn Affan'ın, kârın aralarında paylaşılması şartıyla kullanmak üzere kendisine kırad olarak bir miktar para verdiğini anlattı."
+"1387.2","Malik bana, el-Ala ibn Abdurrahman'dan, o da babasından, o da babasından, Osman ibn Affan'ın, kârın aralarında paylaşılması şartıyla kullanmak üzere kendisine kırad olarak bir miktar para verdiğini anlattı."

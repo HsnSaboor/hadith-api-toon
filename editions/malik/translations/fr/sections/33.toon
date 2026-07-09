@@ -1,5 +1,5 @@
-hadiths[4]{hadithnumber,text}:
-"1389","Soulaiman Ibn Yassar a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah) envoya à Khaibar Abdallah Ibn Rawaha"
-"1466","Mouhammad Ibn Sirine a rapporté qu'un homme"
-"1467","Malek a rapporté qu'il a entendu Ibn Chéhab dire: «La sounna exige que"
-"1468","Omar Ibn Al-Khattab a dit: «Toute esclave qui met au monde"
+hadiths[count]{hadithnumber,text}:
+"1388.1","Malik a dit"
+"1388.2","Malik a dit"
+"1389.1","Soulaiman Ibn Yassar a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah) envoya à Khaibar Abdallah Ibn Rawaha"
+"1389.2","Soulaiman Ibn Yassar a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah) envoya à Khaibar Abdallah Ibn Rawaha"

@@ -1,5 +1,6 @@
 metadata:
-  source: "HadithUnlocked.com (Machine-assisted drafts)"
-  name: "English Translation"
-  language: "en"
-  total_hadiths: 21846
+  language: en
+  language_name: English
+  script: Latin
+  total_hadiths: 21815
+  source: "hadith-new"

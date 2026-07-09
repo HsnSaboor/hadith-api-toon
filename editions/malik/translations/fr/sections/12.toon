@@ -1,8 +1,9 @@
-hadiths[7]{hadithnumber,text}:
-"445","Aicha "
-"446","Abdallah Ibn Abbas a rapporté: «Il y eut une éclipse .alors que l'Envoyé d'Allah (salallahou alayhi wa salam)r (Sur lui la grâce et la paix d'Allah) se trouvait avec les hommes. Il se leva pour prier avec eux"
-"447","Aicha"
-"448","Asma la fille de Abou Bakr AlSiddiq a rapporté: «Je vins trouver Aicha la femme du Prophète (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) et il y eut une éclipse du soleil"
-"451","Anas Ibn Malek a rapporté qu'un homme vint trouver l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) et il lui dit: «Ô Envoyé d'Allah! les troupeaux ont péri"
-"452","Zaid Ibn Khaled Al-Jouhani a rapporté: «l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) nous fit la prière de l'aube à «Al-Houdaibia» après qu'il ait plu toute la nuit. La prière achevée"
-"454","On rapporta à Malek que l'Envoyé d'Allah (salallahou alayhi wa salam) r Sur lui la grâce et la paix d'Allah disait: «Si un nuage se trouve au-dessus de la mer puis il s'avance vers l'est (litt du côté de Syrie)"
+hadiths[count]{hadithnumber,text}:
+"445.1","Aicha "
+"445.2","Aicha "
+"446.1","Abdallah Ibn Abbas a rapporté: «Il y eut une éclipse .alors que l'Envoyé d'Allah (salallahou alayhi wa salam)r (Sur lui la grâce et la paix d'Allah) se trouvait avec les hommes. Il se leva pour prier avec eux"
+"446.2","Abdallah Ibn Abbas a rapporté: «Il y eut une éclipse .alors que l'Envoyé d'Allah (salallahou alayhi wa salam)r (Sur lui la grâce et la paix d'Allah) se trouvait avec les hommes. Il se leva pour prier avec eux"
+"447.1","Aicha"
+"447.2","Aicha"
+"448.1","Asma la fille de Abou Bakr AlSiddiq a rapporté: «Je vins trouver Aicha la femme du Prophète (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) et il y eut une éclipse du soleil"
+"448.2","Asma la fille de Abou Bakr AlSiddiq a rapporté: «Je vins trouver Aicha la femme du Prophète (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) et il y eut une éclipse du soleil"

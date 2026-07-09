@@ -1,9 +1,9 @@
-hadiths[8]{hadithnumber,text}:
-"445","Yahya related to me from Malik from Hisham ibn Urwa from his father that A'isha"
-"446","Yahya related to me from Malik from Zayd ibn Aslam from Ata ibn Yasar that Abdullah ibn Abbas said"
-"447","Yahya related to me from Malik from Yahya ibn Said from 'Amra bint Abd ar-Rahman from A'isha"
-"448","Yahya related to me from Malik from Hisham ibn Urwa from Fatima bint al Mundhir that Asma bint Abi Bakr as-Siddiq said"
-"451","Yahya related to me from Malik from Sharik ibn Abdullah ibn Abi Namir that Anas ibn Malik said"
-"452","Yahya related to me from Malik from Salih ibn Kaysan from Ubaydullah ibn Abdullah ibn Utba ibn Masud that Zayd ibn Khalid al- Juhani said"
-"453","Yahya related to me from Malik that he had heard that the Messenger of Allah"
-"454","Yahya related to me from Malik that he had heard that Abu Hurayra used to say"
+hadiths[count]{hadithnumber,text}:
+"445.1","Yahya related to me from Malik from Hisham ibn Urwa from his father that A'isha"
+"445.2",""
+"446.1","Yahya related to me from Malik from Zayd ibn Aslam from Ata ibn Yasar that Abdullah ibn Abbas said"
+"446.2","Yahya related to me from Malik from Zayd ibn Aslam from Ata ibn Yasar that Abdullah ibn Abbas said"
+"447.1","Yahya related to me from Malik from Yahya ibn Said from 'Amra bint Abd ar-Rahman from A'isha"
+"447.2","Yahya related to me from Malik from Yahya ibn Said from 'Amra bint Abd ar-Rahman from A'isha"
+"448.1","Yahya related to me from Malik from Hisham ibn Urwa from Fatima bint al Mundhir that Asma bint Abi Bakr as-Siddiq said"
+"448.2","Yahya related to me from Malik from Hisham ibn Urwa from Fatima bint al Mundhir that Asma bint Abi Bakr as-Siddiq said"

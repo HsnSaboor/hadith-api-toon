@@ -1,2 +1,3 @@
-hadiths[1]{hadithnumber,text}:
-"1856","On rapporta à Malek que Loqman al-Hakim conseillant son fils"
+hadiths[count]{hadithnumber,text}:
+"1856.1","On rapporta à Malek que Loqman al-Hakim conseillant son fils"
+"1856.2","On rapporta à Malek que Loqman al-Hakim conseillant son fils"

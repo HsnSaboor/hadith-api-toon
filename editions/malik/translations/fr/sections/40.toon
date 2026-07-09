@@ -1,8 +1,7 @@
-hadiths[7]{hadithnumber,text}:
-"1498","Yahia Ibn Sa'id a rapporté que Sa'id Ibn Al-Moussaiab disait: «Au cas où l'homme affranchit à date posthume"
-"1607","Anas Ibn Malek a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) regardant le mont Ouhod"
-"1608","Sa'id Ibn Al Moussaiab a rapporté que Abou Houraira disait: «Si j'avais vu les gazelles broutant l'herbe à Médine"
-"1609","Ata Ibn Yassar a rapporté que Abou Ayoub al-Ansari a trouvé à Médine"
-"1611","Aicha"
-"1613","Abou Houraira a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «Les anges gardent les entrées de Médine; ni la peste"
-"1614","Ismail Ibn Hakim a rapporté que Omar Ibn Abdul Aziz disait: «Les dernières paroles dites par l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) (lors de sa maladie) sont: «Que Allah maudisse les juifs et les chrétiens qui ont pris les tombeaux de leurs prophètes"
+hadiths[count]{hadithnumber,text}:
+"1497.1","Malik m'a parlé d'un homme qui écrivait un kitaba pour son esclave contre de l'or ou de l'argent et qui stipulait contre lui dans son kitaba un voyage"
+"1497.2","Malik m'a parlé d'un homme qui écrivait un kitaba pour son esclave contre de l'or ou de l'argent et qui stipulait contre lui dans son kitaba un voyage"
+"1498.1","Yahia Ibn Sa'id a rapporté que Sa'id Ibn Al-Moussaiab disait: «Au cas où l'homme affranchit à date posthume"
+"1498.2","Yahia Ibn Sa'id a rapporté que Sa'id Ibn Al-Moussaiab disait: «Au cas où l'homme affranchit à date posthume"
+"1499.1","Malik a dit"
+"1499.2","Malik a dit"

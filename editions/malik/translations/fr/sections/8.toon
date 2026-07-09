@@ -1,6 +1,8 @@
-hadiths[39]{hadithnumber,text}:
-"287","Abdallah Ibn Omar a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «la prière en commun surpasse de vingt-sept degrés"
-"288","• Abou Houraira a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «la prière en commun est de vingt-cinq fois de plus valorisée que celle de l'un de vous s'il la fait tout seul»"
+hadiths[count]{hadithnumber,text}:
+"287.1","Abdallah Ibn Omar a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «la prière en commun surpasse de vingt-sept degrés"
+"287.2","Abdallah Ibn Omar a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «la prière en commun surpasse de vingt-sept degrés"
+"288.1","• Abou Houraira a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «la prière en commun est de vingt-cinq fois de plus valorisée que celle de l'un de vous s'il la fait tout seul»"
+"288.2","• Abou Houraira a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «la prière en commun est de vingt-cinq fois de plus valorisée que celle de l'un de vous s'il la fait tout seul»"
 "289","Abou Houraira a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «par celui qui a mon âme en sa main! Je pensais ordonner qu'on m'apporte du bois"
 "290","Zaid Ibn Thabet a dit: «les meilleures prières sont celles que vous faites chez vous"
 "291","Sa'id Ibn Al Moussaiab a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «ce qui nous distingue des hypocrites"
@@ -8,6 +10,8 @@ hadiths[39]{hadithnumber,text}:
 "293","Abou Bakr Ibn Soulaiman Ibn Abi Hathama a rapporté que Omar Ibn Al Khattab ne trouva pas Soulaiman Ibn Abi Hathama (dans la mosquée) à la prière de l'aurore. Puis Omar se rendit au marché sachant que la demeure de Soulaiman se trouvait sur le chemin entre le marché et la mosquée du Prophète (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah). Passant par «Al-Chifa»"
 "294","Abdel-Rahman Ibn Abi Amra Al-Ansari a rapporté: «Osman Ibn Affan se rendit à la mosquée pour faire la prière du soir en commun. Comme les hommes étaient peu nombreux"
 "295","Mihjan a rapporté: «Se trouvant avec l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) dans une assemblée"
+"296","Yahya m'a raconté de Malik de Nafi qu'un homme a demandé à Abdullah ibn Umar"
+"297","Yahya m'a entendu de Malik de Yahya ibn Said qu'un homme a demandé à Said ibn al-Musayyab"
 "298","Afif Al-Sahmi a rapporté qu'un homme de Bani Assad demanda à Abou Ayoub Al-Ansari: «Je fais la prière chez moi"
 "299","Nafé a rapporté que Abdallah Ibn Omar disait: «Celui qui a fait la prière du coucher du soleil ou celle de l'aurore"
 "300","Abou Houraira a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «si l'un de vous préside la prière"
@@ -36,5 +40,3 @@ hadiths[39]{hadithnumber,text}:
 "323","Mouhammad Ibn Zaid Ibn Quonfoz a rapporté que sa mère a demandé à Oum Salama la femme de Prophète (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah) «Que doit mettre une femme pour prier»? Elle lui répondit: «elle doit mettre le voile"
 "324","Bousr Ibn Sa'id a rapporté que Oubaidallah Ibn Al-Aswad Al Khawlani"
 "325","Hicham Ibn Ourwa a rapporté qu'une femme demanda à son père: «l'izar me cause de la douleur"
-"326","Abou Houraira a rapporté que «l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) avait réuni"
-"327","Mou'az Ibn Jabal a rapporté"

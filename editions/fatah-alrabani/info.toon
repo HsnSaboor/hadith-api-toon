@@ -4,8 +4,7 @@ metadata:
   total_hadiths: 89
   available_languages: "ar,en,ur"
 
-translations[3]{language,sections,path}:
-"ar","4","translations/ar"
+translations[2]{language,sections,path}:
 "en","3","translations/en"
 "ur","3","translations/ur"
 

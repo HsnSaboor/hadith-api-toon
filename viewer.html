@@ -664,12 +664,12 @@
 
                 for (const line of dataLines) {
                     const parts = parseToonLine(line);
-                    if (parts.length < 4) continue;
+                    if (parts.length < 2) continue;
 
                     const hadithNum = parts[0];
                     const arabic = parts[1];
-                    const grades = parts[2];
-                    const reference = parts[3];
+                    const grades = parts.length > 2 ? parts[2] : '';
+                    const reference = parts.length > 3 ? parts[3] : '';
                     const translation = translations[hadithNum] || '';
                     
                     const isStarred = isBookmarked(currentBook.id, hadithNum);

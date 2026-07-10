@@ -124,22 +124,43 @@ metadata:
 Start by fetching `info.toon` to get all 25 books with their metadata:
 
 ```js
-const response = await fetch('https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/info.toon');
+// Quote-aware positional field splitter
+function parseToonLine(line) {
+  const result = [];
+  let current = '', inQuotes = false, i = 0;
+  while (i < line.length) {
+    const char = line[i];
+    if (inQuotes) {
+      if (char === '"') {
+        if (i + 1 < line.length && line[i + 1] === '"') { current += '"'; i += 2; }
+        else { inQuotes = false; i++; }
+      } else { current += char; i++; }
+    } else {
+      if (char === '"') { inQuotes = true; i++; }
+      else if (char === ',') { result.push(current); current = ''; i++; }
+      else { char !== '\r' ? current += char : null; i++; }
+    }
+  }
+  result.push(current);
+  return result;
+}
+
+const response = await fetch('https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon');
 const text = await response.text();
 const lines = text.split('\n').filter(l => l.trim());
 
 // Parse header to get column names
 const header = lines[0];
-const cols = header.match(/\{(.+)\}/)[1].split(',');
+const cols = header.match(/\{(.+)\}/)[1].split(',').map(c => c.trim());
 
 // Parse book rows
 const books = lines.slice(1).map(line => {
-  const vals = parseCSVLine(line); // use proper CSV parser
-  return Object.fromEntries(cols.map((col, i) => [col, vals[i]]));
+  const vals = parseToonLine(line);
+  return Object.fromEntries(cols.map((col, i) => [col, vals[i] || '']));
 });
 
 // Now you have all books with: id, name, total_hadiths, available_languages, path
-console.log(books[0]); // { id: 'bukhari', name: 'Sahih al-Bukhari', ... }
+console.log(books[0]); // { id: 'abdurrazzaq', name: 'Musannaf Abdur Razzaq', ... }
 ```
 
 **Step 2: Load book metadata**
@@ -151,7 +172,7 @@ Fetch `editions/{book}/info.toon` to get:
 - Book introduction in multiple languages
 
 ```js
-const bookInfo = await fetch(`https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/editions/bukhari/info.toon`);
+const bookInfo = await fetch(`https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/info.toon`);
 // Parse to get:
 // - translations table: language, sections, path
 // - sections table: id, name, name_ar, name_bn, name_en, name_fr, name_id, name_ru, name_tr, name_ur, hadith_first, hadith_last
@@ -168,20 +189,58 @@ Section files contain Arabic text and metadata. Translation files contain only `
 ### JavaScript Example
 
 ```js
+// Quote-aware positional field splitter
+function parseToonLine(line) {
+  const result = [];
+  let current = '', inQuotes = false, i = 0;
+  while (i < line.length) {
+    const char = line[i];
+    if (inQuotes) {
+      if (char === '"') {
+        if (i + 1 < line.length && line[i + 1] === '"') { current += '"'; i += 2; }
+        else { inQuotes = false; i++; }
+      } else { current += char; i++; }
+    } else {
+      if (char === '"') { inQuotes = true; i++; }
+      else if (char === ',') { result.push(current); current = ''; i++; }
+      else { char !== '\r' ? current += char : null; i++; }
+    }
+  }
+  result.push(current);
+  return result;
+}
+
 async function fetchSection(book, sectionId) {
-  const url = `https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/editions/${book}/sections/${sectionId}.toon`;
+  const url = `https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/${book}/sections/${sectionId}.toon`;
   const text = await fetch(url).then(r => r.text());
-  const lines = text.split('\n').filter(l => l.trim());
-
-  const headerLine = lines[0];
-  const cols = headerLine.match(/\{(.+)\}/)[1].split(',');
-  const hadiths = lines.slice(1).map(line => {
-    const vals = parseCSVLine(line); // use proper CSV parser
-    const row = {};
-    cols.forEach((col, i) => (row[col] = vals[i] || ''));
-    return row;
-  });
-
+  
+  const headerMatch = text.match(/^([A-Za-z_]+)\[(?:count|\d+)\]\{([^}]+)\}\s*:/);
+  if (!headerMatch) return null;
+  
+  const cols = headerMatch[2].split(',').map(f => f.trim());
+  const rest = text.substring(headerMatch[0].length);
+  
+  const lines = rest.split('\n');
+  const hadiths = [];
+  let currentRebuiltRow = '';
+  let inQuote = false;
+  
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed) continue;
+    
+    currentRebuiltRow += (currentRebuiltRow ? '\n' : '') + line;
+    const quotesCount = (trimmed.replace(/""/g, '').match(/"/g) || []).length;
+    if (quotesCount % 2 === 1) inQuote = !inQuote;
+    
+    if (!inQuote) {
+      const vals = parseToonLine(currentRebuiltRow);
+      const row = {};
+      cols.forEach((col, i) => (row[col] = vals[i] || ''));
+      hadiths.push(row);
+      currentRebuiltRow = '';
+    }
+  }
   return { columns: cols, hadiths };
 }
 
@@ -194,26 +253,36 @@ console.log(hadiths[0].english);  // English text
 ### Python Example
 
 ```python
-import csv, io, requests
+import csv, io, requests, re
 
 def fetch_section(book, section_id):
-    url = f"https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/editions/{book}/sections/{section_id}.toon"
+    url = f"https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/{book}/sections/{section_id}.toon"
     text = requests.get(url).text
-    lines = [l for l in text.split('\n') if l.strip()]
-
-    header_line = lines[0]
-    cols = header_line[header_line.index('{')+1:header_line.index('}')].split(',')
-
+    
+    # 1. Parse header block structure: hadiths[count]{fields}:
+    header_match = re.search(r'^([A-Za-z_]+)\[(?:count|\d+)\]\{(.*?)\}\s*:', text, re.DOTALL)
+    if not header_match:
+        raise ValueError("Invalid .toon format header")
+        
+    cols = [f.strip() for f in header_match.group(2).split(',')]
+    rest_data = text[header_match.end():]
+    
+    # 2. Parse data rows statefully using csv.reader
+    reader = csv.reader(io.StringIO(rest_data))
     hadiths = []
-    for line in lines[1:]:
-        reader = csv.reader(io.StringIO(line))
-        vals = next(reader)
-        hadiths.append(dict(zip(cols, vals)))
+    for row in reader:
+        if not row:
+            continue
+        # Align rows with schema fields
+        if len(row) < len(cols):
+            row += [''] * (len(cols) - len(row))
+        hadiths.append(dict(zip(cols, row)))
+        
     return cols, hadiths
 
 # Usage
 cols, hadiths = fetch_section('bukhari', '1')
-print(hadiths[0]['arabic'])
+print(hadiths[0]['arabic'][:100])
 ```
 
 ### Read Book Intro Metadata
@@ -247,22 +316,27 @@ metadata:
 **To parse metadata:**
 ```js
 function parseBookInfoMetadata(text) {
+  const meta = {};
   const lines = text.split('\n');
-  const metadata = {};
   let inMetadata = false;
   
   for (const line of lines) {
-    if (line.trim() === 'metadata:') {
+    const trimmed = line.trim();
+    if (trimmed === 'metadata:') {
       inMetadata = true;
       continue;
     }
-    if (inMetadata && line.startsWith('sections[')) break;
-    if (inMetadata && line.trim()) {
-      const match = line.match(/^\s+(\w+):\s*"?(.+?)"?$/);
-      if (match) metadata[match[1]] = match[2].replace(/"$/, '');
+    if (inMetadata) {
+      if (trimmed.startsWith('translations[') || trimmed.startsWith('sections[')) {
+        break;
+      }
+      const match = trimmed.match(/^(\w+):\s*"?([^"]*)"?$/);
+      if (match) {
+        meta[match[1]] = match[2];
+      }
     }
   }
-  return metadata;
+  return meta;
 }
 
 // Usage
@@ -276,18 +350,18 @@ console.log(meta.intro_fr);   // French intro (if available)
 
 ## CDN Usage
 
-**Recommended: Use version tags for stability**
+**Recommended: Use branch or version tags for stability**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.3.0/{endpoint}
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/{endpoint}
 ```
 
-> **Note on caching:** jsDelivr caches `@main` branch URLs for up to 24 hours. For immediate updates, use version tags (e.g., `@v1.0.0`) or commit hashes.
+> **Note on caching:** jsDelivr caches `@main` branch URLs for up to 24 hours. For immediate updates, use version tags or commit hashes.
 
 ### Global Index
 
 | File | Description |
 |------|-------------|
-| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/info.toon) | 25 books index (`id,name,total_hadiths,available_languages,path`) |
+| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon) | 31 books index (`id,name,total_hadiths,available_languages,path`) |
 
 ### Per-Book Metadata
 
@@ -303,13 +377,13 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.3.0/{endpoint}
 
 **Example — Sahih Bukhari, Section 1:**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/editions/bukhari/sections/1.toon
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/sections/1.toon
 ```
 
 ### Index Files
 
 ```
-info.toon        # All 25 books with section metadata (hadith ranges, section names)
+info.toon        # All 31 books with section metadata (hadith ranges, section names)
 ```
 
 ### Translation Files
@@ -320,12 +394,12 @@ info.toon        # All 25 books with section metadata (hadith ranges, section na
 
 **Example — Nawawi Urdu, Section 1:**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/editions/nawawi/translations/ur/sections/1.toon
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/nawawi/translations/ur/sections/1.toon
 ```
 
 **Example — Get all books:**
 ```
-https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/info.toon
+https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 ```
 
 ---

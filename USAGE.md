@@ -44,8 +44,9 @@ import io
 import urllib.request
 
 def parse_toon_url(url):
-    # Fetch content
-    with urllib.request.urlopen(url) as response:
+    # Fetch content with custom User-Agent to avoid blocks
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req) as response:
         text = response.read().decode('utf-8')
     
     # 1. Parse header block structure: hadiths[count]{fields}:

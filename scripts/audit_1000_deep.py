@@ -270,6 +270,14 @@ def main():
             if lang == 'ar' and m:
                 ar_from_file = True
 
+        empty_langs = set()
+        for lang, m in trans_maps.items():
+            non_empty_count = sum(1 for val in m.values() if val.strip())
+            # If less than 90% of the book's hadiths are translated in this language,
+            # it is considered partially translated/placeholder, so skip empty checks.
+            if len(all_hns) > 0 and (non_empty_count / len(all_hns)) < 0.90:
+                empty_langs.add(lang)
+
         # metadata mismatch: total hadiths
         try:
             declared_total = int(meta.get('total_hadiths', '0'))
@@ -360,8 +368,9 @@ def main():
 
                 if not txt.strip():
                     # missing if another lang present
-                    add(book, sid, hn, lang, 'EMPTY_TRANSLATION',
-                        'translation text empty')
+                    if lang not in empty_langs:
+                        add(book, sid, hn, lang, 'EMPTY_TRANSLATION',
+                            'translation text empty')
                     continue
                 for bad_re, itype in ((ZW, 'ZERO_WIDTH'), (HTML, 'HTML_TAGS'),
                                       (CTRL, 'CONTROL_CHARS'),
@@ -388,11 +397,14 @@ def main():
                         add(book, sid, hn, lang, 'TRUNCATED',
                             f'{lang} len {len(txt)} vs arabic {len(arabic)}')
                 # duplicate within book/lang
-                h = hashlib.md5(txt.encode('utf-8')).hexdigest()
-                dup_hashes[(lang, h)].append(hn)
+                if txt.strip():
+                    h = hashlib.md5(txt.encode('utf-8')).hexdigest()
+                    dup_hashes[(lang, h)].append(hn)
 
             # missing translation: a lang dir exists but hn absent there
             for lang in lang_dirs:
+                if lang in empty_langs:
+                    continue
                 if lang == 'ar' and ar_from_file:
                     has = (sid, hn) in trans_maps['ar']
                 else:

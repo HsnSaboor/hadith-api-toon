@@ -26,7 +26,7 @@ translations[8]{language,sections,path}:
 "ur","51","translations/ur"
 
 sections[51]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-"0","nasai section 0","","","","","","","","","3857","3938","3857","3938"
+"0","Uncategorized","غير مصنف","অশ্রেণীবদ্ধ","Uncategorized","Non classé","Tidak Dikategorikan","Без категории","Kategorize Edilmemiş","غیر زمرہ بند","3857","3938","3857","3938"
 "1","The Book of Purification","كتاب الطهارة","পবিত্রতার কিতাব","The Book of Purification","Le Livre de la Purification","Kitab Thaharah","Книга Очищения","Taharet Kitabı","کتاب طہارت","1","324","1","324"
 "2","The Book of Water","كتاب الماء","পানির কিতাব","The Book of Water","Le Livre de l'Eau","Kitab Air","Книга Воды","Su Kitabı","کتاب پانی","325","347","325","347"
 "3","The Book of Menstruation and Istihadah","كتاب الحيض والاستحاضة","হায়েজ ও ইস্তিহাদার কিতাব","The Book of Menstruation and Istihadah","Le Livre des Menstruations et de l'Istihadah","Kitab Haid dan Istihadah","Книга Месячных и Истихады","Hayız ve İstihaze Kitabı","کتاب حیض و استحاضہ","348","395","348","395"

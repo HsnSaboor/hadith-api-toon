@@ -24,6 +24,18 @@ Book-level intro + author metadata stored in `editions/{book}/info.toon`.
 
 ---
 
+## 💻 Web Reader Client (`viewer.html`)
+
+The database includes a premium, S-tier browser client (`viewer.html`) for accessing all collections.
+
+### Key Features:
+* **Offline Bookmarking (Starred)**: Star any Hadith across any collection to save it locally via `localStorage` for quick retrieval.
+* **Instant Filtering**: Real-time keyword search across Arabic text, grades, references, and translations dynamically.
+* **Preferences Customizer**: Adjustable font scales for both Arabic text and translations, with independent visibility toggles.
+* **Formatted Copy-to-Clipboard**: Copy references, Arabic text, and translations with a single click, featuring interactive copy validation.
+
+---
+
 ## The `.toon` Format
 
 `.toon` is a compact, self-describing, CSV-like plain-text format. Each file defines its own schema in the header, so parsers automatically know which columns are present.
@@ -369,37 +381,24 @@ All utility scripts are in `scripts/`:
 
 | Script | Purpose |
 |--------|---------|
-| `validate_all_toon.py` | Validates all 7,655 `.toon` files for CSV compliance (trailing commas, broken quotes, column mismatches) |
-| `clean_toon_data.py` | Comprehensive cleaning script: removes trailing commas, merges continuation lines, fixes CSV quoting |
-| `check_data_integrity.py` | Verifies record counts before/after fixes to ensure no data loss |
-
-### Data Conversion (Historical)
-
-| Script | Purpose |
-|--------|---------|
-| `unify_editions.py` | Merges all language editions into unified books |
-| `convert_info_to_toon.py` | Converts `info.json` → `info.toon` |
-| `convert_editions_to_toon.py` | Converts `editions.json` → `editions.toon` |
-| `convert_section_files.py` | Converts section JSON → `.toon` |
-| `scrape_quranohadith_fast.py` | Scrapes Arabic + Urdu from al-hadees.com |
-| `merge_english_from_hadithjson.py` | Merges English from hadith-json |
-| `translate_intros_v2.py` | Generates multilingual intro translations |
+| `validate_all_toon.py` | Validates all 9,223 active `.toon` files for CSV schema compliance (stateful multi-line quote check) |
+| `fix_zero_width.py` | Recursively removes zero-width characters and invisible control tokens from database files |
+| `fix_truncated_offline.py` | Automatically repairs truncated hadiths offline using cached databases |
+| `fix_truncated_only.py` | Repairs remaining truncations concurrently using local LLM completion endpoints |
+| `run_experiment.py` | Formats and sizes benchmark comparing JSON, Min.JSON, Toon, and Protobuf (+ Gzip/Brotli) |
+| `clean_toon_data.py` | Historical: removes trailing commas and fixes broken CSV quotes |
+| `check_data_integrity.py` | Historical: verifies record counts to ensure no data loss |
 
 ### Usage
 
-**Validate all files:**
+**Validate database files:**
 ```bash
 python3 scripts/validate_all_toon.py
 ```
 
-**Clean and fix issues:**
+**Run format comparison benchmark:**
 ```bash
-python3 scripts/clean_toon_data.py
-```
-
-**Check data integrity:**
-```bash
-python3 scripts/check_data_integrity.py
+python3 scripts/run_experiment.py
 ```
 
 ---

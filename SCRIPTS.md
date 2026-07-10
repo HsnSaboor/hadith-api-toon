@@ -61,13 +61,54 @@ Converts book metadata JSON to `editions/{book}/info.toon` format.
 
 ---
 
-## `validate_toon.py`
+## `validate_all_toon.py` ⭐ Validation
 
-Validates the structure of generated `.toon` files.
+Validates the CSV structure and syntax of all active `.toon` database files in `editions/` recursively. It implements a stateful quotes tracer to correctly support multi-line CSV values.
 
 ```bash
-python3 validate_toon.py
+python3 scripts/validate_all_toon.py
 ```
+
+---
+
+## `fix_zero_width.py`
+
+Recursively scans the `editions/` directory to detect and strip invisible control characters and zero-width spaces (`\u200b` - `\u200f`, `\ufeff`).
+
+```bash
+python3 scripts/fix_zero_width.py
+```
+
+---
+
+## `fix_truncated_offline.py`
+
+Resolves truncated hadith translations offline by extracting correct translations from local sibling repository caches and Fawaz Ahmed's cached datasets.
+
+```bash
+python3 scripts/fix_truncated_offline.py
+```
+
+---
+
+## `fix_truncated_only.py`
+
+Concurrently processes and updates truncated translations by querying responsive LLM completion APIs (like `nemotron-3-ultra-free`) at `localhost:8080` and editing target files on the fly.
+
+```bash
+python3 scripts/fix_truncated_only.py
+```
+
+---
+
+## `run_experiment.py`
+
+A format size and compression benchmark utility. It serializes a book's complete contents (e.g. Shama'il al-Tirmidhi) into JSON, Minified JSON, Toon (Merged & Multi-file), and Protocol Buffers (`.pb`), and computes their Gzip and Brotli compressed ratios.
+
+```bash
+python3 scripts/run_experiment.py
+```
+
 
 ---
 

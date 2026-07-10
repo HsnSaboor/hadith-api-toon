@@ -45,6 +45,7 @@ BLOCK_RE = re.compile(r'^([A-Za-z_]+)\[(\w+)\]')
 
 def read_toon_rows(path):
     """Return (block_name, fields, [dict,...]) for a single-block toon file."""
+    import io
     with open(path, encoding='utf-8') as f:
         text = f.read()
     m = re.search(r'^([A-Za-z_]+)\[(\w+)\]\{(.*?)\}\s*:', text, re.DOTALL)
@@ -52,9 +53,9 @@ def read_toon_rows(path):
         return None, [], []
     name = m.group(1)
     fields = [x.strip() for x in m.group(3).split(',')]
-    # data starts after the header line
     rest = text[m.end():]
-    reader = csv.reader(rest.split('\n'))
+    
+    reader = csv.reader(io.StringIO(rest))
     rows = []
     for r in reader:
         if not r:
@@ -67,61 +68,88 @@ def read_toon_rows(path):
 
 def parse_info(path):
     """Return (metadata_dict, translations_list, sections_list)."""
+    import io
     with open(path, encoding='utf-8') as f:
-        lines = f.read().split('\n')
-    meta, translations, sections = {}, [], []
-    i, n = 0, len(lines)
-    while i < n:
-        line = lines[i]
-        if not line.strip():
-            i += 1
-            continue
-        # metadata block
-        if re.match(r'^metadata\s*:\s*$', line):
-            i += 1
-            while (i < n and lines[i].strip() and
-                   not re.match(r'^[A-Za-z_]+\[', lines[i]) and
-                   not re.match(r'^metadata\s*:', lines[i])):
-                km = re.match(r'\s*([A-Za-z_]+)\s*:\s*(.*)$', lines[i])
-                if km:
-                    k, v = km.group(1), km.group(2).strip()
-                    if len(v) >= 2 and v.startswith('"') and v.endswith('"'):
-                        v = v[1:-1]
-                    meta[k] = v
-                i += 1
-            continue
-        # block header start
-        hm = re.match(r'^([A-Za-z_]+)\[\w+\]\{', line)
-        if hm:
-            name = hm.group(1)
-            j = i
-            while j < n and not lines[j].rstrip().endswith('}:'):
-                j += 1
-            header_text = '\n'.join(lines[i:j + 1])
-            bs = header_text.find('{')
-            be = header_text.rfind('}')
-            fields = ([x.strip() for x in header_text[bs + 1:be].split(',')]
-                      if bs != -1 and be != -1 else [])
-            i = j + 1
-            raw = []
-            while (i < n and lines[i].strip() and
-                   not re.match(r'^[A-Za-z_]+\[', lines[i]) and
-                   not re.match(r'^metadata\s*:', lines[i])):
-                raw.append(lines[i])
-                i += 1
-            parsed = []
-            for r in csv.reader(raw):
-                if not r:
-                    continue
-                if len(r) < len(fields):
-                    r = r + [''] * (len(fields) - len(r))
-                parsed.append(dict(zip(fields, r)))
-            if name == 'translations':
-                translations = parsed
-            elif name == 'sections':
-                sections = parsed
-            continue
-        i += 1
+        text = f.read()
+    
+    meta = {}
+    translations = []
+    sections = []
+    
+    # 1. Parse metadata block
+    meta_match = re.search(r'^metadata\s*:\s*\n(.*?)(?=\n[A-Za-z_]+\[|\Z)', text, re.DOTALL | re.MULTILINE)
+    if meta_match:
+        meta_block = meta_match.group(1)
+        lines = meta_block.split('\n')
+        current_key = None
+        current_val = []
+        in_quote = False
+        
+        for line in lines:
+            if not line.strip() and not in_quote:
+                continue
+            
+            if not in_quote:
+                m = re.match(r'^\s*([A-Za-z_]+)\s*:\s*(.*)$', line)
+                if m:
+                    if current_key:
+                        meta[current_key] = "\n".join(current_val).strip()
+                    current_key = m.group(1)
+                    val_part = m.group(2).strip()
+                    if val_part.startswith('"'):
+                        in_quote = True
+                        cleaned = val_part.replace('\\"', '').replace('""', '')
+                        # If the starting quote is matched by a closing quote on same line
+                        if cleaned.count('"') % 2 == 0:
+                            in_quote = False
+                            if val_part.endswith('"'):
+                                val_part = val_part[1:-1]
+                        else:
+                            val_part = val_part[1:]
+                    current_val = [val_part]
+                else:
+                    if current_key:
+                        current_val.append(line)
+            else:
+                cleaned = line.replace('\\"', '').replace('""', '')
+                if cleaned.count('"') % 2 == 1:
+                    in_quote = False
+                    val_part = line.strip()
+                    if val_part.endswith('"'):
+                        val_part = val_part[:-1]
+                    current_val.append(val_part)
+                else:
+                    current_val.append(line)
+                    
+        if current_key:
+            meta[current_key] = "\n".join(current_val).strip()
+            
+    # 2. Parse block structures
+    blocks = re.finditer(r'^([A-Za-z_]+)\[\w+\]\{(.*?)\}\s*:', text, re.DOTALL | re.MULTILINE)
+    block_positions = []
+    for b in blocks:
+        block_positions.append((b.group(1), b.group(2), b.start(), b.end()))
+        
+    for idx, (b_name, b_fields_str, b_start, b_end) in enumerate(block_positions):
+        fields = [x.strip() for x in b_fields_str.split(',')]
+        content_start = b_end
+        content_end = block_positions[idx+1][2] if idx + 1 < len(block_positions) else len(text)
+        block_text = text[content_start:content_end].strip()
+        
+        reader = csv.reader(io.StringIO(block_text))
+        parsed = []
+        for r in reader:
+            if not r:
+                continue
+            if len(r) < len(fields):
+                r = r + [''] * (len(fields) - len(r))
+            parsed.append(dict(zip(fields, r)))
+            
+        if b_name == 'translations':
+            translations = parsed
+        elif b_name == 'sections':
+            sections = parsed
+            
     return meta, translations, sections
 
 

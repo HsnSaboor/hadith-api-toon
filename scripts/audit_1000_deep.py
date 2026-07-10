@@ -187,7 +187,9 @@ def main():
         declared_langs = [x.strip() for x in
                           meta.get('available_languages', '').split(',') if x.strip()]
         if os.path.isdir(trans_dir):
-            lang_dirs = sorted(d for d in os.listdir(trans_dir)
+            # Only check translations that are explicitly declared in the info.toon translations block
+            info_langs = sorted(tb.get('language', '') for tb in translations_block if tb.get('language'))
+            lang_dirs = sorted(d for d in info_langs
                                if os.path.isdir(os.path.join(trans_dir, d)))
         else:
             lang_dirs = []
@@ -273,9 +275,9 @@ def main():
         empty_langs = set()
         for lang, m in trans_maps.items():
             non_empty_count = sum(1 for val in m.values() if val.strip())
-            # If less than 90% of the book's hadiths are translated in this language,
+            # If less than 95% of the book's hadiths are translated in this language,
             # it is considered partially translated/placeholder, so skip empty checks.
-            if len(all_hns) > 0 and (non_empty_count / len(all_hns)) < 0.90:
+            if len(all_hns) > 0 and (non_empty_count / len(all_hns)) < 0.95:
                 empty_langs.add(lang)
 
         # metadata mismatch: total hadiths
@@ -394,8 +396,17 @@ def main():
                 if arabic.strip() and lang not in ('ar',):
                     if (len(arabic) > 200 and len(txt) < 80 and
                             len(txt) < 0.1 * len(arabic)):
-                        add(book, sid, hn, lang, 'TRUNCATED',
-                            f'{lang} len {len(txt)} vs arabic {len(arabic)}')
+                        # Skip if it is a standard citation or cross-reference note
+                        is_citation = (
+                            "گذشتہ حدیث" in txt or 
+                            "مروی ہے" in txt or 
+                            "حسب سابق" in txt or
+                            "پچھلی حدیث" in txt or
+                            any(w in txt.lower() for w in ["same as", "as above", "similar to", "refer to", "narrated"])
+                        )
+                        if not is_citation:
+                            add(book, sid, hn, lang, 'TRUNCATED',
+                                f'{lang} len {len(txt)} vs arabic {len(arabic)}')
                 # duplicate within book/lang
                 if txt.strip():
                     h = hashlib.md5(txt.encode('utf-8')).hexdigest()

@@ -266,6 +266,8 @@
 
     <!-- Main Controller Logic -->
     <script>
+        const BASE_URL = 'https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/';
+
         let books = [];
         let currentBook = null;
         let currentSection = null;
@@ -368,7 +370,7 @@
         // Library Loaders
         async function loadBooks() {
             try {
-                const response = await fetch('info.toon');
+                const response = await fetch(BASE_URL + 'info.toon');
                 if (!response.ok) throw new Error('Root info missing');
                 const text = await response.text();
                 const lines = text.split('\n').filter(l => l.trim());
@@ -470,7 +472,7 @@
             `;
 
             try {
-                const response = await fetch(`editions/${bookId}/info.toon`);
+                const response = await fetch(BASE_URL + `editions/${bookId}/info.toon`);
                 if (!response.ok) throw new Error('Info data missing');
                 const text = await response.text();
 
@@ -596,7 +598,7 @@
             const nameField = langFieldMap[lang] || 'name_en';
 
             try {
-                const arResponse = await fetch(`editions/${currentBook.id}/sections/${sectionId}.toon`);
+                const arResponse = await fetch(BASE_URL + `editions/${currentBook.id}/sections/${sectionId}.toon`);
                 if (!arResponse.ok) throw new Error('Narrations database path missing');
                 const arText = await arResponse.text();
                 const arLines = arText.split('\n').filter(l => l.trim());
@@ -610,7 +612,7 @@
                 let translations = {};
                 if (lang) {
                     try {
-                        const transResponse = await fetch(`editions/${currentBook.id}/translations/${lang}/sections/${sectionId}.toon`);
+                        const transResponse = await fetch(BASE_URL + `editions/${currentBook.id}/translations/${lang}/sections/${sectionId}.toon`);
                         if (transResponse.ok) {
                             const transText = await transResponse.text();
                             const transLines = transText.split('\n').filter(l => l.trim());
@@ -840,7 +842,7 @@
                     // Or let's assume we can fetch it, since info.toon registers all hadiths range (hadith_first to hadith_last)
                     // Let's deduce section_id from the hadith_first/last metadata ranges inside book sections.
                     // We need to fetch the book info first if it's different from currentBook
-                    const infoRes = await fetch(`editions/${b.bookId}/info.toon`);
+                    const infoRes = await fetch(BASE_URL + `editions/${b.bookId}/info.toon`);
                     if (!infoRes.ok) continue;
                     const infoText = await infoRes.ok ? await infoRes.text() : '';
                     
@@ -887,7 +889,7 @@
                     if (!foundSectionId) continue;
                     
                     // Fetch Arabic section toon
-                    const arRes = await fetch(`editions/${b.bookId}/sections/${foundSectionId}.toon`);
+                    const arRes = await fetch(BASE_URL + `editions/${b.bookId}/sections/${foundSectionId}.toon`);
                     if (!arRes.ok) continue;
                     const arText = await arRes.text();
                     const arLines = arText.split('\n').filter(l => l.trim());
@@ -904,7 +906,7 @@
                     
                     // Load English translation
                     let translation = '';
-                    const transRes = await fetch(`editions/${b.bookId}/translations/en/sections/${foundSectionId}.toon`);
+                    const transRes = await fetch(BASE_URL + `editions/${b.bookId}/translations/en/sections/${foundSectionId}.toon`);
                     if (transRes.ok) {
                         const transText = await transRes.text();
                         const transLines = transText.split('\n').filter(l => l.trim());

@@ -2,7 +2,8 @@
 
 > In the name of God, who has guided me to do this work
 
-The most comprehensive multilingual Hadith database on internet. **25 books, 68,513 hadiths, 8 languages** — all in unified, CDN-optimized `.toon` format.
+The most comprehensive multilingual Hadith database on the internet. **31 books, 214,353 hadiths, 16 languages** — all in unified, CDN-optimized `.toon` format.
+
 
 **Built from:** [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) · [al-hadees.com](https://al-hadees.com) · [sunnah.com](https://sunnah.com) · [hadith-json](https://github.com/AhmedBaset/hadith-json)
 

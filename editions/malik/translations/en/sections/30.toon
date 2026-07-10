@@ -1,37 +1,54 @@
 hadiths[count]{hadithnumber,text}:
-"1272.1","Yahya related to me from Malik from Abdullah ibn Abi Bakr from Amra bint Abd ar-Rahman that A'isha"
-"1272.2","Yahya related to me from Malik from Abdullah ibn Abi Bakr from Amra bint Abd ar-Rahman that A'isha"
-"1273.1","Yahya related to me from Malik from Hisham ibn Urwa from his father that A'isha"
-"1273.2","Yahya related to me from Malik from Hisham ibn Urwa from his father that A'isha"
-"1274.1","Yahya related to me from Malik from Ibn Shihab from Urwa ibn az- Zubayr that A'isha umm al-muminin told him that Aflah"
-"1274.2","Yahya related to me from Malik from Ibn Shihab from Urwa ibn az- Zubayr that A'isha umm al-muminin told him that Aflah"
-"1275.1","Yahya related to me from Malik from Thawr ibn Zayd ad-Dili that Abdullah ibn Abbas said"
-"1275.2","Yahya related to me from Malik from Thawr ibn Zayd ad-Dili that Abdullah ibn Abbas said"
-"1276.1","Yahya related to me from Malik from Ibn Shihab from Amr ibn ash- Sharid that Abdullah ibn Abbas was asked whether"
-"1276.2","Yahya related to me from Malik from Ibn Shihab from Amr ibn ash- Sharid that Abdullah ibn Abbas was asked whether"
-"1277.1","Yahya related to me from Malik from Nafi that Abdullah ibn Umar said"
-"1277.2","Yahya related to me from Malik from Nafi that Abdullah ibn Umar said"
-"1278.1","Yahya related to me from Malik from Nafi that Salim ibn Abdullah ibn Umar informed him that A'isha umm al-muminin sent him away while he was being nursed to her sister Umm Kulthum bint Abi Bakr as-Siddiq and said"
-"1278.2","Yahya related to me from Malik from Nafi that Salim ibn Abdullah ibn Umar informed him that A'isha umm al-muminin sent him away while he was being nursed to her sister Umm Kulthum bint Abi Bakr as-Siddiq and said"
-"1279.1","Yahya related to me from Malik from Nafi that Safiyya bint Abi Ubayd told him that Hafsa"
-"1279.2","Yahya related to me from Malik from Nafi that Safiyya bint Abi Ubayd told him that Hafsa"
-"1280.1","Yahya related to me from Malik from Abd ar-Rahman ibn al-Qasim that his father told him that A'isha"
-"1280.2","Yahya related to me from Malik from Abd ar-Rahman ibn al-Qasim that his father told him that A'isha"
-"1281.1","Yahya related to me from Malik that Ibrahim ibn Uqba asked Said ibn al-Musayyab about suckling. Said said"
-"1281.2","Yahya related to me from Malik that Ibrahim ibn Uqba asked Said ibn al-Musayyab about suckling. Said said"
-"1282.1","Yahya related to me from Malik that Yahya ibn Said said that he heard Said ibn al-Musayyab say"
-"1282.2","Yahya related to me from Malik that Yahya ibn Said said that he heard Said ibn al-Musayyab say"
-"1283.1","Yahya related to me from Malik from Ibn Shihab that he said"
-"1283.2",""
-"1284.1","Yahya related to me from Malik from Ibn Shihab that he was asked about the suckling of an older person. He said"
-"1284.2","Yahya related to me from Malik from Ibn Shihab that he was asked about the suckling of an older person. He said"
-"1285.1","Yahya related to me from Malik that Abdullah ibn Dinar said"
-"1285.2","Yahya related to me from Malik that Abdullah ibn Dinar said"
-"1286.1","Yahya related to me from Malik from Yahya ibn Said that a man said to Abu Musa al-Ashari"
-"1286.2","Yahya related to me from Malik from Yahya ibn Said that a man said to Abu Musa al-Ashari"
-"1287.1","Yahya related to me from Malik from Abdullah ibn Dinar from Sulayman ibn Yasar and from Urwa ibn az-Zubayr from A'isha umm al- muminin"
-"1287.2","Yahya related to me from Malik from Abdullah ibn Dinar from Sulayman ibn Yasar and from Urwa ibn az-Zubayr from A'isha umm al- muminin"
-"1288.1","Yahya related to me from Malik that Muhammad ibn Abd ar-Rahman ibn Nawfal said"
-"1288.2","Yahya related to me from Malik that Muhammad ibn Abd ar-Rahman ibn Nawfal said"
-"1289.1","Yahya related to me from Malik from Abdullah ibn Abi Bakr ibn Hazm from Amra bint Abd ar-Rahman that A'isha"
-"1289.2","Yahya related to me from Malik from Abdullah ibn Abi Bakr ibn Hazm from Amra bint Abd ar-Rahman that A'isha"
+1272.1,Yahya related to me from Malik from Abdullah ibn Abi Bakr from Amra bint Abd ar-Rahman that A'isha
+1272.2,Yahya related to me from Malik from Abdullah ibn Abi Bakr from Amra bint Abd ar-Rahman that A'isha
+1273.1,Yahya related to me from Malik from Hisham ibn Urwa from his father that A'isha
+1273.2,Yahya related to me from Malik from Hisham ibn Urwa from his father that A'isha
+1274.1,Yahya related to me from Malik from Ibn Shihab from Urwa ibn az- Zubayr that A'isha umm al-muminin told him that Aflah
+1274.2,Yahya related to me from Malik from Ibn Shihab from Urwa ibn az- Zubayr that A'isha umm al-muminin told him that Aflah
+1275.1,Yahya related to me from Malik from Thawr ibn Zayd ad-Dili that Abdullah ibn Abbas said
+1275.2,Yahya related to me from Malik from Thawr ibn Zayd ad-Dili that Abdullah ibn Abbas said
+1276.1,Yahya related to me from Malik from Ibn Shihab from Amr ibn ash- Sharid that Abdullah ibn Abbas was asked whether
+1276.2,Yahya related to me from Malik from Ibn Shihab from Amr ibn ash- Sharid that Abdullah ibn Abbas was asked whether
+1277.1,"Yahya related to me from Malik thal Yahya ibn Said heard al-Qasim
+ibn Muhammad and Sulayman ibn Yasar both mention that Yahya ibn Said
+ibn al-As divorced the daughter of Abd ar-Rahman ibn al-Hakam
+irrevocably, so Abd ar-Rahman ibn al-Hakam took her away A'isha umm
+al-muminin sent to Marwan ibn al-Hakam who was the Amir of al-Madina
+at that time. She said, ""Fear Allah and make him return the woman to
+her house."" Marwan said in what Sulayman related, ''Abd ar-Rahman has
+the upper hand over me."" Marwan said in what al-Qasim related, ""Hasn't
+the affair of Fatima bint Qays reached you?"" A'isha said, ""You are
+forced to mention the story of Fatima "" Marwan said, ""If you know that
+evil, whatever evil there was between those two is enough for you.""
+Yahya related to me from Malik that he had heard that the
+Messenger of Allah, may Allah bless him and grant him peace, said,
+""Try to go straight, although you will not be able to do so. Act, and
+the best of your actions is the prayer. And only a mumin is constant
+in his wudu."".)"
+1277.2,Yahya related to me from Malik from Nafi that Abdullah ibn Umar said
+1278.1,Yahya related to me from Malik from Nafi that Salim ibn Abdullah ibn Umar informed him that A'isha umm al-muminin sent him away while he was being nursed to her sister Umm Kulthum bint Abi Bakr as-Siddiq and said
+1278.2,Yahya related to me from Malik from Nafi that Salim ibn Abdullah ibn Umar informed him that A'isha umm al-muminin sent him away while he was being nursed to her sister Umm Kulthum bint Abi Bakr as-Siddiq and said
+1279.1,Yahya related to me from Malik from Nafi that Safiyya bint Abi Ubayd told him that Hafsa
+1279.2,Yahya related to me from Malik from Nafi that Safiyya bint Abi Ubayd told him that Hafsa
+1280.1,Yahya related to me from Malik from Abd ar-Rahman ibn al-Qasim that his father told him that A'isha
+1280.2,Yahya related to me from Malik from Abd ar-Rahman ibn al-Qasim that his father told him that A'isha
+1281.1,Yahya related to me from Malik that Ibrahim ibn Uqba asked Said ibn al-Musayyab about suckling. Said said
+1281.2,Yahya related to me from Malik that Ibrahim ibn Uqba asked Said ibn al-Musayyab about suckling. Said said
+1282.1,Yahya related to me from Malik that Yahya ibn Said said that he heard Said ibn al-Musayyab say
+1282.2,Yahya related to me from Malik that Yahya ibn Said said that he heard Said ibn al-Musayyab say
+1283.1,Yahya related to me from Malik from Ibn Shihab that he said
+1283.2,
+1284.1,Yahya related to me from Malik from Ibn Shihab that he was asked about the suckling of an older person. He said
+1284.2,Yahya related to me from Malik from Ibn Shihab that he was asked about the suckling of an older person. He said
+1285.1,Yahya related to me from Malik that Abdullah ibn Dinar said
+1285.2,"Yahya related to me from Malik from Yahya ibn Said that Said
+ibn al-Musayyab said, ""Divorce belongs to men, and women have the
+idda."""
+1286.1,Yahya related to me from Malik from Yahya ibn Said that a man said to Abu Musa al-Ashari
+1286.2,Yahya related to me from Malik from Yahya ibn Said that a man said to Abu Musa al-Ashari
+1287.1,Yahya related to me from Malik from Abdullah ibn Dinar from Sulayman ibn Yasar and from Urwa ibn az-Zubayr from A'isha umm al- muminin
+1287.2,Yahya related to me from Malik from Abdullah ibn Dinar from Sulayman ibn Yasar and from Urwa ibn az-Zubayr from A'isha umm al- muminin
+1288.1,Yahya related to me from Malik that Muhammad ibn Abd ar-Rahman ibn Nawfal said
+1288.2,Yahya related to me from Malik that Muhammad ibn Abd ar-Rahman ibn Nawfal said
+1289.1,Yahya related to me from Malik from Abdullah ibn Abi Bakr ibn Hazm from Amra bint Abd ar-Rahman that A'isha
+1289.2,Yahya related to me from Malik from Abdullah ibn Abi Bakr ibn Hazm from Amra bint Abd ar-Rahman that A'isha

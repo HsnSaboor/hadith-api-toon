@@ -1,16 +1,17 @@
 
 metadata:
-  book_id: musannaf-ibn-abi-shaybah
+  book_id: "musannaf-ibn-abi-shaybah"
   book_name: "musannaf-ibn-abi-shaybah"
-  total_hadiths: 39098
+  total_hadiths: "39098"
   available_languages: "en,ur"
   intro: "Musannaf Ibn Abī Shaybah, more formally known as al-Kitab al-Musannaf fi al-Ahadith wa al-Athar, is a collection compiled by Imam Abu Bakr `Abdullah ibn Muhammad ibn Abi Shaybah al-`Absi al-Kufi (d. 235 AH/849 CE - rahimahullah). It is a major topical compendium, gathering reports from the Prophet Muhammad (ﷺ), the Companions, and later early authorities, arranged by subject. It contains over 39,000 reports."
   intro_ar: "مصنف ابن أبي شيبة، المعروف رسمياً بـ \"الكتاب المصنف في الأحاديث والآثار\"، هو مجموعة جمعها الإمام أبو بكر عبد الله بن محمد بن أبي شيبة العبسي الكوفي (توفي سنة ٢٣٥ هـ / ٨٤٩ م - رحمه الله). وهو موسوعة موضوعية رئيسية، تجمع الأحاديث النبوية (ﷺ) والآثار عن الصحابة والتابعين، مرتبة حسب الموضوع. يحتوي على أكثر من ٣٩,٠٠٠ حديث وأثر."
+  intro_en: "Musannaf Ibn Abī Shaybah, more formally known as al-Kitab al-Musannaf fi al-Ahadith wa al-Athar, is a collection compiled by Imam Abu Bakr `Abdullah ibn Muhammad ibn Abi Shaybah al-`Absi al-Kufi (d. 235 AH/849 CE - rahimahullah). It is a major topical compendium, gathering reports from the Prophet Muhammad (ﷺ), the Companions, and later early authorities, arranged by subject. It contains over 39,000 reports."
+  intro_ur: "مسانف ابن ابی شيبہ، رسمی طور پر الکتاب المسانف فی الاحادیث و الاثار، ایک ایکٹھاں ہے جو امام ابو بکر عبداللہ ابن محمد ابن ابی شيبہ العبسی الکوفی (د 235 ہ/849 عیسوی - رحمتہ اللہ) نے مرتب کیا ہے۔ یہ ایک بڑا موضوعی مجموعہ ہے، جو نبی محمد (ص) کے رپورٹس، صحابہ اور بعد میں ابتدائی اہم شخصیات سے حاصل ہوئے ہیں، اور موضوعات کے مطابق آرنج ہوئے ہیں۔ یہ 39,000 سے زیادہ رپورٹس کو含اتے ہے۔"
 
-translations[3]{language,sections,path}:
+translations[2]{language,sections,path}:
 "en","39","translations/en"
 "ur","39","translations/ur"
-"ar","39","translations/ar"
 
 sections[39]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
 "1","Book of Purification","كتاب الطهارات","পবিত্রতা অধ্যায়","Book of Purification","Livre de la Purification","Kitab Thaharah","Книга очищения","Taharet Kitabı","کتاب الطہارت","1","1002","1","1002"

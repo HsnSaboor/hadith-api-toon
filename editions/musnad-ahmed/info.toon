@@ -1,16 +1,17 @@
 
 metadata:
-  book_id: musnad-ahmed
+  book_id: "musnad-ahmed"
   book_name: "Musnad Ahmad"
-  total_hadiths: 22368
+  total_hadiths: "22368"
   available_languages: "en,ur"
   intro: "Musnad Ahmad is a collection of hadith compiled by Imam Ahmad ibn Hanbal (d. 241 AH/855 AD - rahimahullah). It is one of the most famous and important collections of reports of the Sunnah of the Prophet Muhammad (ﷺ). It is the largest of the main books of hadith containing approximately 28,199 hadith sectioned based on individual Companions. The translation provided here is by Nasir Khattab."
   intro_ar: "مسند أحمد هو مجموعة أحاديث جمعها الإمام أحمد بن حنبل (ت 241 هـ / 855 م - رحمه الله). وهو من أشهر وأهم مجموعات أحاديث السنة النبوية (ﷺ). وهو أكبر كتب الحديث الرئيسية، حيث يحتوي على ما يقرب من 28,199 حديثًا مرتبة حسب أسماء الصحابة. الترجمة المقدمة هنا من إعداد ناصر الخطاب."
+  intro_en: "Musnad Ahmad is a collection of hadith compiled by Imam Ahmad ibn Hanbal (d. 241 AH/855 AD - rahimahullah). It is one of the most famous and important collections of reports of the Sunnah of the Prophet Muhammad (ﷺ). It is the largest of the main books of hadith containing approximately 28,199 hadith sectioned based on individual Companions. The translation provided here is by Nasir Khattab."
+  intro_ur: "مصنَد احمد ایک حدیث کی کٹیلاک ہے جو امام احمد ابن حنبل (د 241 ہجری/855 عیسوی - رحمتہ اللہ علیہ) نے مرتب کیا ہے۔ یہ ایک مشہور اور اہم کٹیلاک ہے جو نبی محمد صلی اللہ علیہ وسلم کی سنیہ کے رپورٹس کو شامل کرتا ہے۔ یہ سب سے بڑا ہے اور حدیث کے اصلی کتابوں میں سے ایک ہے جو تقریباً 28,199 حدیث کو بطورIndividual ساتھی صحابہ کے حوالے میں تقسیم کرتا ہے۔ یہ ترجمہ ناصر خٹاب نے دیا ہے۔"
 
-translations[3]{language,sections,path}:
+translations[2]{language,sections,path}:
 "en","8","translations/en"
 "ur","8","translations/ur"
-"ar","8","translations/ar"
 
 sections[8]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
 "1","Musnad Abu Bakr as-Siddiq (ra)","مسند أبي بكر الصديق (رضي الله عنه)","মুসনাদ আবু বকর সিদ্দীক (রা)","Musnad Abu Bakr as-Siddiq (ra)","Musnad Abu Bakr as-Siddiq (ra)","Musnad Abu Bakr ash-Shiddiq (ra)","Муснад Абу Бакра ас-Сиддика (да)","Ebu Bekir es-Sıddık'ın Musnad'ı (ra)","مسند ابوبکر صدیق (رضی اللہ عنہ)","1","2792","1","2792"

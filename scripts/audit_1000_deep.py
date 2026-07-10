@@ -32,7 +32,7 @@ LATIN = re.compile(r'[A-Za-z]')
 HONOR = set('\ufdfa\ufdfb\ufdfc\ufdfd\ufdfe\ufeffﷺﷻﵞ')
 PLACEHOLDER = re.compile(
     r'^(same as|similar to|as above|see (the )?hadith|narration about|'
-    r'wrong same as|\.\.\.|\(as hadith|refer to hadith|same\b|see above|'
+    r'wrong same as|\.\.\.\s*$|\(as hadith|refer to hadith|same\b|see above|'
     r'mentioned above|same hadith)', re.I)
 MOJIBAKE = re.compile(r'Ã.|â€|ï¿½|â€™|â€œ|â€\x9d|�')
 REPLACEMENT = '\ufffd'
@@ -270,17 +270,14 @@ def main():
                 mt = int(tb.get('sections', '0'))
             except ValueError:
                 mt = -1
-            # count actual translation files / rows
+            # count actual translation files
             lsec = os.path.join(trans_dir, lang, 'sections')
-            actual_rows = 0
+            actual_sections = 0
             if os.path.isdir(lsec):
-                for fn in os.listdir(lsec):
-                    if fn.endswith('.toon'):
-                        _, _, rows = read_toon_rows(os.path.join(lsec, fn))
-                        actual_rows += len(rows)
-            if mt > 0 and abs(mt - actual_rows) > max(5, mt * 0.02):
+                actual_sections = len([fn for fn in os.listdir(lsec) if fn.endswith('.toon')])
+            if mt > 0 and mt != actual_sections:
                 add(book, '', '', lang, 'TRANS_META_MISMATCH',
-                    f'lang {lang} metadata sections={mt} actual={actual_rows}')
+                    f'lang {lang} metadata sections={mt} actual={actual_sections}')
 
         # ----- sample ---------------------------------------------------
         sample_n = min(SAMPLE, len(all_hns))

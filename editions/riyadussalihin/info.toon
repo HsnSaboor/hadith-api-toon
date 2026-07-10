@@ -1,0 +1,36 @@
+
+metadata:
+  book_id: "riyadussalihin"
+  book_name: "riyadussalihin"
+  total_hadiths: "1896"
+  available_languages: "en,ur"
+  intro: "Riyad as-Salihin is a selection of hadith compiled by Imam Yahya ibn Sharaf an-Nawawi. It is one of the most widely known and read books of hadith all over the world, containing approximately 1,900 carefully chosen hadith on ethics, manners, worship, knowledge, and other topics compiled from the Six Books of hadith. It is practical and accessible to Muslims of all levels."
+  intro_ar: "رياض الصالحين هو مجموعة مختارة من الأحاديث النبوية جمعها الإمام يحيى بن شرف النووي. وهو أحد أكثر كتب الحديث شهرة وقراءة في جميع أنحاء العالم، حيث يحتوي على ما يقرب من 1900 حديث مختار بعناية في الأخلاق والآداب والعبادات والعلم وغيرها من الموضوعات، والتي جمعت من كتب الحديث الستة. وهو كتاب عملي وميسر للمسلمين من جميع المستويات."
+  intro_en: "Riyad as-Salihin is a selection of hadith compiled by Imam Yahya ibn Sharaf an-Nawawi. It is one of the most widely known and read books of hadith all over the world, containing approximately 1,900 carefully chosen hadith on ethics, manners, worship, knowledge, and other topics compiled from the Six Books of hadith. It is practical and accessible to Muslims of all levels."
+  intro_ur: "رイヤد السلامین ایک حدیث کا انتخاب ہے جو امام یحییٰ ابن شرف النووی نے مرتب کیا ہے۔ یہ دنیا بھر میں سب سے زیادہ جانا جانا والا حدیث کا کتاب ہے، تقریباً ۱,۹۰۰ حدیثوں کو مہم کیا ہے جو عرفان، مanners، عبادت، علم اور دیگر موضوعات پر مشتمل ہے۔ یہ عملی اور عام مسلمانوں کے لیے قابل رسائی ہے۔"
+
+translations[2]{language,sections,path}:
+"en","20","translations/en"
+"ur","20","translations/ur"
+
+sections[20]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
+"1","The Book of Good Manners","كتاب الأدب","শিষ্টাচারের কিতাব","The Book of Good Manners","Le Livre des Bonnes Manières","Kitab Adab","Книга хороших манер","Güzel Ahlak Kitabı","کتاب حسن اخلاق","680","726","680","726"
+"2","The Book About the Etiquette of Eating","كتـــــاب أدب الطعام","খাওয়ার আদবের কিতাব","The Book About the Etiquette of Eating","Le Livre de l'Étiquette du Repas","Kitab tentang Adab Makan","Книга об этикете еды","Yemek Adabı Kitabı","کتاب آداب الطعام","727","777","727","777"
+"3","The Book of Dress","كتــــاب اللباس","পোশাকের কিতাব","The Book of Dress","Le Livre des Vêtements","Kitab tentang Pakaian","Книга одежды","Giyim Kitabı","کتاب اللباس","778","812","778","812"
+"4","The Book of the Etiquette of Sleeping, Lying and Sitting etc","كتاب آداب النوم","ঘুমানো, শোয়া ও বসার আদব ইত্যাদির কিতাব","The Book of the Etiquette of Sleeping, Lying and Sitting etc","Le Livre de l'Étiquette du Sommeil, du Coucher et de l'Assise, etc.","Kitab tentang Adab Tidur, Berbaring, dan Duduk, dll.","Книга об этикете сна, лежания и сидения и т.д.","Uyku, Yatma ve Oturma Adabı Kitabı","کتاب آداب النوم والاضطجاع والقعود","813","843","813","843"
+"5","The Book of Greetings","كتاب السلام","সালামের কিতাব","The Book of Greetings","Le Livre des Salutations","Kitab tentang Salam","Книга приветствий","Selamlaşma Kitabı","کتاب السلام","844","893","844","893"
+"6","The Book of Visiting the Sick","كتاب عيادة المريض وتشييع الميت والصلاة عليه وحضور دفنه","রোগী দেখার কিতাব","The Book of Visiting the Sick","Le Livre de la Visite des Malades","Kitab tentang Menjenguk Orang Sakit","Книга посещения больных","Hasta Ziyareti Kitabı","کتاب عیادت مریض","894","955","894","955"
+"7","The Book of Etiquette of Traveling","كتاب آداب السفر","সফরের আদবের কিতাব","The Book of Etiquette of Traveling","Le Livre de l'Étiquette du Voyage","Kitab tentang Adab Bepergian","Книга этикета путешествий","Yolculuk Adabı Kitabı","کتاب آداب السفر","956","990","956","990"
+"8","The Book of Virtues","كتاب الفضائل","ফজিলতের কিতাব","The Book of Virtues","Le Livre des Vertus","Kitab tentang Keutamaan","Книга добродетелей","Faziletler Kitabı","کتاب الفضائل","991","1267","991","1267"
+"9","The Book of I'tikaf","كتاب الاعتكاف","ইতিকাফের কিতাব","The Book of I'tikaf","Le Livre de l'I'tikaf","Kitab I'tikaf","Книга об итикафе","İtikaf Kitabı","کتاب الاعتکاف","1268","1270","1268","1270"
+"10","The Book of Hajj","كتاب الحج","হজ্জের কিতাব","The Book of Hajj","Le Livre du Hajj","Kitab Haji","Книга хаджа","Hac Kitabı","کتاب الحج","1271","1284","1271","1284"
+"11","The Book of Jihad","كتاب الجهاد","জিহাদের কিতাব","The Book of Jihad","Le Livre du Jihad","Kitab Jihad","Книга джихада","Cihat Kitabı","کتاب الجہاد","1285","1375","1285","1375"
+"12","The Book of Knowledge","كتاب العلم","ইলমের কিতাব","The Book of Knowledge","Le Livre de la Connaissance","Kitab tentang Ilmu","Книга знания","İlim Kitabı","کتاب العلم","1376","1392","1376","1392"
+"13","The Book of Praise and Gratitude to Allah","كتاب حمد الله تعالى وشكره","হামদ ও শুকরের কিতাব","The Book of Praise and Gratitude to Allah","Le Livre des Louanges et de la Gratitude à Allah","Kitab tentang Pujian dan Syukur kepada Allah","Книга хвалы и благодарности Аллаху","Allah'a Hamd ve Şükür Kitabı","کتاب الحمد والشکر للہ","1393","1396","1393","1396"
+"14","The Book of Supplicating Allah to Exalt the Mention of Allah's Messenger","كتاب الصلاة على رسول الله صلى الله عليه وسلم","নবীর প্রতি দরূদ ও সালামের কিতাব","The Book of Supplicating Allah to Exalt the Mention of Allah's Messenger","Le Livre de l'Invocation d'Allah pour Exalter la Mention du Messager d'Allah","Kitab tentang Mendoakan agar Allah Meninggikan Sebutan Rasulullah","Книга мольбы о возвеличении упоминания Посланника Аллаха","Allah'tan, Resulullah'ın Anılmasını Yüceltmesini İstemek Kitabı","کتاب الصلاۃ علی رسول اللہ","1397","1407","1397","1407"
+"15","The Book of the Remembrance of Allah","كتاب الأذكار","আল্লাহর স্মরণের অধ্যায়","The Book of the Remembrance of Allah","Le Livre du Rappel d'Allah","Kitab Dzikir","Книга поминания Аллаха","Zikrullah Kitabı","کتاب ذکر اللہ","1408","1464","1408","1464"
+"16","The Book of Du'a (Supplications)","كتاب الدعوات","দুআর অধ্যায়","The Book of Du'a (Supplications)","Le Livre des Invocations","Kitab Doa","Книга дуа (мольб)","Dua Kitabı","کتاب دعا","1465","1510","1465","1510"
+"17","The Book of the Prohibited actions","كتاب الأمور المنهي عنها","নিষিদ্ধ কর্মের অধ্যায়","The Book of the Prohibited actions","Le Livre des Actions Interdites","Kitab Perbuatan yang Diharamkan","Книга запретных действий","Münkerat Kitabı","کتاب ممنوعہ اعمال","1511","1807","1511","1807"
+"18","The Book of Miscellaneous ahadith of Significant Values","كتاب المنثورات والملح","মূল্যবান বিবিধ হাদিসের অধ্যায়","The Book of Miscellaneous ahadith of Significant Values","Le Livre des Hadiths Divers de Valeur Significative","Kitab Kumpulan Hadits Lain yang Bernilai Penting","Книга различных хадисов значительной ценности","Müteferrik Kıymetli Hadisler Kitabı","کتاب متفرق اہم احادیث","1808","1868","1808","1868"
+"19","The Book of Forgiveness","كتاب الاستغفار","ক্ষমার অধ্যায়","The Book of Forgiveness","Le Livre du Pardon","Kitab Pengampunan","Книга прощения","Mağfiret Kitabı","کتاب مغفرت","1869","1896","1869","1896"
+"introduction","The Book of Miscellany","كتاب المقدمات","বিবিধের কিতাব","The Book of Miscellany","Le Livre des Mélanges","Kitab Aneka Ragam","Книга разного","Müteferrik Kitabı","کتاب متفرقات","1","679","1","679"

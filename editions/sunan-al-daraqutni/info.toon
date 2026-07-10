@@ -1,16 +1,17 @@
 
 metadata:
-  book_id: sunan-al-daraqutni
+  book_id: "sunan-al-daraqutni"
   book_name: "sunan-al-daraqutni"
-  total_hadiths: 4859
+  total_hadiths: "4859"
   available_languages: "en,ur"
   intro: "Sunan ad-Daraqutni is a collection of hadith compiled by Imam Abu al-Hasan `Ali ibn `Umar ibn Ahmad ibn Mahdi al-Baghdadi al-Daraqutni (d. 385 AH/995 CE - rahimahullah). It is an important collection of reports of the Sunnah of the Prophet Muhammad (ﷺ), arranged mainly by legal chapters and known for gathering variant routes, juristic evidence, and reports of differing grades, often with comments on narrators and hidden defects. It contains approximately 4,700 reports."
   intro_ar: "سنن الدارقطني هي مجموعة أحاديث جمعها الإمام أبو الحسن علي بن عمر بن أحمد بن مهدي البغدادي الدارقطني (ت 385 هـ / 995 م - رحمه الله). وهي مجموعة مهمة من أحاديث السنة النبوية (ﷺ)، مرتبة بشكل رئيسي حسب الأبواب الفقهية، وتشتهر بجمع الطرق المختلفة والأدلة الفقهية والروايات ذات الدرجات المتفاوتة، وغالبًا ما تتضمن تعليقات على الرواة والعلل الخفية. تحتوي على ما يقرب من 4,700 حديث."
+  intro_en: "Sunan ad-Daraqutni is a collection of hadith compiled by Imam Abu al-Hasan `Ali ibn `Umar ibn Ahmad ibn Mahdi al-Baghdadi al-Daraqutni (d. 385 AH/995 CE - rahimahullah). It is an important collection of reports of the Sunnah of the Prophet Muhammad (ﷺ), arranged mainly by legal chapters and known for gathering variant routes, juristic evidence, and reports of differing grades, often with comments on narrators and hidden defects. It contains approximately 4,700 reports."
+  intro_ur: "سunan اد-دراقطنی ایک حدیث کا اکٹھا ہے جو امام ابو الہسن علی ابن عمر ابن احمد ابن مہدی البغدادی الدراقطنی (د 385 ہ-995 ع - رحیمہ اللہ) نے مرتب کیا ہے۔ یہ ایک اہم اکٹھا ہے جو نبی محمد (ﷺ) کی سنن کے رپورٹس کو منظم کرتا ہے، زیادہ تر قانونی ابواب کے مطابق اور معروف رپورٹس، جسٹس کے ثبوت اور رپورٹس کے مختلف درجے کو جمع کرتا ہے، اکثر مرتبہ نARRATORS اور خفیہ نقصوں پر تبصرے کے ساتھ۔ یہ تقریباً 4,700 رپورٹس کو含 کرتا ہے۔"
 
-translations[3]{language,sections,path}:
+translations[2]{language,sections,path}:
 "en","1","translations/en"
 "ur","1","translations/ur"
-"ar","1","translations/ar"
 
 sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
 "1","Sunan al-Daraqutni","سنن الدارقطني","সুনান আদ-দারাকুতনি","Sunan al-Daraqutni","Sunan al-Daraqutni","Sunan ad-Daraquthni","Сунан ад-Даракутни","Sünenü'd-Darakutni","سنن الدارقطنی","1","4859","1","4859"

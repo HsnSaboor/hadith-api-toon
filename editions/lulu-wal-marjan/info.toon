@@ -1,11 +1,11 @@
 metadata:
   book_id: lulu-wal-marjan
   book_name: "lulu-wal-marjan"
-  total_hadiths: 0
-  available_languages: ""
+  total_hadiths: 1906
+  available_languages: "ar,en,ur"
 
 
-translations[3]{language,sections,path}:
+translations[2]{language,sections,path}:
 "en","55","translations/en"
 "ur","55","translations/ur"
 
@@ -64,4 +64,4 @@ sections[55]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,nam
 "51","Paradise and Its Blessings","كِتَابُ الْجَنَّةِ","Al-Lulu wal-Marjan","Paradise and Its Blessings","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","کتاب: جنت اور اس کی نعمتیں اور اہل جنت کے اوصاف","1798","1829","",""
 "52","Tribulations and Signs of the Hour","كِتَابُ الْفِتَنِ","Al-Lulu wal-Marjan","Tribulations and Signs of the Hour","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","کتاب: فتنوں اور قیامت کی نشانیوں کا بیان","1830","1865","",""
 "53","Heart-Softeners (Riqaq)","كِتَابُ الرِّقَاقِ","Al-Lulu wal-Marjan","Heart-Softeners (Riqaq)","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","کتاب: دنیا سے نفرت دلانے اور دل کو نرم کرنے والی احادیث کا بیان","1866","1893","",""
-"54","Interpretation of the Quran","كِتَابُ التَّفْسِيرِ","Al-Lulu wal-Marjan","Interpretation of the Quran","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","کتاب: قرآن حکیم کی چند آیتوں کی تفسیر","1894","1907","",""
+"54","Interpretation of the Quran","كِتَابُ التَّفْسِيرِ","Al-Lulu wal-Marjan","Interpretation of the Quran","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","Al-Lulu wal-Marjan","کتاب: قرآن حکیم کی چند آیتوں کی تفسیر","1894","1906","",""

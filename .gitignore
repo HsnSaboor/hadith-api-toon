@@ -13,3 +13,14 @@ scraped_data/
 __pycache__/
 hadith-json-data/
 quranohadith-scraper/
+
+# Backups, caches, and audit files
+pre_audit_repair_backup/
+pre_repair_backup/
+pre_content_sanitize_backup/
+backup_pre_backfill/
+backfill_tasks/
+scripts/cache/
+*.toon
+!editions/**/*.toon
+tmp_experiment/

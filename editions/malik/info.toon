@@ -1,20 +1,25 @@
 
 metadata:
-  book_id: malik
+  book_id: "malik"
   book_name: "malik"
-  total_hadiths: 2762
+  total_hadiths: "2762"
   available_languages: "bn,en,fr,id,tr,ur"
   intro: "Muwatta Malik is a collection of hadith compiled by Imam Malik ibn Anas (d. 179 AH). It is one of the earliest and most respected collections of hadith, covering legal rulings, practices of the people of Medina, and the sayings of the Prophet Muhammad (ﷺ)."
   intro_ar: "موطأ مالك هو مجموعة من الأحاديث جمعها الإمام مالك بن أنس (ت. 179 هـ). وهو من أقدم وأجل مجموعات الأحاديث، ويشمل الأحكام الشرعية، وعمل أهل المدينة، وأقوال النبي محمد ﷺ."
+  intro_en: "Muwatta Malik is a collection of hadith compiled by Imam Malik ibn Anas (d. 179 AH). It is one of the earliest and most respected collections of hadith, covering legal rulings, practices of the people of Medina, and the sayings of the Prophet Muhammad (ﷺ)."
+  intro_bn: "মুওয়াত্তা মালিক একটি হাদীসের সংগ্রহ, যা ইমাম মালিক ইবনে আনাস (মৃত্যু ১৭৯ হিজরি) তার সংগ্রহ করেছেন। এটি একটি সবচেয়ে পুরনো এবং সবচেয়ে সম্মানিত হাদীসের সংগ্রহ, যা আইনি সিদ্ধান্ত, মদিনার লোকদের অনুশীলন এবং মুহাম্মদ প্রবেত (ﷺ) এর বাক্য সম্পর্কে আলোচ্য করে।"
+  intro_fr: "C'est une collection de hadith compilée par l'Imam Malik ibn Anas (d. 179 AH). C'est l'une des collections de hadith les plus anciennes et les plus respectées, couvrant les décrets juridiques, les pratiques des gens de Médine, et les propos du Prophète Muhammad (ﷺ)."
+  intro_id: "Muwatta Malik adalah kumpulan hadis yang dikompilasi oleh Imam Malik ibn Anas (w. 179 AH). Itu adalah salah satu kumpulan hadis terawal dan paling dihormati, menutupi penetapan hukum, praktik masyarakat Madinah, dan perkataan Nabi Muhammad (ﷺ)."
+  intro_tr: "Malik Muwatta, İmam Malik ibn Anas (179 AH) tarafından derlenen hadis koleksiyonudur. En erken ve en saygı duyulan hadis koleksiyonlarından biridir, Medine halkının uygulamaları, Peygamber Muhammed (ﷺ)’in sözleri ve hukuk hükümlerini kapsar."
+  intro_ur: "موالا ملک ایک حدیث کی کٹیلاک ہے جو امام ملک بن انس (د 179 ہجری) نے مرتب کیا ہے۔ یہ ایک قدیم اور سب سے زیادہ منقبت کٹیلاک ہے، جو قانونی فیصلے، مدینہ کے لوگوں کی پракٹس اور نبی محمد (ﷺ) کے کلام کو کवर کرتا ہے۔"
 
-translations[7]{language,sections,path}:
+translations[6]{language,sections,path}:
 "bn","56","translations/bn"
 "en","56","translations/en"
 "fr","56","translations/fr"
 "id","56","translations/id"
 "tr","56","translations/tr"
 "ur","56","translations/ur"
-"ar","56","translations/ar"
 
 sections[56]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
 "0","Uncategorized","غير مصنف","অশ্রেণীবদ্ধ","Uncategorized","Non classé","Tidak Dikategorikan","Без категории","Kategorize Edilmemiş","غیر زمرہ بند","958","1861","958","1861"

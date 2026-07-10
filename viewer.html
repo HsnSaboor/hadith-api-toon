@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al-Hadith - Premium Hadith Collection Viewer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            50: '#f0fdf4',
+                            100: '#dcfce7',
+                            200: '#bbf7d0',
+                            500: '#10b981',
+                            600: '#059669',
+                            700: '#047857',
+                            900: '#064e3b',
+                            950: '#022c22',
+                        },
+                        darkbg: {
+                            50: '#1e293b',
+                            100: '#0f172a',
+                            200: '#070a13',
+                        }
+                    },
+                    fontFamily: {
+                        outfit: ['Outfit', 'sans-serif'],
+                        amiri: ['Amiri', 'serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Outfit:wght@300;400;500;600;700&display=swap');
+        
+        /* Smooth scrolling and premium custom scrollbars */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #0f172a;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #1e293b;
+            border-radius: 4px;
+            border: 2px solid #0f172a;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #334155;
+        }
+
+        /* Glassmorphism utility */
+        .glass-panel {
+            background: rgba(15, 23, 42, 0.65);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .hadith-card {
+            position: relative;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .hadith-card::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border-radius: 0.75rem;
+            padding: 1px;
+            background: linear-gradient(to bottom, rgba(16, 185, 129, 0.1), rgba(16, 185, 129, 0));
+            -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+            pointer-events: none;
+        }
+        .hadith-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 20px -8px rgba(2, 44, 34, 0.5);
+        }
+    </style>
+</head>
+<body class="h-full bg-darkbg-200 text-slate-200 font-outfit antialiased selection:bg-brand-600/30 selection:text-brand-200">
+    <div class="flex h-full overflow-hidden">
+        <!-- Sidebar Navigation -->
+        <aside class="w-80 bg-darkbg-100 flex flex-col h-full shrink-0 border-r border-slate-800/80 z-20">
+            <!-- App Logo & Stats -->
+            <div class="p-5 border-b border-slate-800/85">
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-brand-600 to-emerald-400 flex items-center justify-center shadow-lg shadow-brand-600/25">
+                        <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                        </svg>
+                    </div>
+                    <div>
+                        <h1 class="text-lg font-bold text-white tracking-wide">Al-Hadith</h1>
+                        <p class="text-xs text-slate-400 font-medium">Authentic Library</p>
+                    </div>
+                </div>
+
+                <div class="mt-4 grid grid-cols-2 gap-2">
+                    <div class="bg-slate-900/60 rounded-xl p-2.5 border border-slate-800/50 flex flex-col items-center">
+                        <span class="text-brand-500 font-semibold text-base" id="totalBooks">0</span>
+                        <span class="text-slate-400 text-[10px] uppercase font-bold tracking-wider">Books</span>
+                    </div>
+                    <div class="bg-slate-900/60 rounded-xl p-2.5 border border-slate-800/50 flex flex-col items-center">
+                        <span class="text-brand-500 font-semibold text-base" id="totalHadiths">0</span>
+                        <span class="text-slate-400 text-[10px] uppercase font-bold tracking-wider">Hadiths</span>
+                    </div>
+                </div>
+
+                <div class="mt-4 relative">
+                    <input type="text" id="searchBox"
+                        class="w-full pl-9 pr-4 py-2 bg-slate-900/80 border border-slate-800 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-brand-500/50 focus:border-brand-500 placeholder-slate-500 text-white transition-all"
+                        placeholder="Filter collections...">
+                    <div class="absolute left-3 top-2.5 text-slate-500 pointer-events-none">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Collections List -->
+            <div class="flex-1 overflow-y-auto p-3 space-y-1.5" id="bookList">
+                <!-- Book skeletons -->
+                <div class="animate-pulse space-y-3 p-3">
+                    <div class="h-10 bg-slate-800 rounded-lg"></div>
+                    <div class="h-10 bg-slate-800 rounded-lg"></div>
+                    <div class="h-10 bg-slate-800 rounded-lg"></div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Workspace -->
+        <main class="flex-1 flex flex-col h-full overflow-hidden min-w-0 z-10">
+            <!-- Header Panel -->
+            <header class="bg-darkbg-100/90 border-b border-slate-800/80 p-4 shrink-0 flex items-center justify-between z-10 glass-panel">
+                <div class="min-w-0">
+                    <h2 class="text-lg font-bold text-white truncate" id="currentBook">Select a Collection</h2>
+                    <p class="text-xs text-slate-400 font-medium truncate" id="currentBookSubtitle">Pick a book from the library to browse hadiths</p>
+                </div>
+                
+                <div class="flex items-center gap-3">
+                    <!-- Bookmarks Toggle -->
+                    <button id="bookmarkToggleBtn" onclick="toggleShowBookmarksOnly()" class="p-2 text-slate-400 hover:text-amber-400 rounded-lg hover:bg-slate-800/60 transition-all duration-150 flex items-center gap-1.5 text-xs font-semibold border border-transparent hover:border-slate-700/50" title="View Bookmarks">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" id="bookmarkBtnIcon">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.907c.961 0 1.36 1.252.583 1.828l-3.97 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.971-2.888a1 1 0 00-1.175 0l-3.97 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.97-2.888c-.777-.576-.38-1.828.582-1.828h4.907a1 1 0 00.95-.69l1.519-4.674z" />
+                        </svg>
+                        <span id="bookmarkBtnText">Starred</span>
+                    </button>
+
+                    <!-- Language Selector -->
+                    <div class="flex items-center gap-2">
+                        <select id="langSelect"
+                            class="bg-slate-900 border border-slate-800 rounded-xl px-3 py-1.5 text-sm font-medium text-white focus:outline-none focus:ring-2 focus:ring-brand-500/50 cursor-pointer hover:border-slate-700 transition-all">
+                            <option value="">Choose Lang</option>
+                        </select>
+                    </div>
+
+                    <!-- Customize Button -->
+                    <button onclick="toggleSettingsDrawer()" class="p-2 text-slate-400 hover:text-white rounded-lg hover:bg-slate-800/60 transition-all" title="Reader Preferences">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+                        </svg>
+                    </button>
+                </div>
+            </header>
+
+            <!-- Main Split Layout -->
+            <div class="flex flex-1 overflow-hidden min-h-0 relative">
+                <!-- Chapters List (Toggleable Panel) -->
+                <div id="sectionPanel" class="w-72 bg-darkbg-100 border-r border-slate-800/80 flex flex-col h-full overflow-hidden shrink-0 hidden">
+                    <div class="p-4 border-b border-slate-800/80 flex items-center justify-between">
+                        <span class="text-xs font-bold text-slate-400 uppercase tracking-widest">Chapters</span>
+                        <button onclick="toggleChaptersPanel()" class="text-slate-500 hover:text-white lg:hidden">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+                        </button>
+                    </div>
+                    <div id="sectionList" class="flex-1 overflow-y-auto p-3 space-y-1">
+                        <!-- Chapter items -->
+                    </div>
+                </div>
+
+                <!-- Hadith List Content Panel -->
+                <div id="hadithPanel" class="flex-1 overflow-y-auto bg-darkbg-200 p-6 space-y-6">
+                    <!-- Splash view -->
+                    <div class="flex flex-col items-center justify-center h-full text-slate-500 min-h-[400px]">
+                        <div class="w-20 h-20 rounded-full bg-slate-900 flex items-center justify-center border border-slate-800 mb-5">
+                            <svg class="w-10 h-10 text-brand-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                            </svg>
+                        </div>
+                        <h3 class="text-lg font-bold text-white mb-2">Welcome to Al-Hadith Collections</h3>
+                        <p class="text-sm text-slate-400 max-w-sm text-center">Select any Hadith collection on the left sidebar to start reading authentic narrations.</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Reader Customizer Drawer (Drawer Settings Panel) -->
+    <div id="settingsDrawer" class="fixed inset-y-0 right-0 w-80 bg-slate-900 border-l border-slate-800 z-50 shadow-2xl transform translate-x-full transition-transform duration-300 ease-in-out">
+        <div class="p-5 h-full flex flex-col">
+            <div class="flex items-center justify-between pb-4 border-b border-slate-800">
+                <h3 class="font-bold text-white text-base">Reading Options</h3>
+                <button onclick="toggleSettingsDrawer()" class="text-slate-400 hover:text-white p-1">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+
+            <div class="flex-1 py-6 space-y-6 overflow-y-auto">
+                <!-- Text Scale Option -->
+                <div class="space-y-2">
+                    <label class="text-xs font-bold text-slate-400 uppercase tracking-widest">Arabic Text Size</label>
+                    <div class="grid grid-cols-4 gap-1.5">
+                        <button onclick="setArabicTextScale('sm')" class="scale-btn px-2 py-1.5 bg-slate-800 rounded-lg text-xs font-semibold text-slate-300 hover:bg-slate-700 transition" id="scale-ar-sm">Small</button>
+                        <button onclick="setArabicTextScale('md')" class="scale-btn px-2 py-1.5 bg-brand-600 rounded-lg text-xs font-semibold text-white hover:bg-brand-500 transition" id="scale-ar-md">Medium</button>
+                        <button onclick="setArabicTextScale('lg')" class="scale-btn px-2 py-1.5 bg-slate-800 rounded-lg text-xs font-semibold text-slate-300 hover:bg-slate-700 transition" id="scale-ar-lg">Large</button>
+                        <button onclick="setArabicTextScale('xl')" class="scale-btn px-2 py-1.5 bg-slate-800 rounded-lg text-xs font-semibold text-slate-300 hover:bg-slate-700 transition" id="scale-ar-xl">Huge</button>
+                    </div>
+                </div>
+
+                <!-- Translation Text Scale Option -->
+                <div class="space-y-2">
+                    <label class="text-xs font-bold text-slate-400 uppercase tracking-widest">Translation Text Size</label>
+                    <div class="grid grid-cols-4 gap-1.5">
+                        <button onclick="setTranslationTextScale('sm')" class="scale-btn px-2 py-1.5 bg-slate-800 rounded-lg text-xs font-semibold text-slate-300 hover:bg-slate-700 transition" id="scale-tr-sm">Small</button>
+                        <button onclick="setTranslationTextScale('md')" class="scale-btn px-2 py-1.5 bg-brand-600 rounded-lg text-xs font-semibold text-white hover:bg-brand-500 transition" id="scale-tr-md">Medium</button>
+                        <button onclick="setTranslationTextScale('lg')" class="scale-btn px-2 py-1.5 bg-slate-800 rounded-lg text-xs font-semibold text-slate-300 hover:bg-slate-700 transition" id="scale-tr-lg">Large</button>
+                        <button onclick="setTranslationTextScale('xl')" class="scale-btn px-2 py-1.5 bg-slate-800 rounded-lg text-xs font-semibold text-slate-300 hover:bg-slate-700 transition" id="scale-tr-xl">Huge</button>
+                    </div>
+                </div>
+
+                <!-- Visible Components Options -->
+                <div class="space-y-3">
+                    <label class="text-xs font-bold text-slate-400 uppercase tracking-widest">Visible Components</label>
+                    <label class="flex items-center gap-3 cursor-pointer">
+                        <input type="checkbox" id="toggleArabic" checked class="w-4 h-4 text-brand-600 bg-slate-900 border-slate-700 rounded focus:ring-brand-500 focus:ring-2 focus:ring-offset-0 focus:ring-offset-transparent">
+                        <span class="text-sm font-medium text-slate-300">Show Arabic Text</span>
+                    </label>
+                    <label class="flex items-center gap-3 cursor-pointer">
+                        <input type="checkbox" id="toggleTranslation" checked class="w-4 h-4 text-brand-600 bg-slate-900 border-slate-700 rounded focus:ring-brand-500 focus:ring-2 focus:ring-offset-0 focus:ring-offset-transparent">
+                        <span class="text-sm font-medium text-slate-300">Show Translations</span>
+                    </label>
+                    <label class="flex items-center gap-3 cursor-pointer">
+                        <input type="checkbox" id="toggleGrades" checked class="w-4 h-4 text-brand-600 bg-slate-900 border-slate-700 rounded focus:ring-brand-500 focus:ring-2 focus:ring-offset-0 focus:ring-offset-transparent">
+                        <span class="text-sm font-medium text-slate-300">Show Grading / Authenticity</span>
+                    </label>
+                </div>
+            </div>
+
+            <div class="pt-4 border-t border-slate-800 text-center">
+                <button onclick="resetPreferences()" class="text-xs text-slate-500 hover:text-white transition">Reset Preferences</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Controller Logic -->
+    <script>
+        let books = [];
+        let currentBook = null;
+        let currentSection = null;
+        let sectionsData = [];
+        let bookMeta = null;
+        let bookmarks = JSON.parse(localStorage.getItem('hadith_bookmarks') || '[]');
+        let showBookmarksOnly = false;
+
+        // Custom reader options
+        let prefArabicScale = localStorage.getItem('pref_ar_scale') || 'md';
+        let prefTranslationScale = localStorage.getItem('pref_tr_scale') || 'md';
+        let prefShowArabic = JSON.parse(localStorage.getItem('pref_show_ar') !== null ? localStorage.getItem('pref_show_ar') : 'true');
+        let prefShowTranslation = JSON.parse(localStorage.getItem('pref_show_tr') !== null ? localStorage.getItem('pref_show_tr') : 'true');
+        let prefShowGrades = JSON.parse(localStorage.getItem('pref_show_grades') !== null ? localStorage.getItem('pref_show_grades') : 'true');
+
+        const langFieldMap = {
+            'en': 'name_en', 'ar': 'name_ar', 'bn': 'name_bn', 'fr': 'name_fr',
+            'id': 'name_id', 'ru': 'name_ru', 'tr': 'name_tr', 'ur': 'name_ur'
+        };
+
+        const arScaleClasses = {
+            'sm': 'text-lg', 'md': 'text-xl leading-loose', 'lg': 'text-2xl leading-loose', 'xl': 'text-3xl leading-loose'
+        };
+        const trScaleClasses = {
+            'sm': 'text-xs', 'md': 'text-sm leading-relaxed', 'lg': 'text-base leading-relaxed', 'xl': 'text-lg leading-relaxed'
+        };
+
+        // Parsers
+        function parseToonLine(line) {
+            const result = [];
+            let current = '';
+            let inQuotes = false;
+            let i = 0;
+
+            while (i < line.length) {
+                const char = line[i];
+                if (inQuotes) {
+                    if (char === '"') {
+                        if (i + 1 < line.length && line[i + 1] === '"') {
+                            current += '"';
+                            i += 2;
+                        } else {
+                            inQuotes = false;
+                            i++;
+                        }
+                    } else if (char === '\\' && i + 1 < line.length) {
+                        const next = line[i + 1];
+                        if (next === 'n') { current += '\n'; }
+                        else if (next === 't') { current += '\t'; }
+                        else if (next === '"') { current += '"'; }
+                        else if (next === '\\') { current += '\\'; }
+                        else { current += next; }
+                        i += 2;
+                    } else {
+                        current += char;
+                        i++;
+                    }
+                } else {
+                    if (char === '"') {
+                        inQuotes = true;
+                        i++;
+                    } else if (char === ',') {
+                        result.push(current);
+                        current = '';
+                        i++;
+                    } else {
+                        current += char;
+                        i++;
+                    }
+                }
+            }
+            result.push(current);
+            return result;
+        }
+
+        function parseMetadata(text) {
+            const meta = {};
+            const lines = text.split('\n');
+            let inMetadata = false;
+
+            for (const line of lines) {
+                const trimmed = line.trim();
+                if (trimmed === 'metadata:') {
+                    inMetadata = true;
+                    continue;
+                }
+                if (inMetadata) {
+                    if (trimmed.startsWith('translations[') || trimmed.startsWith('sections[')) {
+                        break;
+                    }
+                    const match = trimmed.match(/^(\w+):\s*"?([^"]*)"?$/);
+                    if (match) {
+                        meta[match[1]] = match[2];
+                    }
+                }
+            }
+            return meta;
+        }
+
+        // Library Loaders
+        async function loadBooks() {
+            try {
+                const response = await fetch('info.toon');
+                if (!response.ok) throw new Error('Root info missing');
+                const text = await response.text();
+                const lines = text.split('\n').filter(l => l.trim());
+
+                const header = lines[0];
+                const countMatch = header.match(/\[(\d+)\]/);
+                if (!countMatch) throw new Error('Invalid format');
+                const count = parseInt(countMatch[1]);
+
+                for (let i = 1; i <= count && i < lines.length; i++) {
+                    const line = lines[i].trim();
+                    const parts = parseToonLine(line);
+                    if (parts.length >= 4) {
+                        const langs = parts[3] ? parts[3].split(',').filter(l => l !== 'ar') : [];
+                        books.push({
+                            id: parts[0],
+                            name: parts[1],
+                            total: parseInt(parts[2]),
+                            languages: langs
+                        });
+                    }
+                }
+
+                document.getElementById('totalBooks').textContent = books.length;
+                document.getElementById('totalHadiths').textContent = books.reduce((sum, b) => sum + b.total, 0).toLocaleString();
+
+                renderBookList();
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('bookList').innerHTML = `
+                    <div class="p-4 text-red-400 text-sm font-medium text-center">Failed to load collections repository info</div>
+                `;
+            }
+        }
+
+        function renderBookList(filter = '') {
+            const list = document.getElementById('bookList');
+            const filtered = books.filter(b =>
+                b.name.toLowerCase().includes(filter.toLowerCase()) ||
+                b.id.toLowerCase().includes(filter.toLowerCase())
+            );
+
+            list.innerHTML = filtered.map(book => {
+                const isActive = currentBook?.id === book.id;
+                return `
+                    <div class="p-3.5 rounded-xl cursor-pointer border border-transparent transition-all hover:bg-slate-800/80 ${isActive ? 'bg-brand-900/15 border-brand-500/20 shadow-md shadow-brand-950/20' : ''}"
+                        onclick="selectBook('${book.id}')">
+                        <div class="flex items-center justify-between">
+                            <span class="font-semibold text-xs uppercase tracking-widest ${isActive ? 'text-brand-500' : 'text-slate-500'}">${book.id}</span>
+                            <span class="text-[10px] text-slate-500 font-bold bg-slate-900/80 px-2 py-0.5 rounded">${book.total.toLocaleString()}</span>
+                        </div>
+                        <div class="font-bold text-sm text-slate-200 mt-1">${book.name}</div>
+                        <div class="text-[10px] text-slate-400 mt-2 flex items-center gap-1">
+                            <span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+                            ${book.languages.map(l => l.toUpperCase()).join(' · ')}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        async function selectBook(bookId) {
+            currentBook = books.find(b => b.id === bookId);
+            currentSection = null;
+            sectionsData = [];
+            bookMeta = null;
+
+            document.getElementById('currentBook').textContent = currentBook.name;
+            document.getElementById('currentBookSubtitle').textContent = `Explore ${currentBook.total.toLocaleString()} narrations in ${currentBook.languages.length + 1} languages`;
+            document.getElementById('sectionPanel').classList.remove('hidden');
+
+            const langSelect = document.getElementById('langSelect');
+            if (currentBook.languages.length > 0) {
+                // Try to preserve previous language if it's supported by the book, otherwise default to first available
+                let defaultLang = currentBook.languages.includes('en') ? 'en' : currentBook.languages[0];
+                langSelect.innerHTML = currentBook.languages.map(lang =>
+                    `<option value="${lang}" ${lang === defaultLang ? 'selected' : ''}>${lang.toUpperCase()}</option>`
+                ).join('');
+            } else {
+                langSelect.innerHTML = '<option value="">No Translation</option>';
+            }
+
+            renderBookList(document.getElementById('searchBox').value);
+
+            // Skeleton loading state for section panel list
+            document.getElementById('sectionList').innerHTML = `
+                <div class="animate-pulse space-y-2 p-2">
+                    <div class="h-8 bg-slate-800 rounded"></div>
+                    <div class="h-8 bg-slate-800 rounded"></div>
+                    <div class="h-8 bg-slate-800 rounded"></div>
+                </div>
+            `;
+
+            document.getElementById('hadithPanel').innerHTML = `
+                <div class="flex flex-col items-center justify-center h-full text-slate-500 min-h-[400px]">
+                    <div class="w-12 h-12 rounded-full border-2 border-brand-500/20 border-t-brand-500 animate-spin mb-4"></div>
+                    <p class="text-sm">Loading collection content details...</p>
+                </div>
+            `;
+
+            try {
+                const response = await fetch(`editions/${bookId}/info.toon`);
+                if (!response.ok) throw new Error('Info data missing');
+                const text = await response.text();
+
+                bookMeta = parseMetadata(text);
+
+                const lines = text.split('\n').filter(l => l.trim());
+                const sectionsHeader = lines.find(l => l.startsWith('sections[')) || lines.find(l => l.startsWith('chapters['));
+                if (!sectionsHeader) throw new Error('No sections registry found');
+
+                const countMatch = sectionsHeader.match(/\[(\d+)\]/);
+                if (!countMatch) throw new Error('Invalid section structure');
+                const count = parseInt(countMatch[1]);
+                const sectionsStart = lines.indexOf(sectionsHeader) + 1;
+
+                const fieldsMatch = sectionsHeader.match(/\{([^}]+)\}/);
+                const fields = fieldsMatch ? fieldsMatch[1].split(',') : [];
+
+                for (let i = sectionsStart; i < sectionsStart + count && i < lines.length; i++) {
+                    const line = lines[i].trim();
+                    if (!line.startsWith('"') && !line.startsWith('1')) continue;
+                    const parts = parseToonLine(line);
+                    if (parts.length >= fields.length) {
+                        const section = {};
+                        fields.forEach((field, idx) => {
+                            section[field.trim()] = parts[idx];
+                        });
+                        sectionsData.push(section);
+                    }
+                }
+
+                renderSectionList();
+                showBookIntro();
+
+            } catch (error) {
+                console.error(error);
+                document.getElementById('hadithPanel').innerHTML = `
+                    <div class="p-6 text-center text-red-400 font-medium">Failed to load metadata for this collection.</div>
+                `;
+            }
+        }
+
+        function showBookIntro() {
+            if (!bookMeta) return;
+
+            const panel = document.getElementById('hadithPanel');
+            const intro = bookMeta.intro || '';
+            const introAr = bookMeta.intro_ar || '';
+
+            panel.innerHTML = `
+                <div class="max-w-4xl mx-auto space-y-6">
+                    <div class="bg-gradient-to-br from-slate-900 to-slate-950 rounded-2xl p-7 border border-slate-800 shadow-xl">
+                        <div class="flex items-center justify-between mb-4">
+                            <span class="px-3 py-1 text-xs font-bold uppercase tracking-wider text-brand-400 bg-brand-500/10 rounded-full">Collection Intro</span>
+                            <span class="text-xs text-slate-500 font-medium">Source Meta: info.toon</span>
+                        </div>
+                        <h2 class="text-3xl font-extrabold text-white mb-2">${currentBook.name}</h2>
+                        <div class="flex gap-4 text-xs font-semibold text-slate-400 mb-6">
+                            <span>📖 ${currentBook.total.toLocaleString()} hadiths</span>
+                            <span>🌐 ${currentBook.languages.length + 1} translations</span>
+                        </div>
+                        
+                        ${intro ? `
+                            <div class="prose prose-invert text-slate-300 text-sm leading-relaxed pt-5 border-t border-slate-800/80">
+                                ${intro.replace(/\\n/g, '\n').split('\n').map(p => `<p class="mb-3">${p}</p>`).join('')}
+                            </div>
+                        ` : ''}
+                        
+                        ${introAr ? `
+                            <div class="prose prose-invert text-slate-300 text-lg leading-loose pt-6 border-t border-slate-800/80 text-right" dir="rtl">
+                                <div class="font-arabic font-bold text-slate-100">
+                                    ${introAr.replace(/\\n/g, '\n').split('\n').map(p => `<p class="mb-4">${p}</p>`).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
+                    </div>
+                    
+                    <div class="bg-slate-900/40 border border-slate-800/50 rounded-2xl p-8 flex flex-col items-center justify-center text-center">
+                        <div class="w-12 h-12 rounded-xl bg-slate-900 border border-slate-800 flex items-center justify-center mb-3">
+                            <svg class="w-6 h-6 text-brand-500 animate-pulse" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+                        </div>
+                        <h4 class="text-sm font-bold text-white mb-1">Select a Chapter</h4>
+                        <p class="text-xs text-slate-400 max-w-xs">Navigate using the chapters drawer panel to browse direct narrations.</p>
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderSectionList() {
+            const list = document.getElementById('sectionList');
+            const lang = document.getElementById('langSelect').value;
+            const nameField = langFieldMap[lang] || 'name_en';
+
+            list.innerHTML = sectionsData.map(section => {
+                const displayName = section[nameField] || section.name_en || section.name || `Section ${section.id}`;
+                const isActive = currentSection === section.id;
+                return `
+                    <div class="p-2.5 rounded-lg cursor-pointer transition-all border border-transparent ${isActive ? 'bg-brand-900/10 text-brand-400 border-brand-500/10' : 'text-slate-300 hover:bg-slate-800/60'}"
+                        onclick="selectSection('${section.id}')">
+                        <div class="text-xs font-bold truncate flex items-center gap-1.5">
+                            <span class="${isActive ? 'text-brand-500' : 'text-slate-500'}">#${section.id}</span>
+                            ${displayName}
+                        </div>
+                        ${section.name_ar ? `<div class="text-[10px] text-slate-500 font-arabic truncate text-right mt-0.5" dir="rtl">${section.name_ar}</div>` : ''}
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // Reader View & Hadith List Loaders
+        async function selectSection(sectionId) {
+            currentSection = sectionId;
+            const section = sectionsData.find(s => s.id === sectionId);
+            const panel = document.getElementById('hadithPanel');
+
+            panel.innerHTML = `
+                <div class="flex flex-col items-center justify-center h-full text-slate-500 min-h-[400px]">
+                    <div class="w-10 h-10 rounded-full border-2 border-brand-500/25 border-t-brand-500 animate-spin mb-4"></div>
+                    <p class="text-sm">Fetching narrations for this chapter...</p>
+                </div>
+            `;
+
+            const lang = document.getElementById('langSelect').value;
+            const nameField = langFieldMap[lang] || 'name_en';
+
+            try {
+                const arResponse = await fetch(`editions/${currentBook.id}/sections/${sectionId}.toon`);
+                if (!arResponse.ok) throw new Error('Narrations database path missing');
+                const arText = await arResponse.text();
+                const arLines = arText.split('\n').filter(l => l.trim());
+
+                const arHeader = arLines.find(l => l.startsWith('hadiths['));
+                if (!arHeader) throw new Error('Invalid schema alignment');
+                const headerIdx = arLines.indexOf(arHeader);
+                const dataLines = arLines.slice(headerIdx + 1);
+
+                // Load translation if available
+                let translations = {};
+                if (lang) {
+                    try {
+                        const transResponse = await fetch(`editions/${currentBook.id}/translations/${lang}/sections/${sectionId}.toon`);
+                        if (transResponse.ok) {
+                            const transText = await transResponse.text();
+                            const transLines = transText.split('\n').filter(l => l.trim());
+                            const transHeader = transLines.find(l => l.startsWith('hadiths['));
+                            if (transHeader) {
+                                const transHeaderIdx = transLines.indexOf(transHeader);
+                                for (let i = transHeaderIdx + 1; i < transLines.length; i++) {
+                                    const parts = parseToonLine(transLines[i]);
+                                    if (parts.length >= 2) {
+                                        translations[parts[0]] = parts[1];
+                                    }
+                                }
+                            }
+                        }
+                    } catch (e) {
+                        console.log('No matching translation for section:', lang, sectionId);
+                    }
+                }
+
+                const sectionName = section ? (section[nameField] || section.name_en || section.name) : 'Chapter ' + sectionId;
+                const sectionNameAr = section?.name_ar || '';
+
+                // Header with in-page search box
+                let html = `
+                    <div class="max-w-4xl mx-auto space-y-6">
+                        <div class="bg-gradient-to-br from-slate-900 to-slate-950 p-6 border border-slate-800 rounded-2xl shadow-xl flex flex-col md:flex-row md:items-center justify-between gap-4">
+                            <div>
+                                <span class="text-xs font-bold text-slate-500 uppercase tracking-widest">Chapter #${sectionId}</span>
+                                <h2 class="text-2xl font-extrabold text-white mt-1">${sectionName}</h2>
+                                ${sectionNameAr ? `<div class="font-arabic text-md text-slate-400 mt-1" dir="rtl">${sectionNameAr}</div>` : ''}
+                                <p class="text-xs text-slate-500 font-semibold mt-1.5 flex items-center gap-1.5">
+                                    <span class="w-1.5 h-1.5 rounded-full bg-brand-500"></span>
+                                    ${dataLines.length} narrations loaded
+                                </p>
+                            </div>
+                            <div class="shrink-0 relative">
+                                <input type="text" id="hadithFilter" oninput="filterHadiths()"
+                                    class="w-full md:w-60 pl-9 pr-4 py-2 bg-slate-900 border border-slate-800 rounded-xl text-xs focus:outline-none focus:ring-2 focus:ring-brand-500/50 focus:border-brand-500 placeholder-slate-500 text-white transition-all"
+                                    placeholder="Search in this chapter...">
+                                <div class="absolute left-3 top-2.5 text-slate-500 pointer-events-none">
+                                    <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="space-y-6" id="hadithListContainer">
+                `;
+
+                for (const line of dataLines) {
+                    const parts = parseToonLine(line);
+                    if (parts.length < 4) continue;
+
+                    const hadithNum = parts[0];
+                    const arabic = parts[1];
+                    const grades = parts[2];
+                    const reference = parts[3];
+                    const translation = translations[hadithNum] || '';
+                    
+                    const isStarred = isBookmarked(currentBook.id, hadithNum);
+
+                    html += `
+                        <div class="hadith-card bg-slate-900/60 rounded-2xl p-6 border border-slate-800/80 shadow-md hover:shadow-xl transition-all"
+                            data-hadith-id="${hadithNum}" data-text="${encodeURIComponent(arabic + ' ' + translation + ' ' + reference)}">
+                            
+                            <!-- Card Actions & Meta Header -->
+                            <div class="flex items-center justify-between pb-3.5 border-b border-slate-800/60 mb-5 text-slate-400 text-xs">
+                                <span class="bg-brand-900/40 text-brand-400 border border-brand-500/10 font-bold px-3 py-1 rounded-full text-[10px] tracking-wider uppercase">
+                                    Hadith #${hadithNum}
+                                </span>
+                                
+                                <div class="flex items-center gap-2">
+                                    <!-- Copy Button -->
+                                    <button onclick="copyToClipboard('${hadithNum}')" class="p-1.5 text-slate-500 hover:text-slate-200 hover:bg-slate-800 rounded transition" title="Copy Hadith Text">
+                                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                                        </svg>
+                                    </button>
+
+                                    <!-- Star Bookmark Button -->
+                                    <button onclick="toggleBookmark('${currentBook.id}', '${hadithNum}')" class="p-1.5 rounded transition ${isStarred ? 'text-amber-400 hover:bg-slate-800' : 'text-slate-500 hover:text-amber-400 hover:bg-slate-800'}" title="Star Hadith">
+                                        <svg class="w-4 h-4" fill="${isStarred ? 'currentColor' : 'none'}" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.907c.961 0 1.36 1.252.583 1.828l-3.97 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.971-2.888a1 1 0 00-1.175 0l-3.97 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.97-2.888c-.777-.576-.38-1.828.582-1.828h4.907a1 1 0 00.95-.69l1.519-4.674z" />
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <!-- Arabic Block -->
+                            <div class="hadith-arabic-text font-arabic leading-loose text-right text-white select-all font-semibold ${arScaleClasses[prefArabicScale]} ${prefShowArabic ? '' : 'hidden'}" dir="rtl">
+                                ${arabic}
+                            </div>
+
+                            <!-- Translation Block -->
+                            ${translation ? `
+                                <div class="hadith-translation-text pt-4 border-t border-slate-800/50 mt-4 text-slate-300 select-text ${trScaleClasses[prefTranslationScale]} ${prefShowTranslation ? '' : 'hidden'}">
+                                    ${translation}
+                                </div>
+                            ` : ''}
+
+                            <!-- Grades / Authentication Footnotes -->
+                            ${(grades || reference) ? `
+                                <div class="mt-4 flex flex-wrap items-center justify-between gap-3 pt-3 border-t border-slate-800/30 text-xs text-slate-500 font-medium">
+                                    <div class="flex items-center gap-2 ${prefShowGrades ? '' : 'hidden'}">
+                                        <span class="uppercase tracking-widest text-[9px] font-bold text-slate-500">Grading</span>
+                                        <span class="text-amber-400/80 font-bold bg-amber-400/5 px-2 py-0.5 rounded border border-amber-400/10">${grades || 'Not Graded'}</span>
+                                    </div>
+                                    <div class="flex items-center gap-1 text-[11px] text-slate-500 font-bold">
+                                        <span>Reference:</span>
+                                        <span>${reference}</span>
+                                    </div>
+                                </div>
+                            ` : ''}
+                        </div>
+                    `;
+                }
+
+                html += '</div></div>';
+                panel.innerHTML = html;
+
+            } catch (error) {
+                console.error(error);
+                panel.innerHTML = `
+                    <div class="p-6 text-center text-red-400 font-medium">Failed to retrieve narrations database for this section.</div>
+                `;
+            }
+
+            renderSectionList();
+            applyPreferencesUI();
+        }
+
+        // Bookmark System Logic
+        function isBookmarked(bookId, hadithNum) {
+            return bookmarks.some(b => b.bookId === bookId && b.hadithNum === hadithNum);
+        }
+
+        function toggleBookmark(bookId, hadithNum) {
+            const index = bookmarks.findIndex(b => b.bookId === bookId && b.hadithNum === hadithNum);
+            if (index > -1) {
+                bookmarks.splice(index, 1);
+            } else {
+                bookmarks.push({ bookId, hadithNum, timestamp: Date.now() });
+            }
+            localStorage.setItem('hadith_bookmarks', JSON.stringify(bookmarks));
+            
+            // Reload view
+            if (currentSection) {
+                selectSection(currentSection);
+            }
+            updateStarredButtonCount();
+        }
+
+        function updateStarredButtonCount() {
+            const count = bookmarks.length;
+            const textEl = document.getElementById('bookmarkBtnText');
+            const iconEl = document.getElementById('bookmarkBtnIcon');
+            
+            if (count > 0) {
+                textEl.textContent = `Starred (${count})`;
+                iconEl.classList.add('text-amber-400');
+            } else {
+                textEl.textContent = 'Starred';
+                iconEl.classList.remove('text-amber-400');
+            }
+        }
+
+        function toggleShowBookmarksOnly() {
+            showBookmarksOnly = !showBookmarksOnly;
+            
+            const btn = document.getElementById('bookmarkToggleBtn');
+            if (showBookmarksOnly) {
+                btn.classList.add('bg-amber-400/10', 'border-amber-400/30', 'text-amber-400');
+                btn.classList.remove('text-slate-400');
+                renderBookmarkedHadiths();
+            } else {
+                btn.classList.remove('bg-amber-400/10', 'border-amber-400/30', 'text-amber-400');
+                btn.classList.add('text-slate-400');
+                if (currentSection) {
+                    selectSection(currentSection);
+                } else {
+                    showBookIntro();
+                }
+            }
+        }
+
+        // Render bookmarked hadiths globally across all books or current book
+        async function renderBookmarkedHadiths() {
+            const panel = document.getElementById('hadithPanel');
+            if (bookmarks.length === 0) {
+                panel.innerHTML = `
+                    <div class="flex flex-col items-center justify-center h-full text-slate-500 min-h-[400px]">
+                        <div class="w-14 h-14 rounded-full bg-slate-900 flex items-center justify-center border border-slate-800 mb-4">
+                            <svg class="w-6 h-6 text-amber-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.907c.961 0 1.36 1.252.583 1.828l-3.97 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.971-2.888a1 1 0 00-1.175 0l-3.97 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.97-2.888c-.777-.576-.38-1.828.582-1.828h4.907a1 1 0 00.95-.69l1.519-4.674z" /></svg>
+                        </div>
+                        <h4 class="text-sm font-bold text-white mb-1">No Starred Items</h4>
+                        <p class="text-xs text-slate-400">Click the star button on any Hadith card to bookmark it here.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            panel.innerHTML = `
+                <div class="flex flex-col items-center justify-center h-full text-slate-500 min-h-[400px]">
+                    <div class="w-10 h-10 rounded-full border-2 border-brand-500/25 border-t-brand-500 animate-spin mb-4"></div>
+                    <p class="text-sm font-medium">Assembling starred narrations...</p>
+                </div>
+            `;
+
+            // Resolving all bookmarked hadiths directly from toon files
+            let html = `
+                <div class="max-w-4xl mx-auto space-y-6">
+                    <div class="bg-gradient-to-br from-slate-900 to-slate-950 p-6 border border-slate-800 rounded-2xl shadow-xl">
+                        <h2 class="text-2xl font-extrabold text-white">Your Starred Hadiths</h2>
+                        <p class="text-xs text-slate-400 font-semibold mt-1 flex items-center gap-1.5">
+                            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-ping"></span>
+                            ${bookmarks.length} bookmarked hadiths
+                        </p>
+                    </div>
+                    <div class="space-y-6">
+            `;
+
+            for (const b of bookmarks) {
+                // Resolving each bookmarked hadith asynchronously
+                try {
+                    // For finding which section contains the hadith, we can look at the book sections
+                    // In a simpler way, sections are numbered files. We can fetch sectionsData if needed.
+                    // Or let's assume we can fetch it, since info.toon registers all hadiths range (hadith_first to hadith_last)
+                    // Let's deduce section_id from the hadith_first/last metadata ranges inside book sections.
+                    // We need to fetch the book info first if it's different from currentBook
+                    const infoRes = await fetch(`editions/${b.bookId}/info.toon`);
+                    if (!infoRes.ok) continue;
+                    const infoText = await infoRes.ok ? await infoRes.text() : '';
+                    
+                    // Parse sections registry ranges
+                    const lines = infoText.split('\n').filter(l => l.trim());
+                    const sectionsHeader = lines.find(l => l.startsWith('sections[')) || lines.find(l => l.startsWith('chapters['));
+                    if (!sectionsHeader) continue;
+                    const countMatch = sectionsHeader.match(/\[(\d+)\]/);
+                    if (!countMatch) continue;
+                    const count = parseInt(countMatch[1]);
+                    const sectionsStart = lines.indexOf(sectionsHeader) + 1;
+                    const fields = sectionsHeader.match(/\{([^}]+)\}/)[1].split(',').map(f => f.trim());
+                    
+                    let foundSectionId = null;
+                    const parsedSections = [];
+                    for (let i = sectionsStart; i < sectionsStart + count && i < lines.length; i++) {
+                        const line = lines[i].trim();
+                        if (!line.startsWith('"') && !line.startsWith('1')) continue;
+                        const parts = parseToonLine(line);
+                        if (parts.length >= fields.length) {
+                            const sec = {};
+                            fields.forEach((field, idx) => { sec[field] = parts[idx]; });
+                            parsedSections.push(sec);
+                        }
+                    }
+                    
+                    // Find matching section containing the hadith number
+                    // Since hadith numbers can be strings (like '1', '1a', etc.), we check numerical representation
+                    const matchNum = parseInt(b.hadithNum);
+                    for (const sec of parsedSections) {
+                        const first = parseInt(sec.hadith_first || sec.first);
+                        const last = parseInt(sec.hadith_last || sec.last);
+                        if (!isNaN(first) && !isNaN(last) && matchNum >= first && matchNum <= last) {
+                            foundSectionId = sec.id;
+                            break;
+                        }
+                    }
+                    
+                    if (!foundSectionId) {
+                        // Fallback: try first section
+                        foundSectionId = parsedSections[0]?.id;
+                    }
+                    
+                    if (!foundSectionId) continue;
+                    
+                    // Fetch Arabic section toon
+                    const arRes = await fetch(`editions/${b.bookId}/sections/${foundSectionId}.toon`);
+                    if (!arRes.ok) continue;
+                    const arText = await arRes.text();
+                    const arLines = arText.split('\n').filter(l => l.trim());
+                    const targetArLine = arLines.find(line => {
+                        const parts = parseToonLine(line);
+                        return parts[0] === b.hadithNum;
+                    });
+                    
+                    if (!targetArLine) continue;
+                    const arParts = parseToonLine(targetArLine);
+                    const arabic = arParts[1];
+                    const grades = arParts[2];
+                    const reference = arParts[3];
+                    
+                    // Load English translation
+                    let translation = '';
+                    const transRes = await fetch(`editions/${b.bookId}/translations/en/sections/${foundSectionId}.toon`);
+                    if (transRes.ok) {
+                        const transText = await transRes.text();
+                        const transLines = transText.split('\n').filter(l => l.trim());
+                        const targetTransLine = transLines.find(line => {
+                            const parts = parseToonLine(line);
+                            return parts[0] === b.hadithNum;
+                        });
+                        if (targetTransLine) {
+                            translation = parseToonLine(targetTransLine)[1];
+                        }
+                    }
+                    
+                    html += `
+                        <div class="hadith-card bg-slate-900/60 rounded-2xl p-6 border border-slate-800/80 shadow-md transition-all"
+                            data-hadith-id="${b.hadithNum}">
+                            <div class="flex items-center justify-between pb-3.5 border-b border-slate-800/60 mb-5 text-slate-400 text-xs">
+                                <div class="flex items-center gap-2">
+                                    <span class="text-[10px] text-slate-500 font-bold uppercase bg-slate-800 px-2 py-0.5 rounded">${b.bookId}</span>
+                                    <span class="bg-brand-900/40 text-brand-400 border border-brand-500/10 font-bold px-3 py-1 rounded-full text-[10px] tracking-wider uppercase">
+                                        Hadith #${b.hadithNum}
+                                    </span>
+                                </div>
+                                <button onclick="toggleBookmark('${b.bookId}', '${b.hadithNum}')" class="p-1.5 rounded transition text-amber-400 hover:bg-slate-800" title="Remove Star">
+                                    <svg class="w-4 h-4" fill="currentColor" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.907c.961 0 1.36 1.252.583 1.828l-3.97 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.971-2.888a1 1 0 00-1.175 0l-3.97 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.97-2.888c-.777-.576-.38-1.828.582-1.828h4.907a1 1 0 00.95-.69l1.519-4.674z" />
+                                    </svg>
+                                </button>
+                            </div>
+
+                            <div class="hadith-arabic-text font-arabic leading-loose text-right text-white select-all font-semibold ${arScaleClasses[prefArabicScale]} ${prefShowArabic ? '' : 'hidden'}" dir="rtl">
+                                ${arabic}
+                            </div>
+
+                            ${translation ? `
+                                <div class="hadith-translation-text pt-4 border-t border-slate-800/50 mt-4 text-slate-300 select-text ${trScaleClasses[prefTranslationScale]} ${prefShowTranslation ? '' : 'hidden'}">
+                                    ${translation}
+                                </div>
+                            ` : ''}
+
+                            ${(grades || reference) ? `
+                                <div class="mt-4 flex flex-wrap items-center justify-between gap-3 pt-3 border-t border-slate-800/30 text-xs text-slate-500 font-medium">
+                                    <div class="flex items-center gap-2 ${prefShowGrades ? '' : 'hidden'}">
+                                        <span class="uppercase tracking-widest text-[9px] font-bold text-slate-500">Grading</span>
+                                        <span class="text-amber-400/80 font-bold bg-amber-400/5 px-2 py-0.5 rounded border border-amber-400/10">${grades || 'Not Graded'}</span>
+                                    </div>
+                                    <div class="flex items-center gap-1 text-[11px] text-slate-500 font-bold">
+                                        <span>Reference:</span>
+                                        <span>${reference}</span>
+                                    </div>
+                                </div>
+                            ` : ''}
+                        </div>
+                    `;
+                } catch (e) {
+                    console.log('Failed loading starred item info', e);
+                }
+            }
+
+            html += '</div></div>';
+            panel.innerHTML = html;
+        }
+
+        // Filtering
+        function filterHadiths() {
+            const query = document.getElementById('hadithFilter').value.toLowerCase();
+            const cards = document.querySelectorAll('#hadithListContainer .hadith-card');
+
+            cards.forEach(card => {
+                const text = decodeURIComponent(card.getAttribute('data-text')).toLowerCase();
+                const num = card.getAttribute('data-hadith-id');
+                if (text.includes(query) || num.includes(query)) {
+                    card.classList.remove('hidden');
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+        }
+
+        // Custom Preferences
+        function toggleSettingsDrawer() {
+            const drawer = document.getElementById('settingsDrawer');
+            drawer.classList.toggle('translate-x-full');
+        }
+
+        function setArabicTextScale(scale) {
+            prefArabicScale = scale;
+            localStorage.setItem('pref_ar_scale', scale);
+            applyPreferencesUI();
+            
+            // Adjust current render
+            document.querySelectorAll('.hadith-arabic-text').forEach(el => {
+                el.className = el.className.replace(/text-(lg|xl|2xl|3xl|4xl)/g, '').trim();
+                el.classList.add(arScaleClasses[scale]);
+            });
+        }
+
+        function setTranslationTextScale(scale) {
+            prefTranslationScale = scale;
+            localStorage.setItem('pref_tr_scale', scale);
+            applyPreferencesUI();
+
+            // Adjust current render
+            document.querySelectorAll('.hadith-translation-text').forEach(el => {
+                el.className = el.className.replace(/text-(xs|sm|base|lg|xl)/g, '').trim();
+                el.classList.add(trScaleClasses[scale]);
+            });
+        }
+
+        function applyPreferencesUI() {
+            // Apply scale buttons active states
+            document.querySelectorAll('.scale-btn').forEach(btn => {
+                btn.classList.remove('bg-brand-600', 'text-white');
+                btn.classList.add('bg-slate-800', 'text-slate-300');
+            });
+            
+            document.getElementById(`scale-ar-${prefArabicScale}`).className = 'scale-btn px-2 py-1.5 bg-brand-600 rounded-lg text-xs font-semibold text-white transition';
+            document.getElementById(`scale-tr-${prefTranslationScale}`).className = 'scale-btn px-2 py-1.5 bg-brand-600 rounded-lg text-xs font-semibold text-white transition';
+
+            // Apply visibility toggles
+            document.getElementById('toggleArabic').checked = prefShowArabic;
+            document.getElementById('toggleTranslation').checked = prefShowTranslation;
+            document.getElementById('toggleGrades').checked = prefShowGrades;
+        }
+
+        function resetPreferences() {
+            localStorage.removeItem('pref_ar_scale');
+            localStorage.removeItem('pref_tr_scale');
+            localStorage.removeItem('pref_show_ar');
+            localStorage.removeItem('pref_show_tr');
+            localStorage.removeItem('pref_show_grades');
+            location.reload();
+        }
+
+        // Toggle visibility checkboxes logic
+        document.getElementById('toggleArabic').addEventListener('change', (e) => {
+            prefShowArabic = e.target.checked;
+            localStorage.setItem('pref_show_ar', prefShowArabic);
+            document.querySelectorAll('.hadith-arabic-text').forEach(el => {
+                el.classList.toggle('hidden', !prefShowArabic);
+            });
+        });
+
+        document.getElementById('toggleTranslation').addEventListener('change', (e) => {
+            prefShowTranslation = e.target.checked;
+            localStorage.setItem('pref_show_tr', prefShowTranslation);
+            document.querySelectorAll('.hadith-translation-text').forEach(el => {
+                el.classList.toggle('hidden', !prefShowTranslation);
+            });
+        });
+
+        document.getElementById('toggleGrades').addEventListener('change', (e) => {
+            prefShowGrades = e.target.checked;
+            localStorage.setItem('pref_show_grades', prefShowGrades);
+            document.querySelectorAll('.hadith-card .flex.items-center.gap-2').forEach(el => {
+                el.classList.toggle('hidden', !prefShowGrades);
+            });
+        });
+
+        // Copy functionality
+        function copyToClipboard(hadithNum) {
+            const card = document.querySelector(`.hadith-card[data-hadith-id="${hadithNum}"]`);
+            if (!card) return;
+
+            const arabic = card.querySelector('.hadith-arabic-text')?.innerText || '';
+            const translation = card.querySelector('.hadith-translation-text')?.innerText || '';
+            const ref = card.querySelector('.flex.items-center.justify-between span:last-child')?.innerText || '';
+
+            const copyText = `Hadith #${hadithNum}\nReference: ${ref}\n\nArabic:\n${arabic}\n\nTranslation:\n${translation}`;
+            
+            navigator.clipboard.writeText(copyText).then(() => {
+                // Success feedback tooltip
+                const btn = card.querySelector('button[title="Copy Hadith Text"]');
+                const origIcon = btn.innerHTML;
+                btn.innerHTML = `
+                    <svg class="w-4 h-4 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
+                    </svg>
+                `;
+                setTimeout(() => { btn.innerHTML = origIcon; }, 1500);
+            });
+        }
+
+        // Layout controls
+        function toggleChaptersPanel() {
+            const panel = document.getElementById('sectionPanel');
+            panel.classList.toggle('hidden');
+        }
+
+        // Event listeners
+        document.getElementById('searchBox').addEventListener('input', (e) => {
+            renderBookList(e.target.value);
+        });
+
+        document.getElementById('langSelect').addEventListener('change', () => {
+            renderSectionList();
+            if (currentSection) {
+                selectSection(currentSection);
+            } else if (bookMeta) {
+                showBookIntro();
+            }
+        });
+
+        // Initialize
+        loadBooks();
+        updateStarredButtonCount();
+        applyPreferencesUI();
+    </script>
+</body>
+</html>

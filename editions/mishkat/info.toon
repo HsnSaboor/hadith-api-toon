@@ -1,18 +1,21 @@
 
 metadata:
-  book_id: mishkat
+  book_id: "mishkat"
   book_name: "mishkat"
-  total_hadiths: 6294
+  total_hadiths: "6294"
   available_languages: "en,hi,roman-ur,ur"
   intro: "Mishkat al-Masabih is a selection of hadith compiled by Imam Khatib at-Tabrizi. Imam at-Tabrizi expanded on an earlier selection of hadith named Masabih as-Sunnah by Imam al-Baghawi. Mishkat al-Masabih contains approximately 6,000 hadith chosen from the Six Books, Musnad Ahmad, and various others. It is a comprehensive selection of hadith that covers almost all aspects of Islamic belief, jurisprudence (&lt;i&gt;fiqh&lt;/i&gt;), and virtues. The translation provided here is by James Robson."
   intro_ar: "مشكاة المصابيح هي مجموعة مختارة من الأحاديث جمعها الإمام الخطيب التبريزي، وقد وسع فيها الإمام التبريزي مجموعة سابقة من الأحاديث اسمها مصابيح السنة للإمام البغوي. تحتوي مشكاة المصابيح على ما يقرب من ستة آلاف حديث منتقاة من الكتب الستة ومسند أحمد ومجموعات أخرى متنوعة. وهي مجموعة شاملة من الأحاديث تغطي جميع جوانب العقيدة الإسلامية والفقه والفضائل تقريبًا. الترجمة المقدمة هنا هي لجيمس روبسون."
+  intro_en: "Mishkat al-Masabih is a selection of hadith compiled by Imam Khatib at-Tabrizi. Imam at-Tabrizi expanded on an earlier selection of hadith named Masabih as-Sunnah by Imam al-Baghawi. Mishkat al-Masabih contains approximately 6,000 hadith chosen from the Six Books, Musnad Ahmad, and various others. It is a comprehensive selection of hadith that covers almost all aspects of Islamic belief, jurisprudence (&lt;i&gt;fiqh&lt;/i&gt;), and virtues. The translation provided here is by James Robson."
+  intro_hi: "मिशकत अल मसाहिब इमाम खतीब एत टेब्रिजी द्वारा संकलित एक हदीस का चयन है। इमाम एत टेब्रिजी ने पूर्ववर्ती हदीस का चयन मसाहिब ए सुन्नह इमाम अल बघावी द्वारा संकलित किया था। मिशकत अल मसाहिब में लगभग ६,००० हदीस छह किताबों, मुस्नद अहमद और अन्यों से चुने गए हैं। यह एक समग्र हदीस का चयन है जो इस्लामी विश्वास, फقه और वीर्य के सभी方面 को कवर करता है। यहां प्रदान की गई अनुवाद जेम्स रॉबसन द्वारा है।"
+  intro_roman-ur: "Mishkat al-Masabih este o selecție de hadith compilată de Imam Khatib at-Tabrizi. Imam at-Tabrizi a extins o selecție anterioară de hadith numită Masabih as-Sunnah de Imam al-Baghawi. Mishkat al-Masabih conține aproximativ 6.000 de hadith alese din Cele Șase Cărți, Musnad Ahmad și diverse altele. Este o selecție comprehensivă de hadith care acoperă aproape toate aspectele credinței islamice, jurisprudenței (fiqh) și virtuților. Traducerea furnizată aici este de James Robson."
+  intro_ur: "میشکت المصبح ایک انتخاب حدیث ہے جو امام ختیب الطبرزی نے مرتب کیا ہے۔ امام الطبرزی نے پہلے انتخاب حدیث نامے مسبحہ السنہ کو امام البغوی سے بڑا کیا۔ میشکت المصبح تقریبا ۶۰۰۰ حدیث کا انتخاب ہے جو چھ کتابوں، مسند احمد، اور دیگر سے چنا ہے۔ یہ ایک وسیع انتخاب حدیث ہے جو اسلام کے عقیدے، فقہ اور فضائل کے تمام پہلو کو کवर کرتا ہے۔ یہ ترجمہ جیمز رابسن نے دیا ہے۔"
 
-translations[5]{language,sections,path}:
+translations[4]{language,sections,path}:
 "en","31","translations/en"
 "hi","31","translations/hi"
 "roman-ur","31","translations/roman-ur"
 "ur","31","translations/ur"
-"ar","31","translations/ar"
 
 sections[31]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
 "0","Author's introduction","مقدمة المؤلف","","Author's introduction","","","","","","3899","4627","3899","4627"

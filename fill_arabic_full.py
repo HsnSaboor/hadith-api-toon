@@ -294,6 +294,9 @@ async def main():
             return int(m.group(1).replace(",","")) if m else 0
         
         for our, slug in QURAN_SLUGS.items():
+            ar_dir = os.path.join(EDITIONS, our, "translations", "ar")
+            if not os.path.isdir(ar_dir):
+                continue
             total = await get_total(slug)
             if total == 0:
                 continue
@@ -334,6 +337,9 @@ async def main():
     
     async with httpx.AsyncClient(headers=HEADERS, follow_redirects=True, timeout=30) as client:
         for our, slug in SUNNA_SLUGS.items():
+            ar_dir = os.path.join(EDITIONS, our, "translations", "ar")
+            if not os.path.isdir(ar_dir):
+                continue
             total = 42 if our == "nawawi" else 40  # known counts
             print(f"\n--- {our} ({slug}) - {total} hadith ---", flush=True)
             

@@ -13,7 +13,7 @@ The most comprehensive multilingual Hadith database on internet. **25 books, 68,
 | Metric | Value |
 |--------|-------|
 | **Books** | 25 |
-| **Total Hadiths** | 161,641 |
+| **Total Hadiths** | 172,684 |
 | **Languages** | Arabic, Bengali, German, English, Spanish, French, Hindi, Indonesian, Romanian, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
 | **Collections** | 25 unified books |
 | **Database Files** | 9,223 `.toon` files |
@@ -334,28 +334,28 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/info.toon
 
 | # | Book | Languages | Hadiths |
 |---|------|-----------|---------|
-| 1 | Sahih al-Bukhari | ar, bn, en, fr, hi, id, ro, ru, ta, tr, ur | 11,934 |
-| 2 | Sahih Muslim | ar, bn, en, fr, hi, id, ro, ru, ta, tr, ur | 12,264 |
-| 3 | Sunan Abu Dawud | ar, bn, en, fr, hi, id, ro, ru, tr, ur | 5,322 |
-| 4 | Sunan an-Nasai | ar, bn, en, fr, hi, id, ro, tr, ur | 6,169 |
-| 5 | Sunan Ibn Majah | ar, bn, en, fr, hi, id, ro, tr, ur | 8,448 |
-| 6 | Jami At-Tirmidhi | ar, bn, en, hi, id, ro, tr, ur | 5,541 |
-| 7 | Muwatta Malik | ar, bn, en, fr, id, tr, ur | 2,883 |
-| 8 | Musnad Ahmad | ar, en, ur | 2,577 |
-| 9 | Mishkat al-Masabih | ar, en, hi, ro, ur | 4,870 |
-| 10 | Al-Adab Al-Mufrad | ar, en, ur | 1,357 |
-| 11 | Bulugh al-Maram | ar, en, ur | 1,691 |
-| 12 | Shamail-e-Tirmazi | ar, en, ur | 388 |
-| 13 | Sunan ad-Darimi | ar, bn, de, en, es, fr, hi, id, ru, sw, ta, te, tr, ur | 3,431 |
-| 14 | Al-Mustadrak | ar, en, ur | 8,941 |
-| 15 | Sunan al-Daraqutni | ar, ur | 194 |
-| 16 | Musannaf Ibn Abi Shaybah | ar, en, ur | 38,019 |
-| 17 | Sahih Ibn Khuzaymah | ar, ur | 3,073 |
+| 1 | Sahih al-Bukhari | ar, bn, en, fr, hi, id, ro, ru, ta, tr, ur | 7,247 |
+| 2 | Sahih Muslim | ar, bn, en, fr, hi, id, ro, ru, ta, tr, ur | 7,564 |
+| 3 | Sunan Abu Dawud | ar, bn, en, fr, hi, id, ro, ru, tr, ur | 5,274 |
+| 4 | Sunan an-Nasai | ar, bn, en, fr, hi, id, ro, tr, ur | 5,713 |
+| 5 | Sunan Ibn Majah | ar, bn, en, fr, hi, id, ro, tr, ur | 4,341 |
+| 6 | Jami At-Tirmidhi | ar, bn, en, hi, id, ro, tr, ur | 3,955 |
+| 7 | Muwatta Malik | ar, bn, en, fr, id, tr, ur | 960 |
+| 8 | Musnad Ahmad | ar, en, ur | 22,345 |
+| 9 | Mishkat al-Masabih | ar, en, hi, ro, ur | 6,294 |
+| 10 | Al-Adab Al-Mufrad | ar, en, ur | 1,329 |
+| 11 | Bulugh al-Maram | ar, en, ur | 1,358 |
+| 12 | Shamail-e-Tirmazi | ar, en, ur | 417 |
+| 13 | Sunan ad-Darimi | ar, bn, de, en, es, fr, hi, id, ru, sw, ta, te, tr, ur | 3,535 |
+| 14 | Al-Mustadrak | ar, en, ur | 8,803 |
+| 15 | Sunan al-Daraqutni | ar, ur | 4,859 |
+| 16 | Musannaf Ibn Abi Shaybah | ar, en, ur | 39,098 |
+| 17 | Sahih Ibn Khuzaymah | ar, ur | 3,784 |
 | 18 | Muajam Tabarani Saghir | ar, en, ur | 18,326 |
 | 19 | Fatah Al-Rabani | ar, en, ur | 89 |
 | 20 | Silsila Sahiha | ar, en, ur | 3,550 |
-| 21 | Al-Lu'lu wal-Marjan | ar, en, ur | 1,907 |
-| 22 | Sunan Al-Kubra Bayhaqi | ar, en, ur | 20,545 |
+| 21 | Al-Lu'lu wal-Marjan | ar, en, ur | 1,906 |
+| 22 | Sunan Al-Kubra Bayhaqi | ar, en, ur | 21,815 |
 | 23 | Forty Hadith of an-Nawawi | ar, bn, en, fr, tr, ur | 42 |
 | 24 | Forty Hadith Qudsi | ar, bn, de, en, es, fr, hi, id, ru, sw, ta, te, tr, ur | 40 |
 | 25 | Forty Hadith of Shah Waliullah Dehlawi | ar, en, fr, ur | 40 |

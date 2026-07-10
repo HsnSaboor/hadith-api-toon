@@ -210,6 +210,9 @@ async def main():
 
             langs_to_fetch = {}
             for lang, site_key in LANG_MAP.items():
+                lang_dir = os.path.join(EDITIONS, our, "translations", lang)
+                if not os.path.isdir(lang_dir):
+                    continue
                 sample = next((v for v in ta.get(site_key, set()) if len(v) > 50), "")
                 if not sample:
                     print(f"  {lang}: no content on site, skip", flush=True)

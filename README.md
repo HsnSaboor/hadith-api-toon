@@ -246,8 +246,13 @@ async function fetchSection(book, sectionId) {
 
 // Usage
 const { hadiths } = await fetchSection('bukhari', '1');
-console.log(hadiths[0].arabic);   // Arabic text
-console.log(hadiths[0].english);  // English text
+console.log(hadiths[0].arabic);          // Arabic text
+console.log(hadiths[0].hadithnumber);    // Hadith number
+console.log(hadiths[0].grades);          // Scholar grades
+
+// For translations, fetch from the translations path:
+const { hadiths: enHadiths } = await fetchSection('bukhari/translations/en', '1');
+console.log(enHadiths[0].text);          // English translation text
 ```
 
 ### Python Example
@@ -341,9 +346,10 @@ function parseBookInfoMetadata(text) {
 
 // Usage
 const meta = parseBookInfoMetadata(fileContent);
-console.log(meta.intro);      // Original intro
-console.log(meta.intro_bn);   // Bengali intro (if available)
-console.log(meta.intro_fr);   // French intro (if available)
+console.log(meta.book_id);      // e.g. 'bukhari'
+console.log(meta.book_name);    // e.g. 'Sahih al-Bukhari'
+console.log(meta.intro_bn);     // Bengali intro (if available)
+console.log(meta.intro_ur);     // Urdu intro (if available)
 ```
 
 ---

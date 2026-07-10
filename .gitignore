@@ -24,3 +24,4 @@ scripts/cache/
 *.toon
 !editions/**/*.toon
 tmp_experiment/
+.env

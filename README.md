@@ -13,10 +13,10 @@ The most comprehensive multilingual Hadith database on internet. **25 books, 68,
 | Metric | Value |
 |--------|-------|
 | **Books** | 25 |
-| **Total Hadiths** | 68,513 |
-| **Languages** | Arabic, Urdu, English, Bengali, French, Indonesian, Russian, Turkish, Hindi, Romanian |
+| **Total Hadiths** | 161,641 |
+| **Languages** | Arabic, Bengali, German, English, Spanish, French, Hindi, Indonesian, Romanian, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
 | **Collections** | 25 unified books |
-| **Sections** | 596 section files |
+| **Database Files** | 9,223 `.toon` files |
 
 Arabic text and metadata stored in `editions/{book}/sections/{N}.toon`. Translations stored separately in `editions/{book}/translations/{lang}/sections/{N}.toon` for efficient loading.
 
@@ -39,6 +39,20 @@ The database includes a premium, S-tier browser client (`viewer.html`) for acces
 ## The `.toon` Format
 
 `.toon` is a compact, self-describing, CSV-like plain-text format. Each file defines its own schema in the header, so parsers automatically know which columns are present.
+
+### 💾 Storage & Compression Savings (Toon vs. JSON vs. Protobuf)
+
+A benchmark was conducted on the complete dataset (Arabic text + translations) of **Shama'il al-Tirmidhi** (417 hadiths) comparing Toon vs. standard formats:
+
+| Format Profile | Raw Size (Bytes) | Gzip Size (Bytes) | Brotli Size (Bytes) | Raw vs. Minified JSON | Brotli vs. Minified JSON |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Toon (Merged)** | **868,599** | **190,638** | **137,962** | **-4.73%** | **-0.75%** |
+| **Protobuf (Binary)** | 877,352 | 200,550 | 145,344 | -3.77% | +4.56% |
+| **JSON (Minified)** | 911,753 | 192,614 | 139,003 | *Baseline* | *Baseline* |
+| **JSON (Pretty)** | 950,799 | 193,988 | 139,541 | +4.28% | +0.39% |
+
+* **Zero-Key Overhead**: Positional columns in Toon remove the repetitive schema keys present in JSON.
+* **Optimized for Brotli**: The combination of Toon positional syntax and Brotli (`content-encoding: br`) yields the absolute smallest network footprints.
 
 ### Structure
 
@@ -320,31 +334,31 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/info.toon
 
 | # | Book | Languages | Hadiths |
 |---|------|-----------|---------|
-| 1 | Sahih al-Bukhari | ar, bn, en, fr, id, ru, ur | 12,642 |
-| 2 | Sahih Muslim | ar, bn, en, fr, id, ru, ur | 12,272 |
-| 3 | Sunan Abu Dawud | ar, bn, en, fr, hi, id, ro, ru, ur | 5,322 |
-| 4 | Sunan an-Nasai | ar, bn, en, fr, id, ru, ur | 6,250 |
-| 5 | Sunan Ibn Majah | ar, bn, en, fr, id, ru, ur | 8,455 |
-| 6 | Jami At-Tirmidhi | ar, bn, en, fr, hi, id, ro, ru, tr, ur | 5,543 |
-| 7 | Muwatta Malik | ar, bn, en, fr, id, ru, ur | 2,904 |
-| 8 | Musnad Ahmed | ar, bn, en, fr, id, ru, ur | 1,389 |
-| 9 | Mishkat al-Masabih | ar, bn, en, fr, id, ru, ur | 4,428 |
-| 10 | Al-Adab Al-Mufrad | ar, bn, en, fr, id, ru, ur | 1,326 |
-| 11 | Bulugh al-Maram | ar, bn, en, fr, id, ru, ur | 1,767 |
-| 12 | Shamail-e-Tirmazi | ar, bn, en, fr, id, ru, ur | 402 |
-| 13 | Sunan ad-Darimi | ar, bn, en, fr, id, ru, ur | 4,055 |
-| 14 | Al-Mustadrak | ar, ur | 667 |
-| 15 | Sunan al-Daraqutni | ar, ur | 218 |
-| 16 | Musannaf Ibn Abi Shaybah | ar, ur | 263 |
-| 17 | Sahih Ibn Khuzaymah | ar, ur | 49 |
-| 18 | Muajam Saghir Tabarani | ar, ur | 25 |
-| 19 | Fatah Al-Rabani | ar, ur | 192 |
-| 20 | Silsila Sahiha | ar, ur | 51 |
-| 21 | Al-Lu'lu wal-Marjan | ar, ur | 47 |
-| 22 | Bayhaqi | ar, ur | 124 |
-| 23 | Forty Hadith an-Nawawi | ar, bn, en, fr, tr, ur | 42 |
-| 24 | Forty Hadith Qudsi | ar, en, fr, ur | 40 |
-| 25 | Forty Hadith Dehlawi | ar, en, fr, ur | 40 |
+| 1 | Sahih al-Bukhari | ar, bn, en, fr, hi, id, ro, ru, ta, tr, ur | 11,934 |
+| 2 | Sahih Muslim | ar, bn, en, fr, hi, id, ro, ru, ta, tr, ur | 12,264 |
+| 3 | Sunan Abu Dawud | ar, bn, en, fr, hi, id, ro, ru, tr, ur | 5,322 |
+| 4 | Sunan an-Nasai | ar, bn, en, fr, hi, id, ro, tr, ur | 6,169 |
+| 5 | Sunan Ibn Majah | ar, bn, en, fr, hi, id, ro, tr, ur | 8,448 |
+| 6 | Jami At-Tirmidhi | ar, bn, en, hi, id, ro, tr, ur | 5,541 |
+| 7 | Muwatta Malik | ar, bn, en, fr, id, tr, ur | 2,883 |
+| 8 | Musnad Ahmad | ar, en, ur | 2,577 |
+| 9 | Mishkat al-Masabih | ar, en, hi, ro, ur | 4,870 |
+| 10 | Al-Adab Al-Mufrad | ar, en, ur | 1,357 |
+| 11 | Bulugh al-Maram | ar, en, ur | 1,691 |
+| 12 | Shamail-e-Tirmazi | ar, en, ur | 388 |
+| 13 | Sunan ad-Darimi | ar, bn, de, en, es, fr, hi, id, ru, sw, ta, te, tr, ur | 3,431 |
+| 14 | Al-Mustadrak | ar, en, ur | 8,941 |
+| 15 | Sunan al-Daraqutni | ar, ur | 194 |
+| 16 | Musannaf Ibn Abi Shaybah | ar, en, ur | 38,019 |
+| 17 | Sahih Ibn Khuzaymah | ar, ur | 3,073 |
+| 18 | Muajam Tabarani Saghir | ar, en, ur | 18,326 |
+| 19 | Fatah Al-Rabani | ar, en, ur | 89 |
+| 20 | Silsila Sahiha | ar, en, ur | 3,550 |
+| 21 | Al-Lu'lu wal-Marjan | ar, en, ur | 1,907 |
+| 22 | Sunan Al-Kubra Bayhaqi | ar, en, ur | 20,545 |
+| 23 | Forty Hadith of an-Nawawi | ar, bn, en, fr, tr, ur | 42 |
+| 24 | Forty Hadith Qudsi | ar, bn, de, en, es, fr, hi, id, ru, sw, ta, te, tr, ur | 40 |
+| 25 | Forty Hadith of Shah Waliullah Dehlawi | ar, en, fr, ur | 40 |
 
 ---
 

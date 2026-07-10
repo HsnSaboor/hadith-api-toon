@@ -12,10 +12,10 @@ The most comprehensive multilingual Hadith database on internet. **25 books, 68,
 
 | Metric | Value |
 |--------|-------|
-| **Books** | 25 |
-| **Total Hadiths** | 172,684 |
-| **Languages** | Arabic, Bengali, German, English, Spanish, French, Hindi, Indonesian, Romanian, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
-| **Collections** | 25 unified books |
+| **Books** | 31 |
+| **Total Hadiths** | 212,497 |
+| **Languages** | Arabic, Bengali, Bosnian, German, English, Spanish, French, Hindi, Indonesian, Romanian, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
+| **Collections** | 31 unified books |
 | **Database Files** | 9,223 `.toon` files |
 
 Arabic text and metadata stored in `editions/{book}/sections/{N}.toon`. Translations stored separately in `editions/{book}/translations/{lang}/sections/{N}.toon` for efficient loading.
@@ -334,31 +334,37 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/info.toon
 
 | # | Book | Languages | Hadiths |
 |---|------|-----------|---------|
-| 1 | Sahih al-Bukhari | ar, bn, en, fr, hi, id, ro, ru, ta, tr, ur | 7,247 |
-| 2 | Sahih Muslim | ar, bn, en, fr, hi, id, ro, ru, ta, tr, ur | 7,564 |
-| 3 | Sunan Abu Dawud | ar, bn, en, fr, hi, id, ro, ru, tr, ur | 5,274 |
-| 4 | Sunan an-Nasai | ar, bn, en, fr, hi, id, ro, tr, ur | 5,713 |
-| 5 | Sunan Ibn Majah | ar, bn, en, fr, hi, id, ro, tr, ur | 4,341 |
-| 6 | Jami At-Tirmidhi | ar, bn, en, hi, id, ro, tr, ur | 3,955 |
-| 7 | Muwatta Malik | ar, bn, en, fr, id, tr, ur | 960 |
-| 8 | Musnad Ahmad | ar, en, ur | 22,345 |
-| 9 | Mishkat al-Masabih | ar, en, hi, ro, ur | 6,294 |
-| 10 | Al-Adab Al-Mufrad | ar, en, ur | 1,329 |
-| 11 | Bulugh al-Maram | ar, en, ur | 1,358 |
-| 12 | Shamail-e-Tirmazi | ar, en, ur | 417 |
-| 13 | Sunan ad-Darimi | ar, bn, de, en, es, fr, hi, id, ru, sw, ta, te, tr, ur | 3,535 |
-| 14 | Al-Mustadrak | ar, en, ur | 8,803 |
-| 15 | Sunan al-Daraqutni | ar, ur | 4,859 |
+| 1 | Musannaf Abdur Razzaq | ar, en, ur | 18,777 |
+| 2 | Sunan Abu Dawud | ar, bn, en, fr, hi, id, roman-ur, ru, tr, ur | 5,274 |
+| 3 | Al-Adab Al-Mufrad | ar, en, ur | 1,329 |
+| 4 | Sunan Al-Kubra Bayhaqi | ar, en, ur | 21,815 |
+| 5 | Sahih al-Bukhari | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 7,247 |
+| 6 | Bulugh al-Maram | ar, en, ur | 1,358 |
+| 7 | Forty Hadith of Shah Waliullah Dehlawi | ar, en, fr, ur | 40 |
+| 8 | Fatah Al-Rabani | ar, en, ur | 89 |
+| 9 | Hisn al-Muslim | ar, en | 267 |
+| 10 | Sahih Ibn Hibban | ar, en, ur | 7,395 |
+| 11 | Sunan Ibn Majah | ar, bn, en, fr, hi, id, roman-ur, tr, ur | 4,341 |
+| 12 | Al-Lulu wal-Marjan | ar, en, ur | 1,906 |
+| 13 | Muwatta Malik | ar, bn, en, fr, id, tr, ur | 960 |
+| 14 | Mishkat al-Masabih | ar, en, hi, roman-ur, ur | 6,294 |
+| 15 | Muajam Tabarani Saghir | ar, en, ur | 18,326 |
 | 16 | Musannaf Ibn Abi Shaybah | ar, en, ur | 39,098 |
-| 17 | Sahih Ibn Khuzaymah | ar, ur | 3,784 |
-| 18 | Muajam Tabarani Saghir | ar, en, ur | 18,326 |
-| 19 | Fatah Al-Rabani | ar, en, ur | 89 |
-| 20 | Silsila Sahiha | ar, en, ur | 3,550 |
-| 21 | Al-Lu'lu wal-Marjan | ar, en, ur | 1,906 |
-| 22 | Sunan Al-Kubra Bayhaqi | ar, en, ur | 21,815 |
-| 23 | Forty Hadith of an-Nawawi | ar, bn, en, fr, tr, ur | 42 |
-| 24 | Forty Hadith Qudsi | ar, bn, de, en, es, fr, hi, id, ru, sw, ta, te, tr, ur | 40 |
-| 25 | Forty Hadith of Shah Waliullah Dehlawi | ar, en, fr, ur | 40 |
+| 17 | Sahih Muslim | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 7,564 |
+| 18 | Musnad Ahmad | ar, en, ur | 22,345 |
+| 19 | Al-Mustadrak | ar, en, ur | 8,803 |
+| 20 | Sunan an-Nasai | ar, bn, en, fr, hi, id, roman-ur, tr, ur | 5,713 |
+| 21 | Sunan al-Kubra an-Nasai | ar, en, ur | 11,385 |
+| 22 | Forty Hadith of an-Nawawi | ar, bn, bs, en, fr, tr, ur | 42 |
+| 23 | Forty Hadith Qudsi | ar, bn, de, en, es, fr, hi, id, ru, sw, ta, te, tr, ur | 40 |
+| 24 | Riyad as-Salihin | ar, en, ur | 1,896 |
+| 25 | Sahih Ibn Khuzaymah | ar, en, ur | 3,784 |
+| 26 | Shamail-e-Tirmazi | ar, en, ur | 417 |
+| 27 | Silsila Sahiha | ar, en, ur | 3,550 |
+| 28 | Sunan al-Daraqutni | ar, en, ur | 4,859 |
+| 29 | Sunan ad-Darimi | ar, en, ur | 3,535 |
+| 30 | Jami At-Tirmidhi | ar, bn, en, hi, id, roman-ur, tr, ur | 3,955 |
+| 31 | Virtues of Good Deeds | ar, en, ur | 93 |
 
 ---
 

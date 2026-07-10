@@ -1,9 +1,9 @@
 
 metadata:
   book_id: "mustadrak"
-  book_name: "mustadrak"
+  book_name: "Al-Mustadrak"
   total_hadiths: "8803"
-  available_languages: "en,ur"
+  available_languages: "ar,en,ur"
   intro: "Mustadrak al-Hakim, or more properly al-Mustadrak `ala al-Sahihayn is a collection of hadith compiled by Imam Abu `Abdullah Muhammad ibn `Abdullah al-Hakim al-Naysaburi (d. 405 AH/1014 CE - rahimahullah). It is an important supplementary collection to Sahih al-Bukhari and Sahih Muslim, containing reports not included in those two works that al-Hakim judged to meet the conditions of one or both of them, or otherwise judged authentic. It contains about 9,000 reports arranged by topic. Later scholars, including al-Dhahabi, revised many of al-Hakim’s rulings."
   intro_ar: "مستدرك الحاكم، أو بتعبير أدق المستدرك على الصحيحين، هو مجموعة أحاديث جمعها الإمام أبو عبد الله محمد بن عبد الله الحاكم النيسابوري (ت 405 هـ/1014 م - رحمه الله). وهو استدراك مهم على صحيح البخاري وصحيح مسلم، يحتوي على أحاديث لم ترد فيهما، حكم الحاكم عليها بأنها تستوفي شروط أحدهما أو كليهما، أو حكم بصحتها. يضم الكتاب حوالي 9000 حديث مرتبة حسب الموضوع. وقد نقح علماء لاحقون، منهم الذهبي، كثيراً من أحكام الحاكم."
   intro_en: "Mustadrak al-Hakim, or more properly al-Mustadrak `ala al-Sahihayn is a collection of hadith compiled by Imam Abu `Abdullah Muhammad ibn `Abdullah al-Hakim al-Naysaburi (d. 405 AH/1014 CE - rahimahullah). It is an important supplementary collection to Sahih al-Bukhari and Sahih Muslim, containing reports not included in those two works that al-Hakim judged to meet the conditions of one or both of them, or otherwise judged authentic. It contains about 9,000 reports arranged by topic. Later scholars, including al-Dhahabi, revised many of al-Hakim’s rulings."

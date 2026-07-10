@@ -13,7 +13,7 @@ The most comprehensive multilingual Hadith database on internet. **25 books, 68,
 | Metric | Value |
 |--------|-------|
 | **Books** | 31 |
-| **Total Hadiths** | 212,497 |
+| **Total Hadiths** | 214,353 |
 | **Languages** | Arabic, Bengali, Bosnian, German, English, Spanish, French, Hindi, Indonesian, Romanian, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
 | **Collections** | 31 unified books |
 | **Database Files** | 9,223 `.toon` files |
@@ -336,22 +336,22 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@v2.2.0/info.toon
 |---|------|-----------|---------|
 | 1 | Musannaf Abdur Razzaq | ar, en, ur | 18,777 |
 | 2 | Sunan Abu Dawud | ar, bn, en, fr, hi, id, roman-ur, ru, tr, ur | 5,274 |
-| 3 | Al-Adab Al-Mufrad | ar, en, ur | 1,329 |
+| 3 | Al-Adab Al-Mufrad | ar, en, ur | 1,333 |
 | 4 | Sunan Al-Kubra Bayhaqi | ar, en, ur | 21,815 |
-| 5 | Sahih al-Bukhari | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 7,247 |
+| 5 | Sahih al-Bukhari | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 7,273 |
 | 6 | Bulugh al-Maram | ar, en, ur | 1,358 |
 | 7 | Forty Hadith of Shah Waliullah Dehlawi | ar, en, fr, ur | 40 |
 | 8 | Fatah Al-Rabani | ar, en, ur | 89 |
-| 9 | Hisn al-Muslim | ar, en | 267 |
+| 9 | Hisn al-Muslim | ar, en | 268 |
 | 10 | Sahih Ibn Hibban | ar, en, ur | 7,395 |
 | 11 | Sunan Ibn Majah | ar, bn, en, fr, hi, id, roman-ur, tr, ur | 4,341 |
 | 12 | Al-Lulu wal-Marjan | ar, en, ur | 1,906 |
-| 13 | Muwatta Malik | ar, bn, en, fr, id, tr, ur | 960 |
+| 13 | Muwatta Malik | ar, bn, en, fr, id, tr, ur | 2,762 |
 | 14 | Mishkat al-Masabih | ar, en, hi, roman-ur, ur | 6,294 |
 | 15 | Muajam Tabarani Saghir | ar, en, ur | 18,326 |
 | 16 | Musannaf Ibn Abi Shaybah | ar, en, ur | 39,098 |
 | 17 | Sahih Muslim | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 7,564 |
-| 18 | Musnad Ahmad | ar, en, ur | 22,345 |
+| 18 | Musnad Ahmad | ar, en, ur | 22,368 |
 | 19 | Al-Mustadrak | ar, en, ur | 8,803 |
 | 20 | Sunan an-Nasai | ar, bn, en, fr, hi, id, roman-ur, tr, ur | 5,713 |
 | 21 | Sunan al-Kubra an-Nasai | ar, en, ur | 11,385 |

@@ -2,7 +2,7 @@
 
 > In the name of God, who has guided me to do this work
 
-The most comprehensive multilingual Hadith database on the internet. **31 books, 214,353 hadiths, 16 languages** — all in unified, CDN-optimized `.toon` format.
+The most comprehensive multilingual Hadith database on the internet. **31 books, 220,184 hadiths, 16 languages** — all in unified, CDN-optimized `.toon` format.
 
 
 **Built from:** [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) · [al-hadees.com](https://al-hadees.com) · [sunnah.com](https://sunnah.com) · [hadith-json](https://github.com/AhmedBaset/hadith-json)
@@ -14,10 +14,10 @@ The most comprehensive multilingual Hadith database on the internet. **31 books,
 | Metric | Value |
 |--------|-------|
 | **Books** | 31 |
-| **Total Hadiths** | 214,353 |
+| **Total Hadiths** | 220,184 |
 | **Languages** | Arabic, Bengali, Bosnian, German, English, Spanish, French, Hindi, Indonesian, Romanian, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
 | **Collections** | 31 unified books |
-| **Database Files** | 9,223 `.toon` files |
+| **Database Files** | 11,646 `.toon` files |
 
 Arabic text and metadata stored in `editions/{book}/sections/{N}.toon`. Translations stored separately in `editions/{book}/translations/{lang}/sections/{N}.toon` for efficient loading.
 
@@ -82,7 +82,7 @@ hadiths[7]{hadithnumber,text}:
 ```
 ### How It Works
 
-1. **Global index** — Root `info.toon` lists all 25 books with metadata.
+1. **Global index** — Root `info.toon` lists all 31 books with metadata.
 2. **Book metadata** — `editions/{book}/info.toon` stores intro + section index.
 3. **Section data** — `editions/{book}/sections/{N}.toon` stores Arabic text + metadata (NO translations).
 4. **Translation files** — `editions/{book}/translations/{lang}/sections/{N}.toon` stores translations separately.
@@ -122,7 +122,7 @@ metadata:
 
 **Step 1: Load the book index**
 
-Start by fetching `info.toon` to get all 25 books with their metadata:
+Start by fetching `info.toon` to get all 31 books with their metadata:
 
 ```js
 // Quote-aware positional field splitter
@@ -454,7 +454,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | Source | Contribution |
 |--------|-------------|
 | [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) | Original 9 books, base structure |
-| [al-hadees.com](https://al-hadees.com) | Arabic + Urdu for all 25 books |
+| [al-hadees.com](https://al-hadees.com) | Arabic + Urdu for all 31 books |
 | [sunnah.com](https://sunnah.com) | English for 6 books |
 | [AhmedBaset/hadith-json](https://github.com/AhmedBaset/hadith-json) | Complete Arabic + English for 6 books |
 | Google Translate | Automated intro translations for multilingual support |
@@ -467,7 +467,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 
 ### Intro Translation Details
 
-- All 25 books now have multilingual book introductions
+- All 31 books now have multilingual book introductions
 - Translations generated using Google Translate API
 - Non-English intros (Urdu) first translated to English, then to other available languages
 - Each book's intro fields depend on its available language columns

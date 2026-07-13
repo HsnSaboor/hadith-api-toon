@@ -9,9 +9,9 @@ from collections import defaultdict, Counter
 
 BASE = "/home/saboor/code/hadith-api-toon"
 EDITIONS = os.path.join(BASE, "editions")
-OUT = os.path.join(BASE, "audit_1000_deep.toon")
+OUT = os.path.join(BASE, "audit_1000_deep.toon.md")
 SEED = 42
-SAMPLE = 20  # Reduced from 1000 to keep under 900K tokens with full text
+SAMPLE = 10  # Reduced to keep strictly under 800K tokens with full text (per user request)
 
 # ---- regex helpers -------------------------------------------------------
 ZW = re.compile(r'[\u200b\u200c\u200d\u200e\u200f\ufeff]')

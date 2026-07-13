@@ -1,21 +1,21 @@
-hadiths[count]{hadithnumber,text}:
-1042.1,"Hişam b. Urve (r.a.) babasından naklederek şöyle diyor: \\""Rasulullah Sallallahu Aleyhi ve Sellem'e: \""\""Ey Allah'ın RasÜlü çölden bazı bedeviler bize bazı etler getiriyorlar"""
-1042.2,"Hişam b. Urve (r.a.) babasından naklederek şöyle diyor: \\""Rasulullah Sallallahu Aleyhi ve Sellem'e: \""\""Ey Allah'ın RasÜlü çölden bazı bedeviler bize bazı etler getiriyorlar"""
-1043.1,"Yahya b. Said (r.a.)'den rivayete göre, Abdullah b. Ayyaş b. Ebi Rabia el Mahzumi, kölesine bir hayvan kesmesini emretti. Köle hayvanı kesmek isteyince de: ""Bismillah"" de dedi. Köle de: ""Dedim"" dedi. O yine: ""Bismillah de yazıklar olsun sana"" dedi. O da yine Allah'ın adını andım dedi. Bunun üzerine Abdullah b. Ayyaş: ""Vallahi hiçbir zaman o etten yemem"" diye yemin etti. (Sadece İmam-! Malik'in Muvatta'ında geçmektedir)"
-1043.2,Yahya b. Said (r.a.)'den rivayete göre
-1044.1,"Ata b. Yesar (r.a)'dan rivayete göre, Ensar'ın Harise oğulları kolundan bir kimse Uhud bölgesinde sağmal devesini otlatıyordu. Hayvan ölümle baş başa kaldı. Sahibi onu; bir tarafı keskin bir ağaçla kesti. Durum Rasulullah Sallallahu Aleyhi ve Sellem'e bildirildi. O da: ""Sakıncası yok yiyebilirsiniz"" buyurdu. (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)"
-1044.2,"Ata b. Yesar (r.a)'dan rivayete göre, Ensar'ın Harise oğulları kolundan bir kimse Uhud bölgesinde sağmal devesini otlatıyordu. Hayvan ölümle baş başa kaldı. Sahibi onu; bir tarafı keskin bir ağaçla kesti. Durum Rasulullah Sallallahu Aleyhi ve Sellem'e bildirildi. O da: ""Sakıncası yok yiyebilirsiniz"" buyurdu. (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)"
-1045.1,Muaz b. Sa'd (r.a.) -veya Sa'd b. Muaz'dan rivayete göre
-1045.2,Muaz b. Sa'd (r.a.) -veya Sa'd b. Muaz'dan rivayete göre
-1046.1,"Sevr b. Zeyd ed Dili (r.a.)'den rivayete göre, Abdullah b. Abbas'a Hıristiyan Arapların kestiklerinin yenip yenmeyeceği soruldu. O da şöyle dedi: ""Bunda bir sakınca yoktur diyerek Maide suresi 51. ayetini okudu: "" ... kim onlardan birini dost edinirse o onlardandır."" (Sadece İmam-ı Malik'in Muvatta' ında geçmektedir)"
-1046.2,Sevr b. Zeyd ed Dili (r.a.)'den rivayete göre
-1047.1,Malik (r.a.)'e ulaşan haberlere göre
-1047.2,"Malik (r.a.)'e ulaşan haberlere göre, Abdullah b. Abbas şöyle derdi: ""Boyun damarları kesilerek kesim yapılan hayvanın etinden yiyebilirsiniz."" (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)"
-1048.1,"Malik, Yahya b. Saıd'den Saıd b. Müseyyeb'in şöyle dediğini aktarmıştır: ""Mecbur kaldığında kullandığın bir aletle hayvanı boğazlama işini başarmışsan hiçbir sakınca yoktur demektir"
-1048.2,"Malik, Yahya b. Saıd'den Saıd b. Müseyyeb'in şöyle dediğini aktarmıştır: ""Mecbur kaldığında kullandığın bir aletle hayvanı boğazlama işini başarmışsan hiçbir sakınca yoktur demektir"
-1049.1,"Yahya bana Malik'ten, o da Yahya ibn Said'den, Ebu Murra'dan rivayet etti."
-1049.2,"Yahya bana Malik'ten, o da Yahya ibn Said'den, Ebu Murra'dan rivayet etti."
-1050.1,Nafi' (r.a)'den rivayete göre
-1050.2,"Nafi' (r.a)'den rivayete göre, Abdullah b. Ömer şöyle derdi: ""Deve kurban edildiği zaman eğer karnındaki yavrusunun organları teşekkül etmiş, tüyleri çıkmış ise anasının kesimi yavrusunun da kesimi yerine geçer. Yavru anasının karnından çıkmışsa damarlarındaki kanın boşalması için o da kesilir."" (Sadece İmam-ı Malik'in Muvatla'ında geçmektediL)"
-1051.1,"Said b. Müseyyeb (r.a)'den rivayete göre, şöyle demiştir: ""Kurbanlık hayvanın karnındaki yavrusunun kesimi annesinin kesimiyle tamam olmuş olur. Organların teşekkül etmiş tüyleri çıkmış olsa bile."" (Sadece İmam-ı Malik'in Muvatla'ında geçmektedir)"
-1051.2,Said b. Müseyyeb (r.a)'den rivayete göre
+hadiths[20]{hadithnumber,text}:
+"104201","Hişam b. Urve (r.a.) babasından naklederek şöyle diyor: \\""Rasulullah Sallallahu Aleyhi ve Sellem'e: \""\""Ey Allah'ın RasÜlü çölden bazı bedeviler bize bazı etler getiriyorlar"""
+"104202","Hişam b. Urve (r.a.) babasından naklederek şöyle diyor: \\""Rasulullah Sallallahu Aleyhi ve Sellem'e: \""\""Ey Allah'ın RasÜlü çölden bazı bedeviler bize bazı etler getiriyorlar"""
+"104301","Yahya b. Said (r.a.)'den rivayete göre, Abdullah b. Ayyaş b. Ebi Rabia el Mahzumi, kölesine bir hayvan kesmesini emretti. Köle hayvanı kesmek isteyince de: ""Bismillah"" de dedi. Köle de: ""Dedim"" dedi. O yine: ""Bismillah de yazıklar olsun sana"" dedi. O da yine Allah'ın adını andım dedi. Bunun üzerine Abdullah b. Ayyaş: ""Vallahi hiçbir zaman o etten yemem"" diye yemin etti. (Sadece İmam-! Malik'in Muvatta'ında geçmektedir)"
+"104302","Yahya b. Said (r.a.)'den rivayete göre"
+"104401","Ata b. Yesar (r.a)'dan rivayete göre, Ensar'ın Harise oğulları kolundan bir kimse Uhud bölgesinde sağmal devesini otlatıyordu. Hayvan ölümle baş başa kaldı. Sahibi onu; bir tarafı keskin bir ağaçla kesti. Durum Rasulullah Sallallahu Aleyhi ve Sellem'e bildirildi. O da: ""Sakıncası yok yiyebilirsiniz"" buyurdu. (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)"
+"104402","Ata b. Yesar (r.a)'dan rivayete göre, Ensar'ın Harise oğulları kolundan bir kimse Uhud bölgesinde sağmal devesini otlatıyordu. Hayvan ölümle baş başa kaldı. Sahibi onu; bir tarafı keskin bir ağaçla kesti. Durum Rasulullah Sallallahu Aleyhi ve Sellem'e bildirildi. O da: ""Sakıncası yok yiyebilirsiniz"" buyurdu. (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)"
+"104501","Muaz b. Sa'd (r.a.) -veya Sa'd b. Muaz'dan rivayete göre"
+"104502","Muaz b. Sa'd (r.a.) -veya Sa'd b. Muaz'dan rivayete göre"
+"104601","Sevr b. Zeyd ed Dili (r.a.)'den rivayete göre, Abdullah b. Abbas'a Hıristiyan Arapların kestiklerinin yenip yenmeyeceği soruldu. O da şöyle dedi: ""Bunda bir sakınca yoktur diyerek Maide suresi 51. ayetini okudu: "" ... kim onlardan birini dost edinirse o onlardandır."" (Sadece İmam-ı Malik'in Muvatta' ında geçmektedir)"
+"104602","Sevr b. Zeyd ed Dili (r.a.)'den rivayete göre"
+"104701","Malik (r.a.)'e ulaşan haberlere göre"
+"104702","Malik (r.a.)'e ulaşan haberlere göre, Abdullah b. Abbas şöyle derdi: ""Boyun damarları kesilerek kesim yapılan hayvanın etinden yiyebilirsiniz."" (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)"
+"104801","Malik, Yahya b. Saıd'den Saıd b. Müseyyeb'in şöyle dediğini aktarmıştır: ""Mecbur kaldığında kullandığın bir aletle hayvanı boğazlama işini başarmışsan hiçbir sakınca yoktur demektir"
+"104802","Malik, Yahya b. Saıd'den Saıd b. Müseyyeb'in şöyle dediğini aktarmıştır: ""Mecbur kaldığında kullandığın bir aletle hayvanı boğazlama işini başarmışsan hiçbir sakınca yoktur demektir"
+"104901","Yahya bana Malik'ten, o da Yahya ibn Said'den, Ebu Murra'dan rivayet etti."
+"104902","Yahya bana Malik'ten, o da Yahya ibn Said'den, Ebu Murra'dan rivayet etti."
+"105001","Nafi' (r.a)'den rivayete göre"
+"105002","Nafi' (r.a)'den rivayete göre, Abdullah b. Ömer şöyle derdi: ""Deve kurban edildiği zaman eğer karnındaki yavrusunun organları teşekkül etmiş, tüyleri çıkmış ise anasının kesimi yavrusunun da kesimi yerine geçer. Yavru anasının karnından çıkmışsa damarlarındaki kanın boşalması için o da kesilir."" (Sadece İmam-ı Malik'in Muvatla'ında geçmektediL)"
+"105101","Said b. Müseyyeb (r.a)'den rivayete göre, şöyle demiştir: ""Kurbanlık hayvanın karnındaki yavrusunun kesimi annesinin kesimiyle tamam olmuş olur. Organların teşekkül etmiş tüyleri çıkmış olsa bile."" (Sadece İmam-ı Malik'in Muvatla'ında geçmektedir)"
+"105102","Said b. Müseyyeb (r.a)'den rivayete göre"

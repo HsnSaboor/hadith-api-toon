@@ -15,14 +15,14 @@ translations[2]{language,sections,path}:
 
 sections[26]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
 "1","Sūrat Al-Fātihah","سورة الْفَاتِحَةِ","সূরা আল-ফাতিহা","Sūrat Al-Fātihah","Al-Fatiha","Surah Al-Fatihah","Аль-Фатиха","Fatiha Suresi","سورہ الفاتحہ","1","3","1","3"
-"2","Sūrat al-Baqarah","سُورَةُ الْبَقَرَةِ","সূরা আল-বাকারা","Sūrat al-Baqarah","Al-Baqara","Surah Al-Baqarah","Аль-Бакара","Bakara Suresi","سورہ البقرہ","4","6","4","6"
+"2","Sūrat al-Baqarah","سُورَةُ الْبَقَرَةِ","সূরা আল-বাকারা","Sūrat al-Baqarah","Al-Baqara","Surah Al-Baqarah","Аль-Бакара","Bakara Suresi","سورہ البقرہ","4","20","4","20"
 "3","Sūrat Āl-‘Imrān","سُورَةُ آلِ عِمْرَان","সূরা আলে ইমরান","Sūrat Āl-‘Imrān","Al-Imran","Surah Ali Imran","Алю Имран","Âl-i İmrân Suresi","سورہ آل عمران","7","9","7","9"
 "4","Sūrat Al-Nisā","سُورَةُ النِّسَاءِ","সূরা আন-নিসা","Sūrat Al-Nisā","An-Nisa","Surah An-Nisa","Ан-Ниса","Nisa Suresi","سورہ النساء","10","12","10","12"
 "5","Sūrat Al-An’ām","سُورَةُ الْأَنْعَامِ","সূরা আল-আনআম","Sūrat Al-An’ām","Al-An'am","Surah Al-An'am","Аль-Ан'ам","En'am Suresi","سورہ الأنعام","13","15","13","15"
 "6","Sūrat Al-Isrā","سُورَةُ الْإسْرَاء","সূরা আল-ইসরা","Sūrat Al-Isrā","Al-Isra","Surah Al-Isra","Аль-Исра","İsra Suresi","سورہ الإسراء","16","18","16","18"
 "7","Sūrat Al-Kahf","سُورَةُ الْكَهْف'","সূরা আল-কাহফ","Sūrat Al-Kahf","Al-Kahf","Surah Al-Kahf","Аль-Кахф","Kehf Suresi","سورہ الكهف","19","21","19","21"
-"8","Sūrat Tāha","سُورَةُ طه","সূরা ত্বোয়া-হা","Sūrat Tāha","Ta-Ha","Surah Taha","Та Ха","Tâhâ Suresi","سورہ طه","22","24","22","24"
-"9","Sūrat As-Sajdah","سُورَةُ الْسَّجْدَةِ","সূরা আস-সাজদাহ","Sūrat As-Sajdah","As-Sajda","Surah As-Sajdah","Ас-Саджда","Secde Suresi","سورہ السجدہ","25","27","25","27"
+"8","Sūrat Tāha","سُورَةُ طه","সূরা ত্বোয়া-হা","Sūrat Tāha","Ta-Ha","Surah Taha","Та Ха","Tâhâ Suresi","سورہ طه","22","25","22","25"
+"9","Sūrat As-Sajdah","سُورَةُ الْسَّجْدَةِ","সূরা আস-সাজদাহ","Sūrat As-Sajdah","As-Sajda","Surah As-Sajdah","Ас-Саджда","Secde Suresi","سورہ السجدہ","26","27","26","27"
 "10","Sūrat Yāsīn","سُورَةُ يسٓ","সূরা ইয়াসীন","Sūrat Yāsīn","Ya-Sin","Surah Yasin","Йа Син","Yâsin Suresi","سورہ يس","28","30","28","30"
 "11","Sūrat Az-Zumar","سُورَةُ الزُّمَر","সূরা আয-যুমার","Sūrat Az-Zumar","Sourate Az-Zumar","Surat Az-Zumar","Сура Аз-Зумар","Zümer","سورہ الزمر","31","33","31","33"
 "12","Sūrat Al-Fatḥ","سُورَةُ الْفَتْحِ","সূরা আল-ফাতহ","Sūrat Al-Fatḥ","Sourate Al-Fath","Surat Al-Fath","Сура Аль-Фатх","Fetih","سورہ الفتح","34","36","34","36"

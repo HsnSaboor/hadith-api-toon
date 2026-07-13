@@ -1,8 +1,8 @@
-hadiths[count]{hadithnumber,text}:
-"246.1","Yahya related to me from Malik from Ibn Shihab from Urwa ibn az- Zubayr from A'isha"
-"246.2","Yahya related to me from Malik from Ibn Shihab from Urwa ibn az- Zubayr from A'isha"
-"247.1","Yahya related to me from Malik from Ibn Shihab from Abu Salama ibn Abd ar-Rahman ibn Awf from Abu Hurayra that the Messenger of Allah"
-"247.2","Yahya related to me from Malik from Ibn Shihab from Abu Salama ibn Abd ar-Rahman ibn Awf from Abu Hurayra that the Messenger of Allah"
+hadiths[10]{hadithnumber,text}:
+"24601","Yahya related to me from Malik from Ibn Shihab from Urwa ibn az- Zubayr from A'isha"
+"24602","Yahya related to me from Malik from Ibn Shihab from Urwa ibn az- Zubayr from A'isha"
+"24701","Yahya related to me from Malik from Ibn Shihab from Abu Salama ibn Abd ar-Rahman ibn Awf from Abu Hurayra that the Messenger of Allah"
+"24702","Yahya related to me from Malik from Ibn Shihab from Abu Salama ibn Abd ar-Rahman ibn Awf from Abu Hurayra that the Messenger of Allah"
 "248","Malik related to me from Ibn Shihab from Urwa ibn az-Zubayr that Abd ar-Rahman ibn Abd al-Qari said"
 "249","Yahya related to me from Malik from Muhammad ibn Yusuf that as- Sa'ib ibn Yazid said"
 "250","Yahya related to me from Malik that Yazid ibn Ruman said"

@@ -2,5 +2,5 @@ metadata:
   language: ur
   language_name: "Urdu"
   script: "Arabic"
-  total_hadiths: 1907
+  total_hadiths: 1906
   source: "Restructured from scraped data to match website chapter structure"

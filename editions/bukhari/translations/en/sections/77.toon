@@ -1,4 +1,4 @@
-hadiths[count]{hadithnumber,text}:
+hadiths[185]{hadithnumber,text}:
 "5783","Narrated `Abdullah bin `Umar:\n\nAllah's Messenger (ﷺ) said, 'Allah will not look at the person who drags his garment (behind him) out of \nconceit.''"
 "5784","Narrated `Abdullah bin `Umar:\n\nThe Prophet (ﷺ) said Allah will not look, on the Day of Resurrection at the person who drags his garment \n(behind him) out of conceit. On that Abu Bakr said, \O Allah's Messenger (ﷺ)! One side of my Izar hangs \nlow if I do not take care of it.\"" The Prophet (ﷺ) said"
 "5785","Narrated Abu Bakra:\n\nThe solar eclipse occurred while we were sitting with the Prophet (ﷺ) He got up dragging his garment (on \nthe ground) hurriedly till he reached the mosque The people turned (to the mosque) and he offered a \ntwo-rak`at prayer whereupon the eclipse was over and he traced us and said, \The sun and the moon \nare two signs among the signs of Allah"
@@ -31,6 +31,7 @@ hadiths[count]{hadithnumber,text}:
 "5812","Narrated Qatada:\n\nI asked Anas, \What kind of clothes was most beloved to the Prophet?\"" He replied"
 "5813","Narrated Anas bin Malik:\n\nThe most beloved garment to the Prophet (ﷺ) to wear was the Hibra (a kind of Yemenese cloth)."
 "5814","Narrated `Aisha:\n\n(the wife of the Prophet) When Allah's Messenger (ﷺ) died, he was covered with a Hibra Burd (green square \ndecorated garment)."
+"5815, 5816","Narrated `Aisha and `Abdullah bin `Abbas:\n\nWhen the disease of Allah's Messenger (ﷺ) got aggravated, he covered his face with a Khamisa, but when he \nbecame short of breath, he would remove it from his face and say, \It is like that! May Allah curse the \nJews Christians because they took the graves of their prophets as places of worship.\"" By that he \nwarned his follower of imitating them"
 "5817","Narrated Aisha:\n\nAllah's Messenger (ﷺ) offered prayer while he was wearing a Khamisa of his that had printed marks. He \nlooked at its marks and when he finished prayer, he said, \Take this Khamisa of mine to Abu Jahm"
 "5818","Narrated Abu Burda:\n\nAisha brought out to us a Kisa and an Izar and said, \The Prophet (ﷺ) died while wearing these two.\"" \n(Kisa"
 "5819","Narrated Abu Huraira:\n\nThe Prophet (ﷺ) had forbidden: (A) the Mulamasa and Munabadha (bargains), (B) the offering of two \nprayers, one after the morning compulsory prayer till the sun rises, and the others, after the `Asr \nprayer till the sun sets (C) He also forbade that one should sit wearing one garment, nothing of which \ncovers his private parts (D) and prevent them from exposure to the sky; (E) he also forbade Ishtimalas- \nSamma'."
@@ -122,7 +123,9 @@ hadiths[count]{hadithnumber,text}:
 "5905","Narrated Qatada:\n\nl asked Anas bin Malik about the hair of Allah's Messenger (ﷺ). He said, \The hair of Allah's Messenger (ﷺ) \nwas neither much straight"
 "5906","Narrated Anas:\n\nThe Prophet (ﷺ) had big hands, and I have never seen anybody like him after him. The hair of the \nProphet was wavy, neither curly nor straight."
 "5907","Narrated Anas:\n\nThe Prophet (ﷺ) had big hands and feet, and I have not seen anybody like him, neither before nor after \nhim, and his palms were soft."
+"5908, 5909","Narrated Abu Huraira:\n\nThe Prophet (ﷺ) had big feet and a good-looking face and l have not seen anybody like him after him."
 "5910","Narrated Anas: The Prophet (ﷺ) had big feet and hands."
+"5911, 5912","Narrated Anas or Jabir bin `Abdullah: The Prophet (ﷺ) \nhad big hands and feet and I have not seen anybody like him after him."
 "5913","Narrated Mujahid:\n\nWe were with Ibn `Abbas and the people mentioned Ad-Dajjal. Someone said, \The word 'Kafir' \n(unbeliever) is written in between his (Ad-Dajjal's) eyes.\"" Ibn `Abbas said"
 "5914","Narrated `Abdullah bin `Umar:\n\nI heard `Umar saying, \Whoever braids his hair should shave it (on finishing lhram). You'd better not \ndo"
 "5915","Narrated Ibn `Umar:\n\nI heard Allah's Messenger (ﷺ), while he was in the state of lhram and his hair was stuck together with gum, \nsaying, \Labbaik"
@@ -155,6 +158,7 @@ hadiths[count]{hadithnumber,text}:
 "5942","Narrated Ibn `Umar:\n\nI heard the Prophet (ﷺ) saying, (or the Prophet (ﷺ) said), \Allah has cursed the lady who practices tattooing \nand that who gets it done for herself"
 "5943","Narrated Ibn Mas`ud:\n\nAllah has cursed those women who practise tattooing or get it done for themselves, and those who \nremove hair from their faces, and those who create spaces between their teeth artificially to look \nbeautiful, such ladies as change the features created by Allah. Why then shall I not curse those whom \nAllah's Messenger (ﷺ) has cursed and who are cursed in Allah's Book too?"
 "5944","Narrated Abu Huraira:\n\nAllah's Messenger (ﷺ) said, \The evil eye is a fact"
+"5944b","Ibn Bishar narrated to me, Ibn Mahdi narrated to us, Sufyan narrated to us, he said: I mentioned to Abdur Rahman Ibn 'Abis the hadith of Mansur from Ibrahim, from Alqamah, from Abdillah. He said: I heard it from Umm Ya'qub, from Abdillah, similar to the hadith of Mansur."
 "5945","Narrated Abu Juhaifa:\n\nThe Prophet (ﷺ) forbade the use of the price of blood and the price of a dog, the one who takes (eats) \nusury the one who gives usury, the woman who practises tattooing and the woman who gets herself \ntattooed."
 "5946","Narrated Abu Huraira:\n\nA woman who used to practise tattooing was brought to `Umar. `Umar got up and said, \I beseech you \nby Allah"
 "5947","Narrated Ibn `Umar:\n\nThe Prophet (ﷺ) has cursed the lady who lengthens hair artificially and that who gets her hair lengthened \nin such away, and the lady who practises tattooing and that who gets it done for herself."
@@ -180,4 +184,3 @@ hadiths[count]{hadithnumber,text}:
 "5967","Narrated Mu`adh bin Jabal:\n\nWhile I was riding behind the Prophet (ﷺ) and between me and him and between me and him there was \nonly the back of the saddle, he said, \0 Mu`adh!\"" I replied"
 "5968","Narrated Anas bin Malik:\n\nWe were coming from Khaibar along with Allah's Messenger (ﷺ) while l was riding behind Abu Talha \nand he was proceeding. While one of the wives of Allah's Messenger (ﷺ) was riding behind Allah's Messenger (ﷺ), \nsuddenly the foot of the camel Slipped and I said, \The woman!\"" and alighted (hurriedly). Allah's \nApostle said"
 "5969","Narrated `Abbad bin Tamim's uncle:\n\nI saw the Prophet (ﷺ) lying-down in the mosque and placing one leg on the other."
-"5944b","Ibn Bishar narrated to me, Ibn Mahdi narrated to us, Sufyan narrated to us, he said: I mentioned to Abdur Rahman Ibn 'Abis the hadith of Mansur from Ibrahim, from Alqamah, from Abdillah. He said: I heard it from Umm Ya'qub, from Abdillah, similar to the hadith of Mansur."

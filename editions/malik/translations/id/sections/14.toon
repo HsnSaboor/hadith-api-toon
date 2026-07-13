@@ -1,22 +1,22 @@
-hadiths[count]{hadithnumber,text}:
-455.1,Telah menceritakan kepadaku Yahya dari Malik dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Rafi' bin Ishaq] mantan budak keluarga As Syifa' yang biasa diberi nama Maula Abu Thalhah
-455.2,Telah menceritakan kepadaku Yahya dari Malik dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Rafi' bin Ishaq] mantan budak keluarga As Syifa' yang biasa diberi nama Maula Abu Thalhah
-456.1,Telah menceritakan kepadaku dari Malik dari [Nafi'] dari [seorang laki-laki dari Anshar]
-456.2,Telah menceritakan kepadaku dari Malik dari [Nafi'] dari [seorang laki-laki dari Anshar]
-457.1,Telah menceritakan kepadaku Yahya dari Malik dari [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Habban] dari pamannya [Wasi' bin Habban] dari [Abdullah bin Umar] ia berkata
-457.2,Telah menceritakan kepadaku Yahya dari Malik dari [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Habban] dari pamannya [Wasi' bin Habban] dari [Abdullah bin Umar] ia berkata
-458.1,"Yahya telah memberitahukan kepada kami, dari Malik, dari Shalih bin Kaysan, dari Ubaidullah bin Abdullah bin Utbah bin Mas'ud, dari Zaid bin Khalid al-Juhani, bahwa ia berkata: ""Rasulullah saw telah memimpin kami shalat Subuh di Hudaibiyah setelah hujan yang turun pada malam hari. Ketika beliau selesai, beliau menghadap ke arah orang-orang dan bersabda: 'Tahukah kalian apa yang dikatakan Tuhan kalian?' Mereka menjawab: 'Allah dan Rasul-Nya lebih mengetahui.' Beliau bersabda: 'Dia berfirman: ""Pada pagi ini sebagian hamba-Ku menjadi beriman kepada-Ku dan sebagian menjadi kafir kepada-Ku. Adapun orang yang berkata: Kami diberi hujan dengan karunia Allah dan rahmat-Nya, maka orang itu beriman kepada-Ku dan kafir kepada bintang. Dan adapun orang yang berkata: Kami diberi hujan karena bintang tertentu, maka orang itu kafir kepada-Ku dan beriman kepada bintang.""'"""
-458.2,Malik mengatakan yang intinya adalah seseorang yang
-459.1,Yahya meriwayatkan saya dari Malik dari Hisyam bin Urwa dari bapaknya dari Aisyah
-459.2,Yahya meriwayatkan saya dari Malik dari Hisyam bin Urwa dari bapaknya dari Aisyah
-460.1,Telah menceritakan kepadaku Yahya dari Malik dari [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwasanya ia berkata
-460.2,Telah menceritakan kepadaku Yahya dari Malik dari [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwasanya ia berkata
-461,Telah menceritakan kepadaku Malik dari [Yahya bin Sa'id] dari [Sa'id bin Musayyab] bahwa dia berkata
-462,Telah menceritakan kepadaku dari Malik dari [Nafi'] bahwa [Umar bin Khaththab] berkata
-463,Telah menceritakan kepadaku Yahya dari Malik dari [Zaid bin Rabah] dan ['Ubaidullah bin Abu Abdullah] dari [Abu Abdullah Salman Al Ahgar] dari [Abu Hurairah]
-464,Telah menceritakan kepadaku dari Malik dari [Khubaib bin Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah] atau [Abu Sa'id al Khudri]
-465,Telah menceritakan kepadaku dari Malik dari [Abdullah bin Abu Bakar] dari ['Abbad bin Tamim] dari [Abdullah bin Zaid Al Mazini]
-466,Yahya meriwayatkan kepadaku dari Malik bahwa dia pernah mendengar apa yang dikatakan Abdullah bin Umar
-467,Yahya meriwayatkan kepadaku dari Malik bahwa dia pernah mendengar dari Busr bin Said bahwa Rasulullah
-468,Telah menceritakan kepadaku Malik dari [Yahya bin Sa'id] dari ['Atikah binti Zaid bin 'Amru bin Nufail] isteri Umar bin Khatthab
-469,Telah menceritakan kepadaku dari Malik dari [Yahya bin Said] dari [Amrah binti Abdurrahman] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam
+hadiths[21]{hadithnumber,text}:
+"45501","Telah menceritakan kepadaku Yahya dari Malik dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Rafi' bin Ishaq] mantan budak keluarga As Syifa' yang biasa diberi nama Maula Abu Thalhah"
+"45502","Telah menceritakan kepadaku Yahya dari Malik dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Rafi' bin Ishaq] mantan budak keluarga As Syifa' yang biasa diberi nama Maula Abu Thalhah"
+"45601","Telah menceritakan kepadaku dari Malik dari [Nafi'] dari [seorang laki-laki dari Anshar]"
+"45602","Telah menceritakan kepadaku dari Malik dari [Nafi'] dari [seorang laki-laki dari Anshar]"
+"45701","Telah menceritakan kepadaku Yahya dari Malik dari [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Habban] dari pamannya [Wasi' bin Habban] dari [Abdullah bin Umar] ia berkata"
+"45702","Telah menceritakan kepadaku Yahya dari Malik dari [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Habban] dari pamannya [Wasi' bin Habban] dari [Abdullah bin Umar] ia berkata"
+"45801","Yahya telah memberitahukan kepada kami, dari Malik, dari Shalih bin Kaysan, dari Ubaidullah bin Abdullah bin Utbah bin Mas'ud, dari Zaid bin Khalid al-Juhani, bahwa ia berkata: ""Rasulullah saw telah memimpin kami shalat Subuh di Hudaibiyah setelah hujan yang turun pada malam hari. Ketika beliau selesai, beliau menghadap ke arah orang-orang dan bersabda: 'Tahukah kalian apa yang dikatakan Tuhan kalian?' Mereka menjawab: 'Allah dan Rasul-Nya lebih mengetahui.' Beliau bersabda: 'Dia berfirman: ""Pada pagi ini sebagian hamba-Ku menjadi beriman kepada-Ku dan sebagian menjadi kafir kepada-Ku. Adapun orang yang berkata: Kami diberi hujan dengan karunia Allah dan rahmat-Nya, maka orang itu beriman kepada-Ku dan kafir kepada bintang. Dan adapun orang yang berkata: Kami diberi hujan karena bintang tertentu, maka orang itu kafir kepada-Ku dan beriman kepada bintang.""'"""
+"45802","Malik mengatakan yang intinya adalah seseorang yang"
+"45901","Yahya meriwayatkan saya dari Malik dari Hisyam bin Urwa dari bapaknya dari Aisyah"
+"45902","Yahya meriwayatkan saya dari Malik dari Hisyam bin Urwa dari bapaknya dari Aisyah"
+"46001","Telah menceritakan kepadaku Yahya dari Malik dari [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwasanya ia berkata"
+"46002","Telah menceritakan kepadaku Yahya dari Malik dari [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwasanya ia berkata"
+"461","Telah menceritakan kepadaku Malik dari [Yahya bin Sa'id] dari [Sa'id bin Musayyab] bahwa dia berkata"
+"462","Telah menceritakan kepadaku dari Malik dari [Nafi'] bahwa [Umar bin Khaththab] berkata"
+"463","Telah menceritakan kepadaku Yahya dari Malik dari [Zaid bin Rabah] dan ['Ubaidullah bin Abu Abdullah] dari [Abu Abdullah Salman Al Ahgar] dari [Abu Hurairah]"
+"464","Telah menceritakan kepadaku dari Malik dari [Khubaib bin Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah] atau [Abu Sa'id al Khudri]"
+"465","Telah menceritakan kepadaku dari Malik dari [Abdullah bin Abu Bakar] dari ['Abbad bin Tamim] dari [Abdullah bin Zaid Al Mazini]"
+"466","Yahya meriwayatkan kepadaku dari Malik bahwa dia pernah mendengar apa yang dikatakan Abdullah bin Umar"
+"467","Yahya meriwayatkan kepadaku dari Malik bahwa dia pernah mendengar dari Busr bin Said bahwa Rasulullah"
+"468","Telah menceritakan kepadaku Malik dari [Yahya bin Sa'id] dari ['Atikah binti Zaid bin 'Amru bin Nufail] isteri Umar bin Khatthab"
+"469","Telah menceritakan kepadaku dari Malik dari [Yahya bin Said] dari [Amrah binti Abdurrahman] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam"

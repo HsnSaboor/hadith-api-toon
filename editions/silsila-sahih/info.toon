@@ -1,7 +1,7 @@
 metadata:
-  book_id: silsila-sahih
+  book_id: "silsila-sahih"
   book_name: "Silsila Sahiha"
-  total_hadiths: 3550
+  total_hadiths: "3550"
   available_languages: "ar,en,ur"
 
 

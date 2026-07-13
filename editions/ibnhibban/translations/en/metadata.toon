@@ -2,5 +2,5 @@ metadata:
   language: en
   language_name: English
   script: Latin
-  total_hadiths: 7440
+  total_hadiths: 7368
   source: "en.tohed.com + OpenRouter LLM"

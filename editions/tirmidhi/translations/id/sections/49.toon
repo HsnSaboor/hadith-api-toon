@@ -187,7 +187,7 @@ hadiths[232]{hadithnumber,text}:
 "3909","Diceritakan Ibn 'Abbas: \Nabi ﷺ bersabda kepadaku: 'Seorang laki-laki yang beriman kepada Allah dan Hari Akhir tidak akan membenci orang-orang Anshar"""
 "3910","Diceritakan Anas bin Malik: bahwa Rasulullah ﷺ bersabda: \Orang-orang Anshar adalah orang-orang dekatku dan orang-orang terpilihku. Sesungguhnya manusia akan semakin bertambah sedangkan mereka akan semakin berkurang"""
 "3911","Diceritakan Ibn 'Abbas: bahwa Rasulullah ﷺ bersabda: \Ya Allah! Engkau telah menjadikan orang-orang Quraish yang pertama-tama merasakan azab"""
-"3912","The user wants a translation of an Arabic Hadith text into Indonesian. I need to translate only the text, no introductions, explanations, quotes, or notes. The text is a hadith narrated through a chain of narrators (isnad) about Jabalah ibn Harithah coming to the Prophet Muhammad (peace be upon him) and asking him to send his brother Zayd with him. The Prophet says ""He is there"" (or ""Here he is""), and then says if he goes with you, I won't prevent him. Zayd says he won't choose anyone over the Prophet. Jabalah then says he saw his brother's opinion was better than his own. The text ends with a grading: ""This is a hasan gharib hadith, we only know it from the hadith of Ibn al-Rumi from Ali ibn Mushir.""
+"3912","Al-Jami' at-Tirmidhi Hadith: 3912"
 
 I need to translate this into Indonesian, maintaining the formal style of hadith translation. Use ""shallallahu 'alaihi wa sallam"" for صلى الله عليه وسلم. Use proper Indonesian terms for hadith terminology: ""hasan gharib"" -> ""hasan gharib"", ""sanad"" etc. But the text includes the grading at the end, which is part of the hadith text (from Tirmidhi or similar). So translate everything.
 

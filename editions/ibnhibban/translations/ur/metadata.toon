@@ -3,4 +3,7 @@ metadata:
   language_name: Urdu
   script: Arabic
   total_hadiths: 7440
-  source: "hadith-new"
+  source: "https://www.al-hadees.com/sahih-ibn-habban"
+  source_name: "Al-Hadees.com"
+  total_hadiths_with_urdu: 7434
+  missing_hadiths: "0 (introduction), 1546-1550 (not available on source)"

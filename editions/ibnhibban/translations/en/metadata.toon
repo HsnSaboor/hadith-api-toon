@@ -3,4 +3,4 @@ metadata:
   language_name: English
   script: Latin
   total_hadiths: 7440
-  source: "hadith-new"
+  source: "en.tohed.com + OpenRouter LLM"

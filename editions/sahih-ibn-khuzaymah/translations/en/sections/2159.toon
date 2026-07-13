@@ -1,2 +1,2 @@
-hadiths[count]{hadithnumber,text}:
-"3078","Narrated to us Ahmad ibn Manṣūr al-Ramādī: narrated to us ʿAbd al-Razzāq: informed me Maʿmar: from al-Zuhrī: from Ibn al-Musayyib: from Abū Hurayrah, regarding the statement of Allāh, the Exalted: *\"A declaration of immunity from Allāh and His Messenger\"* (Qurʾān 9:1), who said:\n*\"When the Prophet (ﷺ) returned from Ḥunayn, he performed ʿumrah from al-Jiʿrānah. Then he appointed Abū Bakr (RA) to lead that Hajj.\"*\n\n**CHAPTER:**"
+hadiths[1]{hadithnumber,text}:
+"3078","Narrated to us Ahmad ibn Manṣūr al-Ramādī: narrated to us ʿAbd al-Razzāq: informed me Maʿmar: from al-Zuhrī: from Ibn al-Musayyib: from Abū Hurayrah, regarding the statement of Allāh, the Exalted: *\A declaration of immunity from Allāh and His Messenger\""* (Qurʾān 9:1)"," who said:\n*\""When the Prophet (ﷺ) returned from Ḥunayn"," he performed ʿumrah from al-Jiʿrānah. Then he appointed Abū Bakr (RA) to lead that Hajj.\""*\n\n**CHAPTER:**"""

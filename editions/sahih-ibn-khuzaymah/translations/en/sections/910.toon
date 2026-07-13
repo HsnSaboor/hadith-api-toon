@@ -1,2 +1,2 @@
-hadiths[count]{hadithnumber,text}:
-"1429","Muhammad bin Ali bin Mahrez told us in Fustat, Abu Al-Nadr told us, Al-Murja bin Raja told us, Ubayd Allah bin Abi Bakr bin told me Anas, Anas bin Malik told me that the Messenger of God, may God bless him and grant him peace, “did not go out on the Day of Fitr until he had eaten dates, and he would eat them.” \"string\""
+hadiths[1]{hadithnumber,text}:
+"1429","Muhammad bin Ali bin Mahrez told us in Fustat, Abu Al-Nadr told us, Al-Murja bin Raja told us, Ubayd Allah bin Abi Bakr bin told me Anas, Anas bin Malik told me that the Messenger of God, may God bless him and grant him peace, “did not go out on the Day of Fitr until he had eaten dates, and he would eat them.” \string\"""""

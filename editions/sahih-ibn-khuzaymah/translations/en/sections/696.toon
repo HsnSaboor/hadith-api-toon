@@ -1,2 +1,2 @@
-hadiths[count]{hadithnumber,text}:
-"1111","Salem bin Abdul Rahman Al Makhzoumi told us, Sufyan told us, on the authority of Amr bin Dinar, on the authority of Ibn Shihab, on the authority of Salem, on the authority of Ibn Omar, He said: Hafsa, the wife of the Prophet, may God’s prayers and peace be upon him, told me that the Prophet, may God’s prayers and peace be upon him, used to “pray the two rak’ahs of Fajr when he broke his light.” \"dawn\""
+hadiths[1]{hadithnumber,text}:
+"1111","Salem bin Abdul Rahman Al Makhzoumi told us, Sufyan told us, on the authority of Amr bin Dinar, on the authority of Ibn Shihab, on the authority of Salem, on the authority of Ibn Omar, He said: Hafsa, the wife of the Prophet, may God’s prayers and peace be upon him, told me that the Prophet, may God’s prayers and peace be upon him, used to “pray the two rak’ahs of Fajr when he broke his light.” \dawn\"""""

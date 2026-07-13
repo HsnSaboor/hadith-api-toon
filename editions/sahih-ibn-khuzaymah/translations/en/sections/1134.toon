@@ -1,2 +1,2 @@
-hadiths[count]{hadithnumber,text}:
-"1702","Narrated to us Muhammad ibn Bashshar — narrated to us Muhammad (meaning Ibn Ja'far) — narrated to us Shu'bah, who said: I heard Abu Ishaq narrating, on the authority of Harithah ibn Wahb al-Khuza'i (RA), who said:\n\"The Messenger of Allah (ﷺ) led us in prayer at Mina, performing two rak'ahs, more than we had ever done before and feeling secure in doing so.\"\n\n**CHAPTER:**"
+hadiths[1]{hadithnumber,text}:
+"1702","Narrated to us Muhammad ibn Bashshar — narrated to us Muhammad (meaning Ibn Ja'far) — narrated to us Shu'bah, who said: I heard Abu Ishaq narrating, on the authority of Harithah ibn Wahb al-Khuza'i (RA), who said:\n\The Messenger of Allah (ﷺ) led us in prayer at Mina"," performing two rak'ahs"," more than we had ever done before and feeling secure in doing so.\""\n\n**CHAPTER:**"""

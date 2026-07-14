@@ -3,7 +3,7 @@ books[31]{id,name,total_hadiths,available_languages,path}:
 "abudawud","Sunan Abu Dawud","5274","ar,bn,en,fr,hi,id,roman-ur,ru,tr,ur","editions/abudawud"
 "aladab-almufrad","Al-Adab Al-Mufrad","1329","ar,en,ur","editions/aladab-almufrad"
 "bayhaqi","Sunan al-Kubra Bayhaqi","21815","ar,en,ur","editions/bayhaqi"
-"bukhari","Sahih al-Bukhari","7558","ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur","editions/bukhari"
+"bukhari","Sahih al-Bukhari","7563","ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur","editions/bukhari"
 "bulugh-al-maram","Bulugh al-Maram","1358","ar,en,ur","editions/bulugh-al-maram"
 "dehlawi","Forty Hadith of Shah Waliullah Dehlawi","40","ar,en,fr,ur","editions/dehlawi"
 "fath-al-rabbani","Fath al-Rabbani","89","ar,en,ur","editions/fath-al-rabbani"

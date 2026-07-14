@@ -187,73 +187,7 @@ hadiths[232]{hadithnumber,text}:
 "3909","Diceritakan Ibn 'Abbas: \Nabi ﷺ bersabda kepadaku: 'Seorang laki-laki yang beriman kepada Allah dan Hari Akhir tidak akan membenci orang-orang Anshar"""
 "3910","Diceritakan Anas bin Malik: bahwa Rasulullah ﷺ bersabda: \Orang-orang Anshar adalah orang-orang dekatku dan orang-orang terpilihku. Sesungguhnya manusia akan semakin bertambah sedangkan mereka akan semakin berkurang"""
 "3911","Diceritakan Ibn 'Abbas: bahwa Rasulullah ﷺ bersabda: \Ya Allah! Engkau telah menjadikan orang-orang Quraish yang pertama-tama merasakan azab"""
-"3912","Al-Jami' at-Tirmidhi Hadith: 3912"
-
-I need to translate this into Indonesian, maintaining the formal style of hadith translation. Use ""shallallahu 'alaihi wa sallam"" for صلى الله عليه وسلم. Use proper Indonesian terms for hadith terminology: ""hasan gharib"" -> ""hasan gharib"", ""sanad"" etc. But the text includes the grading at the end, which is part of the hadith text (from Tirmidhi or similar). So translate everything.
-
-Let me translate sentence by sentence.
-
-""حَدَّثَنَا الْجَرَّاحُ بْنُ مَخْلَدٍ الْبَصْرِيُّ، وَغَيْرُ، وَاحِدٍ، قَالُوا حَدَّثَنَا مُحَمَّدُ بْنُ عُمَرَ بْنِ الرُّومِيِّ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، عَنْ أَبِي عَمْرٍو الشَّيْبَانِيِّ، قَالَ أَخْبَرَنِي جَبَلَةُ بْنُ حَارِثَةَ، أَخُو زَيْدٍ""
-
-Translation: ""Beritahu kami al-Jarrah ibn Makhlad al-Bashri, dan orang lain, satu orang, mereka berkata: Beritahu kami Muhammad ibn Umar ibn al-Rumi, berkata: Beritahu kami Ali ibn Mushir, dari Ismail ibn Abi Khalid, dari Abu Amr al-Syaibani, berkata: Beritahu saya Jabalah ibn Haritsah, saudara Zayd,""
-
-""قَالَ قَدِمْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ ابْعَثْ مَعِي أَخِي زَيْدًا .""
-
-Translation: ""Berkata: 'Saya datang kepada Rasulullah shallallahu 'alaihi wa sallam, lalu saya berkata: Ya Rasulullah, utuslah bersamaku saudaraku Zayd.'""
-
-""قَالَ \ هُوَ ذَا \"" .""
-
-Translation: ""Beliau bersabda: 'Ini dia.'""
-
-""قَالَ \"" فَإِنِ انْطَلَقَ مَعَكَ لَمْ أَمْنَعْهُ \"" .""
-
-Translation: ""Berkata: 'Maka jika dia pergi bersamamu, aku tidak akan mencegahnya.'""
-
-""قَالَ زَيْدٌ يَا رَسُولَ اللَّهِ وَاللَّهِ لاَ أَخْتَارُ عَلَيْكَ أَحَدًا .""
-
-Translation: ""Berkata Zayd: 'Ya Rasulullah, demi Allah, aku tidak akan memilih siapapun di atasmu.'""
-
-""قَالَ فَرَأَيْتُ رَأْىَ أَخِي أَفْضَلَ مِنْ رَأْيِي .""
-
-Translation: ""Berkata: 'Maka aku melihat pendapat saudaraku lebih baik dari pendapatku.'""
-
-""هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ ابْنِ الرُّومِيِّ عَنْ عَلِيِّ بْنِ مُسْهِرٍ .""
-
-Translation: ""Ini adalah hadits hasan gharib, kami tidak mengenalnya kecuali dari hadits Ibn al-Rumi dari Ali ibn Mushir.""
-
-Now combine into a coherent Indonesian text. Use proper punctuation. The user wants ONLY the translated text. No quotes around the whole thing? The instruction: ""Output ONLY the translated text in Indonesian, do not include any intro, explanation, quotes, or notes"". So just the translation, no quotation marks around the whole output. Probably just plain text.
-
-I'll produce the Indonesian translation as a single paragraph or multiple sentences. Usually hadith translations are presented as a continuous narrative. I'll keep the narrator chain as part of the text.
-
-Let me write it out:
-
-""Beritahu kami al-Jarrah ibn Makhlad al-Bashri, dan orang lain, satu orang, mereka berkata: Beritahu kami Muhammad ibn Umar ibn al-Rumi, berkata: Beritahu kami Ali ibn Mushir, dari Ismail ibn Abi Khalid, dari Abu Amr al-Syaibani, berkata: Beritahu saya Jabalah ibn Haritsah, saudara Zayd, berkata: Saya datang kepada Rasulullah shallallahu 'alaihi wa sallam, lalu saya berkata: Ya Rasulullah, utuslah bersamaku saudaraku Zayd. Beliau bersabda: 'Ini dia.' Saya berkata: 'Maka jika dia pergi bersamaku, Engkau tidak akan mencegahnya.' Berkata Zayd: 'Ya Rasulullah, demi Allah, aku tidak akan memilih siapapun di atasmu.' Berkata: 'Maka aku melihat pendapat saudaraku lebih baik dari pendapatku.' Ini adalah hadits hasan gharib, kami tidak mengenalnya kecuali dari hadits Ibn al-Rumi dari Ali ibn Mushir.""
-
-Check for any Arabic terms that should be kept: ""shallallahu 'alaihi wa sallam"" is standard. ""hasan gharib"" is a technical term, keep as ""hasan gharib"". Names: al-Jarrah ibn Makhlad al-Bashri, Muhammad ibn Umar ibn al-Rumi, Ali ibn Mushir, Ismail ibn Abi Khalid, Abu Amr al-Syaibani, Jabalah ibn Haritsah, Zayd. Use Indonesian transliteration.
-
-The phrase ""وَغَيْرُ، وَاحِدٍ"" means ""and others, one (person)"". Could be ""dan orang lain, satu orang"". Or ""dan lainnya, seorang"". I'll use ""dan orang lain, seorang"".
-
-The phrase ""قَالُوا حَدَّثَنَا"" -> ""mereka berkata: Beritahu kami"". Good.
-
-The phrase ""قَالَ أَخْبَرَنِي"" -> ""berkata: Beritahu saya"". Good.
-
-The phrase ""فَقُلْتُ"" -> ""lalu saya berkata"". Good.
-
-The phrase ""قَالَ \ هُوَ ذَا"" -> ""Beliau bersabda: 'Ini dia.'"" The backslash in Arabic text might indicate a quote. I'll treat as ""Beliau bersabda: 'Ini dia.'""
-
-The phrase ""قَالَ \"" فَإِنِ انْطَلَقَ مَعَكَ لَمْ أَمْنَعْهُ \"""" -> The narrator (Jabalah) says: ""Maka jika dia pergi bersamamu, aku tidak akan mencegahnya."" But note: The Arabic says ""قَالَ"" then quote. It might be Jabalah speaking to the Prophet? Actually the dialogue: Jabalah says ""Send my brother Zayd with me."" Prophet says ""He is there."" Jabalah says ""If he goes with you, I won't prevent him."" Wait, the Arabic: ""قَالَ \ هُوَ ذَا \"" . قَالَ \"" فَإِنِ انْطَلَقَ مَعَكَ لَمْ أَمْنَعْهُ \"" ."" The first ""قَالَ"" is the Prophet. The second ""قَالَ"" is Jabalah? But the text says ""قَالَ زَيْدٌ"" later. So the second ""قَالَ"" likely refers to Jabalah. In my translation, I attributed the second quote to Jabalah: ""Saya berkata: 'Maka jika dia pergi bersamaku, Engkau tidak akan mencegahnya.'"" But the Arabic says ""لَمْ أَمْنَعْهُ"" (I did not prevent him) - first person. So it's Jabalah saying ""If he goes with you, I will not prevent him."" But that seems odd: Jabalah is asking the Prophet to send Zayd, Prophet says ""He is there"", then Jabalah says ""If he goes with you, I won't prevent him."" Actually, the Prophet says ""He is there"" meaning Zayd is present. Then Jabalah says ""If he goes with you, I won't prevent him."" That doesn't make sense because Jabalah is the one asking. Let me re-read the Arabic carefully.
-
-Original: ""قَدِمْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ ابْعَثْ مَعِي أَخِي زَيْدًا . قَالَ \ هُوَ ذَا \"" . قَالَ \"" فَإِنِ انْطَلَقَ مَعَكَ لَمْ أَمْنَعْهُ \"" . قَالَ زَيْدٌ يَا رَسُولَ اللَّهِ وَاللَّهِ لاَ أَخْتَارُ عَلَيْكَ أَحَدًا . قَالَ فَرَأَيْتُ رَأْىَ أَخِي أَفْضَلَ مِنْ رَأْيِي .""
-
-Interpretation: Jabalah comes to Prophet, says ""O Messenger of Allah, send my brother Zayd with me."" Prophet says: ""Here he is."" (meaning Zayd is present). Then Jabalah says: ""If he goes with you, I will not prevent him."" Wait, ""معَكَ"" means ""with you"". So Jabalah says to Prophet: ""If he goes with you, I will not prevent him."" That implies Jabalah is giving permission for Zayd to go with the Prophet? But the context: Jabalah wants Zayd to go with him (Jabalah). The Prophet says Zayd is there. Then Jabalah says ""If he goes with you (Prophet), I won't prevent him."" That seems like Jabalah is offering Zayd to stay with the Prophet? Actually, the hadith is about Zayd ibn Harithah? No, Zayd ibn Harithah is the adopted son. But here it's Jabalah ibn Harithah, brother of Zayd. This might be a different Zayd. The story: Jabalah asks Prophet to send Zayd with him. Prophet says ""He is there."" Jabalah says ""If he goes with you, I won't prevent him."" Then Zayd says ""O Messenger of Allah, by Allah I will not choose anyone over you."" Then Jabalah says ""I saw my brother's opinion better than mine."" This suggests that Zayd chose to stay with the Prophet rather than go with his brother. So the dialogue: Jabalah asks Prophet to let Zayd go with him. Prophet says ""He is here."" Jabalah says ""If he goes with you (i.e., stays with you), I won't prevent him."" Then Zayd declares his loyalty to Prophet. Then Jabalah acknowledges his brother's choice is better.
-
-Thus the translation should reflect that. The phrase ""فَإِنِ انْطَلَقَ مَعَكَ لَمْ أَمْنَعْهُ"" means ""If he goes with you, I will not prevent him."" The speaker is Jabalah. So in Indonesian: ""Berkata (Jabalah): 'Jika dia pergi bersamamu, aku tidak akan mencegahnya.'"" But the Arabic just says ""قَالَ"" without naming. In hadith translation, we often say ""Berkata: ..."" and context clarifies. I'll keep as ""Berkata: ..."" but maybe add ""Jabalah"" for clarity? The instruction says translate the text, not add explanations. But the Arabic text doesn't have the name. However, the previous ""قَالَ"" was the Prophet. The next ""قَالَ"" is likely Jabalah. In many translations, they keep the ""Berkata:"" and the reader understands from context. I'll follow the Arabic structure: ""Beliau bersabda: 'Ini dia.' Berkata: 'Jika dia pergi bersamamu, aku tidak akan mencegahnya.'"" But to avoid confusion, I can use ""Berkata (Jabalah):"" but that's adding. Better to follow the Arabic: ""Berkata: ..."" and the context of ""aku"" (first person) indicates it's Jabalah. In Indonesian, ""aku"" is first person. So ""Berkata: 'Jika dia pergi bersamamu, aku tidak akan mencegahnya.'"" That works.
-
-Then ""قَالَ زَيْدٌ"" -> ""Berkata Zayd: ...""
-
-Then ""قَالَ فَرَأَيْتُ رَأْىَ أَخِي أَفْضَلَ مِنْ رَأْيِي"" -> ""Berkata: 'Maka aku melihat pendapat saudaraku lebih baik dari pendapatku.'"" The speaker is Jabalah again.
-
-Then the grading statement: ""هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ ابْنِ الرُّومِيِّ عَنْ عَلِيِّ بْنِ مُسْهِرٍ ."," ampunilah orang-orang Anshar dan anak-anak orang Anshar"""
+"3912",""
 "3913","Diceritakan Anas bin Malik: bahwa Rasulullah ﷺ bersabda: \Maukah kuberitahukan kepadamu tentang rumah-rumah terbaik di kalangan orang-orang Anshar?\"""""
 "3914","Diriwayatkan oleh Abu Usaid As-Sa'idi: bahwa Rasulullah ﷺ bersabda: \Sebaik-baik rumah-rumah kaum Anshar adalah rumah-rumah Bani An-Najjar.\"""""
 "3915","Diriwayatkan oleh Jabir bin 'Abdullah: bahwa Rasulullah ﷺ bersabda: \Sebaik-baik rumah kaum Anshar adalah Bani An-Najjar.\"""""

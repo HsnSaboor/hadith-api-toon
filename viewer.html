@@ -343,25 +343,51 @@
             return result;
         }
 
+        // ponytail: metadata values may be multi-line quoted (raw newlines inside
+        // quotes) and contain \" \n \t \\ escapes — a per-line regex can't handle that.
+        // Scan the whole metadata block char-by-char with quote-aware escaping.
         function parseMetadata(text) {
             const meta = {};
             const lines = text.split('\n');
-            let inMetadata = false;
-
-            for (const line of lines) {
-                const trimmed = line.trim();
-                if (trimmed === 'metadata:') {
-                    inMetadata = true;
-                    continue;
-                }
-                if (inMetadata) {
-                    if (trimmed.startsWith('translations[') || trimmed.startsWith('sections[')) {
-                        break;
+            let start = -1, end = lines.length;
+            for (let i = 0; i < lines.length; i++) {
+                const t = lines[i].trim();
+                if (t === 'metadata:') start = i + 1;
+                else if (start >= 0 && (t.startsWith('sections[') || t.startsWith('translations[') || t.startsWith('chapters['))) { end = i; break; }
+            }
+            if (start < 0) return meta;
+            const block = lines.slice(start, end).join('\n');
+            let i = 0;
+            while (i < block.length) {
+                while (i < block.length && /\s/.test(block[i])) i++;
+                if (i >= block.length) break;
+                const keyStart = i;
+                while (i < block.length && block[i] !== ':' && block[i] !== '\n') i++;
+                if (block[i] !== ':') { i++; continue; }
+                const key = block.slice(keyStart, i).trim();
+                i++;
+                while (i < block.length && /[ \t]/.test(block[i])) i++;
+                if (block[i] === '"') {
+                    i++;
+                    let val = '';
+                    while (i < block.length) {
+                        const c = block[i];
+                        if (c === '\\' && i + 1 < block.length) {
+                            const n = block[i + 1];
+                            if (n === 'n') val += '\n';
+                            else if (n === 't') val += '\t';
+                            else if (n === '"') val += '"';
+                            else if (n === '\\') val += '\\';
+                            else val += n;
+                            i += 2;
+                        } else if (c === '"') { i++; break; }
+                        else { val += c; i++; }
                     }
-                    const match = trimmed.match(/^(\w+):\s*"?([^"]*)"?$/);
-                    if (match) {
-                        meta[match[1]] = match[2];
-                    }
+                    meta[key] = val;
+                } else {
+                    const vStart = i;
+                    while (i < block.length && block[i] !== '\n') i++;
+                    meta[key] = block.slice(vStart, i).trim();
                 }
             }
             return meta;
@@ -518,7 +544,10 @@
             if (!bookMeta) return;
 
             const panel = document.getElementById('hadithPanel');
-            const intro = bookMeta.intro || '';
+            const lang = document.getElementById('langSelect').value;
+            // ponytail: per-language intro exists as intro_<lang> (e.g. intro_ur, intro_hi,
+            // intro_roman-ur); fall back to the generic `intro` (English) when absent.
+            const intro = (lang && bookMeta['intro_' + lang]) || bookMeta.intro || '';
             const introAr = bookMeta.intro_ar || '';
 
             panel.innerHTML = `
@@ -536,14 +565,14 @@
                         
                         ${intro ? `
                             <div class="prose prose-invert text-slate-300 text-sm leading-relaxed pt-5 border-t border-slate-800/80">
-                                ${intro.replace(/\\n/g, '\n').split('\n').map(p => `<p class="mb-3">${p}</p>`).join('')}
+                                ${intro.split('\n').map(p => `<p class="mb-3">${p}</p>`).join('')}
                             </div>
                         ` : ''}
-                        
+
                         ${introAr ? `
                             <div class="prose prose-invert text-slate-300 text-lg leading-loose pt-6 border-t border-slate-800/80 text-right" dir="rtl">
                                 <div class="font-arabic font-bold text-slate-100">
-                                    ${introAr.replace(/\\n/g, '\n').split('\n').map(p => `<p class="mb-4">${p}</p>`).join('')}
+                                    ${introAr.split('\n').map(p => `<p class="mb-4">${p}</p>`).join('')}
                                 </div>
                             </div>
                         ` : ''}
@@ -904,9 +933,15 @@
                     const grades = arParts[2];
                     const reference = arParts[3];
                     
-                    // Load English translation
+                    // Load translation in the currently selected language (falls back to
+                    // English when the book has no translation in that language)
                     let translation = '';
-                    const transRes = await fetch(BASE_URL + `editions/${b.bookId}/translations/en/sections/${foundSectionId}.toon`);
+                    const selLang = document.getElementById('langSelect').value;
+                    const transLang = selLang || 'en';
+                    let transRes = await fetch(BASE_URL + `editions/${b.bookId}/translations/${transLang}/sections/${foundSectionId}.toon`);
+                    if (!transRes.ok && transLang !== 'en') {
+                        transRes = await fetch(BASE_URL + `editions/${b.bookId}/translations/en/sections/${foundSectionId}.toon`);
+                    }
                     if (transRes.ok) {
                         const transText = await transRes.text();
                         const transLines = transText.split('\n').filter(l => l.trim());
@@ -1102,7 +1137,9 @@
 
         document.getElementById('langSelect').addEventListener('change', () => {
             renderSectionList();
-            if (currentSection) {
+            if (showBookmarksOnly) {
+                renderBookmarkedHadiths();
+            } else if (currentSection) {
                 selectSection(currentSection);
             } else if (bookMeta) {
                 showBookIntro();

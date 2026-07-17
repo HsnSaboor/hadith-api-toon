@@ -269,3 +269,28 @@ Per `GAPS14_FIX_PLAN.md` Phase B (HN alignment, cross-section dup merges, grade 
 4. **Phase C as a whole** — the 11-edition intro re-translation pass above is the entire outstanding C phase. No Phase C work has landed. Will require either scholarly sources or `glm-5-2` LLM translation marked `[AI-translation]`.
 
 *End of GAPS14-B status — 9 fixed (1 committed: malik HN163502; 8 in working tree), 4 remains (bukhari compound mapping, mustadrak EN orphans, intros, Phase C).*
+
+## GAPS14 — Intentional Conventions (NOT defects, do not "fix")
+
+These audit findings were investigated and verified as legitimate repo conventions. Documented to prevent re-flagging.
+
+1. **#2 cross-section duplicate hadith text** (16 editions: abdurrazzaq, abudawud, bayhaqi, bukhari, malik, mishkat, muajam, musannaf, musnad-ahmad, nasai, nasai-kubra, riyadussalihin, sahih-ibn-khuzaymah, silsila-sahih, sunan-al-daraqutni, tirmidhi) — legitimate cross-chapter repetition. Same narration cited under multiple chapter headings is normal hadith corpus structure. Do NOT dedupe (would delete real data). Verified: bukhari 59 groups, nasai 18.
+
+2. **#3 info.toon section index bounds** — all match or intentional. malik uses composite BBBHH scheme (42801 = book 42, hadith 801) — valid per-book numbering, not excess.
+
+3. **#4 section boundary gaps** (6 intentional numbering schemes): malik BBBHH, mishkat sec0 (HN 3899-4627), musnad-ahmad per-companion resets, bukhari combined rows, nasai sec0 Uncategorized + 18 absent source HNs, silsila HN 52-204 never assigned. These are source numbering conventions, not missing data.
+
+4. **#9 non-numeric hadith numbers** (4 editions intentional repeat-variants): aladab (348a/b, 1001b, 1319b), bukhari (402b, 1390c combined rows), hisn (75a), ibnhibban (book:HN cross-refs). sunnah.com alternate numbering for alternate narrations of the same hadith. Keep as-is.
+
+5. **#11 grade synonyms**: nasai-kubra (Sahih/Sound, Daif/Weak — optional mapping), sunan-al-daraqutni (مرسل/موقوف/مضطرب scholarly terms, minor yaa spelling). Legitimate scholarly terminology, leave.
+
+6. **#13 metadata.toon sections[] header — REFUTED**: 0 of 122 metadata.toon files contain `sections[` header. This is the universal repo schema (section index centralized in info.toon). viewer.html tolerates absence (`lines.find(l => l.startsWith('sections[')) || chapters[` fallback). NOT a defect.
+
+7. **#14 narrator_chain empty (isnad inline by design)**: bulugh-al-maram, lulu-wal-marjan, tirmidhi, most editions — isnad embedded in the arabic field, narrator_chain column unused by design. Leave empty.
+
+## GAPS14 — Status summary
+- Phase A (mechanical): DONE — NFC 5045, bidi, residue, grades, intro-byte, silsila, muajam
+- Phase B (judgment): DONE — fath dups, sunan-darimi re-quote (34), mishkat colshift (12), mustadrak HN9, shamail HN45, ibnhibban sec0 re-key, nasai id sec36, malik HN163502, bukhari EN sec0 (8 recovered), mustadrak EN orphans (41 merged)
+- muslim dup7564: FALSE POSITIVE (only 1 row exists)
+- Phase C (intros): 11 editions pending LLM re-translation
+- Phase D (this section): DONE

@@ -48,7 +48,7 @@ sections[55]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,nam
 "35","Sacrifices","كِتَابُ الْأَضَاحِي","","Sacrifices","","","","","کتاب: قربانی کے احکام و مسائل","1280","1291","",""
 "36","Drinks","كِتَابُ الْأَشْرِبَةِ","","Drinks","","","","","کتاب: پینے کی اشیاء کا بیان","1292","1336","",""
 "37","Dress and Adornment","كِتَابُ اللِّبَاسِ وَالزِّينَةِ","","Dress and Adornment","","","","","کتاب: لباس اور زینت کے بیان میں","1337","1379","",""
-"38","Manners and Etiquette","كِتَابُ الْآدَابِ","","Manners and Etiquette","","","","","کتاب: آداب کا بیان","1380","1395","",""
+"38","Manners and Etiquette","كِتَابُ الْآدَابِ","","Manners and Etiquette","","","","","کتاب: آداب کا بیان","1380","1395","",""
 "39","Greetings (Salam)","كِتَابُ السَّلَامِ","","Greetings (Salam)","","","","","کتاب: سلام کے مسائل","1396","1448","",""
 "40","Expressions and Wordings","كِتَابُ الْأَلْفَاظِ","","Expressions and Wordings","","","","","کتاب: الفاظ ادب وغیرہ کا بیان","1449","1453","",""
 "41","Poetry","كِتَابُ الشِّعْرِ","","Poetry","","","","","کتاب: الشعر","1454","1455","",""
@@ -64,5 +64,5 @@ sections[55]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,nam
 "51","Paradise and Its Blessings","كِتَابُ الْجَنَّةِ","","Paradise and Its Blessings","","","","","کتاب: جنت اور اس کی نعمتیں اور اہل جنت کے اوصاف","1798","1829","",""
 "52","Tribulations and Signs of the Hour","كِتَابُ الْفِتَنِ","","Tribulations and Signs of the Hour","","","","","کتاب: فتنوں اور قیامت کی نشانیوں کا بیان","1830","1865","",""
 "53","Heart-Softeners (Riqaq)","كِتَابُ الرِّقَاقِ","","Heart-Softeners (Riqaq)","","","","","کتاب: دنیا سے نفرت دلانے اور دل کو نرم کرنے والی احادیث کا بیان","1866","1893","",""
-"54","Interpretation of the Quran","كِتَابُ التَّفْسِيرِ","","Interpretation of the Quran","","","","","کتاب: قرآن حکیم کی چند آیتوں کی تفسیر","1894","1906","",""
+"54","Interpretation of the Quran","كِتَابُ التَّفْسِيرِ","","Interpretation of the Quran","","","","","کتاب: قرآن حکیم کی چند آیتوں کی تفسیر","1894","1906","",""
 # EN translation note: 281 hadiths (hadith numbers absent from the scholarly EN source) were filled via AI translation from intact Arabic and prefixed [AI-translation]. Pending scholarly replacement.

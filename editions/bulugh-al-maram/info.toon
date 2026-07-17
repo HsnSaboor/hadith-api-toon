@@ -6,7 +6,9 @@ metadata:
   intro: "Bulugh al-Maram (Bulugh al-Maram min Adillat al-Ahkam) is a collection of hadith compiled by Al-Hafiz Ibn Hajar al-Asqalani (d. 852 AH). It contains approximately 1,600 hadith that serve as foundational legal evidence for Islamic rulings."
   intro_ar: "بلوغ المرام (بلوغ المرام من أدلة الأحكام) هو مجموعة أحاديث جمعها الحافظ ابن حجر العسقلاني (ت 852 هـ). يحتوي على ما يقرب من 1,600 حديث تكون بمثابة أدلة شرعية أساسية للأحكام الإسلامية."
   intro_en: "Bulugh al-Maram (Bulugh al-Maram min Adillat al-Ahkam) is a collection of hadith compiled by Al-Hafiz Ibn Hajar al-Asqalani (d. 852 AH). It contains approximately 1,600 hadith that serve as foundational legal evidence for Islamic rulings."
-  intro_ur: "بُلُوغ المرام من ادللات الاہکم\n\nیے ایک حدیث کا مجموعہ ہے جو علامہ ابن حجر الاصقلی نے مرتب کیا ہے (وفات 852 ہجری)۔ یہ تقریباً 1600 حدیث شامل ہے جو اسلامی حکم کے لئے بنیادی قانونی ثبوت کے طور پر کام کرتے ہیں۔"
+  intro_ur: "بُلُوغ المرام من ادللات الاہکم
+
+یے ایک حدیث کا مجموعہ ہے جو علامہ ابن حجر الاصقلی نے مرتب کیا ہے (وفات 852 ہجری)۔ یہ تقریباً 1600 حدیث شامل ہے جو اسلامی حکم کے لئے بنیادی قانونی ثبوت کے طور پر کام کرتے ہیں۔"
 
 translations[2]{language,sections,path}:
 "en","16","translations/en"

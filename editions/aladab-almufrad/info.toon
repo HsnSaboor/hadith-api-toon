@@ -7,7 +7,7 @@ metadata:
   intro: "Al-Adab al-Mufrad is a collection of hadith on Islamic manners and ethics compiled by Imam Muhammad ibn Ismail al-Bukhari (d. 256 AH). It contains narrations about proper conduct, social relations, and character development."
   intro_ar: "الأدب المفرد هو مجموعة من الأحاديث في الآداب والأخلاق الإسلامية جمعها الإمام محمد بن إسماعيل البخاري (ت 256 هـ). يحتوي على روايات عن حسن السلوك والعلاقات الاجتماعية وتطوير الشخصية."
   intro_en: "Al-Adab al-Mufrad is a collection of hadith on Islamic manners and ethics compiled by Imam Muhammad ibn Ismail al-Bukhari (d. 256 AH). It contains narrations about proper conduct, social relations, and character development."
-  intro_ur: "عبد الادب المفرید ایک اسلامی مanners اور اتیکتات کا اکٹھا ہے جو امام محمد بن اسماعیل البخاری (د 256 ہجری) نے مرتب کیا ہے۔ یہ نARRATIONS کرتا ہے کے مناسب پرفارمنس، سماجی تعلقات اور شخصیتی ترقی کے بارے میں۔"
+  intro_ur: "[AI-translation] الادب المفرد امام محمد بن اسماعیل البخاری (متوفی 256ھ) کی مرتب کردہ اسلامی آداب اور اخلاق پر مبنی احادیث کا مجموعہ ہے۔ اس میں بہترین رویے، سماجی تعلقات اور کردار سازی سے متعلق روایات موجود ہیں۔"
 
 translations[2]{language,sections,path}:
 "en","57","translations/en"

@@ -7,11 +7,15 @@ metadata:
   intro: "It is narrated on the authority of Amirul Mu&#039;minin, Abu Hafs &#039;Umar bin al-Khattab (ra) who said:\n\nI heard the Messenger of Allah (ﷺ) say: &quot;Actions are (judged) by motives (niyyah), so each man will have what he intended. Thus, he whose migration (hijrah) was to Allah and His Messenger, his migrati"
   intro_ar: "عَنْ أَمِيرِ الْمُؤْمِنِينَ أَبِي حَفْصٍ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ: «إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوِ امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ»"
   intro_en: "It is narrated on the authority of Amirul Mu&#039;minin, Abu Hafs &#039;Umar bin al-Khattab (ra) who said:\n\nI heard the Messenger of Allah (ﷺ) say: &quot;Actions are (judged) by motives (niyyah), so each man will have what he intended. Thus, he whose migration (hijrah) was to Allah and His Messenger, his migrati"
-  intro_bn: "আমিরুল মুমিনিন, আবু হাফস উমার বিন আল-খাত্তাব (রা) যে বলেন,\n\nআল্লাহর রসূল (ﷺ) বলেনঃ কর্ম নিয়াত (নিয়াহ) দ্বারা সমাপ্ত হয়, সুতরাং প্রতিটি ব্যক্তি তার উদ্দেশ্য অনুসারে তার যা পাবেন। তাই, যিনি আল্লাহ এবং তার রসূলের কাছে হিজরাহ করেছেন, তার হিজরাহ আল্লাহ এবং তার রসূলের কাছে হয়েছে।"
+  intro_bn: "[AI-translation] আমীরুল মু’মিনীন, আবু হাফস উমর ইবনুল খাত্তাব (রা) হতে বর্ণিত, তিনি বলেন:
+
+আমি রাসূলুল্লাহ (ﷺ)-কে বলতে শুনেছি: ""কাজ কেবল নিয়তের (নিয়্যাহ) উপর প্রতিষ্ঠিত; সুতরাং প্রত্যেক ব্যক্তির জন্য রয়েছে সে যা নিয়ত করেছে। সুতরাং যার হিজরত আল্লাহ ও তাঁর রাসূলের দিকে ছিল, তার হিজর..."
   intro_bs: "Narodilo se na autoritetu Amira mu'minina, Abu Hafsa 'Umera bin al-Khatib (ra) koji je rekao:\n\nJa sam čuo Mesija Allahovog (ﷺ) reći: \"Radnje se odlučuju po motivima (niyyah), pa svaki čovjek će imati ono što je namjeravao. Stoga, on čijeva hijra je bila za Allaha i njegova poslanika, njegova hijra će biti za Allaha i njegova poslanika.\""
   intro_fr: "Il est rapporté à l'autorité d'Amirul Mu'minin, Abou Hafs 'Omar bin al-Khattab (ra) qui a dit :\n\nJ'ai entendu le Messager d'Allah (ﷺ) dire : \"Les actions sont jugées par les motifs (niyyah), donc chaque homme aura ce qu'il a intentionné. Ainsi, il dont la migration (hijrah) était vers Allah et Son Messager, sa migration...\""
   intro_tr: "Amirül Müminin, Ebû Hafız Ümer bin el-Hattab (ra) şöyle demiştir:\n\nAllah’ın Elçisi (ﷺ) şöyle buyurdu: \"Eylemler niyye ile değerlendirilir, her kişi ne niyye ile yaparsa o niyye ile değerlendirilir. Dolayısıyla, Allah ve Elçisi’ne hicret etmek isteyenlerin hicretinin de Allah ve Elçisi’ne hicret etmek olduğunu söyleyeceğiz.\""
-  intro_ur: "مرات کا فیصلہ نیت سے ہوتا ہے لہذا ہر شخص اپنی نیت کے مطابق اپنا فیصلہ پائے گا اور وہ شخص جس کا ہجرت اللہ اور اس کے رسول کی طرف تھی تو اس کا ہجرت بھی اللہ اور اس کے رسول کی طرف تھی"
+  intro_ur: "[AI-translation] امیر المومنین ابو حفص عمر بن خطاب (رضی اللہ عنہ) کی روایت ہے کہ انہوں نے کہا:
+
+میں نے رسول اللہ (ﷺ) کو فرماتے ہوئے سنا: ""اعمال کا دارومدار نیتوں پر ہے، اور ہر شخص کو وہی ملے گا جس کی اس نے نیت کی۔ پس جس شخص کی ہجرت اللہ اور اس کے رسول کی طرف ہوئی، اس کی ہجر..."
 
 translations[6]{language,sections,path}:
 "bn","1","translations/bn"

@@ -699,8 +699,10 @@
                     const arabic = parts[1];
                     const grades = parts.length > 2 ? parts[2] : '';
                     const reference = parts.length > 3 ? parts[3] : '';
-                    const translation = translations[hadithNum] || '';
-                    
+                    const translationRaw = translations[hadithNum] || '';
+                    const isAITranslation = translationRaw.startsWith('[AI-translation]');
+                    const translation = isAITranslation ? translationRaw.slice('[AI-translation]'.length).trim() : translationRaw;
+
                     const isStarred = isBookmarked(currentBook.id, hadithNum);
 
                     html += `
@@ -712,6 +714,10 @@
                                 <span class="bg-brand-900/40 text-brand-400 border border-brand-500/10 font-bold px-3 py-1 rounded-full text-[10px] tracking-wider uppercase">
                                     Hadith #${hadithNum}
                                 </span>
+                                ${isAITranslation ? `
+                                <span class="bg-amber-900/40 text-amber-400 border border-amber-500/20 font-bold px-3 py-1 rounded-full text-[10px] tracking-wider uppercase ml-1" title="Machine-translated by AI. Pending scholarly replacement.">
+                                    AI Translation
+                                </span>` : ''}
                                 
                                 <div class="flex items-center gap-2">
                                     <!-- Copy Button -->

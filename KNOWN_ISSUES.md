@@ -1,0 +1,188 @@
+# KNOWN_ISSUES.md
+
+Catalog of every external / intentional / gap / manual-rescrape / human-review item left after the automated fix run. These are the items humans must act on. No data was fabricated; where real content was lost it is documented here, never invented.
+
+## Summary table — counts by action_needed
+
+| action_needed | count |
+|---|---|
+| manual rescrape from sunnah.com/origin | 40 |
+| needs human review | 12 |
+| intentional — leave as-is | 21 |
+| external concordance verify | 5 |
+| **Total** | **78** |
+
+Severity breakdown: high = 21, medium = 21, low = 36.
+
+---
+
+## Unrecoverable data-loss items (explicit hadith-number ranges)
+
+These are rows/sections where the genuine translation or source text is missing or destroyed and cannot be reconstructed without fabrication. All require **manual rescrape from sunnah.com/origin**.
+
+| Edition | Location | HN(s) / range | Kind |
+|---|---|---|---|
+| ibnhibban (EN) | en/sections/10,31,49,62 | 1139, 3610, 5690, 7174 | JSON-LD scrape residue replaced real translation; AR source intact |
+| ibnhibban (EN) | en/sections/13,14,15,16,18,22,33(x2),51,53,60,64 | 1517, 1615, 1714, 1845, 2128, 2505, 3784, 3812, 5905, 6142, 6971, 7402 | EN text truncated mid-word; AR full |
+| ibnmajah (FR) | fr/sections/1,5,9,10(x2),15,37 | 597, 1311, 1855, 2271, 2291, 2520, 4316 | AI preamble replaced real FR translation; AR intact |
+| ibnmajah (info) | info.toon intro_hi, intro_ur | — | Garbled machine-translated intros (Japanese-in-Arabic, English-in-Urdu) |
+| lulu-wal-marjan (EN) | en/sections/*.toon (all 55) | 281 missing HNs in range 1–1906 (gaps: 2,9,11,12,15,21,27,35,36,46,52,53,56,60,64,69,79,95,100,102…1890,1894,1896,1901,1903) | EN=1625 rows vs AR/UR=1906; OCR garbage + merged rows |
+| musannaf-ibn-abi-shaybah (UR) | ur/sections/6,23 | 5898, 22496 | "plvvlqj" gibberish; real UR lost |
+| nasai (all langs) | sections/36.toon + all translations/*/36.toon (absent) | HN 3857–3965 (sec35 ends 3856, sec37 starts 3966); sec0 covers 3857–3938, leaving 3939–3965 with no section | Entire section 36 missing from AR + all 8 languages + info index |
+| sahih-ibn-khuzaymah | info.toon sections[1073] block | 1059 of 1073 index rows | Truncated/field-merged; ~320 section chapter_intro values also contaminated with Urdu glue |
+| silsila-sahih (EN) | en/sections/*.toon (all 28) | ~3182 of 3550 EN rows now empty | EN was ~90% scraper residue; after strip, real translation absent |
+| shamail-tirmidhi (UR) | ur/sections/25 HN161 | 161 | AI self-monologue repetition loop; genuine completion lost |
+| virtues | info.toon intro/intro_ar/intro_en/intro_ur | — | All 4 intro variants truncated mid-ayah (An-Nasa 8:24) |
+| nawawi | info.toon intro/intro_en, intro_ur | — | intro/intro_en end "his migrati"; intro_ur missing opening "اعمال" |
+| abudawud (BN) | bn/sections/41 HN4588 (was 4595) | 4588 | Bengali vowel corruption, garbled |
+
+---
+
+## Items by edition
+
+### abudawud
+1. **[high] manual rescrape** — `editions/abudawud/translations/bn/sections/41.toon` HN 4588 (line 96; originally HN 4595). Bengali vowel corruption: missing vowel diacritics throughout (e.g. "আাস ইবন াযরের োন আর-রুায়ি" should read "আনাস ইবনু নাযরের নাম আর-রুওয়ায়ি"). Vowels stripped from many words; text garbled. Cannot be reconstructed without fabrication. (kind: vowel corruption)
+
+### aladab-almufrad
+*(none)*
+
+### bayhaqi
+*(none)*
+
+### bukhari
+1. **[low] intentional — leave as-is** — `editions/bukhari/sections/*.toon` (18 rows across sec 8,10,19,21,22,23,34,35,45,61,62,64,65,66,70,71,77,87). 18 non-numeric HNs with letter suffix (402b, 690b, 1132b, 1199b, 1228b, 1390b, 2214b, 2239b, 2437b, 3562b, 3756b, 3963b, 4931b, 5032b, 5441b, 5470b, 5944b, 6895b). Bukhari repeat-variant coding for alternate narrations — intentional. (kind: non-numeric HN)
+2. **[low] intentional — leave as-is** — `editions/bukhari/sections/*.toon` (all 97 AR files). 7277 actual data rows; prior declared total 7563 vs actual 7277 (delta 286). The 7563 was the sum of stale header counts; headers now reflect real 7277. Row data was never missing — only header numbers were wrong. No data loss. (kind: count mismatch, documented)
+3. **[medium] needs human review** — `editions/bukhari/translations/tr/sections/0.toon`. Audit flags "tr sec0 2 merged rows". File has 385 rows, 202 with comma-separated multi-number hadithnumber field (e.g. "272, 273") — normal Bukhari convention matching AR source. Cannot distinguish which 2 specific rows the audit considers erroneous merges vs intentional multi-HN entries from the note alone. If 2 rows are genuinely corrupted (two unrelated hadiths fused), a human must identify them by comparing text against sunnah.com TR sec0. (kind: merged rows)
+4. **[low] intentional — leave as-is** — `editions/bukhari/translations/{en,fr,id,roman-ur,hi,tr,ta,ru}/sections/*.toon`. Backticks before capital letters (`Urwa, `Aisha, `Abdullah, `Ata) — en:10085, fr:10502, id:991, roman-ur:31, hi:33, tr:85, ta:9, ru:4. Arabic-ayn transliteration convention, NOT markdown. No triple-backtick fences found. Left intact. (kind: backtick ayn-transliteration)
+5. **[low] intentional — leave as-is** — `editions/bukhari/translations/*/sections/*.toon`. Literal \n and \Capital sequences (en: 33499 \n / 5752 \Cap; id: 1221/6180; tr: 181/5878; fr: 1136/93; hi: 1541; ru: 1837; bn: 2395; ta: 596; ur: 357; roman-ur: 112/2). Fix #8 explicitly does NOT list bukhari — source escape convention, not corrupt artifacts. (kind: backslash-escape convention, out of scope)
+
+### bulugh-al-maram
+1. **[low] intentional — leave as-is** — `editions/bulugh-al-maram/sections/5.toon:1-52` (all chapter_intro fields). All 52 rows carry chapter_intro "بًاب" (Bā+FATHATAN U+064B) instead of standard "بَاب" (Bā+FATHA U+064E). Fathatan-vs-fatha normalization inconsistency; internally consistent. Document only — do not normalize. (kind: metadata_malformed / normalization)
+2. **[low] intentional — leave as-is** — `editions/bulugh-al-maram/sections/12.toon:1` (header). Header hadiths[36]{...} parses cleanly, count correct. The metadata_malformed flag refers to header being optional/malformed in some editions; here it is fine. (kind: metadata_malformed, header optional)
+
+### dehlawi
+1. **[low] intentional — leave as-is** — `editions/dehlawi/sections/1.toon` (all 40 rows, reference/narrator_chain/chapter_intro fields). All rows have grades="Sahih" and reference/narrator_chain/chapter_intro="" (empty). Audit note explicitly: "grades empty (acceptable)". (kind: intentional empty auxiliary fields)
+
+### fath-al-rabbani
+1. **[medium] needs human review** — `editions/fath-al-rabbani/translations/en/sections/2.toon:10` (HN149/HN150). HN150 has no row of its own; its text is appended to end of HN149 row after a stray " 150," separator. AR source sections/2.toon row 150 is present and distinct. Splitting would require guessing the original field boundary. (kind: missing_hadith_row / row-merge corruption)
+2. **[low] external concordance verify** — `editions/fath-al-rabbani/sections/2.toon:14` (HN178, arabic field). AR text contains embedded Urdu gloss ("(دوسری سند) اسی طرح کی حدیث ہے…") plus stray ",,,178 179," artifact. UR section 3.toon HN178 carries clean version. Source-data corruption; no listed fix applies. (kind: cross-script / structural corruption in AR source)
+3. **[low] intentional — leave as-is** — `editions/fath-al-rabbani/sections/3.toon:15-16` (HN179/HN180). Byte-identical AR rows under same third-chain heading; AR source likewise identical. Intentional duplicate-chain entry. Left untouched per no-auto-deduplicate rule. (kind: duplicate hadith rows)
+
+### hisn
+1. **[low] intentional — leave as-is** — `editions/hisn/sections/38.toon` HN 75a (and en/sections/38.toon). Non-numeric HN "75a" alongside "75" (Ayat al-Kursi as distinct entry). Intentional per audit note. chapter_intro was corrected along with the rest of the section. (kind: intentional non-numeric HN)
+2. **[low] intentional — leave as-is** — `editions/hisn/sections/{60,68,74,90,93,98,116,122,125}.toon`. 9 AR section files contain 5-or-7 raw double-quote runs inside arabic field — pre-existing valid escaped-quote content (e.g. section 68 row 134, section 93 index name with embedded quote). NOT the EN runaway-quoting bug; fix #8/#9 scope is hisn EN only. Left as-is. (kind: pre-existing escaped quotes in arabic field)
+3. **[low] intentional — leave as-is** — `editions/hisn/info.toon` line 6 (available_languages). Lists "ar,en" but no translations/ar dir (AR lives in sections/). Audit note did NOT request fix #4 for hisn, so "ar" left in available_languages. (kind: info_lang_mismatch, not requested)
+
+### ibnhibban
+1. **[high] manual rescrape** — `editions/ibnhibban/translations/en/sections/10.toon` HN 1139. EN row was JSON-LD scrape residue (mainEntityOfPage / en.tohed.com). Deleted. AR source sections/10.toon line 17 has full Arabic. EN translation missing. (kind: json-ld scrape residue, deleted)
+2. **[high] manual rescrape** — `editions/ibnhibban/translations/en/sections/31.toon` HN 3610. JSON-LD residue. Deleted. AR sections/31.toon line 88 has full Arabic. EN missing. (kind: json-ld scrape residue, deleted)
+3. **[high] manual rescrape** — `editions/ibnhibban/translations/en/sections/49.toon` HN 5690. JSON-LD residue. Deleted. AR sections/49.toon line 95 has full Arabic. EN missing. (kind: json-ld scrape residue, deleted)
+4. **[high] manual rescrape** — `editions/ibnhibban/translations/en/sections/62.toon` HN 7174. JSON-LD residue. Deleted. AR sections/62.toon line 63 has full Arabic. EN missing. (kind: json-ld scrape residue, deleted)
+5. **[medium] manual rescrape** — `editions/ibnhibban/translations/en/sections/13.toon` line 53 HN 1517. EN truncated mid-word: "Sayyiduna Anas bin Malik (may Alla". AR full. EN lost. (kind: truncated translation, data loss)
+6. **[medium] manual rescrape** — `editions/ibnhibban/translations/en/sections/14.toon` line 37 HN 1615. EN truncated: "Sayyiduna Abdullah bin Abbas (may". AR full. (kind: truncated translation)
+7. **[medium] manual rescrape** — `editions/ibnhibban/translations/en/sections/15.toon` line 21 HN 1714. EN truncated: "The Prophet Muhammad (pea" (mid "peace"). AR full. (kind: truncated translation)
+8. **[medium] manual rescrape** — `editions/ibnhibban/translations/en/sections/16.toon` line 38 HN 1845. EN truncated: "The Prophet (peace and blessin" (mid "blessings"). AR full. (kind: truncated translation)
+9. **[medium] manual rescrape** — `editions/ibnhibban/translations/en/sections/18.toon` line 91 HN 2128. EN truncated: "The Prophet (peace and bless". AR full. (kind: truncated translation)
+10. **[high] manual rescrape** — `editions/ibnhibban/translations/en/sections/22.toon` line 11 HN 2505. EN severely truncated: "The Prophet (pe" (15 chars). AR full. (kind: truncated translation)
+11. **[medium] manual rescrape** — `editions/ibnhibban/translations/en/sections/33.toon` line 34 HN 3784. EN truncated: "The Prophet Muhammad (peace and bl". AR full. (kind: truncated translation)
+12. **[medium] manual rescrape** — `editions/ibnhibban/translations/en/sections/33.toon` line 62 HN 3812. EN truncated: "Sayyiduna Ibn Abbas abo". AR full. (kind: truncated translation)
+13. **[high] manual rescrape** — `editions/ibnhibban/translations/en/sections/51.toon` line 77 HN 5905. EN truncated: "Sayyiduna Abu" (13 chars). AR full. (kind: truncated translation)
+14. **[medium] manual rescrape** — `editions/ibnhibban/translations/en/sections/53.toon` line 83 HN 6142. EN truncated: "The Prophet (peace and". AR full. (kind: truncated translation)
+15. **[medium] manual rescrape** — `editions/ibnhibban/translations/en/sections/60.toon` line 95 HN 6971. EN truncated: "Sayyiduna Husayn (may All" (mid "Allah"). AR full. (kind: truncated translation)
+16. **[medium] manual rescrape** — `editions/ibnhibban/translations/en/sections/64.toon` line 59 HN 7402. EN truncated: "The Prophet (peace and". AR full. (kind: truncated translation)
+17. **[low] needs human review** — `editions/ibnhibban/translations/en/sections/` (global). Audit note said "6 rows with JSON-LD scrape" but only 4 exist in data (HNs 1139, 3610, 5690, 7174). Searched all JSON-LD markers — only same 4 files match. Audit may have counted 2 already-removed rows, or conflated with the "4 truncated EN rows" category. (kind: audit count discrepancy)
+
+### ibnmajah
+1. **[high] manual rescrape** — `editions/ibnmajah/translations/fr/sections/1.toon` HN 597. FR row was AI preamble ("Voici la traduction en français…"). Deleted; HN 597 exists in AR source sections/1.toon. Real FR translation lost. (kind: missing_translation_data)
+2. **[high] manual rescrape** — `editions/ibnmajah/translations/fr/sections/5.toon` HN 1311. AI preamble. Deleted; AR source sections/5.toon has HN 1311. (kind: missing_translation_data)
+3. **[high] manual rescrape** — `editions/ibnmajah/translations/fr/sections/9.toon` HN 1855. AI preamble. Deleted; AR source sections/9.toon has HN 1855. (kind: missing_translation_data)
+4. **[high] manual rescrape** — `editions/ibnmajah/translations/fr/sections/10.toon` HN 2271. AI preamble. Deleted; AR source sections/10.toon has HN 2271. (kind: missing_translation_data)
+5. **[high] manual rescrape** — `editions/ibnmajah/translations/fr/sections/10.toon` HN 2291. AI preamble. Deleted; AR source sections/10.toon has HN 2291. (kind: missing_translation_data)
+6. **[high] manual rescrape** — `editions/ibnmajah/translations/fr/sections/15.toon` HN 2520. AI preamble. Deleted; AR source sections/15.toon has HN 2520. (kind: missing_translation_data)
+7. **[high] manual rescrape** — `editions/ibnmajah/translations/fr/sections/37.toon` HN 4316. AI preamble. Deleted; AR source sections/37.toon has HN 4316. (kind: missing_translation_data)
+8. **[medium] manual rescrape** — `editions/ibnmajah/info.toon` intro_hi field. Garbled machine-translated text: mixed scripts, English fragments inside Hindi ("छह कैननिकल कलेक्शन ऑफ हदीस", "ट्रIBE", "chain of narration", "memorization"), broken transliteration. Not safe to reconstruct. (kind: corrupt_intro)
+9. **[medium] manual rescrape** — `editions/ibnmajah/info.toon` intro_ur field. Garbled: Japanese characters inside Arabic script ("قزوイン"), English fragments inside Urdu ("کتب السITTاہ", "ال Zubairi", "bin al-Mundhir"), broken transliteration. Not safe to reconstruct. (kind: corrupt_intro)
+10. **[low] intentional — leave as-is** — `editions/ibnmajah/translations/fr/sections/{1,5,9,10,15,37}.toon` deleted HN gaps. Deleted AI-preamble rows NOT renumbered because FR hadithnumber fields are sunnah.com canonical identifiers (verified 1:1 against AR source). Sequential renumbering per fix #12 would corrupt cross-reference. Deleted HNs leave intentional gaps so surviving HNs keep canonical identifiers. (kind: intentional_numbering)
+
+### lulu-wal-marjan
+1. **[high] manual rescrape** — `translations/en/sections/*.toon` (all 55 EN section files). EN translation is OCR garbage with 281 merged/dropped hadiths. metadata total_hadiths=1906, AR=1906, UR=1906, but EN has only 1625 rows with 281 missing HNs (gaps in range 1–1906: 2,9,11,12,15,21,27,35,36,46,52,53,56,60,64,69,79,95,100,102,…1890,1894,1896,1901,1903). Audit note: "DO NOT guess-split, document as known-bad". OCR-garbage evidence: HN1 "I The Prophet ^ J .+!e -rrr,-r- said, Dof not tell a lie against"; HN150 "u, AllAh's lvlessengd-..L u -L- said"; HN1531 "Ibrdhim (Abraham) r:r.lr{ did not tell a liee…". Also backslash-escape artifacts and mid-text embedded row-breaks merging 2+ hadiths into one row. Fix 8 explicitly scoped away from this edition. No automated fix applied per audit instruction. (kind: gap + OCR corruption)
+2. **[low] intentional — leave as-is** — `info.toon` available_languages "ar,en,ur" with no translations/ar dir (AR in sections/). Fix 4 gated on "only if audit note says so"; audit note does not mention it. AR content does exist (in sections/), so "ar" is not a false claim. (kind: info_lang_mismatch, deferred)
+
+### malik
+1. **[low] intentional — leave as-is** — `editions/malik/sections/*.toon` and all translations/*/sections/*.toon (all 7 langs). Hadith numbers use 5-digit book-relative scheme (e.g. sec20 row1='70501', sec49 row1='167101'). First 3 digits = chapter hadith_first range, trailing 2 = in-section position. NOT sequential global numbers; consistent across all 7 languages and AR. Per audit note: DO NOT renumber. (kind: intentional numbering scheme)
+2. **[medium] external concordance verify** — `editions/malik/sections/` and `editions/malik/translations/*/sections/` (sections 50–55 absent); info.toon sections index jumps 49 -> 56. Section files jump from 49 directly to 56; sections 50,51,52,53,54,55 do not exist in any directory, and info.toon sections index has no entries for ids 50–55 (goes 49 -> 56). Real gap in source corpus section numbering, not a scrape artifact. AR HN sequence is continuous (sec49 ends 1837, sec56 begins 1838), so no hadith data missing — only intermediate book/chapter labels 50–55 absent. (kind: missing section files, gap)
+3. **[medium] manual rescrape** — `editions/malik/translations/fr/sections/{0,16,18,20,21,22,23,25,29,31,39,41,43,44,49}.toon` (33 rows total). FR rows carry trailing scraper suffix "... Hadith : <N> Hadith arabe :" (e.g. "Mouta Imam Malik Hadith : 927 Hadith arabe :"). Does NOT match any fix-7 listed templates. Per conservative rule, not stripped; documented for manual rescrape. (kind: trailing scraping residue, non-sanctioned template)
+4. **[medium] manual rescrape** — `editions/malik/translations/bn/sections/{0,3,20,22,25,29}.toon` (11 rows total). BN rows carry trailing scraper suffix "মুত্তা ইমামি হাদিস: <N> আরবি:" (Bengali rendering of same pattern). Not among fix-7 templates; not stripped. (kind: trailing scraping residue, non-sanctioned template)
+5. **[low] needs human review** — `editions/malik/translations/fr/sections/{20,21,22,23,25,29,31,41,44,49}.toon` (19 rows) and `editions/malik/translations/bn/sections/{0,3,20,22,23,25,29,41}.toon` (13 rows). Literal two-char sequence backslash-n embedded mid-text. Fix 8 explicitly lists only aladab-almufrad en, hisn en, nawawi bs/tr, riyadussalihin en — malik NOT in that list. A targeted replacement of literal "\n" with a space would clean these once approved. (kind: backslash-escape artifact, non-sanctioned edition)
+6. **[low] intentional — leave as-is** — `editions/malik/translations/fr/sections/*.toon` and `bn/sections/*.toon`. Many rows begin text with bracketed reference like "[958] Et il m'a dit..." or "[১০৯০] ইয়াহিয়া...". Fix 5's bracket pattern is "(<digits>)" (parentheses), not square brackets; audit sanctions only "রেওয়ায়ত N." strip. Bracketed numbers appear to be intentional source reference markers. (kind: leading bracketed reference number)
+
+### mishkat
+1. **[low] intentional — leave as-is** — `editions/mishkat/sections/0.toon` and all translations/*/sections/0.toon. Section 0 is the introduction/muqaddimah (293 rows in both AR and translations). Audit flags sec0 as intentional gap; verified AR sec0 and EN/hi/roman-ur/ur sec0 all carry hadiths[293] consistently. Standard Mishkat section-index convention where sec0 holds the book's introduction. (kind: intentional section gap)
+
+### muajam-tabarani-saghir
+1. **[low] intentional — leave as-is** — `editions/muajam-tabarani-saghir/sections/*.toon` (all sections, 18301/18326 rows). 18301 of 18326 AR rows have empty grades+reference+narrator_chain fields. Expected state of this edition (no grade metadata on sunnah.com source), not data loss. (kind: gap)
+
+### musannaf-ibn-abi-shaybah
+1. **[high] manual rescrape** — `translations/ur/sections/6.toon:889` (HN 5898). UR row contains literal "plvvlqj" as entire hadith text — scrape/encoding gibberish. Neighboring HN 5897 and 5899 valid. Single-row data-loss corruption. (kind: scrape corruption, data lost)
+2. **[high] manual rescrape** — `translations/ur/sections/23.toon:453` (HN 22496). UR row contains literal "plvvlqj" as entire hadith text — same gibberish as HN5898. Neighboring HN 22495 and 22497 valid. (kind: scrape corruption, data lost)
+3. **[medium] external concordance verify** — `translations/ur/sections/*.toon` (189 ?? occurrences across 28 files). 189 literal ?? mid-word inside Urdu text (e.g. ای?? مرتبہ, صناب??ی, الل?? علیہ) — same scrape corruption as AR/EN ?? defect. Audit note scopes ?? fix to AR (281) and EN (73) only and lists UR solely for the plvvlqj flag, so these UR ?? were NOT auto-replaced to avoid mangling Urdu script without explicit instruction. Need same [corrupt]/، treatment via edition-specific decision. (kind: scrape corruption, out of audit-note scope)
+
+### muslim
+1. **[medium] needs human review** — `editions/muslim/translations/tr/sections/0.toon:1` (HN 7564). Audit: "tr sec0 2 merged rows". tr/sections/0.toon contains only 1 row (HN 7564, header hadiths[1]) matching AR source 7564. Single row is one coherent hadith (the 'H' separates two isnads of same narration, normal isnad notation). No split boundary safely determinable and there are not 2 rows present. Could not safely action. (kind: merged rows / ambiguous split)
+2. **[medium] manual rescrape** — `editions/muslim/translations/bn/sections/{1,3,5,32}.toon` (21 occurrences across 4 files; broader scrambling in 39 files with literal \n, 28 files with \Capital). BN rows contain mojibake token "নarrated" (Bengali ন glued to English "arrated") 21 times. Surrounding text shows broader scrambling: mid-word English fragments ("at-Taw'amahের", "Abu হুরaira", "নামaz", "আল্লাহ beside Him worship"), literal \n, cross-script mixing. Fix #8 edition list excludes muslim; token-level patch would be cosmetic on broadly corrupt rows. Full rescrape needed. (kind: mojibake / corrupt translation)
+
+### musnad-ahmad
+*(none)*
+
+### mustadrak
+1. **[low] needs human review** — `editions/mustadrak/sections/32.toon` (single occurrence, context: بْنِ عَفِيفٍ ""n """" وَهُوَ الَّذِي يُقَال). One borderline n-artifact remains: stray literal 'n' sits between two quote runs ("") paired with a """" escaped-quote artifact. Conservative n-artifact rule (#16) only strips 'n' surrounded by Arabic on both sides; here bounded by ASCII '"' on both sides, so left untouched to avoid mis-stripping a quote-boundary token. Adjacent """" run indicates escaped-quote artifact (fix #8) not in mustadrak audit scope. (kind: n-artifact + escaped-quote residue, out-of-scope fix #8)
+
+### nasai
+1. **[high] manual rescrape** — `editions/nasai/sections/36.toon` (absent) + all `editions/nasai/translations/*/sections/36.toon` (absent) + info.toon section index. Section 36 missing entirely: no AR file, no translation files in any of 8 languages, section id '36' absent from info.toon sections[51] index (lists 0–35 then jumps to 37–51). Hadith range HN 3857–3965 falls in the gap (sec35 ends 3856, sec37 starts 3966); section 0 'Uncategorized' covers HN 3857–3938, leaving HN 3939–3965 with no section. NOT fabricated per rules. (kind: gap — missing section files)
+2. **[low] intentional — leave as-is** — `editions/nasai/translations/bn/sections/*.toon` (sections 4–51, HNs 400+). Most BN rows carry leading Bengali ordinal (e.g. HN 400 has "১. ", HN 401 "২. ", HN 448 "৮. ", HN 495 "৯. "). These are section-local chapter numbering, NOT redundant duplicates of global hadith number. Per fix #5 rule ("ONLY when digits duplicate the hadith number of that row"), left intact. Only rows where Bengali ordinal digit == global HN were stripped. (kind: leading_ordinal, section-local numbering)
+
+### nasai-kubra
+1. **[medium] needs human review** — `editions/nasai-kubra/info.toon:6` (available_languages "ar,en,ur"). Lists "ar" but NO translations/ar directory exists (only en, ur; AR source text lives in sections/*.toon arabic field). The "ar" is misleading for a consumer expecting a translations/ar tree. AR content is present only in sections/N.toon arabic column, not as a standalone translation tree. (kind: info_lang_mismatch)
+2. **[high] manual rescrape** — `editions/nasai-kubra/translations/en/sections/*.toon` (all 69 files). EN rows contain backslash-escape artifacts: literal \+ASCII capital (e.g. \The, \His, \With, \And) and \n. Counts: \Capital = 403 across all 69 EN files; \n = 44 across 14 files. Fix 8 lists nasai-kubra in neither named set nor audit note; co-occur with quote-run corruption and stray merged-row HN digits making blind sed unsafe (e.g. sections/1.toon line 59 "...white garment from \defilement""""""" — \d is backslash+lowercase-d, outside fix-8 scope). (kind: backslash-escape artifact)
+3. **[high] needs human review** — `editions/nasai-kubra/sections/*.toon` (AR), `translations/ur/sections/*.toon`, `translations/en/sections/*.toon`. Runs of 4+ consecutive double-quotes (""""", """""", etc.) at end-of-line and mid-line = corrupted CSV quoting. EN 845 runs across 69 files; UR 5188 runs across 69 files; AR 8512 runs across 69 section files. Fix 8 says collapse 4+ to "" but lists nasai-kubra in neither named set nor audit note; collapsing unsafe without handling co-occurring backslash artifacts and stray merged-row HN digits (e.g. en/sections/16.toon line 80 ends "...on his behalf\","" meaning: fasting and half of the prayer."""""). Blind global collapse risks data loss on 2 EN files with mid-line split-rows. (kind: csv quote-run corruption, fix 8 collapse)
+4. **[high] needs human review** — `editions/nasai-kubra/translations/en/sections/*.toon` (40 files, e.g. sec2 line 6, sec12 line 33, sec16 line 80, sec33 line 69, sec69 line 61). Rows where scraper merged originally two separate hadith rows into one logical line, embedding stray `"" <HN>""",""` mid-field (e.g. sec33 line 69 HN5348: "...So have fun"" 5349""",""Mahmoud bin Ghaylan..." — HN 5349's content fused into 5348 row). 74 such occurrences across 40 EN files. Auto-fixing requires splitting one logical row into two and renumbering tail; rules permit ONLY when deleting a garbage row and ONLY when audit note says to; audit note for nasai-kubra does not mention this defect. (kind: stray merged-row hadith number in text)
+
+### nawawi
+1. **[medium] manual rescrape** — `editions/nawawi/info.toon` intro / intro_en (lines 7, 9). Both end mid-word at "his migrati" (should continue "his migration will be for Allah and His Messenger..."). intro_ar and intro_bn are complete; only EN-HTML intro fields truncated. (kind: truncated intro)
+2. **[low] manual rescrape** — `editions/nawawi/info.toon` intro_ur (line 14). intro_ur begins mid-sentence at "مرات کا فیصلہ نیت سے ہوتا ہے" — opening "اعمال" (actions) missing, truncated at start vs full intro_ar. (kind: truncated intro)
+3. **[low] intentional — leave as-is** — `editions/nawawi/info.toon` total_hadiths. Audit flags "total 42 vs 50". This is the Forty Hadith of an-Nawawi which canonically contains 42 hadiths. metadata.total_hadiths=42, every section file header hadiths[42], every section file has exactly 42 data rows (verified AR and all 6 translations). No 50-row file; 42 is correct. (kind: count discrepancy)
+
+### qudsi
+*(none)*
+
+### riyadussalihin
+1. **[low] intentional — leave as-is** — `editions/riyadussalihin/translations/en/sections/*.toon`. Audit flags 1 cross-section duplicate as legitimate. Hadith corpora legitimately repeat the same narration across chapters (Riyad as-Salihin groups by theme). Per global rule against auto-deduplicating cross-section/cross-chapter repeats, left untouched. No textual md5 duplicate surfaced across EN section bodies; flagged dup may be a near-duplicate variant or in another language. (kind: cross-section duplicate)
+
+### sahih-ibn-khuzaymah
+1. **[high] manual rescrape** — `editions/sahih-ibn-khuzaymah/info.toon` lines 22–1162 (sections[1073]{...} index block). The sections[1073] index block is severely corrupted: only 14 of 1073 rows parse as valid 14-field CSV records. Remaining 1059 are structural data loss, NOT mis-escaped quotes: (a) ~989 rows truncated mid-field without closing quote, missing trailing 4 numeric fields (hadith_first/hadith_last/arabic_first/arabic_last); name_ur survives only as partial fragment. (b) ~52 rows have dropped field-separator between name and name_ar (parse as 12 fields). (c) ~18 rows have other degenerate shapes (e.g. '"1164",,""' with no name field). (d) Only 3 rows contain backslash-escaped quotes; converting \" to "" still leaves them at 10 fields — literal re-quote prescription restores zero rows. Ground-truth rebuild from sections/*.toon rejected: ~320 of 1073 section chapter_intro values are themselves contaminated with Urdu-script fragments glued onto Arabic (e.g. sections/248.toon "...بَعْضَ الْأَوْقَاتِ،اس بات کی دلیل کہ نبی اکرم..."; sections/179.toon "...الْجَنَابَةِ،غسلِ جنابت"), so internal rebuild cannot draw clean Arabic/Urdu boundary without fabricating. The 4 numeric fields per row ARE verifiable from section file hadith-number ranges (14/14 match on surviving good rows), but name/name_ar/name_ur not safely reconstructable internally. Audit note's "420 cross-section dups legit" confirmed intentional and left as-is. (kind: malformed-CSV-quoting / structural-data-loss)
+2. **[medium] external concordance verify** — `editions/sahih-ibn-khuzaymah/sections/{1,1164,1170,1172}.toon` chapter_intro field. Sections 1, 1164, 1170, 1172 have empty ("") chapter_intro on opening hadith row, so genuine Arabic chapter title is absent from section files. Section 1's title "صحيح ابن خزيمة" is known (book title) and retained in info.toon's one good row; sections 1164/1170/1172 have no recoverable Arabic chapter name in either info.toon (degenerate rows, e.g. '"1164",,""') or section files. Any future rebuild of info.toon must source these 4 chapter names from the original edition. (kind: missing-chapter-name, ground-truth unavailable internally)
+
+### shamail-tirmidhi
+1. **[high] manual rescrape** — `editions/shamail-tirmidhi/translations/ur/sections/25.toon` HN 161. Original UR text was corrupt AI self-monologue repetition loop (35 repetitions of hadith phrase plus AI meta-comment "PARAM? No, I think I'm making a mistake..."). Truncated first instance ends mid-thought at "اس میں سے جو کھانا تھا،" before the loop point; genuine completion of hadith ("he ate from it" / food description) is lost. Row marked [corrupt: repetition loop truncated]. (kind: repetition_loop_data_loss)
+
+### silsila-sahih
+1. **[high] manual rescrape** — `editions/silsila-sahih/translations/en/sections/*.toon` (all 28 section files; ~3182 of 3550 rows). EN translation text was almost entirely scraper residue (e.g. '"1","Al-Silsila-tu-Ahadees-e-Sahiha Hadees: 1 Arabic Hadees: 3196"') with no actual hadith translation. After stripping residue per fix 7, 3182 of 3550 EN rows have empty text. Only 368 rows (across sections 5/11/12/13/14/15/16/21/22/24/26 etc.) contained real English translation text. Rest need rescraping. (kind: missing translation data)
+2. **[low] needs human review** — `editions/silsila-sahih/info.toon` line 5 (available_languages "ar,en,ur"). Lists 'ar' but translations/ only contains en/ and ur/ subdirectories — Arabic lives in top-level sections/ (source), not as a translation. Audit note did not call for fix 4, so field left unchanged. Flagging since 'ar' points to source rather than a translation directory. (kind: info_lang_mismatch)
+
+### sunan-al-daraqutni
+*(none)*
+
+### sunan-darimi
+1. **[low] intentional — leave as-is** — `editions/sunan-darimi` (cross-section, per audit note). Audit flags 2 cross-section repeated hadiths as legitimate. Hadith repetition across chapters/sections is normal in hadith corpora. Per CRITICAL RULES (never auto-deduplicate cross-section/cross-chapter repeated hadiths), left unchanged. (kind: cross-section duplication, intentional)
+
+### tirmidhi
+1. **[low] needs human review** — `editions/tirmidhi/translations/roman-ur/sections/22.toon` HN 1635. Row text begins "Hadees ka Anas bin Malik (razi Allahu anhu) se riwayat hai ke Rasoolullah (ﷺ) ne farmaya: matlab yeh ke Allah Ta'ala farmate hain: \Jo shaks..." — AI framing prefix ("Hadees ka ... se riwayat hai ke") woven directly into Urdu narration flow with no \n\n separator or colon+quote boundary that would let a stripper safely distinguish AI preamble from translator's narrator-chain phrasing. Stripping risks deleting a narrator-chain clause. Left as-is. (kind: AI preamble / translation framing)
+2. **[low] needs human review** — `editions/tirmidhi/translations/roman-ur/sections/47.toon` HN 3264. Row's first segment is "Ḥadīth-e-Ifk (Buhtān kī Ḥadīth)" — traditional title of the famous Hadith of the Lie (Aisha's exoneration), a genuinely named hadith in the tradition. May be a legitimate named-hadith title rather than AI preamble; left as-is. A human should confirm whether this title-line should be kept or is scraper-injected heading. (kind: intentional heading — possible traditional hadith title)
+
+### virtues
+1. **[high] manual rescrape** — `editions/virtues/info.toon:7-10` (intro, intro_ar, intro_en, intro_ur). Book intro truncated mid-sentence. intro/intro_en end at "...respond to Allah and", intro_ar ends at "...استجيبوا لله و", intro_ur ends mid-quote at "اللہ کا جواب دیں". Full Quranic ayah (An-Nisa 8:24 "استجيبوا لله وللرسول إذا دعاكم" / "respond to Allah and to the Messenger when he calls you") and rest of hadith narration missing. All four variants affected. Cannot be reconstructed without fabricating content. (kind: truncated_intro)
+2. **[medium] external concordance verify** — `editions/virtues/sections/2.toon:5` (HN 20), `translations/en/sections/2.toon:5`, `translations/ur/sections/2.toon:5`. Hadith number 20 ("It was narrated from Jābir... As-Safa and Al-Marwah are two of the symbols of Allah...") is filed under section 2 (Sūrat al-Baqarah, HN range 4–20) instead of section 7 (Sūrat Al-Kahf, HN range 19–21) per info.toon section index. Content (Safa/Marwah, Tawaf) unrelated to Sūrat al-Baqarah's virtues; HN 20 falls in overlap of both sections' index ranges (sec2: 4–20, sec7: 19–21) so reassignment ambiguous. Present in AR, en, ur section files for sec2 (HN 20 only in sec2; sec7 has only 19 and 21). Audit instruction: document, not move. (kind: misplaced_hadith)
+
+---
+
+*End of KNOWN_ISSUES.md — 78 items across 24 editions.*

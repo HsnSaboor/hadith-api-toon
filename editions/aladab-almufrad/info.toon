@@ -3,16 +3,15 @@ metadata:
   book_id: "aladab-almufrad"
   book_name: "Al-Adab Al-Mufrad"
   total_hadiths: "1329"
-  available_languages: "ar,en,ur"
+  available_languages: "en,ur"
   intro: "Al-Adab al-Mufrad is a collection of hadith on Islamic manners and ethics compiled by Imam Muhammad ibn Ismail al-Bukhari (d. 256 AH). It contains narrations about proper conduct, social relations, and character development."
   intro_ar: "الأدب المفرد هو مجموعة من الأحاديث في الآداب والأخلاق الإسلامية جمعها الإمام محمد بن إسماعيل البخاري (ت 256 هـ). يحتوي على روايات عن حسن السلوك والعلاقات الاجتماعية وتطوير الشخصية."
   intro_en: "Al-Adab al-Mufrad is a collection of hadith on Islamic manners and ethics compiled by Imam Muhammad ibn Ismail al-Bukhari (d. 256 AH). It contains narrations about proper conduct, social relations, and character development."
   intro_ur: "عبد الادب المفرید ایک اسلامی مanners اور اتیکتات کا اکٹھا ہے جو امام محمد بن اسماعیل البخاری (د 256 ہجری) نے مرتب کیا ہے۔ یہ نARRATIONS کرتا ہے کے مناسب پرفارمنس، سماجی تعلقات اور شخصیتی ترقی کے بارے میں۔"
 
-translations[3]{language,sections,path}:
+translations[2]{language,sections,path}:
 "en","57","translations/en"
 "ur","57","translations/ur"
-"ar","57","translations/ar"
 
 sections[57]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
 "1","Parents","كتاب الْوَالِدَيْنِ","পিতামাতা","Parents","Parents","Orang tua","Родители","Ebeveynler","والدین","1","46","1","46"

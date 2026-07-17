@@ -3,7 +3,7 @@ metadata:
   book_id: "nawawi"
   book_name: "Forty Hadith of an-Nawawi"
   total_hadiths: "42"
-  available_languages: "ar,bn,bs,en,fr,tr,ur"
+  available_languages: "bn,bs,en,fr,tr,ur"
   intro: "It is narrated on the authority of Amirul Mu&#039;minin, Abu Hafs &#039;Umar bin al-Khattab (ra) who said:\n\nI heard the Messenger of Allah (ﷺ) say: &quot;Actions are (judged) by motives (niyyah), so each man will have what he intended. Thus, he whose migration (hijrah) was to Allah and His Messenger, his migrati"
   intro_ar: "عَنْ أَمِيرِ الْمُؤْمِنِينَ أَبِي حَفْصٍ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ: «إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوِ امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ»"
   intro_en: "It is narrated on the authority of Amirul Mu&#039;minin, Abu Hafs &#039;Umar bin al-Khattab (ra) who said:\n\nI heard the Messenger of Allah (ﷺ) say: &quot;Actions are (judged) by motives (niyyah), so each man will have what he intended. Thus, he whose migration (hijrah) was to Allah and His Messenger, his migrati"
@@ -13,14 +13,13 @@ metadata:
   intro_tr: "Amirül Müminin, Ebû Hafız Ümer bin el-Hattab (ra) şöyle demiştir:\n\nAllah’ın Elçisi (ﷺ) şöyle buyurdu: \"Eylemler niyye ile değerlendirilir, her kişi ne niyye ile yaparsa o niyye ile değerlendirilir. Dolayısıyla, Allah ve Elçisi’ne hicret etmek isteyenlerin hicretinin de Allah ve Elçisi’ne hicret etmek olduğunu söyleyeceğiz.\""
   intro_ur: "مرات کا فیصلہ نیت سے ہوتا ہے لہذا ہر شخص اپنی نیت کے مطابق اپنا فیصلہ پائے گا اور وہ شخص جس کا ہجرت اللہ اور اس کے رسول کی طرف تھی تو اس کا ہجرت بھی اللہ اور اس کے رسول کی طرف تھی"
 
-translations[7]{language,sections,path}:
+translations[6]{language,sections,path}:
 "bn","1","translations/bn"
 "bs","1","translations/bs"
 "en","1","translations/en"
 "fr","1","translations/fr"
 "tr","1","translations/tr"
 "ur","1","translations/ur"
-"ar","1","translations/ar"
 
 sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
 "1","Forty Hadith of an-Nawawi","الأربعون النووية","নববির চল্লিশ হাদিস","Forty Hadith of an-Nawawi","Quarante Hadiths de an-Nawawi","Empat Puluh Hadits an-Nawawi","Сорок хадисов ан-Навави","Kırk Hadis - Nevevi","الأربعون النووية","1","42","1","42"

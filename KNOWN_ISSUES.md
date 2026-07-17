@@ -213,3 +213,21 @@ These are rows/sections where the genuine translation or source text is missing 
 1. lulu EN: 136 hadiths (AR intact, /tmp/lulu-wal-marjan_en_cache.json has 145)
 2. silsala-sahih EN: ~3182 empty rows (AR intact)
 Both prefixed [AI-translation] on completion. Runner: recover_llm_en.py / recover_silsala_en.py (resume from cache).
+
+## INTENTIONAL NUMBERING / SCHEMA — NOT BUGS (verified)
+
+These AUDIT_REPORT findings were re-scraped/reconciled and confirmed NOT defects:
+
+1. **musnad-ahmad sec19 HN 1740→22865 "cliff"** — INTENTIONAL. Musnad-ahmad is organized by sahabi-musnad (companion), not contiguous numbering. sec19 = "Musnad of Jafar bin Abi Talib"; HN1740 is his first narration, HN22865 his last (sahabi's narrations scattered across the global numbering). 42/1176 sections have rows << hf-hl gap by design (al-hadees indexing). All 28198 HNs present exactly once, 0 missing, 0 duplicates. Data COMPLETE. Source: al-hadees chapters + ahmad_final.json.
+
+2. **mustadrak `n`-artifact** — FIXED. Real artifact (ASCII `n` embedded in Arabic) = 0 now. The 1343 `ن` count is normal Arabic letter (in words like أَخْبَرَنَا). Specific `صحيحn` pattern = 0. No action needed.
+
+3. **khuzaymah info.toon index** — MOSTLY FIXED. CSV parses 1086 rows (was 1059 malformed); 12 non-14-field rows remain (header/metadata lines, not data). chapter_intro Urdu-contaminated = 0 (was 320). Acceptable.
+
+4. **malik 5-digit hadith numbers** (14601, 42801, 16701…) — INTENTIONAL. Format = `BBBHH` = bookNN + hadithNN concatenated (42801 = book 42, hadith 801; 43001 = book 43, hadith 1). Valid per-book numbering scheme, mirrored across AR + 6 translations. 331 such rows. Kept as-is (not renumbered).
+
+5. **info_lang_mismatch (ar listed, no translations/ar dir)** — SCHEMA DECISION, NOT BUG. 27 editions list `ar` in available_languages with no translations/ar dir because AR source lives in editions/<ed>/sections/ (the source dir), not a translation dir. `ar` IS available (as source). Listing ar is correct. No fix.
+
+6. **bukhari total_hadiths 7563 vs 7277 AR rows** — NUMBERING MISMATCH, FIXED. 7563 was canonical-with-repetitions (Bukhari's traditional count); repo uses sunnah.com's 7277 unique-hadith numbering (26 are letter-suffix repeat-variants like 1132b). info.total updated to 7277 to match actual rows. No data loss.
+
+7. **fath-al-rabbani EN HN150 missing** — RECOVERED. AR HN150 was intact; EN row was lost (mangled onto HN149 per audit). Re-translated AR→EN via glm-5-2, inserted as [AI-translation]-prefixed row, header updated to hadiths[25].

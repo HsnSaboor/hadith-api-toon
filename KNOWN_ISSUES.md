@@ -192,3 +192,24 @@ These are rows/sections where the genuine translation or source text is missing 
 ---
 
 *End of KNOWN_ISSUES.md — 78 items across 24 editions. Recovery run resolved 9 scholarly items (abudawud BN, ibnhibban EN ×16, ibnmajah FR ×7, musannaf-ibn-abi-shaybah UR ×2, nasai sec36 AR+5 langs, sahih-ibn-khuzaymah info+sections, shamail-tirmidhi UR) + 1 LLM-Option-B item landed (nasai sec36 tr/ru/ta, 81 rows); 2 LLM-Option-B items pending (lulu EN 281, silsila EN 3182).*
+
+## RECOVERY STATUS (post-execution)
+
+**Scholarly rescrape (DONE, real human translations):** 8/10 items
+- A1 ibnmajah FR (7 HNs) ✅ fawaz cache
+- A2 abudawud BN HN4588 ✅ fawaz cache
+- A3 nasai sec36 AR/EN/UR/BN/ID(25)/FR (27 each) ✅ fawaz + hadith-api-1
+- A4 shamail-tirmidhi UR HN161 ✅ tohed
+- A5 sahih-ibn-khuzaymah index (1059 rows re-quoted, 324 chapter_intro) ✅ local + git history
+- B1 ibnhibban EN (16 HNs) ✅ tohed Darussalam-style
+- B2 musannaf UR HN5898/22496 ✅ tohed Awamah
+
+**LLM Option B ([AI-translation], from intact Arabic):**
+- C2 nasai sec36 tr/ru/ta (81 rows) ✅ DONE
+- C1 lulu EN: **145/281 DONE** (job running, free-tier throttled); 136 remaining
+- A6 silsala EN ~3182: **DEFERRED** — scholarly source absent (silsila.db=0 EN, final.json=Urdu-only); LLM on free-tier hard-throttled (3182 too large). Needs paid openrouter credits to complete.
+
+**Remaining for paid-key LLM (when credits added):**
+1. lulu EN: 136 hadiths (AR intact, /tmp/lulu-wal-marjan_en_cache.json has 145)
+2. silsala-sahih EN: ~3182 empty rows (AR intact)
+Both prefixed [AI-translation] on completion. Runner: recover_llm_en.py / recover_silsala_en.py (resume from cache).

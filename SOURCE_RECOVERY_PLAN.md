@@ -127,9 +127,41 @@ Audit found 10 data-loss items needing recovery. Sources were probed across sunn
 
 ---
 
-## LLM-translation fallback section
+## UPDATE — nasai sec36 tur/rus/tam: no scholarly source exists (verified)
 
-Only **1 item** genuinely has no human source: **lulu-wal-marjan EN (281 hadiths)**.
+Re-checked via fawazahmed0 CDN (jsdelivr) + tohed.com + sunnah.com + al-hadees + local `~/hadith-api-1` clone + `database/originals`:
+
+| Lang | fawaz CDN | tohed | sunnah ajax | al-hadees | local hadith-api-1 | Verdict |
+|---|---|---|---|---|---|---|
+| AR | 200 ✅ scholarly | ✅ | ✅ | ✅ | ara-nasai + ara-nasai1 (two Arabic versions) | ✅ scholarly |
+| EN | 200 ✅ scholarly (Darussalam/Khattab) | (only Urdu on page) | english | — | eng-nasai | ✅ scholarly |
+| URD | 200 ✅ scholarly | ✅ Urdu | urdu | ✅ | urd-nasai | ✅ scholarly |
+| BEN | 200 ✅ scholarly | — | bangla | — | ben-nasai | ✅ scholarly |
+| IND | 200 ✅ scholarly | — | — | — | ind-nasai | ✅ scholarly |
+| FRA | 200 ✅ likely-scholarly | — | — | — | fra-nasai | ✅ scholarly |
+| **TUR** | **200 BUT sec36 = 0/27 EMPTY** | (Urdu only) | ✗ no turkish | ✗ AR+UR only | tur-nasai (1.6M, partial) + `database/originals/turkishnasai.txt` (598 ln — but content is Tahara/Purity hadiths, NOT Book36 "Kind Treatment of Women") | ❌ no scholarly Book36 |
+| **RUS** | **404 — file missing** | — | ✗ no russian | ✗ | (none) | ❌ no Russian Nasai anywhere |
+| **TAM** | **404 — file missing** | — | ✗ no tamil | ✗ | (none) | ❌ no Tamil Nasai anywhere |
+
+**Conclusion:** nasai section 36 can be rebuilt in **6 languages scholarly** (AR, EN, URD, BEN, IND, FRA). The remaining **3 languages (TUR, RUS, TAM) have NO scholarly source anywhere** — confirmed by checking fawaz CDN, tohed, sunnah.com ajax (en/ur/bn only), al-hadees (AR+UR only), and the local `~/hadith-api-1` fawaz clone + `database/originals`.
+
+**Options for TUR/RUS/TAM sec36 (27 hadiths each):**
+1. **Leave missing** — document in `info.toon` that nasai section 36 is available in 6 languages only (TUR/RUS/TAM absent). Honest, zero risk. Recommended default.
+2. **LLM translate from intact Arabic** (openrouter, 6 keys) for the 3 langs × 27 hadiths = 81 rows, prefixed `[AI-translation]`. Only if you want full lang coverage at the cost of machine text.
+
+---
+
+## LLM-translation fallback section (UPDATED)
+
+Items with NO scholarly source, needing LLM (from intact Arabic, `[AI-translation]` prefix):
+1. **lulu-wal-marjan EN** (281 hadiths) — no source anywhere.
+2. **nasai sec36 TUR** (27) — fawaz empty, no scholarly source.
+3. **nasai sec36 RUS** (27) — no Russian Nasai anywhere.
+4. **nasai sec36 TAM** (27) — no Tamil Nasai anywhere.
+
+Total LLM scope: ~362 rows max, all `[AI-translation]`-prefixed. Everything else (ibnhibban EN, ibnmajah FR, abudawud BN, musannaf UR, shamail UR, khuzaymah index, silsila EN, nasai sec36 AR/EN/URD/BEN/IND/FRA) = real scholarly human text.
+
+Items 2–4 may instead be left missing (documented) — your call. Recommend: rebuild the 6 scholarly langs, leave TUR/RUS/TAM missing with a note, avoid AI for scripture-adjacent text unless you explicitly want machine coverage.
 
 - Use openrouter (6 API keys), strong model (Claude/GPT-class for faithful translation).
 - Source = intact Arabic from `editions/lulu-wal-marjan/sections/<N>.toon`.

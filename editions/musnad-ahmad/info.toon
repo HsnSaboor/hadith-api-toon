@@ -2,11 +2,11 @@ metadata:
   book_id: "musnad-ahmad"
   book_name: "Musnad Ahmad"
   total_hadiths: "28198"
-  available_languages: "ar,ur"
+  available_languages: "ur"
   intro: "Musnad Ahmad is a collection of hadith compiled by Imam Ahmad ibn Hanbal (d. 241 AH/855 AD - rahimahullah). It is one of the most famous and important collections of reports of the Sunnah of the Prophet Muhammad (ﷺ). It is the largest of the main books of hadith containing approximately 28,199 hadith sectioned based on individual Companions. The translation provided here is by Nasir Khattab."
   intro_ar: "مسند أحمد هو مجموعة أحاديث جمعها الإمام أحمد بن حنبل (ت 241 هـ / 855 م - رحمه الله). وهو من أشهر وأهم مجموعات أحاديث السنة النبوية (ﷺ). وهو أكبر كتب الحديث الرئيسية، حيث يحتوي على ما يقرب من 28,199 حديثًا مرتبة حسب أسماء الصحابة. الترجمة المقدمة هنا من إعداد ناصر الخطاب."
   intro_en: "Musnad Ahmad is a collection of hadith compiled by Imam Ahmad ibn Hanbal (d. 241 AH/855 AD - rahimahullah). It is one of the most famous and important collections of reports of the Sunnah of the Prophet Muhammad (ﷺ). It is the largest of the main books of hadith containing approximately 28,199 hadith sectioned based on individual Companions. The translation provided here is by Nasir Khattab."
-  intro_ur: "مصنَد احمد ایک حدیث کی کٹیلاک ہے جو امام احمد ابن حنبل (د 241 ہجری/855 عیسوی - رحمتہ اللہ علیہ) نے مرتب کیا ہے۔ یہ ایک مشہور اور اہم کٹیلاک ہے جو نبی محمد صلی اللہ علیہ وسلم کی سنیہ کے رپورٹس کو شامل کرتا ہے۔ یہ سب سے بڑا ہے اور حدیث کے اصلی کتابوں میں سے ایک ہے جو تقریباً 28,199 حدیث کو بطورIndividual ساتھی صحابہ کے حوالے میں تقسیم کرتا ہے۔ یہ ترجمہ ناصر خٹاب نے دیا ہے۔"
+  intro_ur: "[AI-translation] مسند احمد امام احمد بن حنبل (متوفی 241ھ/855ء - رحمہ اللہ) کی مرتب کردہ احادیث کا مجموعہ ہے۔ یہ نبی کریم محمد (ﷺ) کی سنت سے متعلق روایات کی سب سے مشہور اور اہم کتب میں سے ایک ہے۔ یہ اہم کتبِ حدیث میں سب سے بڑی کتاب ہے جس میں صحابہ کرام کے ناموں کی بنیاد پر تقسیم کردہ تقریباً 28,199 احادیث شامل ہیں۔ یہاں پیش کردہ ترجمہ ناصر خطاب کا ہے۔"
 
 translations[1]{language,sections,path}:
 "ur","1176","translations/ur"

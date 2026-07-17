@@ -16,7 +16,7 @@ books[31]{id,name,total_hadiths,available_languages,path}:
 "muajam-tabarani-saghir","Mu'jam Tabarani Saghir","18326","ar,en,ur","editions/muajam-tabarani-saghir"
 "musannaf-ibn-abi-shaybah","Musannaf Ibn Abi Shaybah","39098","ar,en,ur","editions/musannaf-ibn-abi-shaybah"
 "muslim","Sahih Muslim","7564","ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur","editions/muslim"
-"musnad-ahmad","Musnad Ahmad","28199","ar,ur","editions/musnad-ahmad"
+"musnad-ahmad","Musnad Ahmad","28198","ar,ur","editions/musnad-ahmad"
 "mustadrak","Al-Mustadrak","8803","ar,en,ur","editions/mustadrak"
 "nasai","Sunan an-Nasai","5713","ar,bn,en,fr,hi,id,roman-ur,tr,ur","editions/nasai"
 "nasai-kubra","Sunan al-Kubra an-Nasai","11385","ar,en,ur","editions/nasai-kubra"

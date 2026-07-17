@@ -1,0 +1,171 @@
+EXHAUSTIVE METADATA CONSISTENCY AUDIT REPORT
+================================================================================
+
+Compound numbering detected in: malik
+(5-digit hadith numbers base*100+01/02 are split to base for range checks)
+
+CHECK 1: Check 1: info.toon total_hadiths vs AR unique count
+  -> 2 issue(s)
+--------------------------------------------------------------------------------
+  [bukhari] info.toon total_hadiths=7563 vs AR unique count=7550 (diff=13)
+    -> /home/saboor/code/hadith-api-toon/editions/bukhari/info.toon
+  [ibnhibban] info.toon total_hadiths=7400 vs AR unique count=7394 (diff=6)
+    -> /home/saboor/code/hadith-api-toon/editions/ibnhibban/info.toon
+
+CHECK 2: Check 2: metadata.toon vs info.toon total_hadiths
+  -> 0 issue(s)
+--------------------------------------------------------------------------------
+
+CHECK 3: Check 3: Section file count consistency
+  -> 0 issue(s)
+--------------------------------------------------------------------------------
+
+CHECK 4: Check 4: available_languages vs actual dirs
+  -> 0 issue(s)
+--------------------------------------------------------------------------------
+
+CHECK 5: Check 5: Root info.toon completeness
+  -> 1 issue(s)
+--------------------------------------------------------------------------------
+  [musnad-ahmad] Root total_hadiths=28199 vs edition info.toon total_hadiths=28198
+    -> /home/saboor/code/hadith-api-toon/info.toon
+
+CHECK 6: Check 6: Header count vs actual data rows
+  -> 62 issue(s)
+--------------------------------------------------------------------------------
+  [] header hadiths[1427] vs actual rows=1148 (diff=279) [bayhaqi/sections/1.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/1.toon
+  [] header hadiths[1611] vs actual rows=1148 (diff=463) [bayhaqi/sections/10.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/10.toon
+  [] header hadiths[1232] vs actual rows=1148 (diff=84) [bayhaqi/sections/11.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/11.toon
+  [] header hadiths[1258] vs actual rows=1148 (diff=110) [bayhaqi/sections/12.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/12.toon
+  [] header hadiths[1254] vs actual rows=1148 (diff=106) [bayhaqi/sections/13.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/13.toon
+  [] header hadiths[1223] vs actual rows=1148 (diff=75) [bayhaqi/sections/14.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/14.toon
+  [] header hadiths[1187] vs actual rows=1148 (diff=39) [bayhaqi/sections/15.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/15.toon
+  [] header hadiths[1189] vs actual rows=1148 (diff=41) [bayhaqi/sections/16.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/16.toon
+  [] header hadiths[1236] vs actual rows=1148 (diff=88) [bayhaqi/sections/17.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/17.toon
+  [] header hadiths[1280] vs actual rows=1148 (diff=132) [bayhaqi/sections/18.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/18.toon
+  [] header hadiths[1262] vs actual rows=1151 (diff=111) [bayhaqi/sections/19.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/19.toon
+  [] header hadiths[1362] vs actual rows=1148 (diff=214) [bayhaqi/sections/2.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/2.toon
+  [] header hadiths[1430] vs actual rows=1148 (diff=282) [bayhaqi/sections/3.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/3.toon
+  [] header hadiths[1350] vs actual rows=1148 (diff=202) [bayhaqi/sections/4.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/4.toon
+  [] header hadiths[1435] vs actual rows=1148 (diff=287) [bayhaqi/sections/5.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/5.toon
+  [] header hadiths[1845] vs actual rows=1148 (diff=697) [bayhaqi/sections/6.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/6.toon
+  [] header hadiths[1907] vs actual rows=1148 (diff=759) [bayhaqi/sections/7.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/7.toon
+  [] header hadiths[1739] vs actual rows=1148 (diff=591) [bayhaqi/sections/8.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/8.toon
+  [] header hadiths[1374] vs actual rows=1148 (diff=226) [bayhaqi/sections/9.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/sections/9.toon
+  [] CORRUPT HEADER: "hadiths[1148]{hadithnumber","text}:"
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/translations/ur/sections/10.toon
+  [] CORRUPT HEADER: "hadiths[1148]{hadithnumber","text}:"
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/translations/ur/sections/15.toon
+  [] CORRUPT HEADER: "hadiths[1148]{hadithnumber","text}:"
+    -> /home/saboor/code/hadith-api-toon/editions/bayhaqi/translations/ur/sections/16.toon
+  [] header hadiths[452] vs actual rows=451 (diff=1) [muajam-tabarani-saghir/sections/19.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muajam-tabarani-saghir/sections/19.toon
+  [] header hadiths[213] vs actual rows=211 (diff=2) [muajam-tabarani-saghir/sections/21.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muajam-tabarani-saghir/sections/21.toon
+  [] header hadiths[417] vs actual rows=416 (diff=1) [muajam-tabarani-saghir/sections/24.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muajam-tabarani-saghir/sections/24.toon
+  [] header hadiths[596] vs actual rows=593 (diff=3) [muajam-tabarani-saghir/sections/27.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muajam-tabarani-saghir/sections/27.toon
+  [] header hadiths[654] vs actual rows=653 (diff=1) [muajam-tabarani-saghir/sections/34.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muajam-tabarani-saghir/sections/34.toon
+  [] header hadiths[470] vs actual rows=469 (diff=1) [muajam-tabarani-saghir/sections/38.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muajam-tabarani-saghir/sections/38.toon
+  [] header hadiths[2457] vs actual rows=2453 (diff=4) [muajam-tabarani-saghir/sections/39.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muajam-tabarani-saghir/sections/39.toon
+  [] header hadiths[450] vs actual rows=447 (diff=3) [muajam-tabarani-saghir/sections/8.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muajam-tabarani-saghir/sections/8.toon
+  [] header hadiths[478] vs actual rows=477 (diff=1) [muajam-tabarani-saghir/sections/9.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muajam-tabarani-saghir/sections/9.toon
+  [] header hadiths[57] vs actual rows=56 (diff=1) [muslim/sections/28.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muslim/sections/28.toon
+  [] header hadiths[183] vs actual rows=182 (diff=1) [muslim/sections/32.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muslim/sections/32.toon
+  [] header hadiths[64] vs actual rows=63 (diff=1) [muslim/sections/35.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muslim/sections/35.toon
+  [] header hadiths[202] vs actual rows=201 (diff=1) [muslim/sections/37.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muslim/sections/37.toon
+  [] header hadiths[410] vs actual rows=409 (diff=1) [muslim/sections/5.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muslim/sections/5.toon
+  [] header hadiths[73] vs actual rows=72 (diff=1) [muslim/sections/50.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muslim/sections/50.toon
+  [] header hadiths[107] vs actual rows=106 (diff=1) [muslim/sections/55.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/muslim/sections/55.toon
+  [] header hadiths[4] vs actual rows=3 (diff=1) [musnad-ahmad/sections/1122.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/musnad-ahmad/sections/1122.toon
+  [] header hadiths[1711] vs actual rows=1710 (diff=1) [musnad-ahmad/sections/25.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/musnad-ahmad/sections/25.toon
+  [] header hadiths[136] vs actual rows=135 (diff=1) [musnad-ahmad/sections/917.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/musnad-ahmad/sections/917.toon
+  [] header hadiths[131] vs actual rows=69 (diff=62) [mustadrak/sections/37.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/37.toon
+  [] header hadiths[175] vs actual rows=94 (diff=81) [mustadrak/sections/38.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/38.toon
+  [] header hadiths[94] vs actual rows=53 (diff=41) [mustadrak/sections/39.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/39.toon
+  [] header hadiths[62] vs actual rows=31 (diff=31) [mustadrak/sections/40.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/40.toon
+  [] header hadiths[149] vs actual rows=78 (diff=71) [mustadrak/sections/41.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/41.toon
+  [] header hadiths[218] vs actual rows=121 (diff=97) [mustadrak/sections/42.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/42.toon
+  [] header hadiths[72] vs actual rows=37 (diff=35) [mustadrak/sections/43.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/43.toon
+  [] header hadiths[12] vs actual rows=7 (diff=5) [mustadrak/sections/44.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/44.toon
+  [] header hadiths[202] vs actual rows=104 (diff=98) [mustadrak/sections/45.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/45.toon
+  [] header hadiths[132] vs actual rows=76 (diff=56) [mustadrak/sections/46.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/46.toon
+  [] header hadiths[279] vs actual rows=150 (diff=129) [mustadrak/sections/47.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/47.toon
+  [] header hadiths[59] vs actual rows=31 (diff=28) [mustadrak/sections/48.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/48.toon
+  [] header hadiths[105] vs actual rows=61 (diff=44) [mustadrak/sections/49.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/49.toon
+  [] header hadiths[53] vs actual rows=27 (diff=26) [mustadrak/sections/50.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/50.toon
+  [] header hadiths[384] vs actual rows=383 (diff=1) [mustadrak/sections/51.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/51.toon
+  [] header hadiths[233] vs actual rows=128 (diff=105) [mustadrak/sections/52.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/mustadrak/sections/52.toon
+  [] header hadiths[921] vs actual rows=916 (diff=5) [sahih-ibn-khuzaymah/sections/1172.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/sahih-ibn-khuzaymah/sections/1172.toon
+  [] header hadiths[2] vs actual rows=1 (diff=1) [sahih-ibn-khuzaymah/sections/2114.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/sahih-ibn-khuzaymah/sections/2114.toon
+  [] header hadiths[2] vs actual rows=1 (diff=1) [sahih-ibn-khuzaymah/sections/245.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/sahih-ibn-khuzaymah/sections/245.toon
+  [] header hadiths[525] vs actual rows=523 (diff=2) [sahih-ibn-khuzaymah/sections/281.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/sahih-ibn-khuzaymah/sections/281.toon
+  [] header hadiths[5] vs actual rows=4 (diff=1) [sahih-ibn-khuzaymah/sections/675.toon]
+    -> /home/saboor/code/hadith-api-toon/editions/sahih-ibn-khuzaymah/sections/675.toon
+
+CHECK 7: Check 7: Section ranges vs actual data
+  -> 3 issue(s)
+--------------------------------------------------------------------------------
+  [fath-al-rabbani] Section 2: arabic_first=142 vs actual min=141
+    -> /home/saboor/code/hadith-api-toon/editions/fath-al-rabbani/info.toon
+  [fath-al-rabbani] Section 3: arabic_first=167 vs actual min=166
+    -> /home/saboor/code/hadith-api-toon/editions/fath-al-rabbani/info.toon
+  [fath-al-rabbani] Section 3: arabic_last=191 vs actual max=192
+    -> /home/saboor/code/hadith-api-toon/editions/fath-al-rabbani/info.toon
+
+TOTAL: 68 issue(s)

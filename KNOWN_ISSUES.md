@@ -231,3 +231,41 @@ These AUDIT_REPORT findings were re-scraped/reconciled and confirmed NOT defects
 6. **bukhari total_hadiths 7563 vs 7277 AR rows** — NUMBERING MISMATCH, FIXED. 7563 was canonical-with-repetitions (Bukhari's traditional count); repo uses sunnah.com's 7277 unique-hadith numbering (26 are letter-suffix repeat-variants like 1132b). info.total updated to 7277 to match actual rows. No data loss.
 
 7. **fath-al-rabbani EN HN150 missing** — RECOVERED. AR HN150 was intact; EN row was lost (mangled onto HN149 per audit). Re-translated AR→EN via glm-5-2, inserted as [AI-translation]-prefixed row, header updated to hadiths[25].
+
+---
+
+## GAPS14-B status (Phase B judgment fixes)
+
+Per `GAPS14_FIX_PLAN.md` Phase B (HN alignment, cross-section dup merges, grade column-shift, narrator-chain relocate). 9 of 13 Phase-B items fixed; remainder noted below. Fixes live in the working tree (uncommitted) unless marked.
+
+### Fixed (verified by reading each target file post-fix)
+
+1. **malik HN163502 — 7-column structure restored** (COMMITTED, `c6393e3b02`). `editions/malik/sections/47.toon` HN163502 had leaked a field into the wrong column (8 cols). Now 7 cols: col1=`[1635] وَحَدَّثَنِي، عَنْ مَالِك...`, col3=`Muwatta Imam Malik 1635`, col4=`Book 47, Hadith 1635`, col6=`كتاب حسن الخلق`. (Phase B4 narrator relocate)
+
+2. **fath-al-rabbani duplicate merges** — `editions/fath-al-rabbani/sections/{2,3}.toon`. Within-section identical rows HN145→144, HN153→152, HN180→179 merged per source marker `۔ (۱۴۴، ۱۴۵)۔`. Verified post-fix: sec2 has 23 rows / 0 duplicate HNs, sec3 has 26 rows / 0 duplicate HNs. (Phase B2)
+
+3. **muslim duplicate HN7564** — `editions/muslim/sections/0.toon` (AR source) and `translations/tr/sections/0.toon`. Removed the duplicate HN7564 row; both files now have exactly 1 row with HN 7564 (header `hadiths[1]`), matching sunnah.com TR sec0 convention. (Phase B2)
+
+4. **sunan-darimi unescaped quotes** — `editions/sunan-darimi/sections/{0,1,2,5,11,12}.toon`. 34 rows with stray double-quote runs re-serialized via python `csv.writer` (proper escaping). All 6 files now parse with uniform 7-field rows (was mixed field counts from quote-run corruption). (Phase B3)
+
+5. **mishkat column-shift** — `editions/mishkat/sections/{0,4,5,7,9,10,11,13,23,25,26,29}.toon`. 12 rows where the chapter name had shifted into col5 (narrator_chain) moved to col6 (chapter_intro). All 12 files now uniform 7-field records. Diff stat: 1741 lines rewritten across the 12 files (pure re-quoting, no content change). (Phase B3 + B4 overlap)
+
+6. **mustadrak HN9 grade commentary repair** — `editions/mustadrak/sections/1.toon` HN9. Row previously parsed as 8 cols because the grade field had absorbed a leaked Arabic commentary fragment (`إِمَامٌ، وَيُونُسُ الْمُؤَدِّبُ: ثِقَةٌ... [التعليق - من تلخيص الذهبي] 9 - هذا على شرط مسلم`). Re-quoted: the commentary now stays inside the arabic field, `grades="Sahih"`, `reference="Al-Mustadrak 9"`, 7 cols. (Phase B3)
+
+7. **shamail-tirmidhi HN45 grade** — `editions/shamail-tirmidhi/sections/5.toon` HN45. Grade field was `: Sahih` with an Arabic commentary fragment and escaped-quote leak (`\""\ [التعليق...]`) bleeding from arabic. Fixed: grade=`Sahih`, arabic field properly closed, 7 cols. (Phase B3)
+
+8. **ibnhibban sec0 re-key** — `editions/ibnhibban/translations/en/sections/0.toon`. EN hadithnumber column re-keyed from the AR source row at the same index to restore the `book:HN` cross-ref strings (e.g. `2 : 499`, `12 : 196`). EN now 114 rows matching AR 114 rows; HNs 1:1 with `editions/ibnhibban/sections/0.toon`. (Phase B1)
+
+9. **nasai id sec36 — HN3945 & HN3965 added** — `editions/nasai/translations/id/sections/36.toon`. IND cache had empty text for HN3945/3965 (intentionally absent in prior fix). Added 2 `[AI-translation]`-prefixed rows translated from AR via LLM. ID sec36 now 27 rows (full parity with AR). (Phase B1)
+
+### Remains (not addressed in GAPS14-B run)
+
+1. **bukhari compound HN mapping (Phase B1, LARGEST)** — `editions/bukhari/translations/{en,fr,id,roman-ur,hi,tr,ta,ru,bn}/sections/*.toon`. ~48K HN mismatches across 10 langs because bn/sec0 fabricated a `7371+` sequence instead of mirroring AR. Re-key needed: per section, per lang, set `trans_HN[k] = AR_HN[k]`. Schema decision outstanding on combined-string HNs (`"272, 273"`): current state preserves combined at same row index (289 such rows in en/fr/bn sec0 alone, 202 in tr sec0). Algorithm-ready but not executed. HIGH severity — biggest data-integrity defect still open.
+
+2. **mustadrak EN orphan rows (Phase B1)** — `editions/mustadrak/translations/en/sections/{1,27,28,29,30,32,36,42,45,47,49,51}.toon`. CSV corruption left spurious `""<text>""` rows merged into parent rows with integer HNs lost. ~40 non-integer-HN rows remain across the 12 sections (sec27:12, sec32:14, sec30:3, sec51:3, sec42:2; sec1/28/29/36/47/49:1 each; sec45:0). Fix: re-serialize with python csv writer, split merged rows back, restore integer HNs from AR. Same root as the mustadrak HN9 / mishkat colshift defects — not yet applied to the EN translation files.
+
+3. **Intros — Phase C (11 editions, judgment + LLM)** — info.toon intro defects needing re-translation from clean intro_en/intro_ar (or scholarly source): abudawud (intro_bn/ur/ru/fr/roman-ur), aladab-almufrad (intro_ur), ibnmajah (intro_roman-ur/ur/bn/hi/fr/intro), malik (intro_ur Cyrillic/Devanagari contamination), mishkat (intro_hi Arabic+CJK), musnad-ahmad (intro_ur), nasai (intro_ur + add intro_ru/intro_ta), nawawi (intro/intro_en truncated), riyadussalihin (intro_ur), shamail-tirmidhi (intro_ur English intrusions), virtues (all 4 variants truncated). Not started.
+
+4. **Phase C as a whole** — the 11-edition intro re-translation pass above is the entire outstanding C phase. No Phase C work has landed. Will require either scholarly sources or `glm-5-2` LLM translation marked `[AI-translation]`.
+
+*End of GAPS14-B status — 9 fixed (1 committed: malik HN163502; 8 in working tree), 4 remains (bukhari compound mapping, mustadrak EN orphans, intros, Phase C).*

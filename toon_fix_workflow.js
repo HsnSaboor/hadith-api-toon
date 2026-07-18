@@ -13,7 +13,7 @@ const EDITIONS_DIR = `${REPO}/editions`
 
 const EDITIONS = [
   'abdurrazzaq','abudawud','aladab-almufrad','bayhaqi','bukhari','bulugh-al-maram',
-  'dehlawi','fath-al-rabbani','hisn','ibnhibban','ibnmajah','lulu-wal-marjan',
+  'dehlawi','fath-al-rabbani','ibnhibban','ibnmajah','lulu-wal-marjan',
   'malik','mishkat','muajam-tabarani-saghir','musannaf-ibn-abi-shaybah','muslim',
   'musnad-ahmad','mustadrak','nasai','nasai-kubra','nawawi','qudsi','riyadussalihin',
   'sahih-ibn-khuzaymah','shamail-tirmidhi','silsila-sahih','sunan-al-daraqutni',
@@ -34,7 +34,6 @@ const AUDIT_NOTES = {
   'lulu-wal-marjan': 'en: 281 merged/dropped hadiths, OCR garbage — DO NOT guess-split, document as known-bad. metadata claims 1906, en has 1625.',
   'mishkat': 'translation sections 20/21 SWAPPED vs AR (AR sec20=Foods, EN sec20=Hunting) — SWAP file contents back in ALL langs, verify AR parity. sec0 intentional gap.',
   'abdurrazzaq': 'chapter_intro off-by-one: sec2 carries sec1 name, etc, all 31 files — re-derive from info.toon section index, overwrite chapter_intro in every row.',
-  'hisn': 'chapter_intro wrong for 66 sections 67-132 (all carry sec132 title "Comprehensive types of good and manners") — re-derive from info index. EN CSV-quoting bug 55 rows/40 files: collapse """""" → "", re-quote to 2 fields. "75a" HN intentional.',
   'aladab-almufrad': 'EN whole tree corrupted: literal \\n, \\The/\\I asked backslash-escapes, trailing """""" — unescape \\, collapse """"""→"", truncate runaway loops (row548 "and two good deeds"×733). info_lang lists ar no dir.',
   'qudsi': 'bn/te/ta cross-script contamination (Korean Hangul in Tamil, Russian+Devanagari in Bengali) — strip obvious foreign-script runs or flag. 5 langs unsampled.',
   'abudawud': 'bn rows with raw English "narrator chain:"/"hadith body:" labels (sec 3,5,41,42) — DELETE labeled rows, renumber, verify AR parity. bn/41 row4595 vowel corruption. bidi in 2 files. info_lang lists ar no dir.',

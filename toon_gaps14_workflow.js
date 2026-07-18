@@ -13,7 +13,7 @@ const ED = `${REPO}/editions`
 
 const EDITIONS = [
   'abdurrazzaq','abudawud','aladab-almufrad','bayhaqi','bukhari','bulugh-al-maram',
-  'dehlawi','fath-al-rabbani','hisn','ibnhibban','ibnmajah','lulu-wal-marjan',
+  'dehlawi','fath-al-rabbani','ibnhibban','ibnmajah','lulu-wal-marjan',
   'malik','mishkat','muajam-tabarani-saghir','musannaf-ibn-abi-shaybah','muslim',
   'musnad-ahmad','mustadrak','nasai','nasai-kubra','nawawi','qudsi','riyadussalihin',
   'sahih-ibn-khuzaymah','shamail-tirmidhi','silsila-sahih','sunan-al-daraqutni',

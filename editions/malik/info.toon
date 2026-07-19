@@ -21,60 +21,60 @@ translations[6]{language,sections,path}:
 "tr","56","translations/tr"
 "ur","56","translations/ur"
 
-sections[56]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-"0","Uncategorized","غير مصنف","অশ্রেণীবদ্ধ","Uncategorized","Non classé","Tidak Dikategorikan","Без категории","Kategorize Edilmemiş","غیر زمرہ بند","958","1861","958","1861"
-"1","The Times of Prayer","كتاب وقت الصلاة","নামাজের সময়","The Times of Prayer","Les Temps de Prière","Waktu Shalat","Времена Молитвы","Namaz Vakitleri","نماز کے اوقات","1","31","1","31"
-"2","Purity","كتاب الطهارة","পবিত্রতা","Purity","Pureté","Thaharah","Чистота","Taharet","طہارت","32","145","32","145"
-"3","Prayer","كتاب الصلاة","নামাজ","Prayer","Prière","Shalat","Молитва","Namaz","نماز","146","221","146","221"
-"4","Forgetfulness in Prayer","كتاب السهو","নামাজে ভুল","Forgetfulness in Prayer","Oubli dans la Prière","Lupa dalam Shalat","Забывчивость в Молитве","Namazda Unutkanlık","نماز میں بھول","222","224","222","224"
-"5","Jumu'a","كتاب الجمعة","জুমা","Jumu'a","Jumu'a","Jumat","Джума","Cuma","جمعہ","225","245","225","245"
-"6","Prayer in Ramadan","كتاب صلاة رمضان","রমজানে নামাজ","Prayer in Ramadan","Prière pendant Ramadan","Shalat di Ramadhan","Молитва в Рамадан","Ramazan'da Namaz","رمضان میں نماز","246","253","246","253"
-"7","Tahajjud","كتاب التهجد","তাহাজ্জুদ","Tahajjud","Tahajjud","Tahajjud","Тахаджуд","Tahaccüd","تہجد","254","286","254","286"
-"8","Prayer in Congregation","كتاب صلاة الجماعة","জামাআতে নামাজ","Prayer in Congregation","Prière en Congrégation","Shalat Berjamaah","Молитва в Собрании","Cemaatle Namaz","جماعت میں نماز","287","325","287","325"
-"9","Shortening the Prayer","كتاب قصر الصلاة","নামাজ কসর","Shortening the Prayer","Raccourcissement de la Prière","Qashar Shalat","Сокращение Молитвы","Namazı Kısaltma","نماز قصر","326","427","326","427"
-"10","The Two 'Ids","كتاب العيدين","দুই ঈদ","The Two 'Ids","Les Deux Aïds","Dua Id","Два Праздника","İki Bayram","دو عیدیں","428","440","428","440"
-"11","The Fear Prayer","كتاب صلاة الخوف","খুফ নামাজ","The Fear Prayer","Prière de la Peur","Shalat Khauf","Молитва Страха","Korku Namazı","نماز خوف","441","444","441","444"
-"12","The Eclipse Prayer","كتاب الكسوف","গ্রহণের নামাজ","The Eclipse Prayer","Prière de l'Éclipse","Shalat Gerhana","Молитва Затмения","Güneş Tutulması Namazı","نماز کسوف","445","448","445","448"
-"13","Asking for Rain","كتاب الاستسقاء","বৃষ্টির দোয়া","Asking for Rain","Demande de Pluie","Doa Minta Hujan","Просьба о Дожде","Yağmur Duası","بارش کی دعا","449","454","449","454"
-"14","The Qibla","كتاب القبلة","কিবলা","The Qibla","La Qibla","Kiblat","Кибла","Kıble","قبلہ","455","469","455","469"
-"15","The Qur'an","كتاب القرآن","কুরআন","The Qur'an","Le Coran","Al-Quran","Книга Корана","Kur'an","قرآن","470","519","470","519"
-"16","Burials","كتاب الجنائز","দাফন","Burials","Enterrements","Pemakaman","Похороны","Defin","تدفین","520","577","520","577"
-"17","Zakat","كتاب الزكاة","যাকাত","Zakat","Zakat","Zakat","Закат","Zekat","زکوٰۃ","578","629","578","629"
-"18","Fasting","كتاب الصيام","রোজা","Fasting","Jeûne","Puasa","Пост","Oruç","روزہ","630","689","630","689"
-"19","I'tikaf in Ramadan","كتاب الاعتكاف","রমজানে ইতিকাফ","I'tikaf in Ramadan","I'tikaf pendant Ramadan","I'tikaf di Ramadhan","Итикаф в Рамадан","Ramazan'da İtikaf","رمضان میں اعتکاف","690","704","690","704"
-"20","Hajj","كتاب الحج","হজ","Hajj","Hajj","Haji","Хадж","Hac","حج","705","957","705","957"
-"21","Jihad","كتاب الجهاد","জিহাদ","Jihad","Jihad","Jihad","Джихад","Cihad","جہاد","959","1008","959","1008"
-"22","Vows and Oaths","كتاب الأيمان والنذور","মানত ও শপথ","Vows and Oaths","Vœux et Serments","Nazar dan Sumpah","Клятвы и Обеты","Nazir ve Yemin","نذر و قسم","1009","1027","1009","1027"
-"23","Sacrificial Animals","كتاب الضحايا","কুরবানির পশু","Sacrificial Animals","Animaux de Sacrifice","Hewan Kurban","Жертвенные Животные","Kurbanlık Hayvanlar","قربانی کے جانور","1028","1041","1028","1041"
-"24","Slaughtering Animals","كتاب الذبائح","পশু জবাই","Slaughtering Animals","Abattage d'Animaux","Penyembelihan Hewan","Убой Животных","Hayvan Kesimi","ذبح","1042","1051","1042","1051"
-"25","Game","كتاب الصيد","শিকার","Game","Chasse","Buruan","Охота","Av","شکار","1052","1066","1052","1066"
-"26","The 'Aqiqa","كتاب العقيقة","আকীকা","The 'Aqiqa","L'Aqiqa","Aqiqah","Акика","Akika","عقیقہ","1067","1073","1067","1073"
-"27","Fara'id","كتاب الفرائض","ফারায়িদ","Fara'id","Fara'id","Fara'id","Фараид","Faraid","فرائض","1074","1089","1074","1089"
-"28","Marriage","كتاب النكاح","বিবাহ","Marriage","Mariage","Pernikahan","Брак","Nikah","نکاح","1091","1149","1091","1149"
-"29","Divorce","كتاب الطلاق","তালাক","Divorce","Divorce","Talak","Развод","Talak","طلاق","1150","1271","1150","1271"
-"30","Suckling","كتاب الرضاع","দুধ পান","Suckling","Allaitement","Menyusui","Кормление Грудью","Emzirme","رضاعت","1272","1289","1272","1289"
-"31","Business Transactions","كتاب البيوع","ব্যবসায়িক লেনদেন","Business Transactions","Transactions Commerciales","Transaksi Bisnis","Коммерческие Сделки","Ticari İşlemler","تجارتی معاملات","1290","1385","1290","1385"
-"32","Qirad","كتاب القراض","কিরাদ","Qirad","Qirad","Qirad","Кирад","Kirad","قراض","1386","1387","1386","1387"
-"33","Sharecropping","كتاب المساقاة","ভাগচাষ","Sharecropping","Métayage","Bagi Hasil","Аренда","Ürün Paylaşımı","بٹائی","1388","1389","1388","1389"
-"34","Renting Land","كتاب كراء الأرض","জমি ভাড়া","Renting Land","Location de Terre","Sewa Tanah","Аренда Земли","Arazi Kiralama","زمین کرایہ","1390","1394","1390","1394"
-"35","Pre-emption in Property","كتاب الشفعة","সম্পত্তিতে শুফা","Pre-emption in Property","Préemption dans la Propriété","Syufa' dalam Properti","Преимущественная Покупка","Şufa Hakkı","شفع","1395","1398","1395","1398"
-"36","Judgements","كتاب الأحكام","বিচার","Judgements","Jugements","Putusan","Суждения","Hükümler","احکام","1399","1454","1399","1454"
-"37","Wills and Testaments","كتاب الوصية","ওসিয়ত ও ওয়াসিয়্যাত","Wills and Testaments","Testaments et Dernières Volontés","Wasiat","Завещания и Заповеди","Vasiyetler","وصیت","1455","1463","1455","1463"
-"38","Setting Free and Wala'","كتاب العتق والولاء","মুক্তি ও ওয়ালা","Setting Free and Wala'","Libération et Wala'","Pembebasan dan Wala'","Освобождение и Вала'","Hürriyet ve Vela","آزادی اور ولاء","1464","1488","1464","1488"
-"39","The Mukatab","كتاب المكاتب","মুকাতাব","The Mukatab","Le Mukatab","Mukatab","Мукатаб","Mukatebe","مکاتب","1489","1496","1489","1496"
-"40","The Mudabbar","كتاب المدبر","মুদাব্বার","The Mudabbar","Le Mudabbar","Mudabbar","Мудаббар","Mudabbar","مدبر","1497","1499","1497","1499"
-"41","Hudud","كتاب الحدود","হুদুদ","Hudud","Hudud","Hudud","Худуд","Hudud","حدود","1500","1536","1500","1536"
-"42","Drinks","كتاب الأشربة","পানীয়","Drinks","Boissons","Minuman","Напитки","İçecekler","مشروبات","1537","1551","1537","1551"
-"43","Blood-Money","كتاب الديات","দিয়াত","Blood-Money","Diya","Diyat","Кровавое Возмещение","Diyet","دیت","1552","1595","1552","1595"
-"44","The Oath of Qasama","كتاب القسامة","কাসামার শপথ","The Oath of Qasama","Le Serment de Qasama","Sumpah Qasama","Клятва Касама","Kasame Yemini","قسم قسامہ","1596","1597","1596","1597"
-"45","Madina","كتاب المدينة","মদিনা","Madina","Médine","Madinah","Медина","Medine","مدینہ","1598","1622","1598","1622"
-"46","The Decree","كتاب القدر","তাকদীর","The Decree","Le Décret","Takdir","Указ","Kader","تقدیر","1623","1632","1623","1632"
-"47","Good Character","كتاب حسن الخلق","সদাচার","Good Character","Bon Caractère","Akhlak Baik","Хороший Характер","Güzel Ahlak","نیک اخلاق","1633","1650","1633","1650"
-"48","Dress","كتاب اللباس","পোশাক","Dress","Vêtements","Pakaian","Одежда","Giyim","لباس","1651","1670","1651","1670"
-"49","The book about the description of the Prophet, may God bless him and grant him peace","كتاب صفة النبى صلى الله عليه وسلم","","The book about the description of the Prophet, may God bless him and grant him peace","","","","","","1671","1837","1671","1837"
-"56","Speech","كتاب الكلام","বক্তৃতা","Speech","Discours","Pidato","Речь","Konuşma","کلام","1838","1838","1838","1838"
-"57","Jahannam","كتاب النار","জাহান্নাম","Jahannam","Jahannam","Jahannam","Джаханнам","Cehennem","جہنم","1839","1840","1839","1840"
-"58","Sadaqa","كتاب الصدقة","সাদাকা","Sadaqa","Sadaqa","Sadaqah","Садака","Sadaka","صدقہ","1841","1855","1841","1855"
-"59","Knowledge","كتاب العلم","জ্ঞান","Knowledge","Connaissance","Ilmu","Знание","İlim","علم","1856","1856","1856","1856"
-"60","The Supplication of the Unjustly Wronged","كتاب دعوة المظلوم","নির্যাতিতের দোয়া","The Supplication of the Unjustly Wronged","La Supplication de l'Injustement Lésé","Doa Orang yang Dizalimi","Мольба Обиденного","Mazlumun Duası","مظلوم کی دعا","1857","1857","1857","1857"
-"61","The Names of the Prophet, may Allah Bless Him and Grant Him Peace","كتاب أسماء النبي صلى الله عليه وسلم","নবীর নাম","The Names of the Prophet, may Allah Bless Him and Grant Him Peace","Les Noms du Prophète","Nama-Nama Nabi","Имена Пророка","Peygamber'in İsimleri","نبی کے نام","1858","1858","1858","1858"
+sections[56]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_roman-ur,name_de,name_es}:
+"0","Uncategorized","غير مصنف","অশ্রেণীবদ্ধ","Uncategorized","Non classé","Tidak Dikategorikan","Без категории","Kategorize Edilmemiş","غیر زمرہ بند","958","1861","958","1861"","अवर्गीकृत","Ghair Mutaiyyan","Unkategorisiert","Sin categorizar
+"1","The Times of Prayer","كتاب وقت الصلاة","নামাজের সময়","The Times of Prayer","Les Temps de Prière","Waktu Shalat","Времена Молитвы","Namaz Vakitleri","نماز کے اوقات","1","31","1","31"","नमाज़ के समय","Auqat-e-Namaz","Die Gebetszeiten","Los tiempos de la oración
+"2","Purity","كتاب الطهارة","পবিত্রতা","Purity","Pureté","Thaharah","Чистота","Taharet","طہارت","32","145","32","145"","पवित्रता","Taharat","Reinheit","La pureza
+"3","Prayer","كتاب الصلاة","নামাজ","Prayer","Prière","Shalat","Молитва","Namaz","نماز","146","221","146","221"","नमाज़","Namaz","Das Gebet","La oración
+"4","Forgetfulness in Prayer","كتاب السهو","নামাজে ভুল","Forgetfulness in Prayer","Oubli dans la Prière","Lupa dalam Shalat","Забывчивость в Молитве","Namazda Unutkanlık","نماز میں بھول","222","224","222","224"","नमाज़ में भूल","Namaz Mein Sahu","Vergessen im Gebet","El olvido en la oración
+"5","Jumu'a","كتاب الجمعة","জুমা","Jumu'a","Jumu'a","Jumat","Джума","Cuma","جمعہ","225","245","225","245"","जुमुआ","Jumma","Dschumu'a","Al-Yumu'ah
+"6","Prayer in Ramadan","كتاب صلاة رمضان","রমজানে নামাজ","Prayer in Ramadan","Prière pendant Ramadan","Shalat di Ramadhan","Молитва в Рамадан","Ramazan'da Namaz","رمضان میں نماز","246","253","246","253"","रमज़ान में नमाज़","Ramadan Ki Namaz","Gebet im Ramadan","La oración en Ramadán
+"7","Tahajjud","كتاب التهجد","তাহাজ্জুদ","Tahajjud","Tahajjud","Tahajjud","Тахаджуд","Tahaccüd","تہجد","254","286","254","286"","तहज्जुद","Tahajjud","Tahadschud","El Tahayud
+"8","Prayer in Congregation","كتاب صلاة الجماعة","জামাআতে নামাজ","Prayer in Congregation","Prière en Congrégation","Shalat Berjamaah","Молитва в Собрании","Cemaatle Namaz","جماعت میں نماز","287","325","287","325"","जमात की नमाज़","Jamaat Ki Namaz","Gemeinschaftsgebet","La oración en congregación
+"9","Shortening the Prayer","كتاب قصر الصلاة","নামাজ কসর","Shortening the Prayer","Raccourcissement de la Prière","Qashar Shalat","Сокращение Молитвы","Namazı Kısaltma","نماز قصر","326","427","326","427"","नमाज़ क़स्र करना","Namaz Mein Qasr","Gebetskürzung","El acortamiento de la oración
+"10","The Two 'Ids","كتاب العيدين","দুই ঈদ","The Two 'Ids","Les Deux Aïds","Dua Id","Два Праздника","İki Bayram","دو عیدیں","428","440","428","440"","दो ईदें","Do Eidain","Die beiden 'Id","Las dos 'Ids
+"11","The Fear Prayer","كتاب صلاة الخوف","খুফ নামাজ","The Fear Prayer","Prière de la Peur","Shalat Khauf","Молитва Страха","Korku Namazı","نماز خوف","441","444","441","444"","खौफ की नमाज़","Namaz-e-Khauf","Das Angstgebet","La oración del miedo
+"12","The Eclipse Prayer","كتاب الكسوف","গ্রহণের নামাজ","The Eclipse Prayer","Prière de l'Éclipse","Shalat Gerhana","Молитва Затмения","Güneş Tutulması Namazı","نماز کسوف","445","448","445","448"","ग्रहण की नमाज़","Namaz-e-Kasoof","Das Finsternisgebet","La oración del eclipse
+"13","Asking for Rain","كتاب الاستسقاء","বৃষ্টির দোয়া","Asking for Rain","Demande de Pluie","Doa Minta Hujan","Просьба о Дожде","Yağmur Duası","بارش کی دعا","449","454","449","454"","वर्षा की प्रार्थना","Istasqa","Bitten um Regen","La petición de lluvia
+"14","The Qibla","كتاب القبلة","কিবলা","The Qibla","La Qibla","Kiblat","Кибла","Kıble","قبلہ","455","469","455","469"","क़िबला","Qibla","Die Qibla","La Qibla
+"15","The Qur'an","كتاب القرآن","কুরআন","The Qur'an","Le Coran","Al-Quran","Книга Корана","Kur'an","قرآن","470","519","470","519"","क़ुरआन","Qur'an","Der Qur'an","El Corán
+"16","Burials","كتاب الجنائز","দাফন","Burials","Enterrements","Pemakaman","Похороны","Defin","تدفین","520","577","520","577"","दफ़नाना","Tajheez-o-Takfeen","Bestattungen","Los entierros
+"17","Zakat","كتاب الزكاة","যাকাত","Zakat","Zakat","Zakat","Закат","Zekat","زکوٰۃ","578","629","578","629"","ज़कात","Zakat","Zakat","El Zakat
+"18","Fasting","كتاب الصيام","রোজা","Fasting","Jeûne","Puasa","Пост","Oruç","روزہ","630","689","630","689"","रोज़ा","Roza","Fasten","El ayuno
+"19","I'tikaf in Ramadan","كتاب الاعتكاف","রমজানে ইতিকাফ","I'tikaf in Ramadan","I'tikaf pendant Ramadan","I'tikaf di Ramadhan","Итикаф в Рамадан","Ramazan'da İtikaf","رمضان میں اعتکاف","690","704","690","704"","रमज़ान में इ'तिकाफ़","Ramadan Mein I'tikaf","I'tikaf im Ramadan","El I'tikaf en Ramadán
+"20","Hajj","كتاب الحج","হজ","Hajj","Hajj","Haji","Хадж","Hac","حج","705","957","705","957"","","Hajj","Haddsch","El Hayy
+"21","Jihad","كتاب الجهاد","জিহাদ","Jihad","Jihad","Jihad","Джихад","Cihad","جہاد","959","1008","959","1008"","जिहाद","Jihad","Dschihad","La Yihad
+"22","Vows and Oaths","كتاب الأيمان والنذور","মানত ও শপথ","Vows and Oaths","Vœux et Serments","Nazar dan Sumpah","Клятвы и Обеты","Nazir ve Yemin","نذر و قسم","1009","1027","1009","1027"","मानत और क़समें","Nazr Aur Qasam","Gelübde und Eide","Votos y juramentos
+"23","Sacrificial Animals","كتاب الضحايا","কুরবানির পশু","Sacrificial Animals","Animaux de Sacrifice","Hewan Kurban","Жертвенные Животные","Kurbanlık Hayvanlar","قربانی کے جانور","1028","1041","1028","1041"","क़ुरबानी के जानवर","Qurbani Ke Janwar","Opfertiere","Animales de sacrificio
+"24","Slaughtering Animals","كتاب الذبائح","পশু জবাই","Slaughtering Animals","Abattage d'Animaux","Penyembelihan Hewan","Убой Животных","Hayvan Kesimi","ذبح","1042","1051","1042","1051"","जानवर ज़बह करना","Janwar Zabh Karna","Schlachten von Tieren","El sacrificio de animales
+"25","Game","كتاب الصيد","শিকার","Game","Chasse","Buruan","Охота","Av","شکار","1052","1066","1052","1066"","शिकार","Shikar","Wild","La caza
+"26","The 'Aqiqa","كتاب العقيقة","আকীকা","The 'Aqiqa","L'Aqiqa","Aqiqah","Акика","Akika","عقیقہ","1067","1073","1067","1073"","अक़ीक़ा","Aqiqa","Die 'Aqiqa","El 'Aqiqah
+"27","Fara'id","كتاب الفرائض","ফারায়িদ","Fara'id","Fara'id","Fara'id","Фараид","Faraid","فرائض","1074","1089","1074","1089"","फ़राइद","Fara'id","Fara'id","Las Fara'id
+"28","Marriage","كتاب النكاح","বিবাহ","Marriage","Mariage","Pernikahan","Брак","Nikah","نکاح","1091","1149","1091","1149"","निकाह","Nikah","Heirat","El matrimonio
+"29","Divorce","كتاب الطلاق","তালাক","Divorce","Divorce","Talak","Развод","Talak","طلاق","1150","1271","1150","1271"","तलाक़","Talaq","Scheidung","El divorcio
+"30","Suckling","كتاب الرضاع","দুধ পান","Suckling","Allaitement","Menyusui","Кормление Грудью","Emzirme","رضاعت","1272","1289","1272","1289"","दूध पिलाना","Rizayat","Stillen","La lactancia
+"31","Business Transactions","كتاب البيوع","ব্যবসায়িক লেনদেন","Business Transactions","Transactions Commerciales","Transaksi Bisnis","Коммерческие Сделки","Ticari İşlemler","تجارتی معاملات","1290","1385","1290","1385"","व्यापारिक लेन-देन","Karobar","Handelsgeschäfte","Las transacciones comerciales
+"32","Qirad","كتاب القراض","কিরাদ","Qirad","Qirad","Qirad","Кирад","Kirad","قراض","1386","1387","1386","1387"","क़िरद","Qirad","Qirad","El Qirad
+"33","Sharecropping","كتاب المساقاة","ভাগচাষ","Sharecropping","Métayage","Bagi Hasil","Аренда","Ürün Paylaşımı","بٹائی","1388","1389","1388","1389"","बटाई खेती","Muzara'at","Teilpacht","La aparcería
+"34","Renting Land","كتاب كراء الأرض","জমি ভাড়া","Renting Land","Location de Terre","Sewa Tanah","Аренда Земли","Arazi Kiralama","زمین کرایہ","1390","1394","1390","1394"","भूमि का किराया","Zameen Kiraye Par Dena","Landverpachtung","El alquiler de tierras
+"35","Pre-emption in Property","كتاب الشفعة","সম্পত্তিতে শুফা","Pre-emption in Property","Préemption dans la Propriété","Syufa' dalam Properti","Преимущественная Покупка","Şufa Hakkı","شفع","1395","1398","1395","1398"","संपत्ति में पूर्व-क्रय अधिकार","Haq-e-Shufa","Vorkaufsrecht an Eigentum","El retracto en la propiedad
+"36","Judgements","كتاب الأحكام","বিচার","Judgements","Jugements","Putusan","Суждения","Hükümler","احکام","1399","1454","1399","1454"","न्याय निर्णय","Faisle","Urteile","Los juicios
+"37","Wills and Testaments","كتاب الوصية","ওসিয়ত ও ওয়াসিয়্যাত","Wills and Testaments","Testaments et Dernières Volontés","Wasiat","Завещания и Заповеди","Vasiyetler","وصیت","1455","1463","1455","1463"","वसीयतें","Wasiyat","Vermächtnisse und Testamente","Legados y testamentos
+"38","Setting Free and Wala'","كتاب العتق والولاء","মুক্তি ও ওয়ালা","Setting Free and Wala'","Libération et Wala'","Pembebasan dan Wala'","Освобождение и Вала'","Hürriyet ve Vela","آزادی اور ولاء","1464","1488","1464","1488"","आज़ाद करना और वला","Itq Aur Wala","Freilassung und Wala'","Liberación y Wala'
+"39","The Mukatab","كتاب المكاتب","মুকাতাব","The Mukatab","Le Mukatab","Mukatab","Мукатаб","Mukatebe","مکاتب","1489","1496","1489","1496"","मुकातिब","Mukatab","Der Mukatab","El Mukatab
+"40","The Mudabbar","كتاب المدبر","মুদাব্বার","The Mudabbar","Le Mudabbar","Mudabbar","Мудаббар","Mudabbar","مدبر","1497","1499","1497","1499"","मुदब्बर","Mudabbar","Der Mudabbar","El Mudabbar
+"41","Hudud","كتاب الحدود","হুদুদ","Hudud","Hudud","Hudud","Худуд","Hudud","حدود","1500","1536","1500","1536"","हुदूद","Hudud","Hudud","Los Hudud
+"42","Drinks","كتاب الأشربة","পানীয়","Drinks","Boissons","Minuman","Напитки","İçecekler","مشروبات","1537","1551","1537","1551"","पेय पदार्थ","Mashroobat","Getränke","Las bebidas
+"43","Blood-Money","كتاب الديات","দিয়াত","Blood-Money","Diya","Diyat","Кровавое Возмещение","Diyet","دیت","1552","1595","1552","1595"","खून का बदला","Khoon Bahra","Blutgeld","El precio de sangre
+"44","The Oath of Qasama","كتاب القسامة","কাসামার শপথ","The Oath of Qasama","Le Serment de Qasama","Sumpah Qasama","Клятва Касама","Kasame Yemini","قسم قسامہ","1596","1597","1596","1597"","क़सामा की क़सम","Qasam-e-Qasama","Der Qasama-Eid","El juramento de Qasama
+"45","Madina","كتاب المدينة","মদিনা","Madina","Médine","Madinah","Медина","Medine","مدینہ","1598","1622","1598","1622"","मदीना","Madina","Medina","Medina
+"46","The Decree","كتاب القدر","তাকদীর","The Decree","Le Décret","Takdir","Указ","Kader","تقدیر","1623","1632","1623","1632"","तक़दीर","Taqdeer","Das Schicksal","El decreto
+"47","Good Character","كتاب حسن الخلق","সদাচার","Good Character","Bon Caractère","Akhlak Baik","Хороший Характер","Güzel Ahlak","نیک اخلاق","1633","1650","1633","1650"","अच्छा चरित्र","Husn-e-Akhlaq","Guter Charakter","El buen carácter
+"48","Dress","كتاب اللباس","পোশাক","Dress","Vêtements","Pakaian","Одежда","Giyim","لباس","1651","1670","1651","1670"","वस्त्र","Libaas","Kleidung","El vestir
+"49","The book about the description of the Prophet, may God bless him and grant him peace","كتاب صفة النبى صلى الله عليه وسلم","","The book about the description of the Prophet, may God bless him and grant him peace","","","","","","1671","1837","1671","1837"","नबी का वर्णन, ईश्वर उन्हें आशीर्वाद दे और शांति प्रदान करे","Nabi Sallallahu Alayhi Wasallam Ki Sifat Ka Kitab","Das Buch über die Beschreibung des Propheten, möge Gott ihn segnen und ihm Frieden schenken","El libro sobre la descripción del Profeta, que Dios lo bendiga y le conceda paz
+"56","Speech","كتاب الكلام","বক্তৃতা","Speech","Discours","Pidato","Речь","Konuşma","کلام","1838","1838","1838","1838"","भाषण","Guftagu","Rede","El habla
+"57","Jahannam","كتاب النار","জাহান্নাম","Jahannam","Jahannam","Jahannam","Джаханнам","Cehennem","جہنم","1839","1840","1839","1840"","जहन्नम","Jahannam","Dschahannam","Yahannam
+"58","Sadaqa","كتاب الصدقة","সাদাকা","Sadaqa","Sadaqa","Sadaqah","Садака","Sadaka","صدقہ","1841","1855","1841","1855"","सदक़ा","Sadaqa","Sadaqa","La Sadaqa
+"59","Knowledge","كتاب العلم","জ্ঞান","Knowledge","Connaissance","Ilmu","Знание","İlim","علم","1856","1856","1856","1856"","ज्ञान","Ilm","Wissen","El conocimiento
+"60","The Supplication of the Unjustly Wronged","كتاب دعوة المظلوم","নির্যাতিতের দোয়া","The Supplication of the Unjustly Wronged","La Supplication de l'Injustement Lésé","Doa Orang yang Dizalimi","Мольба Обиденного","Mazlumun Duası","مظلوم کی دعا","1857","1857","1857","1857"","अन्याय से पीड़ित की प्रार्थना","Mazloom Ki Dua","Das Bittgebet des ungerecht Behandelten","La súplica del injustamente agraviado
+"61","The Names of the Prophet, may Allah Bless Him and Grant Him Peace","كتاب أسماء النبي صلى الله عليه وسلم","নবীর নাম","The Names of the Prophet, may Allah Bless Him and Grant Him Peace","Les Noms du Prophète","Nama-Nama Nabi","Имена Пророка","Peygamber'in İsimleri","نبی کے نام","1858","1858","1858","1858"","नबी के नाम, अल्लाह उन्हें आशीर्वाद दे और शांति प्रदान करे","Nabi Sallallahu Alayhi Wasallam Ke Naam","Die Namen des Propheten, möge Allah ihn segnen und ihm Frieden schenken","Los nombres del Profeta, que Allah lo bendiga y le conceda paz

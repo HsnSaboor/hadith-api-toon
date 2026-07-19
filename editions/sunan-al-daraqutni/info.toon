@@ -12,32 +12,32 @@ translations[2]{language,sections,path}:
 "en","28","translations/en"
 "ur","28","translations/ur"
 
-sections[28]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-"1","Purification","كتاب الطهارة","Purification","Purification","Purification","Purification","Purification","Purification","پاکی کا بیان","1","683","1","683"
-"2","Menstruation","كتاب الحيض","Menstruation","Menstruation","Menstruation","Menstruation","Menstruation","Menstruation","حیض کا بیان","684","763","684","763"
-"3","Prayer","كتاب الصلاة","Prayer","Prayer","Prayer","Prayer","Prayer","Prayer","نماز کا بیان","764","1375","764","1375"
-"4","Friday Prayer","أول كتاب الجمعة","Friday Prayer","Friday Prayer","Friday Prayer","Friday Prayer","Friday Prayer","Friday Prayer","جمعہ کا بیان","1376","1425","1376","1425"
-"5","Witr","كتاب الوتر","Witr","Witr","Witr","Witr","Witr","Witr","وتر کا بیان","1426","1498","1426","1498"
-"6","Eid Prayers","كتاب العيدين","Eid Prayers","Eid Prayers","Eid Prayers","Eid Prayers","Eid Prayers","Eid Prayers","عیدین کا بیان","1499","1574","1499","1574"
-"7","Rain","كتاب الاستسقاء","Rain","Rain","Rain","Rain","Rain","Rain","استسقاء کى نماز کا بیان","1575","1585","1575","1585"
-"8","Funerals","كتاب الجنائز","Funerals","Funerals","Funerals","Funerals","Funerals","Funerals","جنازوں کا بیان","1586","1657","1586","1657"
-"9","Zakah","كتاب الزكاة","Zakah","Zakah","Zakah","Zakah","Zakah","Zakah","زکوۃ کا بیان","1658","1821","1658","1821"
-"10","Zakat al-Fitr","كتاب زكاة الفطر","Zakat al-Fitr","Zakat al-Fitr","Zakat al-Fitr","Zakat al-Fitr","Zakat al-Fitr","Zakat al-Fitr","صدقہ فطر کا بیان","1822","1889","1822","1889"
-"11","Fasting","كتاب الصيام","Fasting","Fasting","Fasting","Fasting","Fasting","Fasting","روزوں کا بیان","1890","2124","1890","2124"
-"12","Hajj","كتاب الحج","Hajj","Hajj","Hajj","Hajj","Hajj","Hajj","حج کا بیان","2125","2452","2125","2452"
-"13","Transactions","كتاب البيوع","Transactions","Transactions","Transactions","Transactions","Transactions","Transactions","خرید و فروخت کے مسائل و احکام","2453","2721","2453","2721"
-"14","Criminal Offences and Limits","كتاب الحدود والديات وغيره","Criminal Offences and Limits","Criminal Offences and Limits","Criminal Offences and Limits","Criminal Offences and Limits","Criminal Offences and Limits","Criminal Offences and Limits","حدود کا بیان","2722","3074","2722","3074"
-"15","Marriage","كتاب النكاح","Marriage","Marriage","Marriage","Marriage","Marriage","Marriage","نکاح کا بیان","3075","3414","3075","3414"
-"16","Divorce","كتاب الطلاق والخلع والإيلاء وغيره","Divorce","Divorce","Divorce","Divorce","Divorce","Divorce","طلاق اور لعان کا بیان","3415","3565","3415","3565"
-"17","Inheritance","كتاب الفرائض والسير على ذلك","Inheritance","Inheritance","Inheritance","Inheritance","Inheritance","Inheritance","وراثت کا بیان","3566","3651","3566","3651"
-"18","Military Campaigns","كتاب السير","Military Campaigns","Military Campaigns","Military Campaigns","Military Campaigns","Military Campaigns","Military Campaigns","سیر کا بیان","3652","3694","3652","3694"
-"19","Rest of Inheritance","بقية الفرائض","Rest of Inheritance","Rest of Inheritance","Rest of Inheritance","Rest of Inheritance","Rest of Inheritance","Rest of Inheritance","وراثت کے کچھ دیگر مسائل","3695","3697","3695","3697"
-"20","Emancipation","كتاب المكاتب","Emancipation","Emancipation","Emancipation","Emancipation","Emancipation","Emancipation","مکاتب کرنے کا بیان","3698","3745","3698","3745"
-"21","Rare Narrations","كتاب النوادر","Rare Narrations","Rare Narrations","Rare Narrations","Rare Narrations","Rare Narrations","Rare Narrations","نادر اور کم یاب مسائل","3746","3763","3746","3763"
-"22","Wills","الوصايا","Wills","Wills","Wills","Wills","Wills","Wills","وصیت کا بیان","3764","3789","3764","3789"
-"23","Vows","النذور","Vows","Vows","Vows","Vows","Vows","Vows","نذر کا بیان","3790","3821","3790","3821"
-"24","Suckling","الرضاع","Suckling","Suckling","Suckling","Suckling","Suckling","Suckling","رضاعت کا بیان","3822","3861","3822","3861"
-"25","Waqf","كتاب الأحباس","Waqf","Waqf","Waqf","Waqf","Waqf","Waqf","وقف کا بیان","3862","3909","3862","3909"
-"26","Judgements","كتاب في الأقضية والأحكام وغير ذلك","Judgements","Judgements","Judgements","Judgements","Judgements","Judgements","عدالتی فیصلے اور احکام","3910","4049","3910","4049"
-"27","Beverages","كتاب الأشربة وغيرها","Beverages","Beverages","Beverages","Beverages","Beverages","Beverages","مشروبات وغیرہ کا بیان","4050","4241","4050","4241"
-"28","Horse Racing","كتاب السبق بين الخيل","Horse Racing","Horse Racing","Horse Racing","Horse Racing","Horse Racing","Horse Racing","گھوڑوں کی دوڑ کا مقابلہ","4242","4859","4242","4859"
+sections[28]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Purification","كتاب الطهارة","Purification","Purification","Purification","Purification","Purification","Purification","پاکی کا بیان","1","683","1","683"","तहारत","தூய்மை","Taharat","Reinigung","Purificación
+"2","Menstruation","كتاب الحيض","Menstruation","Menstruation","Menstruation","Menstruation","Menstruation","Menstruation","حیض کا بیان","684","763","684","763"","मासिक धर्म","மாதவிலக்கு","Haiz","Menstruation","Menstruación
+"3","Prayer","كتاب الصلاة","Prayer","Prayer","Prayer","Prayer","Prayer","Prayer","نماز کا بیان","764","1375","764","1375"","नमाज़","தொழுகை","Namaz","Gebet","Oración
+"4","Friday Prayer","أول كتاب الجمعة","Friday Prayer","Friday Prayer","Friday Prayer","Friday Prayer","Friday Prayer","Friday Prayer","جمعہ کا بیان","1376","1425","1376","1425"","जुमा की नमाज़","வெள்ளித் தொழுகை","Namaz-e-Jumah","Freitagsgebet","Oración del Viernes
+"5","Witr","كتاب الوتر","Witr","Witr","Witr","Witr","Witr","Witr","وتر کا بیان","1426","1498","1426","1498"","वित्र","வித்ர்","Witr","Witr","Witr
+"6","Eid Prayers","كتاب العيدين","Eid Prayers","Eid Prayers","Eid Prayers","Eid Prayers","Eid Prayers","Eid Prayers","عیدین کا بیان","1499","1574","1499","1574"","ईद की नमाज़","பெருநாள் தொழுகைகள்","Eid Ki Namaz","Festgebete","Oraciones del Eid
+"7","Rain","كتاب الاستسقاء","Rain","Rain","Rain","Rain","Rain","Rain","استسقاء کى نماز کا بیان","1575","1585","1575","1585"","वर्षा","மழை","Baarish","Regen","Lluvia
+"8","Funerals","كتاب الجنائز","Funerals","Funerals","Funerals","Funerals","Funerals","Funerals","جنازوں کا بیان","1586","1657","1586","1657"","जनाज़ा","ஜனாஸா","Janazah","Bestattungen","Funerales
+"9","Zakah","كتاب الزكاة","Zakah","Zakah","Zakah","Zakah","Zakah","Zakah","زکوۃ کا بیان","1658","1821","1658","1821"","ज़कात","ஸகாத்","Zakat","Zakah","Zakat
+"10","Zakat al-Fitr","كتاب زكاة الفطر","Zakat al-Fitr","Zakat al-Fitr","Zakat al-Fitr","Zakat al-Fitr","Zakat al-Fitr","Zakat al-Fitr","صدقہ فطر کا بیان","1822","1889","1822","1889"","ज़कातुल फ़ित्र","ஃபித்ர் ஸகாத்","Zakat-ul-Fitr","Zakat al-Fitr","Zakat al-Fitr
+"11","Fasting","كتاب الصيام","Fasting","Fasting","Fasting","Fasting","Fasting","Fasting","روزوں کا بیان","1890","2124","1890","2124"","रोज़ा","நோன்பு","Roza","Fasten","Ayuno
+"12","Hajj","كتاب الحج","Hajj","Hajj","Hajj","Hajj","Hajj","Hajj","حج کا بیان","2125","2452","2125","2452"","हज्ज","ஹஜ்","Hajj","Haddsch","Hajj
+"13","Transactions","كتاب البيوع","Transactions","Transactions","Transactions","Transactions","Transactions","Transactions","خرید و فروخت کے مسائل و احکام","2453","2721","2453","2721"","लेन-देन","பரிவர்த்தனைகள்","Muamlat","Handelsgeschäfte","Transacciones
+"14","Criminal Offences and Limits","كتاب الحدود والديات وغيره","Criminal Offences and Limits","Criminal Offences and Limits","Criminal Offences and Limits","Criminal Offences and Limits","Criminal Offences and Limits","Criminal Offences and Limits","حدود کا بیان","2722","3074","2722","3074"","आपराधिक अपराध और सीमाएँ","குற்றங்களும் எல்லைகளும்","Hudood Wa Jinayaat","Straftaten und Strafen","Delitos y Límites
+"15","Marriage","كتاب النكاح","Marriage","Marriage","Marriage","Marriage","Marriage","Marriage","نکاح کا بیان","3075","3414","3075","3414"","निकाह","திருமணம்","Nikah","Ehe","Matrimonio
+"16","Divorce","كتاب الطلاق والخلع والإيلاء وغيره","Divorce","Divorce","Divorce","Divorce","Divorce","Divorce","طلاق اور لعان کا بیان","3415","3565","3415","3565"","तलाक़","விவாகரத்து","Talaq","Scheidung","Divorcio
+"17","Inheritance","كتاب الفرائض والسير على ذلك","Inheritance","Inheritance","Inheritance","Inheritance","Inheritance","Inheritance","وراثت کا بیان","3566","3651","3566","3651"","विरासत","மரபுரிமை","Wirasat","Erbschaft","Herencia
+"18","Military Campaigns","كتاب السير","Military Campaigns","Military Campaigns","Military Campaigns","Military Campaigns","Military Campaigns","Military Campaigns","سیر کا بیان","3652","3694","3652","3694"","सैन्य अभियान","படைப்பயணங்கள்","Lashkar","Feldzüge","Campañas Militares
+"19","Rest of Inheritance","بقية الفرائض","Rest of Inheritance","Rest of Inheritance","Rest of Inheritance","Rest of Inheritance","Rest of Inheritance","Rest of Inheritance","وراثت کے کچھ دیگر مسائل","3695","3697","3695","3697"","शेष विरासत","மீதமுள்ள மரபுரிமை","Baqi Wirasat","Rest der Erbschaft","Resto de la Herencia
+"20","Emancipation","كتاب المكاتب","Emancipation","Emancipation","Emancipation","Emancipation","Emancipation","Emancipation","مکاتب کرنے کا بیان","3698","3745","3698","3745"","दासत्व-मुक्ति","விடுதலை","Itq","Freilassung","Emancipación
+"21","Rare Narrations","كتاب النوادر","Rare Narrations","Rare Narrations","Rare Narrations","Rare Narrations","Rare Narrations","Rare Narrations","نادر اور کم یاب مسائل","3746","3763","3746","3763"","दुर्लभ रिवायतें","அரிய அறிவிப்புகள்","Naadir Riwayaat","Seltene Überlieferungen","Narraciones Raras
+"22","Wills","الوصايا","Wills","Wills","Wills","Wills","Wills","Wills","وصیت کا بیان","3764","3789","3764","3789"","वसीयत","உயில்கள்","Wasiyat","Testamente","Testamentos
+"23","Vows","النذور","Vows","Vows","Vows","Vows","Vows","Vows","نذر کا بیان","3790","3821","3790","3821"","प्रतिज्ञा","நேர்ச்சைகள்","Nazar","Gelübde","Votos
+"24","Suckling","الرضاع","Suckling","Suckling","Suckling","Suckling","Suckling","Suckling","رضاعت کا بیان","3822","3861","3822","3861"","स्तनपान","பாலூட்டல்","Raza'at","Stillen","Lactancia
+"25","Waqf","كتاب الأحباس","Waqf","Waqf","Waqf","Waqf","Waqf","Waqf","وقف کا بیان","3862","3909","3862","3909"","वक़्फ़","வக்ஃப்","Waqf","Waqf","Waqf
+"26","Judgements","كتاب في الأقضية والأحكام وغير ذلك","Judgements","Judgements","Judgements","Judgements","Judgements","Judgements","عدالتی فیصلے اور احکام","3910","4049","3910","4049"","निर्णय","தீர்ப்புகள்","Faislay","Urteile","Juicios
+"27","Beverages","كتاب الأشربة وغيرها","Beverages","Beverages","Beverages","Beverages","Beverages","Beverages","مشروبات وغیرہ کا بیان","4050","4241","4050","4241"","पेय पदार्थ","பானங்கள்","Mashroobaat","Getränke","Bebidas
+"28","Horse Racing","كتاب السبق بين الخيل","Horse Racing","Horse Racing","Horse Racing","Horse Racing","Horse Racing","Horse Racing","گھوڑوں کی دوڑ کا مقابلہ","4242","4859","4242","4859"","घुड़दौड़","குதிரை ஓட்டப் பந்தயம்","Ghoron Ka Sabaq","Pferderennen","Carreras de Caballos

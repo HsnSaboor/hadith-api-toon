@@ -24,20 +24,20 @@ translations[2]{language,sections,path}:
 "en","16","translations/en"
 "ur","16","translations/ur"
 
-sections[16]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-"1","Purification","كتاب الطهارة","Purification","Purification","Purification","Purification","Purification","Purification","پاکی کا بیان","1","128","1","128"
-"2","Prayer","كتاب الصلاة","Prayer","Prayer","Prayer","Prayer","Prayer","Prayer","نماز کا بیان","129","424","129","424"
-"3","Funerals","كتاب الجنائز","Funerals","Funerals","Funerals","Funerals","Funerals","Funerals","جنازوں کا بیان","425","482","425","482"
-"4","Zakah","كتاب الزكاة","Zakah","Zakah","Zakah","Zakah","Zakah","Zakah","زکوۃ کا بیان","483","526","483","526"
-"5","Fasting","كتاب الصيام","Fasting","Fasting","Fasting","Fasting","Fasting","Fasting","روزوں کا بیان","527","578","527","578"
-"6","Hajj","كتاب الحج","Hajj","Hajj","Hajj","Hajj","Hajj","Hajj","حج کا بیان","579","647","579","647"
-"7","Business Transactions","كتاب البيوع","Business Transactions","Business Transactions","Business Transactions","Business Transactions","Business Transactions","Business Transactions","خرید و فروخت کے احکام و مسائل","648","823","648","823"
-"8","Marriage","كتاب النكاح","Marriage","Marriage","Marriage","Marriage","Marriage","Marriage","نکاح سے متعلق احکام و مسائل","824","992","824","992"
-"9","Criminal Offences","كتاب الجنايات","Criminal Offences","Criminal Offences","Criminal Offences","Criminal Offences","Criminal Offences","Criminal Offences","جرائم سے متعلق احکام و مسائل","993","1033","993","1033"
-"10","Legal Penalties","كتاب الحدود","Legal Penalties","Legal Penalties","Legal Penalties","Legal Penalties","Legal Penalties","Legal Penalties","حدود کا بیان","1034","1079","1034","1079"
-"11","Jihad","كتاب الجهاد","Jihad","Jihad","Jihad","Jihad","Jihad","Jihad","جہاد کا بیان","1080","1134","1080","1134"
-"12","Food","كتاب الأطعمة","Food","Food","Food","Food","Food","Food","کھانوں کا بیان","1135","1170","1135","1170"
-"13","Oaths and Vows","كتاب الأيمان والنذور","Oaths and Vows","Oaths and Vows","Oaths and Vows","Oaths and Vows","Oaths and Vows","Oaths and Vows","قسموں اور نذروں کا بیان","1171","1187","1171","1187"
-"14","Judgements","كتاب القضاء","Judgements","Judgements","Judgements","Judgements","Judgements","Judgements","عدالتی فیصلے اور احکام","1188","1219","1188","1219"
-"15","Emancipation","كتاب العتق","Emancipation","Emancipation","Emancipation","Emancipation","Emancipation","Emancipation","غلاموں کی آزادی کا بیان","1220","1235","1220","1235"
-"16","Comprehensive Book","كتاب الجامع","Comprehensive Book","Comprehensive Book","Comprehensive Book","Comprehensive Book","Comprehensive Book","Comprehensive Book","جامع ابواب (اخلاق و آداب کا بیان)","1236","1358","1236","1358"
+sections[16]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Purification","كتاب الطهارة","Purification","Purification","Purification","Purification","Purification","Purification","پاکی کا بیان","1","128","1","128"","पवित्रता","தூய்மை","Taharat","Reinigung","Purificación
+"2","Prayer","كتاب الصلاة","Prayer","Prayer","Prayer","Prayer","Prayer","Prayer","نماز کا بیان","129","424","129","424"","प्रार्थना","தொழுகை","Namaz","Gebet","Oración
+"3","Funerals","كتاب الجنائز","Funerals","Funerals","Funerals","Funerals","Funerals","Funerals","جنازوں کا بیان","425","482","425","482"","अंतिम संस्कार","ஜனாஸா","Janaiz","Bestattungen","Funerales
+"4","Zakah","كتاب الزكاة","Zakah","Zakah","Zakah","Zakah","Zakah","Zakah","زکوۃ کا بیان","483","526","483","526"","ज़कात","ஸகாத்","Zakat","Zakat","Zakat
+"5","Fasting","كتاب الصيام","Fasting","Fasting","Fasting","Fasting","Fasting","Fasting","روزوں کا بیان","527","578","527","578"","उपवास","நோன்பு","Roza","Fasten","Ayuno
+"6","Hajj","كتاب الحج","Hajj","Hajj","Hajj","Hajj","Hajj","Hajj","حج کا بیان","579","647","579","647"","हज्ज","ஹஜ்","Hajj","Hadsch","Hajj
+"7","Business Transactions","كتاب البيوع","Business Transactions","Business Transactions","Business Transactions","Business Transactions","Business Transactions","Business Transactions","خرید و فروخت کے احکام و مسائل","648","823","648","823"","व्यापार लेनदेन","வர்த்தகம்","Tijarat","Handelsgeschäfte","Transacciones Comerciales
+"8","Marriage","كتاب النكاح","Marriage","Marriage","Marriage","Marriage","Marriage","Marriage","نکاح سے متعلق احکام و مسائل","824","992","824","992"","विवाह","திருமணம்","Nikah","Ehe","Matrimonio
+"9","Criminal Offences","كتاب الجنايات","Criminal Offences","Criminal Offences","Criminal Offences","Criminal Offences","Criminal Offences","Criminal Offences","جرائم سے متعلق احکام و مسائل","993","1033","993","1033"","आपराधिक अपराध","குற்றங்கள்","Jinayaat","Straftaten","Delitos
+"10","Legal Penalties","كتاب الحدود","Legal Penalties","Legal Penalties","Legal Penalties","Legal Penalties","Legal Penalties","Legal Penalties","حدود کا بیان","1034","1079","1034","1079"","कानूनी दंड","சட்டத் தண்டனைகள்","Hudood","Gesetzliche Strafen","Penas Legales
+"11","Jihad","كتاب الجهاد","Jihad","Jihad","Jihad","Jihad","Jihad","Jihad","جہاد کا بیان","1080","1134","1080","1134"","जिहाद","ஜிஹாத்","Jihad","Dschihad","Yihad
+"12","Food","كتاب الأطعمة","Food","Food","Food","Food","Food","Food","کھانوں کا بیان","1135","1170","1135","1170"","भोजन","உணவு","Khana","Speisen","Alimentos
+"13","Oaths and Vows","كتاب الأيمان والنذور","Oaths and Vows","Oaths and Vows","Oaths and Vows","Oaths and Vows","Oaths and Vows","Oaths and Vows","قسموں اور نذروں کا بیان","1171","1187","1171","1187"","शपथ और प्रतिज्ञा","ஆணைகளும் நேர்ச்சைகளும்","Qasam aur Nazr","Eide und Gelübde","Juramentos y Votos
+"14","Judgements","كتاب القضاء","Judgements","Judgements","Judgements","Judgements","Judgements","Judgements","عدالتی فیصلے اور احکام","1188","1219","1188","1219"","निर्णय","தீர்ப்புகள்","Faislay","Urteile","Juicios
+"15","Emancipation","كتاب العتق","Emancipation","Emancipation","Emancipation","Emancipation","Emancipation","Emancipation","غلاموں کی آزادی کا بیان","1220","1235","1220","1235"","मुक्ति","அடிமை விடுதலை","Azaadi","Freilassung","Emancipación
+"16","Comprehensive Book","كتاب الجامع","Comprehensive Book","Comprehensive Book","Comprehensive Book","Comprehensive Book","Comprehensive Book","Comprehensive Book","جامع ابواب (اخلاق و آداب کا بیان)","1236","1358","1236","1358"","व्यापक पुस्तक","முழுமையான நூல்","Jame Kitab","Umfassendes Buch","Libro Comprehensivo

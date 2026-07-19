@@ -2,7 +2,7 @@ metadata:
   book_id: "fath-al-rabbani"
   book_name: "Fath al-Rabbani"
   total_hadiths: "89"
-  available_languages: "ar,en,ur"
+  available_languages: "ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur"
 
 translations[2]{language,sections,path}:
 "en","3","translations/en"

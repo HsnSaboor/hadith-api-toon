@@ -3,66 +3,126 @@ metadata:
   book_name: "Al-Lulu wal-Marjan"
   total_hadiths: "1906"
   available_languages: "ar,en,ur"
+  intro_ta: "[AI-translation] # அல்-லுஃலு வல்-மர்ஜான் அறிமுகம்
+
+**அல்-லுஃலு வல்-மர்ஜான் ஃபீமா இத்தஃபக்க அலைஹி அல்-ஷைகான்** ("
+  intro_en: "[AI-translation] # Introduction to Al-Lu'lu' wal-Marjan
+
+**Al-Lu'lu' wal-Marjan fima Ittafaqa 'alayhi al-Shaykhan** ("
+  intro_es: "[AI-translation] # Introducción a Al-Lu'lu' wal-Marjan
+
+**Al-Lu'lu' wal-Marjan fima Ittafaqa 'alayhi al-Shaykhan** ("
+  intro_de: "[AI-translation] # Einleitung zu Al-Lu'lu' wal-Marjan
+
+**Al-Lu'lu' wal-Marjan fima Ittafaqa 'alayhi al-Shaykhan** ("
+  intro_roman-ur: "[AI-translation] # Al-Lu'lu' wal-Marjan ka Ta'aruf
+
+**Al-Lu'lu' wal-Marjan fima Ittafaqa 'alayhi al-Shaykhan** (Moti aur Marjan un Ahadees mein jin par Shaykhain ne Ittafaq kiya) ek mustanad aur mu'tabar kitab hai jo Sahih al-Bukhari aur Sahih Muslim ki muttafiqah ahadees ka majmu'a hai. Is kitab ke murattib Allama Muhammad Fu'ad Abd al-Baqi hain, jinho ne dono Sahihain mein maujood mushtarak ahadees ko yakja karke ek jaame' majmu'a tayyar kiya.
+
+Yeh kitab un ahadees par mabni hai jin ki sihhat par Imam Bukhari aur Imam Muslim, dono ka ittafaq hai, jo Ahl-e-Sunnat ke nazdeek do sab se mu'tabar hadees ki kitabain shumar hoti hain. Chunke dono muhaddiseen ne mustaqil taur par apni sanad aur riwayat ke usool wazeh kiye, is liye jab kisi hadees par un dono ka ittafaq ho jata hai to us hadees ki sihhat aur qabooliyat mazeed mustanad ho jati hai.
+
+Murattib ne is kitab ko teen bunyadi hisson mein taqseem kiya hai:
+1. Woh ahadees jo Sahih Bukhari aur Sahih Muslim mein mushtarak hain (Muttafaq alayh).
+2. Woh ahadees jo sirf Sahih Bukhari mein maujood hain.
+3. Woh ahadees jo sirf Sahih Muslim mein maujood hain.
+
+Is tarteeb se qari ko yeh suhoolat hasil hoti hai keh woh dono kitabon ke darmiyan mawjood ahadees ka taqabuli mutala'a kar sake aur mazameen ki bunyad par unhein aasani se talash kar sake.
+
+Al-Lu'lu' wal-Marjan ki ahmiyat is baat mein hai keh yeh talibul-ilm aur muhaqqiqeen ke liye ek nihayat mufeed zari'a hai jis se woh Sahihain ki ahadees tak mukhtasar waqt mein rasai hasil kar sakte hain, baghair is ke unhein alag alag dono kitabon ka mustaqil mutala'a karna pade. Yeh kitab hadees ke ilm mein tahqeeq karne walon ke liye ek sanad ke taur par bhi kaam aati hai, kyunke ismein sirf woh riwayaat shamil ki gayi hain jinki sihhat par ulama ka ijma' ya kam az kam do buzurg Imamon ka ittafaq maujood hai.
+
+Yeh majmu'a Arab aur Ajami dunya mein wasee paimane par mash-hoor hua aur iska tarjuma mukhtalif zabanon mein kiya gaya, jis se iski afadiyat aur mutual mein aasani mazeed barh gayi. Ulama-e-Islam ke nazdeek yeh kitab hadees ke bunyadi mutala'e ke liye ek sang-e-meel ki haisiyat rakhti hai."
+  intro_ru: "[AI-translation] # Введение к «Аль-Лу'лу' валь-Марджан»
+
+**Аль-Лу'лу' валь-Марджан фима иттафака 'алейхи аш-Шейхан** ("
+  intro_tr: "[AI-translation] # Al-Lu'lu' ve'l-Mercan'a Giriş
+
+**Al-Lu'lu' ve'l-Mercan fîmâ İttefeka 'Aleyhi'ş-Şeyhân** ("
+  intro_id: "[AI-translation] # Pengantar Al-Lu'lu' wal-Marjan
+
+**Al-Lu'lu' wal-Marjan fima Ittafaqa 'alayhi al-Shaykhan** ("
+  intro_hi: "[AI-translation] # अल-लूलू वल-मरजान का परिचय
+
+**अल-लूलू वल-मरजान फीमा इत्तफ़का 'अलैहि अल-शैख़ान** ("
+  intro_fr: "[AI-translation] # Introduction à Al-Lu'lu' wal-Marjan
+
+**Al-Lu'lu' wal-Marjan fima Ittafaqa 'alayhi al-Shaykhan** ("
+  intro_bn: "[AI-translation] # আল-লুলু ওয়াল-মারজান-এর ভূমিকা
+
+**আল-লুলু ওয়াল-মারজান ফিমা ইত্তাফাকা আলাইহি আশ-শাইখান** ("
+  intro_ur: "[AI-translation] # اللؤلؤ والمرجان کا تعارف
+
+**اللؤلؤ والمرجان فیما اتفق علیہ الشیخان**
+
+یہ کتاب ان احادیث مبارکہ کا مجموعہ ہے جن پر امام بخاری اور امام مسلم رحمہما اللہ دونوں نے اتفاق کیا ہے، یعنی وہ احادیث جو صحیح بخاری اور صحیح مسلم میں مشترک طور پر مروی ہیں۔ چونکہ یہ دونوں کتابیں امت مسلمہ میں صحاح ستہ میں سب سے زیادہ معتبر اور مقبول شمار ہوتی ہیں، اس لیے ان احادیث کو خاص اہمیت حاصل ہے جن پر دونوں محدثین کرام کا اتفاق پایا جاتا ہے، کیونکہ یہ درجہ صحت کے اعتبار سے سب سے بلند مقام رکھتی ہیں۔
+
+اس کتاب کے مؤلف نے نہایت عرق ریزی اور محنت سے ان احادیث کو منتخب اور مرتب کیا ہے تاکہ عام قارئین اور طلبہ علم آسانی سے ان متفقہ احادیث سے استفادہ کر سکیں، بغیر اس کے کہ انہیں دونوں ضخیم کتابوں میں تلاش کرنے کی زحمت اٹھانی پڑے۔ ""اللؤلؤ والمرجان"" کا نام بھی اس بات کی طرف اشارہ کرتا ہے کہ یہ احادیث موتیوں اور مرجان کی مانند نفیس، قیمتی اور چمکدار ہیں، جو ان کی عظمت اور اہمیت کو ظاہر کرتا ہے۔
+
+یہ کتاب ترتیب کے اعتبار سے موضوعاتی انداز میں مرتب کی گئی ہے، جس میں فقہی و اعتقادی مسائل، عبادات، معاملات، اخلاقیات اور دیگر دینی موضوعات پر مشتمل احادیث کو مختلف بابوں کے تحت جمع کیا گیا ہے۔ اس سے قاری کے لیے کسی خاص موضوع سے متعلق احادیث تک رسائی نہایت آسان ہو جاتی ہے۔
+
+علماء و محدثین کے ہاں اس کتاب کو خصوصی مقام حاصل ہے کیونکہ اس میں موجود ہر حدیث کی صحت پر دونوں امام محترمین کا اتفاق ہونے کی وجہ سے اس کے مضامین پر اعتماد کیا جا سکتا ہے۔ یہی وجہ ہے کہ یہ کتاب دینی مدارس اور علمی حلقوں میں تدریس و تحقیق کے لیے وسیع پیمانے پر استعمال ہوتی رہی ہے اور طالبان علم کے لیے حدیث کے میدان میں ایک بنیادی ماخذ کی حیثیت رکھتی ہے۔"
+  intro: "[AI-translation] # Introduction to Al-Lu'lu' wal-Marjan
+
+**Al-Lu'lu' wal-Marjan fima Ittafaqa 'alayhi al-Shaykhan** (""The Pearls and Corals of Hadiths Agreed Upon by the Two Shaykhs"") is a significant compilation authored by Muhammad Fuad Abd al-Baqi, comprising hadiths that are mutually attested in the two most authoritative collections of Sunni Islam: *Sahih al-Bukhari* and *Sahih Muslim*. This work serves as an invaluable resource for scholars and students of Islamic tradition, as it consolidates the concordant narrations (*al-muttafaq 'alayh*) from both collections into a single, systematically organized text, thereby highlighting the hadiths whose authenticity commands the strongest consensus among traditional scholars of hadith sciences (*'ulum al-hadith*). Arranged thematically according to subjects of jurisprudence, faith, and moral conduct, *Al-Lu'lu' wal-Marjan* continues to serve as a foundational reference for those seeking a concise yet rigorously authenticated corpus of Prophetic traditions."
 
 
 translations[2]{language,sections,path}:
 "en","55","translations/en"
 "ur","55","translations/ur"
 
-sections[55]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-"0","Introduction","مقدمة","","Introduction","","","","","مقدمہ","1","4","",""
-"1","Faith","كِتَابُ الْإِيمَانِ","","Faith","","","","","کتاب: ایمان کا بیان","5","133","",""
-"2","Purification","كِتَابُ الطَّهَارَةِ","","Purification","","","","","کتاب: طہارت کے مسائل","134","167","",""
-"3","Menstruation","كِتَابُ الْحَيْضِ","","Menstruation","","","","","کتاب: حیض کے مسائل","168","212","",""
-"4","Prayer","كِتَابُ الصَّلَاةِ","","Prayer","","","","","کتاب: نماز کے مسائل","213","297","",""
-"5","Mosques and Places of Prayer","كِتَابُ الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاةِ","","Mosques and Places of Prayer","","","","","کتاب: مسجدوں اور نمازوں کی جگہوں کا بیان","298","397","",""
-"6","Travelers' Prayer and Shortening","كِتَابُ صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا","","Travelers' Prayer and Shortening","","","","","کتاب: مسافروں کی نماز اور اس کے قصر کا بیان","398","484","",""
-"7","Friday Prayer","كِتَابُ الْجُمُعَةِ","","Friday Prayer","","","","","کتاب: جمعہ کا بیان","485","504","",""
-"8","The Two Eids","كِتَابُ الْعِيدَيْنِ","","The Two Eids","","","","","کتاب: نماز عیدین کا بیان","505","514","",""
-"9","Prayer for Rain (Istisqa)","كِتَابُ الِاسْتِسْقَاءِ","","Prayer for Rain (Istisqa)","","","","","کتاب: نماز استسقاء کا بیان","515","519","",""
-"10","Eclipse Prayer","كِتَابُ الْكُسُوفِ","","Eclipse Prayer","","","","","کتاب: کسوف کی نماز کا بیان","520","530","",""
-"11","Funerals","كِتَابُ الْجَنَائِزِ","","Funerals","","","","","کتاب: جنازے کے مسائل","531","566","",""
-"12","Zakat","كِتَابُ الزَّكَاةِ","","Zakat","","","","","کتاب: زکوٰۃ کا بیان","567","651","",""
-"13","Fasting","كِتَابُ الصِّيَامِ","","Fasting","","","","","کتاب: روزہ کے مسائل","652","726","",""
-"14","I'tikaf","كِتَابُ الِاعْتِكَافِ","","I'tikaf","","","","","کتاب: اعتکاف کا بیان","727","730","",""
-"15","Hajj","كِتَابُ الْحَجِّ","","Hajj","","","","","کتاب: حج کے مسائل","731","883","",""
-"16","Marriage","كِتَابُ النِّكَاحِ","","Marriage","","","","","کتاب: نکاح کے مسائل","884","915","",""
-"17","Breastfeeding","كِتَابُ الرَّضَاعِ","","Breastfeeding","","","","","کتاب: دودھ پلانے کے مسائل","916","935","",""
-"18","Divorce","كِتَابُ الطَّلَاقِ","","Divorce","","","","","کتاب: طلاق کے مسائل","936","951","",""
-"19","Lian","كِتَابُ اللِّعَانِ","","Lian","","","","","کتاب: لعان کا بیان","952","957","",""
-"20","Emancipation of Slaves","كِتَابُ الْعِتْقِ","","Emancipation of Slaves","","","","","کتاب: بردہ آزاد کرنے کا بیان","958","964","",""
-"21","Trade and Commerce","كِتَابُ الْبُيُوعِ","","Trade and Commerce","","","","","کتاب: خریدو فروخت کے مسائل","965","998","",""
-"22","Muza'ara and Sharecropping","كِتَابُ الْمُسَاقَاةِ","","Muza'ara and Sharecropping","","","","","کتاب: مساقات کے مسائل","999","1040","",""
-"23","Inheritance","كِتَابُ الْفَرَائِضِ","","Inheritance","","","","","کتاب: میراث کے احکام و مسائل","1041","1044","",""
-"24","Gifts and Charity","كِتَابُ الْهِبَةِ","","Gifts and Charity","","","","","کتاب: ہبہ اور صدقہ کے مسائل","1045","1051","",""
-"25","Wills and Testaments","كِتَابُ الْوَصَايَا","","Wills and Testaments","","","","","کتاب: وصیت کے مسائل","1052","1060","",""
-"26","Vows","كِتَابُ النَّذْرِ","","Vows","","","","","کتاب: نذر کے مسائل","1061","1065","",""
-"27","Oaths","كِتَابُ الْأَيْمَانِ","","Oaths","","","","","کتاب: قسموں کے مسائل","1066","1084","",""
-"28","Qasama (Retaliation)","كِتَابُ الْقَسَامَةِ","","Qasama (Retaliation)","","","","","کتاب: قسامہ کے مسائل","1085","1096","",""
-"29","Hudud (Prescribed Punishments)","كِتَابُ الْحُدُودِ","","Hudud (Prescribed Punishments)","","","","","کتاب: حدود کے مسائل","1097","1112","",""
-"30","Judgements and Rulings","كِتَابُ الْأَقْضِيَةِ","","Judgements and Rulings","","","","","کتاب: احکام اور فیصلوں کے مسائل","1113","1122","",""
-"31","Lost Items (Luqata)","كِتَابُ اللُّقَطَةِ","","Lost Items (Luqata)","","","","","کتاب: گری پڑی چیز ملنے کے مسائل","1123","1128","",""
-"32","Jihad","كِتَابُ الْجِهَادِ","","Jihad","","","","","کتاب: جہاد کے مسائل","1129","1192","",""
-"33","Leadership and Governance","كِتَابُ الْإِمَارَةِ","","Leadership and Governance","","","","","کتاب: امارت کے بیان","1193","1253","",""
-"34","Hunting and Slaughtering","كِتَابُ الصَّيْدِ وَالذَّبَائِحِ","","Hunting and Slaughtering","","","","","کتاب: شکار اور ذبح کے مسائل","1254","1279","",""
-"35","Sacrifices","كِتَابُ الْأَضَاحِي","","Sacrifices","","","","","کتاب: قربانی کے احکام و مسائل","1280","1291","",""
-"36","Drinks","كِتَابُ الْأَشْرِبَةِ","","Drinks","","","","","کتاب: پینے کی اشیاء کا بیان","1292","1336","",""
-"37","Dress and Adornment","كِتَابُ اللِّبَاسِ وَالزِّينَةِ","","Dress and Adornment","","","","","کتاب: لباس اور زینت کے بیان میں","1337","1379","",""
-"38","Manners and Etiquette","كِتَابُ الْآدَابِ","","Manners and Etiquette","","","","","کتاب: آداب کا بیان","1380","1395","",""
-"39","Greetings (Salam)","كِتَابُ السَّلَامِ","","Greetings (Salam)","","","","","کتاب: سلام کے مسائل","1396","1448","",""
-"40","Expressions and Wordings","كِتَابُ الْأَلْفَاظِ","","Expressions and Wordings","","","","","کتاب: الفاظ ادب وغیرہ کا بیان","1449","1453","",""
-"41","Poetry","كِتَابُ الشِّعْرِ","","Poetry","","","","","کتاب: الشعر","1454","1455","",""
-"42","Dreams","كِتَابُ الرُّؤْيَا","","Dreams","","","","","کتاب: خوابوں کا بیان","1456","1467","",""
-"43","Virtues and Merits","كِتَابُ الْفَضَائِلِ","","Virtues and Merits","","","","","کتاب: فضائل و مناقب کا بیان","1468","1540","",""
-"44","Virtues of the Companions","كِتَابُ فَضَائِلِ الصَّحَابَةِ","","Virtues of the Companions","","","","","کتاب: صحابہ کرام رضی اللہ عنہ کے فضائل","1541","1652","",""
-"45","Goodness and Righteousness","كِتَابُ الْبِرِّ وَالصِّلَةِ","","Goodness and Righteousness","","","","","کتاب: نیکی اور سلوک اور ادب کے مسائل","1653","1695","",""
-"46","Destiny (Qadr)","كِتَابُ الْقَدَرِ","","Destiny (Qadr)","","","","","کتاب: تقدیر کے مسائل","1696","1705","",""
-"47","Knowledge","كِتَابُ الْعِلْمِ","","Knowledge","","","","","کتاب: کتاب العلم","1706","1713","",""
-"48","Remembrance, Supplication, Repentance","كِتَابُ الذِّكْرِ وَالدُّعَاءِ","","Remembrance, Supplication, Repentance","","","","","کتاب: ذکر الٰہی، دعا، توبہ اور استغفار کے مسائل","1714","1746","",""
-"49","Repentance","كِتَابُ التَّوْبَةِ","","Repentance","","","","","کتاب: توبہ کرنے کا بیان","1747","1764","",""
-"50","Hypocrites and Their Characteristics","كِتَابُ صِفَاتِ الْمُنَافِقِينَ","","Hypocrites and Their Characteristics","","","","","کتاب: منافقوں کے اوصاف اور ان کے متعلق احکامات","1765","1797","",""
-"51","Paradise and Its Blessings","كِتَابُ الْجَنَّةِ","","Paradise and Its Blessings","","","","","کتاب: جنت اور اس کی نعمتیں اور اہل جنت کے اوصاف","1798","1829","",""
-"52","Tribulations and Signs of the Hour","كِتَابُ الْفِتَنِ","","Tribulations and Signs of the Hour","","","","","کتاب: فتنوں اور قیامت کی نشانیوں کا بیان","1830","1865","",""
-"53","Heart-Softeners (Riqaq)","كِتَابُ الرِّقَاقِ","","Heart-Softeners (Riqaq)","","","","","کتاب: دنیا سے نفرت دلانے اور دل کو نرم کرنے والی احادیث کا بیان","1866","1893","",""
-"54","Interpretation of the Quran","كِتَابُ التَّفْسِيرِ","","Interpretation of the Quran","","","","","کتاب: قرآن حکیم کی چند آیتوں کی تفسیر","1894","1906","",""
+sections[55]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"0","Introduction","مقدمة","","Introduction","","","","","مقدمہ","1","4","",""","परिचय","அறிமுகம்","Tamheed","Einleitung","Introducción
+"1","Faith","كِتَابُ الْإِيمَانِ","","Faith","","","","","کتاب: ایمان کا بیان","5","133","",""","ईमान","ஈமான்","Iman","Der Glaube","La Fe
+"2","Purification","كِتَابُ الطَّهَارَةِ","","Purification","","","","","کتاب: طہارت کے مسائل","134","167","",""","पवित्रता","தூய்மை","Taharat","Die Reinigung","La Purificación
+"3","Menstruation","كِتَابُ الْحَيْضِ","","Menstruation","","","","","کتاب: حیض کے مسائل","168","212","",""","मासिक धर्म","மாதவிடாய்","Haiz","Die Menstruation","La Menstruación
+"4","Prayer","كِتَابُ الصَّلَاةِ","","Prayer","","","","","کتاب: نماز کے مسائل","213","297","",""","नमाज़","தொழுகை","Namaz","Das Gebet","La Oración
+"5","Mosques and Places of Prayer","كِتَابُ الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاةِ","","Mosques and Places of Prayer","","","","","کتاب: مسجدوں اور نمازوں کی جگہوں کا بیان","298","397","",""","मस्जिदें और नमाज़ के स्थान","பள்ளிவாசல்களும் தொழும் இடங்களும்","Masajid Aur Namaz Ki Jagahen","Moscheen und Gebetsstätten","Las Mezquitas y los Lugares de Oración
+"6","Travelers' Prayer and Shortening","كِتَابُ صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا","","Travelers' Prayer and Shortening","","","","","کتاب: مسافروں کی نماز اور اس کے قصر کا بیان","398","484","",""","यात्रियों की नमाज़ और उसका संक्षिप्तीकरण","பயணிகளின் தொழுகையும் சுருக்கமும்","Musafir Ki Namaz Aur Qasr","Das Reisegebet und die Verkürzung","La Oración del Viajero y su Acortamiento
+"7","Friday Prayer","كِتَابُ الْجُمُعَةِ","","Friday Prayer","","","","","کتاب: جمعہ کا بیان","485","504","",""","जुमे की नमाज़","வெள்ளிக்கிழமை தொழுகை","Jumma Ki Namaz","Das Freitagsgebet","La Oración del Viernes
+"8","The Two Eids","كِتَابُ الْعِيدَيْنِ","","The Two Eids","","","","","کتاب: نماز عیدین کا بیان","505","514","",""","दोनों ईद","இரு பெருநாட்கள்","Dono Eid","Die beiden Feste","Las Dos Fiestas (Eids)
+"9","Prayer for Rain (Istisqa)","كِتَابُ الِاسْتِسْقَاءِ","","Prayer for Rain (Istisqa)","","","","","کتاب: نماز استسقاء کا بیان","515","519","",""","इस्तिस्क़ा (वर्षा हेतु प्रार्थना)","மழைக்கான தொழுகை (இஸ்திஸ்கா)","Namaz-e-Istisqa","Das Regengebet (Istisqa)","La Oración para la Lluvia (Istisqa)
+"10","Eclipse Prayer","كِتَابُ الْكُسُوفِ","","Eclipse Prayer","","","","","کتاب: کسوف کی نماز کا بیان","520","530","",""","ग्रहण की नमाज़","கிரகணத் தொழுகை","Namaz-e-Kusoof","Das Verfinsterungsgebet","La Oración del Eclipse
+"11","Funerals","كِتَابُ الْجَنَائِزِ","","Funerals","","","","","کتاب: جنازے کے مسائل","531","566","",""","अंतिम संस्कार","இறுதிச் சடங்குகள்","Janaze","Die Bestattung","Los Funerales
+"12","Zakat","كِتَابُ الزَّكَاةِ","","Zakat","","","","","کتاب: زکوٰۃ کا بیان","567","651","",""","ज़कात","ஸகாத்","Zakat","Die Zakat","El Zakat
+"13","Fasting","كِتَابُ الصِّيَامِ","","Fasting","","","","","کتاب: روزہ کے مسائل","652","726","",""","रोज़ा","நோன்பு","Roza","Das Fasten","El Ayuno
+"14","I'tikaf","كِتَابُ الِاعْتِكَافِ","","I'tikaf","","","","","کتاب: اعتکاف کا بیان","727","730","",""","एतिकाफ़","இஃதிகாஃப்","Aitkaf","Die I'tikaf","El Itikaf
+"15","Hajj","كِتَابُ الْحَجِّ","","Hajj","","","","","کتاب: حج کے مسائل","731","883","",""","हज","ஹஜ்","Hajj","Die Haddsch","El Hach
+"16","Marriage","كِتَابُ النِّكَاحِ","","Marriage","","","","","کتاب: نکاح کے مسائل","884","915","",""","निकाह","திருமணம்","Nikah","Die Heirat","El Matrimonio
+"17","Breastfeeding","كِتَابُ الرَّضَاعِ","","Breastfeeding","","","","","کتاب: دودھ پلانے کے مسائل","916","935","",""","स्तनपान","பாலூட்டல்","Rizaat (Doodh Pilana)","Das Stillen","La Lactancia
+"18","Divorce","كِتَابُ الطَّلَاقِ","","Divorce","","","","","کتاب: طلاق کے مسائل","936","951","",""","तलाक़","தலாக் (விவாகரத்து)","Talaq","Die Scheidung","El Divorcio
+"19","Lian","كِتَابُ اللِّعَانِ","","Lian","","","","","کتاب: لعان کا بیان","952","957","",""","लिआन","லிஆன்","Lian","Die Lian","El Lian
+"20","Emancipation of Slaves","كِتَابُ الْعِتْقِ","","Emancipation of Slaves","","","","","کتاب: بردہ آزاد کرنے کا بیان","958","964","",""","दासों की मुक्ति","அடிமைகளை விடுதலை செய்தல்","Ghulamon Ki Azadi","Die Freilassung von Sklaven","La Manumisión de Esclavos
+"21","Trade and Commerce","كِتَابُ الْبُيُوعِ","","Trade and Commerce","","","","","کتاب: خریدو فروخت کے مسائل","965","998","",""","व्यापार और वाणिज्य","வாணிபமும் வர்த்தகமும்","Tijarat Aur Kharido Farokht","Handel und Gewerbe","El Comercio
+"22","Muza'ara and Sharecropping","كِتَابُ الْمُسَاقَاةِ","","Muza'ara and Sharecropping","","","","","کتاب: مساقات کے مسائل","999","1040","",""","मुज़ारआ और बटाई","முஸாரஆவும் பங்குபயிர்ச் செய்கையும்","Muzara'at Aur Bataee","Die Muza'ara und Halbpacht","La Aparcería y el Cultivo Compartido
+"23","Inheritance","كِتَابُ الْفَرَائِضِ","","Inheritance","","","","","کتاب: میراث کے احکام و مسائل","1041","1044","",""","विरासत","வாரிசுரிமை","Meeras","Das Erbe","La Herencia
+"24","Gifts and Charity","كِتَابُ الْهِبَةِ","","Gifts and Charity","","","","","کتاب: ہبہ اور صدقہ کے مسائل","1045","1051","",""","उपहार और दान","அன்பளிப்புகளும் தர்மமும்","Hiba Aur Sadqa","Geschenke und Almosen","Las Donaciones y la Caridad
+"25","Wills and Testaments","كِتَابُ الْوَصَايَا","","Wills and Testaments","","","","","کتاب: وصیت کے مسائل","1052","1060","",""","वसीयतें","மரண சாசனங்கள்","Wasiyyat","Testamente und Vermächtnisse","Los Testamentos
+"26","Vows","كِتَابُ النَّذْرِ","","Vows","","","","","کتاب: نذر کے مسائل","1061","1065","",""","मन्नतें","நேர்ச்சைகள்","Nazar (Mannat)","Die Gelübde","Los Votos
+"27","Oaths","كِتَابُ الْأَيْمَانِ","","Oaths","","","","","کتاب: قسموں کے مسائل","1066","1084","",""","क़समें","சத்தியங்கள்","Qasam","Die Eide","Los Juramentos
+"28","Qasama (Retaliation)","كِتَابُ الْقَسَامَةِ","","Qasama (Retaliation)","","","","","کتاب: قسامہ کے مسائل","1085","1096","",""","क़सामा (प्रतिशोध)","கசாமா (பழிவாங்கல்)","Qasama","Die Qasama (Vergeltung)","El Qasama (Talión)
+"29","Hudud (Prescribed Punishments)","كِتَابُ الْحُدُودِ","","Hudud (Prescribed Punishments)","","","","","کتاب: حدود کے مسائل","1097","1112","",""","हुदूद (निर्धारित दंड)","ஹுதூத் (விதிக்கப்பட்ட தண்டனைகள்)","Hudood","Die Hudud (Vorgeschriebene Strafen)","Los Hudud (Castigos Prescritos)
+"30","Judgements and Rulings","كِتَابُ الْأَقْضِيَةِ","","Judgements and Rulings","","","","","کتاب: احکام اور فیصلوں کے مسائل","1113","1122","",""","निर्णय और फैसले","தீர்ப்புகளும் நடைமுறைகளும்","Aqziya (Faislay)","Urteile und Entscheidungen","Los Juicios y las Sentencias
+"31","Lost Items (Luqata)","كِتَابُ اللُّقَطَةِ","","Lost Items (Luqata)","","","","","کتاب: گری پڑی چیز ملنے کے مسائل","1123","1128","",""","खोई हुई वस्तुएं (लुक़ता)","கண்டெடுக்கப்பட்ட பொருள்கள் (லுகதா)","Luqata (Gumshuda Cheezen)","Fundsachen (Luqata)","Los Objetos Perdidos (Luqata)
+"32","Jihad","كِتَابُ الْجِهَادِ","","Jihad","","","","","کتاب: جہاد کے مسائل","1129","1192","",""","जिहाद","ஜிஹாத்","Jihad","Der Dschihad","El Yihad
+"33","Leadership and Governance","كِتَابُ الْإِمَارَةِ","","Leadership and Governance","","","","","کتاب: امارت کے بیان","1193","1253","",""","नेतृत्व और शासन","தலைமையும் ஆட்சியும்","Imarat Aur Hukumat","Führung und Regierung","El Liderazgo y el Gobierno
+"34","Hunting and Slaughtering","كِتَابُ الصَّيْدِ وَالذَّبَائِحِ","","Hunting and Slaughtering","","","","","کتاب: شکار اور ذبح کے مسائل","1254","1279","",""","शिकार और वध","வேட்டையும் அறுத்தலும்","Shikar Aur Zabah","Jagd und Schlachtung","La Caza y el Sacrificio de Animales
+"35","Sacrifices","كِتَابُ الْأَضَاحِي","","Sacrifices","","","","","کتاب: قربانی کے احکام و مسائل","1280","1291","",""","कुर्बानी","குர்பானிகள்","Qurbani","Die Opfertiere","Los Sacrificios
+"36","Drinks","كِتَابُ الْأَشْرِبَةِ","","Drinks","","","","","کتاب: پینے کی اشیاء کا بیان","1292","1336","",""","पेय पदार्थ","பானங்கள்","Mashroobat","Die Getränke","Las Bebidas
+"37","Dress and Adornment","كِتَابُ اللِّبَاسِ وَالزِّينَةِ","","Dress and Adornment","","","","","کتاب: لباس اور زینت کے بیان میں","1337","1379","",""","वस्त्र और आभूषण","உடையும் அணிகலனும்","Libas Aur Zeenat","Kleidung und Schmuck","La Vestimenta y el Adorno
+"38","Manners and Etiquette","كِتَابُ الْآدَابِ","","Manners and Etiquette","","","","","کتاب: آداب کا بیان","1380","1395","",""","शिष्टाचार और व्यवहार","ஒழுக்கமும் நாகரிகமும்","Adab Aur Akhlaq","Umgangsformen und Etikette","Los Modales y la Etiqueta
+"39","Greetings (Salam)","كِتَابُ السَّلَامِ","","Greetings (Salam)","","","","","کتاب: سلام کے مسائل","1396","1448","",""","सलाम","சலாம் (முகமன்)","Salam","Der Gruß (Salam)","El Saludo (Salam)
+"40","Expressions and Wordings","كِتَابُ الْأَلْفَاظِ","","Expressions and Wordings","","","","","کتاب: الفاظ ادب وغیرہ کا بیان","1449","1453","",""","शब्द और अभिव्यक्तियाँ","சொற்களும் வெளிப்பாடுகளும்","Alfaz Aur Kalimat","Ausdrücke und Formulierungen","Las Expresiones y las Palabras
+"41","Poetry","كِتَابُ الشِّعْرِ","","Poetry","","","","","کتاب: الشعر","1454","1455","",""","कविता","கவிதை","Shayari","Die Dichtung","La Poesía
+"42","Dreams","كِتَابُ الرُّؤْيَا","","Dreams","","","","","کتاب: خوابوں کا بیان","1456","1467","",""","स्वप्न","கனவுகள்","Khwab","Die Träume","Los Sueños
+"43","Virtues and Merits","كِتَابُ الْفَضَائِلِ","","Virtues and Merits","","","","","کتاب: فضائل و مناقب کا بیان","1468","1540","",""","गुण और श्रेष्ठताएं","சிறப்புகளும் மேன்மைகளும்","Fazail","Vorzüge und Verdienste","Las Virtudes y los Méritos
+"44","Virtues of the Companions","كِتَابُ فَضَائِلِ الصَّحَابَةِ","","Virtues of the Companions","","","","","کتاب: صحابہ کرام رضی اللہ عنہ کے فضائل","1541","1652","",""","सहाबा के गुण","தோழர்களின் மேன்மைகள்","Sahaba Ke Fazail","Die Vorzüge der Gefährten","Las Virtudes de los Compañeros
+"45","Goodness and Righteousness","كِتَابُ الْبِرِّ وَالصِّلَةِ","","Goodness and Righteousness","","","","","کتاب: نیکی اور سلوک اور ادب کے مسائل","1653","1695","",""","भलाई और नेकी","நல்லொழுக்கமும் நேர்மையும்","Nekoi Aur Salihiyat","Güte und Rechtschaffenheit","La Bondad y la Rectitud
+"46","Destiny (Qadr)","كِتَابُ الْقَدَرِ","","Destiny (Qadr)","","","","","کتاب: تقدیر کے مسائل","1696","1705","",""","भाग्य (क़द्र)","விதி (கதர்)","Taqdeer","Die Bestimmung (Qadr)","El Destino (Qadr)
+"47","Knowledge","كِتَابُ الْعِلْمِ","","Knowledge","","","","","کتاب: کتاب العلم","1706","1713","",""","ज्ञान","கல்வி","Ilm","Das Wissen","El Conocimiento
+"48","Remembrance, Supplication, Repentance","كِتَابُ الذِّكْرِ وَالدُّعَاءِ","","Remembrance, Supplication, Repentance","","","","","کتاب: ذکر الٰہی، دعا، توبہ اور استغفار کے مسائل","1714","1746","",""","ज़िक्र, दुआ और तौबा","நினைவு கூர்தல், பிரார்த்தனை, மனந்திரும்புதல்","Zikr, Dua, Aur Tauba","Gottesgedenken, Bittgebet und Reue","El Recuerdo, la Súplica y el Arrepentimiento
+"49","Repentance","كِتَابُ التَّوْبَةِ","","Repentance","","","","","کتاب: توبہ کرنے کا بیان","1747","1764","",""","तौबा","மனந்திரும்புதல்","Tauba","Die Reue","El Arrepentimiento
+"50","Hypocrites and Their Characteristics","كِتَابُ صِفَاتِ الْمُنَافِقِينَ","","Hypocrites and Their Characteristics","","","","","کتاب: منافقوں کے اوصاف اور ان کے متعلق احکامات","1765","1797","",""","मुनाफ़िक़ और उनके लक्षण","நயவஞ்சகர்களும் அவர்களின் பண்புகளும்","Munafiqeen Aur Unki Alamaat","Die Heuchler und ihre Merkmale","Los Hipócritas y sus Características
+"51","Paradise and Its Blessings","كِتَابُ الْجَنَّةِ","","Paradise and Its Blessings","","","","","کتاب: جنت اور اس کی نعمتیں اور اہل جنت کے اوصاف","1798","1829","",""","स्वर्ग और उसकी नेमतें","சுவனமும் அதன் அருள்களும்","Jannat Aur Uski Naimaten","Das Paradies und seine Freuden","El Paraíso y sus Bendiciones
+"52","Tribulations and Signs of the Hour","كِتَابُ الْفِتَنِ","","Tribulations and Signs of the Hour","","","","","کتاب: فتنوں اور قیامت کی نشانیوں کا بیان","1830","1865","",""","विपत्तियाँ और क़यामत की निशानियाँ","சோதனைகளும் இறுதிநாள் அடையாளங்களும்","Fitnay Aur Qayamat Ki Alamaat","Prüfungen und Zeichen der Stunde","Las Tribulaciones y las Señales de la Hora
+"53","Heart-Softeners (Riqaq)","كِتَابُ الرِّقَاقِ","","Heart-Softeners (Riqaq)","","","","","کتاب: دنیا سے نفرت دلانے اور دل کو نرم کرنے والی احادیث کا بیان","1866","1893","",""","हृदय को कोमल करने वाली बातें (रिक़ाक़)","உள்ளத்தை உருக்கும் அறிவுரைகள்","Riqaq (Dil Ko Narm Karne Wali Baaten)","Die Herzenserweichung (Riqaq)","Los Enternecedores del Corazón (Riqaq)
+"54","Interpretation of the Quran","كِتَابُ التَّفْسِيرِ","","Interpretation of the Quran","","","","","کتاب: قرآن حکیم کی چند آیتوں کی تفسیر","1894","1906","",""","क़ुरआन की व्याख्या","குர்ஆன் விளக்கம்","Tafseer-e-Quran","Die Auslegung des Korans","La Interpretación del Corán
 # EN translation note: 281 hadiths (hadith numbers absent from the scholarly EN source) were filled via AI translation from intact Arabic and prefixed [AI-translation]. Pending scholarly replacement.

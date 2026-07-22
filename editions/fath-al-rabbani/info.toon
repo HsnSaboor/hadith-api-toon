@@ -3,12 +3,51 @@ metadata:
   book_name: "Fath al-Rabbani"
   total_hadiths: "89"
   available_languages: "ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur"
+  intro_es: "[AI-translation] [Traducción de IA] Introducción a *Fatḥ al-Rabbānī*
+
+*Fatḥ al-Rabbānī* (La Apertura/Concesión Divina) es una obra significativa dentro del corpus de la literatura hadicista islámica, compilada típicamente como un arreglo ordenado o compendio de una colección de hadices más amplia —asociada de manera más notable con la reorganización del *Musnad* del Imam Aḥmad ibn Ḥanbal—, lo cual hace que su vasto contenido resulte más accesible mediante una categorización temática sistemática. El título mismo refleja la aspiración académica tradicional de que tales compilaciones sirvan como una"
+  intro_de: "[AI-translation] # [KI-Übersetzung] Einführung in *Fatḥ al-Rabbānī*
+
+*Fatḥ al-Rabbānī* (Die Göttliche Erschließung/Gewährung) ist ein bedeutendes Werk innerhalb des Korpus der islamischen Hadith-Literatur, das üblicherweise als geordnete Anordnung oder Abriss einer größeren Hadith-Sammlung zusammengestellt wurde – am bekanntesten in Verbindung mit der Neuordnung des *Musnad* des Imam Aḥmad ibn Ḥanbal – wodurch dessen umfangreicher Inhalt durch systematische thematische Kategorisierung zugänglicher gemacht wird. Der Titel selbst spiegelt das traditionelle gelehrte Anliegen wider, dass solche Kompilationen dienen sollen als eine"
+  intro_roman-ur: "[AI-translation] Fatḥ al-Rabbānī kā Tā'āruf**
+
+*Fatḥ al-Rabbānī* (Ilāhī Fatḥ/Ata) Islāmī ḥadīth adab ke ẕakhīre meñ ek aham taṣnīf hai, jo aksar ek baṛe ḥadīth majmū'e kī tartīb-shudah tanẕīm yā talkhīṣ ke taur par murattab kī jātī hai—khāṣ taur par Imām Aḥmad ibn Ḥanbal kī *Musnad* kī az-sar-e-nau tartīb se mansūb—jis se us ke wasī' mawād ko munẓẕam mawḍū'ātī tabqāt-bandī ke ẕarī'e zyādah qābil-e-rasā'ī banāyā jātā hai. Yeh 'unwān bajā-e-khud us klāsikī 'ilmī tamannā kā 'aks hai keh aisī taṣnīfāt ek"
+  intro_ru: "[AI-translation] [Перевод, выполненный ИИ] Введение к «Фатх ар-Раббани»
+
+«Фатх ар-Раббани» («Божественное открытие/дар») представляет собой значительный труд в корпусе исламской хадисоведческой литературы, обычно составляемый как упорядоченное расположение или сокращение более крупного собрания хадисов — наиболее известным образом связываемое с переработкой «Мусанада» имама Ахмада ибн Ханбаля, — делающее его обширное содержание более доступным посредством систематической тематической классификации. Само название отражает традиционное учёное стремление к тому, чтобы подобные компиляции служили"
+  intro_ta: "[AI-translation] பத்ஹ் அல்-ரப்பானீ* – அறிமுகம்
+
+*பத்ஹ் அல்-ரப்பானீ* (இறைவனின் திறப்பு/அருள்) என்பது இஸ்லாமிய ஹதீஸ் இலக்கியத் தொகுப்பில் குறிப்பிடத்தக்க ஒரு நூலாகும். இது பொதுவாக ஒரு பெரிய ஹதீஸ் தொகுப்பின் ஒழுங்குபடுத்தப்பட்ட வரிசைமுறை அல்லது சுருக்கமாகத் தொகுக்கப்பட்டதாகும் — குறிப்பாக இமாம் அஹ்மத் இப்னு ஹன்பல் அவர்களின் *முஸ்நத்* நூலின் மறுஒழுங்கமைப்புடன் தொடர்புடையது — இதன் மிகப்பரந்த உள்ளடக்கத்தை முறையான கருப்பொருள் வகைப்பாட்டின் மூலம் மேலும் எளிதில் அணுகக்கூடியதாக ஆக்குகிறது. இத்தலைப்பு தானே, இத்தகைய தொகுப்புகள் ஒரு ... ஆக செயல்பட வேண்டும் என்ற பாரம்பரிய அறிஞர் மரபின் எதிர்பார்ப்பைப் பிரதிபலிக்கிறது."
+  intro_id: "[AI-translation] # [Terjemahan AI] Pengantar *Fatḥ al-Rabbānī*
+
+*Fatḥ al-Rabbānī* (Pembukaan/Anugerah Ilahi) merupakan karya penting dalam khazanah literatur hadis Islam, yang umumnya disusun sebagai penataan berurutan atau ringkasan dari koleksi hadis yang lebih besar—terutama dikaitkan dengan penyusunan ulang *Musnad* Imam Aḥmad ibn Ḥanbal—sehingga menjadikan isinya yang sangat luas lebih mudah diakses melalui pengelompokan tematik yang sistematis. Judul karya ini sendiri merefleksikan cita-cita keilmuan tradisional bahwa kompilasi semacam ini berfungsi sebagai"
+  intro_hi: "[AI-translation] फ़त्ह अल-रब्बानी* का परिचय
+
+*फ़त्ह अल-रब्बानी* (दिव्य उद्घाटन/अनुग्रह) इस्लामी हदीस साहित्य के संग्रह में एक महत्वपूर्ण रचना है, जो सामान्यतः किसी बड़े हदीस संग्रह की एक व्यवस्थित तरतीब या संक्षेपण के रूप में संकलित की जाती है—विशेष रूप से इमाम अहमद इब्न हंबल की *मुसनद* की पुनर्व्यवस्था से संबद्ध—जिससे उसकी विशाल सामग्री को व्यवस्थित विषयगत वर्गीकरण के माध्यम से अधिक सुगम बनाया जाता है। शीर्षक स्वयं इस पारंपरिक विद्वत्तापूर्ण आकांक्षा को प्रतिबिंबित करता है कि ऐसे संकलन एक"
+  intro_fr: "[AI-translation] # [Traduction IA] Introduction à *Fatḥ al-Rabbānī*
+
+*Fatḥ al-Rabbānī* (L'Ouverture/La Grâce divine) est un ouvrage significatif au sein du corpus de la littérature hadithique islamique, généralement compilé comme un arrangement ordonné ou un abrégé d'un recueil de hadiths plus vaste — le plus souvent associé à la réorganisation du *Musnad* de l'imam Aḥmad ibn Ḥanbal — rendant son contenu considérable plus accessible grâce à une catégorisation thématique systématique. Le titre lui-même reflète l'aspiration savante traditionnelle selon laquelle de telles compilations doivent servir de"
+  intro_bn: "[AI-translation] [এআই-অনুবাদ] *ফাতহ্ আর-রব্বানী* গ্রন্থের ভূমিকা**
+
+*ফাতহ্ আর-রব্বানী* (দিব্য উদ্‌ঘাটন/অনুগ্রহ) ইসলামি হাদিসশাস্ত্রের সংকলনসমূহের মধ্যে একটি গুরুত্বপূর্ণ রচনা, যা সাধারণত কোনো বৃহত্তর হাদিস সংকলনের—বিশেষত ইমাম আহমদ ইবনে হাম্বলের *মুসনাদ* গ্রন্থের পুনর্বিন্যাসের সাথে সংশ্লিষ্টভাবে—একটি সুবিন্যস্ত রূপ বা সংক্ষিপ্তসার হিসেবে প্রস্তুত করা হয়, যার ফলে এর বিপুল বিষয়বস্তু পদ্ধতিগত বিষয়ভিত্তিক শ্রেণীবিন্যাসের মাধ্যমে অধিকতর সহজলভ্য হয়ে ওঠে। এই শিরোনামটি নিজেই সেই ঐতিহ্যগত পণ্ডিতসুলভ প্রত্যাশাকে প্রতিফলিত করে যে, এমন সংকলনসমূহ যেন একটি..."
+  intro_ur: "[AI-translation] فتح الربانی کا تعارف**
+
+*فتح الربانی* (فتحِ الٰہی) اسلامی حدیثی ادب کے ذخیرے میں ایک اہم تصنیف ہے، جو عموماً کسی بڑے حدیثی مجموعے کی ترتیب شدہ تدوین یا تلخیص کے طور پر مرتب کی جاتی ہے—خاص طور پر امام احمد بن حنبل کی *مسند* کی ازسرِ نو ترتیب کے حوالے سے معروف ہے—جس کے ذریعے اس کے وسیع مواد کو منظم موضوعاتی تقسیم کے ذریعے زیادہ قابلِ رسائی بنایا جاتا ہے۔ عنوان بذاتِ خود اس روایتی علمی خواہش کی عکاسی کرتا ہے کہ ایسی تدوینات"
+  intro: "[AI-translation] # Introduction to *Fatḥ al-Rabbānī*
+
+*Fatḥ al-Rabbānī* (The Divine Opening/Grant) is a significant work within the corpus of Islamic hadith literature, typically compiled as an ordered arrangement or abridgment of a larger hadith collection—most notably associated with the reorganization of Imam Aḥmad ibn Ḥanbal's *Musnad*—rendering its vast content more accessible through systematic thematic categorization. The title itself reflects the traditional scholarly aspiration that such compilations serve as a divinely granted opening or facilitation (*fatḥ*) for students and scholars seeking to derive benefit from the traditions of the Prophet ﻷ, easing the difficulty of navigating an unarranged or voluminous primary source."
+  intro_tr: "[AI-translation] # *Fatḥ al-Rabbānī*'ye Giriş
+
+*Fatḥ al-Rabbānî* (İlahî Açılım/Bağış), İslâmî hadis literatürü içerisinde önemli bir yere sahip olan bir eserdir ve genellikle daha büyük bir hadis koleksiyonunun—en meşhur şekliyle İmam Ahmed b. Hanbel'in *Müsned*'inin yeniden tertip edilmesiyle ilişkilendirilen—tertip edilmiş bir düzenlemesi veya muhtasarı olarak derlenmiştir; bu sayede eserin muazzam muhtevası, sistematik konu tasnifi yoluyla daha erişilir kılınmıştır. Eserin adı, bu tür derlemelerin"
+  intro_en: "[AI-translation] Introduction to *Fatḥ al-Rabbānī*
+
+*Fatḥ al-Rabbānī* (The Divine Opening/Grant) is a significant work within the corpus of Islamic hadith literature, typically compiled as an ordered arrangement or abridgment of a larger hadith collection—most notably associated with the reorganization of Imam Aḥmad ibn Ḥanbal's *Musnad*—rendering its vast content more accessible through systematic thematic categorization. The title itself reflects the traditional scholarly aspiration that such compilations serve as a ""divinely-granted opening"" for students and scholars seeking to derive jurisprudential rulings (*fiqh al-ḥadīth*), moral teachings, and doctrinal insights from the sayings and traditions attributed to the Prophet Muhammad (peace be upon him). As with many works in this genre, *Fatḥ al-Rabbānī* exemplifies the enduring Islamic scholarly tradition of preserving, organizing, and elucidating prophetic traditions for the benefit of successive generations of students of Islamic knowledge."
 
 translations[2]{language,sections,path}:
 "en","3","translations/en"
 "ur","3","translations/ur"
 
-sections[3]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-"1","Faith and Islam","الإيمان والإسلام","","Faith and Islam","","","","","ایمان اور اسلام","104","140","104","140"
-"2","Good Deeds","الأعمال الصالحة","","Good Deeds","","","","","نیک اعمال","141","165","141","165"
-"3","Various","متفرقات","","Various","","","","","متفرق","166","192","166","192"
+sections[3]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Faith and Islam","الإيمان والإسلام","","Faith and Islam","","","","","ایمان اور اسلام","104","140","104","140"","ईमान और इस्लाम","நம்பிக்கை மற்றும் இஸ்லாம்","Iman aur Islam","Glaube und Islam","La fe y el islam
+"2","Good Deeds","الأعمال الصالحة","","Good Deeds","","","","","نیک اعمال","141","165","141","165"","नेक कार्य","நல்ல செயல்கள்","Nek Aamaal","Gute Werke","Las buenas obras
+"3","Various","متفرقات","","Various","","","","","متفرق","166","192","166","192"","विविध","பல்வேறு","Mutafarriq","Verschiedenes","Varios

@@ -4,28 +4,14 @@ metadata:
   book_name: "Forty Hadith of an-Nawawi"
   total_hadiths: "42"
   available_languages: "bn,bs,en,fr,hi,id,roman-ur,ru,ta,tr,ur"
+  intro_es: "[AI-translation] Se narra bajo la autoridad del Amir al-Mu'minin, Abu Hafs 'Umar bin al-Jattab (que Allah esté complacido con él), quien dijo: Escuché al Mensajero de Allah (la paz y las bendiciones sean con él) decir: ""Las acciones son juzgadas según las intenciones (niyyah), de modo que a cada hombre le corresponderá lo que haya tenido intención de hacer. Así pues, quien haya emigrado (hijrah) buscando a Allah y a Su Mensajero, su emigración..."
+  intro_de: "[AI-translation] Es wird auf die Autorität des Amirul Mu'minin, Abu Hafs 'Umar bin al-Khattab (ra), überliefert, der sagte: Ich hörte den Gesandten Allahs (ﷺ) sagen: ""Die Taten werden nur nach den Absichten (niyyah) beurteilt, und jedem Menschen wird nur das zuteil, was er beabsichtigt hat. Wer also um Allahs und Seines Gesandten willen auswanderte (hijrah), dessen Auswanderung gilt Allah und Seinem Gesandten."
+  intro_roman-ur: "[AI-translation] Riwayat hai Amirul Mu'minin Abu Hafs Umar bin al-Khattab (ra) se, unhon ne farmaya: maine Rasool-Allah (sallallahu alaihi wasallam) ko yeh farmate huey suna: ""Aamaal ka aitbar niyyaton par hai, aur har shakhs ke liye wohi hai jo usne niyyat ki, pas jis shakhs ki hijrat Allah aur Uske Rasool ki taraf ho, uski hijrat Allah aur Uske Rasool hi ki taraf hai, aur jis shakhs ki hijrat kisi dunyawi ghaayat ke hasool ke liye ho ya kisi aurat se nikah karne ke liye ho, to uski hijrat usi cheez ki taraf hai jiske liye usne hijrat ki."""
+  intro_ru: "[AI-translation] Передано со слов повелителя верующих Абу Хафса Умара ибн аль-Хаттаба (да будет доволен им Аллах), который сказал: я слышал, как Посланник Аллаха (мир ему и благословение) сказал: «Деяния оцениваются по намерениям (нийя), и каждому человеку достанется то, что он намеревался обрести. Так, тот, чье переселение (хиджра) было ради Аллаха и Его Посланника, — его переселение..."
+  intro_ta: "[AI-translation] அமீருல் முஃமினீன் அபூ ஹஃப்ஸ் உமர் பின் அல்-கத்தாப் (ரலி) அவர்களின் அறிவிப்பில் வந்துள்ளது, அவர் கூறினார்: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறுவதை நான் கேட்டேன்: ""செயல்கள் நோக்கங்களைப் (நிய்யா) பொறுத்தே மதிப்பிடப்படும், ஆகவே ஒவ்வொரு மனிதனுக்கும் அவன் நாடியதே கிடைக்கும். ஆகவே, யாருடைய ஹிஜ்ரத் (புலம்பெயர்தல்) அல்லாஹ்வையும் அவனுடைய தூதரையும் நோக்கியிருந்ததோ, அவனுடைய ஹிஜ்ரத்."
+  intro_id: "[AI-translation] Diriwayatkan atas otoritas Amirul Mu'minin, Abu Hafs 'Umar bin al-Khattab (ra) yang berkata: Aku mendengar Rasulullah (ﷺ) bersabda: ""Segala amal perbuatan itu (dinilai) berdasarkan niat, dan setiap orang akan mendapatkan (balasan) sesuai dengan apa yang diniatkannya. Maka barangsiapa yang hijrahnya karena Allah dan Rasul-Nya, hijrahnya itu..."
+  intro_hi: "[AI-translation] अमीरुल मुअ़मिनीन अबू हफ़्स़ उमर बिन अल-ख़त्ताब (रज़ियल्लाहु अन्हु) से रिवायत है कि उन्होंने कहा: मैंने रसूलुल्लाह (सल्लल्लाहु अलैहि व सल्लम) को यह फ़रमाते हुए सुना: ""कर्मों का प्रतिफल नीयत (इरादे) पर निर्भर है, और हर व्यक्ति को वही मिलेगा जिसकी उसने नीयत की। अतः जिसकी हिजरत (प्रवास) अल्लाह और उसके रसूल की ओर हो, उसकी हिजरत..."
   intro: "It is narrated on the authority of Amirul Mu&#039;minin, Abu Hafs &#039;Umar bin al-Khattab (ra) who said:\n\nI heard the Messenger of Allah (ﷺ) say: &quot;Actions are (judged) by motives (niyyah), so each man will have what he intended. Thus, he whose migration (hijrah) was to Allah and His Messenger, his migrati"
-intro_es: "[AI-translation] Se narra bajo la autoridad de Amirul Mu'minin, Abu Hafs 'Umar bin al-Jattab (ra) quien dijo:
-
-Oí al Mensajero de Allah (ﷺ) decir: ""Las acciones son (juzgadas) según los motivos (niyyah), así que cada hombre tendrá lo que pretendía. Así, aquel cuya migración (hijrah) fue hacia Allah y Su Mensajero, su migraci"
-intro_de: "[AI-translation] Es wird auf die Autorität von Amirul Mu'minin, Abu Hafs 'Umar bin al-Khattab (ra) überliefert, der sagte:
-
-Ich hörte den Gesandten Allahs (ﷺ) sagen: „Die Handlungen (werden beurteilt) nach den Absichten (niyyah), und so wird jeder Mensch das haben, was er beabsichtigt hat. Daher: Derjenige, dessen Auswanderung (hijrah) zu Allah und Seinem Gesandten war, dessen Auswander..."
-intro_roman-ur: "[AI-translation] Amirul Mu'minin, Abu Hafs 'Umar bin al-Khattab (ra) se riwayat hai ke unhon ne farmaya:
-
-Maine Rasoolullah (ﷺ) ko farmate hue suna: ""Aamal niyyaton (niyyah) ke mutabiq hain, pas har shakhs ke liye wahi hai jis ki us ne niyyat ki. Pas jis ki hijrat (hijrah) Allah aur uske Rasool ki taraf thi, us ki hijra"
-intro_ru: "[AI-translation] Передается со слов повелителя правоверных Абу Хафса ‘Умара ибн аль-Хаттаба (да будет доволен им Аллах), который сказал:
-
-Я слышал, как Посланник Аллаха (ﷺ) сказал: «Дела (оцениваются) по намерениям (ният), и каждому достанется то, что он намеревался. Так, тот, чье переселение (хиджра) было к Аллаху и Его Посланнику, его переселе»"
-intro_ta: "[AI-translation] அமீருல் முஃமினீன் அபூ ஹஃப்ஸ் உமர் இப்னுல் கத்தாப் (ரழி) அவர்கள் அறிவிப்பதாவது:
-
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறுவதை நான் கேட்டேன்: ""அனைத்து அமல்களும் (தீர்ப்பளிக்கப்படுவது) நிய்யத் (நோக்கம்) கொண்டே. எனவே, ஒவ்வொரு மனிதருக்கும் அவர் நயவித்தது கிடைக்கும். ஆகவே, எவருடைய ஹிஜ்ரத் (புலம் பெயர்வு) அல்லாஹ்வுக்காகவும் அவனுடைய தூதருக்காகவும் இருந்ததோ, அவருடைய ஹிஜ்ரத்"
-intro_id: "[AI-translation] Diriwayatkan dari Amirul Mu'minin, Abu Hafsh 'Umar bin al-Khattab (ra) yang berkata:
-
-Aku mendengar Rasulullah (ﷺ) bersabda: ""Amal-amal itu (dinilai) berdasarkan niat (niyyah), maka setiap orang akan mendapatkan apa yang ia niatkan. Maka barangsiapa yang migrasinya (hijrah) adalah kepada Allah dan Rasul-Nya, maka migrasi"
-intro_hi: "[AI-translation] अमीरुल मोमिनीन, अबू हफ़्स उमर बिन अल-खत्ताब (रज़ि.) से वर्णित है कि उन्होंने कहा:
-
-मैंने अल्लाह के रसूल (ﷺ) को कहते हुए सुना: ""कर्मों का मूल्यांकन नियत (निय्यत) से होता है, अतः प्रत्येक व्यक्ति को वही मिलेगा जो उसने नियत किया। इस प्रकार, जिसकी हिजरत (प्रवास) अल्लाह और उसके रसूल की ओर थी, उसकी हिजरत"
   intro_ar: "عَنْ أَمِيرِ الْمُؤْمِنِينَ أَبِي حَفْصٍ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ: «إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوِ امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ»"
   intro_en: "It is narrated on the authority of Amirul Mu&#039;minin, Abu Hafs &#039;Umar bin al-Khattab (ra) who said:\n\nI heard the Messenger of Allah (ﷺ) say: &quot;Actions are (judged) by motives (niyyah), so each man will have what he intended. Thus, he whose migration (hijrah) was to Allah and His Messenger, his migrati"
   intro_bn: "[AI-translation] আমীরুল মু’মিনীন, আবু হাফস উমর ইবনুল খাত্তাব (রা) হতে বর্ণিত, তিনি বলেন:
@@ -46,5 +32,5 @@ translations[6]{language,sections,path}:
 "tr","1","translations/tr"
 "ur","1","translations/ur"
 
-sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_roman-ur,name_de,name_es,name_ta}:
-"1","Forty Hadith of an-Nawawi","الأربعون النووية","নববির চল্লিশ হাদিস","Forty Hadith of an-Nawawi","Quarante Hadiths de an-Nawawi","Empat Puluh Hadits an-Nawawi","Сорок хадисов ан-Навави","Kırk Hadis - Nevevi","الأربعون النووية","1","42","1","42"","अन-नववी की चालीस हदीस","Chalees Ahadees-e-Nawawi","Vierzig Hadithe von an-Nawawi","Cuarenta hadices de an-Nawawi","அந்நவவீயின் நாற்பது ஹதீஸ்கள்
+sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Forty Hadith of an-Nawawi","الأربعون النووية","নববির চল্লিশ হাদিস","Forty Hadith of an-Nawawi","Quarante Hadiths de an-Nawawi","Empat Puluh Hadits an-Nawawi","Сорок хадисов ан-Навави","Kırk Hadis - Nevevi","الأربعون النووية","1","42","1","42","इमाम नववी की चालीस हदीसें","நவவீயின் நாற்பது ஹதீஸ்கள்","Imam Nawawi ki Chalees Hadees","Vierzig Hadithe von an-Nawawi","Los cuarenta hadices de an-Nawawi"

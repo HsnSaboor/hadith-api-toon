@@ -24,11 +24,18 @@ metadata:
 
 میں نے رسول اللہ (ﷺ) کو فرماتے ہوئے سنا: ""اعمال کا دارومدار نیتوں پر ہے، اور ہر شخص کو وہی ملے گا جس کی اس نے نیت کی۔ پس جس شخص کی ہجرت اللہ اور اس کے رسول کی طرف ہوئی، اس کی ہجر..."
 
-translations[6]{language,sections,path}:
+translations[13]{language,sections,path}:
 "bn","1","translations/bn"
 "bs","1","translations/bs"
+"de","1","translations/de"
 "en","1","translations/en"
+"es","1","translations/es"
 "fr","1","translations/fr"
+"hi","1","translations/hi"
+"id","1","translations/id"
+"roman-ur","1","translations/roman-ur"
+"ru","1","translations/ru"
+"ta","1","translations/ta"
 "tr","1","translations/tr"
 "ur","1","translations/ur"
 

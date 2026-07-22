@@ -19,8 +19,18 @@ metadata:
   intro_en: "Abu Sa’id bin al-Mu’alla (RA) reported, “I was praying when the Messenger of Allah ﷺ  passed by me and called me. I didn’t come to him until I finished praying. Then I came to him and he said, “What prevented you from coming? Didn’t Allah say, ‘O you who believe, respond to Allah and"
   intro_ur: "[AI-translation] ابو سعید بن معلیٰ (رضی اللہ عنہ) بیان کرتے ہیں کہ ""میں نماز پڑھ رہا تھا کہ رسول اللہ ﷺ میرے پاس سے گزرے اور مجھے بلایا۔ میں نماز مکمل کیے بغیر ان کے پاس نہ گیا۔ پھر میں ان کے پاس آیا تو انہوں نے فرمایا: ""تمہیں کس چیز نے آنے سے روکا؟ کیا اللہ نے نہیں فرمایا: 'اے ایمان والو! اللہ اور..."کچھ آپ کو روکنے والا تھا؟ نہیں اللہ نے کہا، 'اے مومنو! اللہ کا جواب دیں'"
 
-translations[2]{language,sections,path}:
+translations[12]{language,sections,path}:
+"bn","26","translations/bn"
+"de","26","translations/de"
 "en","26","translations/en"
+"es","26","translations/es"
+"fr","26","translations/fr"
+"hi","26","translations/hi"
+"id","26","translations/id"
+"roman-ur","26","translations/roman-ur"
+"ru","26","translations/ru"
+"ta","26","translations/ta"
+"tr","26","translations/tr"
 "ur","26","translations/ur"
 
 sections[26]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:

@@ -17,8 +17,18 @@ metadata:
   intro_en: "[AI-translation] Fath al-Rabbani is a scholarly compilation and systematic rearrangement of the hadith corpus attributed to Imam Ahmad ibn Hanbal's Musnad, undertaken to render its vast collection of traditions more accessible for study by organizing them according to thematic and juristic categories rather than the original narrator-based sequence, and compiled through meticulous scholarly effort, the work preserves the chains of transmission and textual content of the hadiths while facilitating easier reference for students of Islamic law, theology, and ethics, and as such, it stands as a significant contribution to the broader tradition of hadith literature, bridging classical scholarship with the practical needs of later students and jurists seeking systematic access to the sayings and practices of the Prophet Muhammad ﷺ."
   intro: "[AI-translation] Fath al-Rabbani is a scholarly compilation and systematic rearrangement of the hadith corpus attributed to Imam Ahmad ibn Hanbal's Musad, undertaken to render its vast collection of traditions more accessible for study by organizing them according to thematic and juristic categories rather than the original narrator-based sequence. Compiled through meticulous scholarly effort, the work preserves the chains of transmission and textual content of the hadiths while facilitating easier reference for students of Islamic law, theology, and ethics. As such, it stands as a significant contribution to the broader tradition of hadith literature, bridging classical scholarship with the practical needs of later students and jurists seeking systematic access to the sayings and practices of the Prophet Muhammad ﷺ."
 
-translations[2]{language,sections,path}:
+translations[12]{language,sections,path}:
+"bn","3","translations/bn"
+"de","3","translations/de"
 "en","3","translations/en"
+"es","3","translations/es"
+"fr","3","translations/fr"
+"hi","3","translations/hi"
+"id","3","translations/id"
+"roman-ur","3","translations/roman-ur"
+"ru","3","translations/ru"
+"ta","3","translations/ta"
+"tr","3","translations/tr"
 "ur","3","translations/ur"
 
 sections[3]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:

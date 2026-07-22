@@ -18,9 +18,18 @@ metadata:
   intro: "[AI-translation] The ""Forty Hadith of Shah Waliullah Dehlawi"" is a compact collection of prophetic traditions compiled by the eminent eighteenth-century Indian Islamic scholar, reformer, and Sufi thinker Shah Waliullah Dehlawi (1703–1762 CE), renowned for his efforts to reconcile the sciences of hadith, jurisprudence, and Sufism within the broader framework of Islamic revivalist thought. Following the venerable tradition of ""Arba'in"" (forty-hadith) compilations popularized by earlier scholars such as Imam al-Nawawi, this work distills essential teachings on faith, ethics, worship, and social conduct into a concise and accessible format intended for both scholarly reflection and general edification. As with other works in this genre, the collection reflects its compiler's broader intellectual project of synthesizing textual authenticity with spiritual insight, offering readers a distilled yet comprehensive entry point into the ethical and doctrinal core of the Islamic prophetic tradition."
 
 
-translations[3]{language,sections,path}:
+translations[12]{language,sections,path}:
+"bn","1","translations/bn"
+"de","1","translations/de"
 "en","1","translations/en"
+"es","1","translations/es"
 "fr","1","translations/fr"
+"hi","1","translations/hi"
+"id","1","translations/id"
+"roman-ur","1","translations/roman-ur"
+"ru","1","translations/ru"
+"ta","1","translations/ta"
+"tr","1","translations/tr"
 "ur","1","translations/ur"
 
 sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:

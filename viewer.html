@@ -359,10 +359,16 @@
                 const line = rawLines[i];
                 if (!line.trim()) continue;
                 currentRecord += (currentRecord ? '\n' : '') + line;
-                // Count unescaped quotes — if even, record is complete
+                // Count unescaped quotes: "" counts as one (escaped quote inside field)
                 let quoteCount = 0;
                 for (let j = 0; j < currentRecord.length; j++) {
-                    if (currentRecord[j] === '"' && (j === 0 || currentRecord[j-1] !== '\\')) quoteCount++;
+                    if (currentRecord[j] === '"') {
+                        if (j + 1 < currentRecord.length && currentRecord[j + 1] === '"') {
+                            j++; // skip the second quote of an escaped pair
+                        } else {
+                            quoteCount++;
+                        }
+                    }
                 }
                 if (quoteCount % 2 === 0) {
                     const parts = parseToonLine(currentRecord);

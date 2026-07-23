@@ -295,7 +295,7 @@
             'sm': 'text-xs', 'md': 'text-sm leading-relaxed', 'lg': 'text-base leading-relaxed', 'xl': 'text-lg leading-relaxed'
         };
 
-        // Parsers
+        // Parsers — CSV-aware: handles quoted fields with embedded newlines
         function parseToonLine(line) {
             const result = [];
             let current = '';
@@ -341,6 +341,41 @@
             }
             result.push(current);
             return result;
+        }
+
+        // Parse a toon text block into data records, handling multiline quoted fields
+        function parseToonRecords(text, headerKey) {
+            const records = [];
+            const rawLines = text.split('\n');
+            let headerIdx = -1;
+            for (let i = 0; i < rawLines.length; i++) {
+                if (rawLines[i].trim().startsWith(headerKey)) { headerIdx = i; break; }
+            }
+            if (headerIdx < 0) return records;
+
+            // Accumulate raw lines into complete CSV records (quoted fields may span lines)
+            let currentRecord = '';
+            for (let i = headerIdx + 1; i < rawLines.length; i++) {
+                const line = rawLines[i];
+                if (!line.trim()) continue;
+                currentRecord += (currentRecord ? '\n' : '') + line;
+                // Count unescaped quotes — if even, record is complete
+                let quoteCount = 0;
+                for (let j = 0; j < currentRecord.length; j++) {
+                    if (currentRecord[j] === '"' && (j === 0 || currentRecord[j-1] !== '\\')) quoteCount++;
+                }
+                if (quoteCount % 2 === 0) {
+                    const parts = parseToonLine(currentRecord);
+                    if (parts.length >= 2) records.push(parts);
+                    currentRecord = '';
+                }
+            }
+            // Flush any remaining record
+            if (currentRecord.trim()) {
+                const parts = parseToonLine(currentRecord);
+                if (parts.length >= 2) records.push(parts);
+            }
+            return records;
         }
 
         // ponytail: metadata values may be multi-line quoted (raw newlines inside
@@ -630,12 +665,7 @@
                 const arResponse = await fetch(BASE_URL + `editions/${currentBook.id}/sections/${sectionId}.toon`);
                 if (!arResponse.ok) throw new Error('Narrations database path missing');
                 const arText = await arResponse.text();
-                const arLines = arText.split('\n').filter(l => l.trim());
-
-                const arHeader = arLines.find(l => l.startsWith('hadiths['));
-                if (!arHeader) throw new Error('Invalid schema alignment');
-                const headerIdx = arLines.indexOf(arHeader);
-                const dataLines = arLines.slice(headerIdx + 1);
+                const dataLines = parseToonRecords(arText, 'hadiths[');
 
                 // Load translation if available
                 let translations = {};
@@ -644,16 +674,9 @@
                         const transResponse = await fetch(BASE_URL + `editions/${currentBook.id}/translations/${lang}/sections/${sectionId}.toon`);
                         if (transResponse.ok) {
                             const transText = await transResponse.text();
-                            const transLines = transText.split('\n').filter(l => l.trim());
-                            const transHeader = transLines.find(l => l.startsWith('hadiths['));
-                            if (transHeader) {
-                                const transHeaderIdx = transLines.indexOf(transHeader);
-                                for (let i = transHeaderIdx + 1; i < transLines.length; i++) {
-                                    const parts = parseToonLine(transLines[i]);
-                                    if (parts.length >= 2) {
-                                        translations[parts[0]] = parts[1];
-                                    }
-                                }
+                            const transRecords = parseToonRecords(transText, 'hadiths[');
+                            for (const parts of transRecords) {
+                                translations[parts[0]] = parts[1];
                             }
                         }
                     } catch (e) {
@@ -691,8 +714,7 @@
                         <div class="space-y-6" id="hadithListContainer">
                 `;
 
-                for (const line of dataLines) {
-                    const parts = parseToonLine(line);
+                for (const parts of dataLines) {
                     if (parts.length < 2) continue;
 
                     const hadithNum = parts[0];
@@ -927,17 +949,13 @@
                     const arRes = await fetch(BASE_URL + `editions/${b.bookId}/sections/${foundSectionId}.toon`);
                     if (!arRes.ok) continue;
                     const arText = await arRes.text();
-                    const arLines = arText.split('\n').filter(l => l.trim());
-                    const targetArLine = arLines.find(line => {
-                        const parts = parseToonLine(line);
-                        return parts[0] === b.hadithNum;
-                    });
+                    const arRecords = parseToonRecords(arText, 'hadiths[');
+                    const arMatch = arRecords.find(parts => parts[0] === b.hadithNum);
                     
-                    if (!targetArLine) continue;
-                    const arParts = parseToonLine(targetArLine);
-                    const arabic = arParts[1];
-                    const grades = arParts[2];
-                    const reference = arParts[3];
+                    if (!arMatch) continue;
+                    const arabic = arMatch[1];
+                    const grades = arMatch[2];
+                    const reference = arMatch[3];
                     
                     // Load translation in the currently selected language (falls back to
                     // English when the book has no translation in that language)
@@ -950,13 +968,10 @@
                     }
                     if (transRes.ok) {
                         const transText = await transRes.text();
-                        const transLines = transText.split('\n').filter(l => l.trim());
-                        const targetTransLine = transLines.find(line => {
-                            const parts = parseToonLine(line);
-                            return parts[0] === b.hadithNum;
-                        });
-                        if (targetTransLine) {
-                            translation = parseToonLine(targetTransLine)[1];
+                        const transRecords = parseToonRecords(transText, 'hadiths[');
+                        const transMatch = transRecords.find(parts => parts[0] === b.hadithNum);
+                        if (transMatch) {
+                            translation = transMatch[1];
                         }
                     }
                     

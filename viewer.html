@@ -349,7 +349,8 @@
             const rawLines = text.split('\n');
             let headerIdx = -1;
             for (let i = 0; i < rawLines.length; i++) {
-                if (rawLines[i].trim().startsWith(headerKey)) { headerIdx = i; break; }
+                const t = rawLines[i].trim().replace(/^"|"$/g, '');
+                if (t.startsWith(headerKey)) { headerIdx = i; break; }
             }
             if (headerIdx < 0) return records;
 

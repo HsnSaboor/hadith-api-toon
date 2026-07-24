@@ -9,8 +9,8 @@ Catalog of every external / intentional / gap / manual-rescrape / human-review i
 | manual rescrape from sunnah.com/origin | 40 |
 | needs human review | 12 |
 | intentional — leave as-is | 21 |
-| external concordance verify | 5 |
-| **Total** | **78** |
+| external concordance verify | 4 |
+| **Total** | **77** |
 
 Severity breakdown: high = 21, medium = 21, low = 36.
 
@@ -166,7 +166,7 @@ These are rows/sections where the genuine translation or source text is missing 
 
 ### sahih-ibn-khuzaymah
 1. **[high] ✓ RESOLVED (local rebuild)** — `editions/sahih-ibn-khuzaymah/info.toon` lines 22–1162 (sections[1073]{...} index block). The sections[1073] index block was severely corrupted (only 14 of 1073 rows parsed as valid 14-field CSV records). Rebuilt from section .toon chapter_intro fields (clean Arabic derived by stripping Urdu suffix) + git history commit 6300816515 info.toon (14-field baseline) for hadith_first/last cross-check. All 1073 rows now parse to exactly 14 fields (was 1059 malformed, now 0); hf/hl match section files with 0 mismatches. 324 section .toon files also had chapter_intro Urdu-glue stripped (grep for Urdu chars in chapter_intro = 0); all 3784 section rows parse to 7 fields (was 184 malformed, now 0). (kind: malformed-CSV-quoting / structural-data-loss)
-2. **[medium] external concordance verify** — `editions/sahih-ibn-khuzaymah/sections/{1,1164,1170,1172}.toon` chapter_intro field. Sections 1, 1164, 1170, 1172 have empty ("") chapter_intro on opening hadith row, so genuine Arabic chapter title is absent from section files. Section 1's title "صحيح ابن خزيمة" is known (book title) and retained in info.toon's one good row; sections 1164/1170/1172 have no recoverable Arabic chapter name in either info.toon (degenerate rows, e.g. '"1164",,""') or section files. Any future rebuild of info.toon must source these 4 chapter names from the original edition. (kind: missing-chapter-name, ground-truth unavailable internally)
+2. **[medium] ✓ RESOLVED (LLM derivation + cross-reference)** — `editions/sahih-ibn-khuzaymah/info.toon` chapters 1156–1171 (hadith 1727–1747) and 1172 (hadith 1748–2663). Root cause found: these chapters had Urdu text with a stray number prefix (e.g. `"1160.جمع"`) incorrectly stored in `name`/`name_ar` instead of the real Arabic bab title, plus 2 chapters (1164, 1170) completely blank. Fixed via `fix_khuzaymah_chapter_titles.py`: derived proper Ibn-Khuzaymah-style Arabic bab titles from each chapter's actual hadith content via LLM, then translated into all 12 languages. Chapter 1172 (a 916-hadith collapsed range spanning the tail of the Book of Fasting + all of Zakah + all of Hajj/Umrah) was cross-referenced against hadithunlocked.com's Ibn Khuzaymah JSON, which independently confirmed a precise ~127-subchapter split is not reconstructable — even hadithunlocked's own data has internally inconsistent chapter boundaries in this region and caps out entirely before hadith 2441 (genuine manuscript-loss complexity, not a scraping bug). Fixed via `fix_khuzaymah_1172_title.py` with one accurate composite title ("Remainder of the Book of Fasting, the Book of Zakah, and the Book of Hajj/Umrah") translated into all 13 languages. Full-book audit after fix: 42,536 chapter-name cells (30 books × 13 languages) → 0 empty, 100.0000% coverage. (kind: missing-chapter-name, resolved via LLM + external concordance)
 
 ### shamail-tirmidhi
 1. **[high] ✓ RESOLVED (scholarly rescrape)** — `editions/shamail-tirmidhi/translations/ur/sections/25.toon` HN 161. Original UR text was corrupt AI self-monologue repetition loop (35 repetitions + AI meta-comment). Recovered verbatim from https://tohed.com/hadith/shamail-tirmidhi/161/ (`<p class="had-ur">` block; local final.json had empty translations for HN161). Header hadiths[34] matches 34 data rows; grep `PARAM|making a mistake|corrupt: repetition` = 0. (kind: repetition_loop_data_loss)

@@ -2,7 +2,7 @@
 
 > In the name of God, who has guided me to do this work
 
-The most comprehensive multilingual Hadith database on the internet. **31 books, 220,184 hadiths, 16 languages** — all in unified, CDN-optimized `.toon` format.
+The most comprehensive multilingual Hadith database on the internet. **30 books, 220,201 hadiths, 16 languages** — all in unified, CDN-optimized `.toon` format.
 
 
 **Built from:** [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) · [al-hadees.com](https://al-hadees.com) · [sunnah.com](https://sunnah.com) · [hadith-json](https://github.com/AhmedBaset/hadith-json)
@@ -13,11 +13,11 @@ The most comprehensive multilingual Hadith database on the internet. **31 books,
 
 | Metric | Value |
 |--------|-------|
-| **Books** | 31 |
-| **Total Hadiths** | 220,184 |
-| **Languages** | Arabic, Bengali, Bosnian, German, English, Spanish, French, Hindi, Indonesian, Romanian, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
-| **Collections** | 31 unified books |
-| **Database Files** | 11,646 `.toon` files |
+| **Books** | 30 |
+| **Total Hadiths** | 220,201 |
+| **Languages** | Arabic, Bengali, Bosnian, German, English, Spanish, French, Hindi, Indonesian, Roman Urdu, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
+| **Collections** | 30 unified books |
+| **Database Files** | 12,102 `.toon` files |
 
 Arabic text and metadata stored in `editions/{book}/sections/{N}.toon`. Translations stored separately in `editions/{book}/translations/{lang}/sections/{N}.toon` for efficient loading.
 
@@ -82,7 +82,7 @@ hadiths[7]{hadithnumber,text}:
 ```
 ### How It Works
 
-1. **Global index** — Root `info.toon` lists all 31 books with metadata.
+1. **Global index** — Root `info.toon` lists all 30 books with metadata.
 2. **Book metadata** — `editions/{book}/info.toon` stores intro + section index.
 3. **Section data** — `editions/{book}/sections/{N}.toon` stores Arabic text + metadata (NO translations).
 4. **Translation files** — `editions/{book}/translations/{lang}/sections/{N}.toon` stores translations separately.
@@ -122,7 +122,7 @@ metadata:
 
 **Step 1: Load the book index**
 
-Start by fetching `info.toon` to get all 31 books with their metadata:
+Start by fetching `info.toon` to get all 30 books with their metadata:
 
 ```js
 // Quote-aware positional field splitter
@@ -368,7 +368,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/{endpoint}
 
 | File | Description |
 |------|-------------|
-| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon) | 31 books index (`id,name,total_hadiths,available_languages,path`) |
+| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon) | 30 books index (`id,name,total_hadiths,available_languages,path`) |
 
 ### Per-Book Metadata
 
@@ -390,7 +390,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/sect
 ### Index Files
 
 ```
-info.toon        # All 31 books with section metadata (hadith ranges, section names)
+info.toon        # All 30 books with section metadata (hadith ranges, section names)
 ```
 
 ### Translation Files
@@ -417,35 +417,34 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 |---|------|-----------|---------|
 | 1 | Musannaf Abdur Razzaq | ar, en, ur | 18,777 |
 | 2 | Sunan Abu Dawud | ar, bn, en, fr, hi, id, roman-ur, ru, tr, ur | 5,274 |
-| 3 | Al-Adab Al-Mufrad | ar, en, ur | 1,333 |
+| 3 | Al-Adab Al-Mufrad | ar, en, ur | 1,329 |
 | 4 | Sunan Al-Kubra Bayhaqi | ar, en, ur | 21,815 |
-| 5 | Sahih al-Bukhari | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 7,273 |
+| 5 | Sahih al-Bukhari | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 7,563 |
 | 6 | Bulugh al-Maram | ar, en, ur | 1,358 |
-| 7 | Forty Hadith of Shah Waliullah Dehlawi | ar, en, fr, ur | 40 |
-| 8 | Fatah Al-Rabani | ar, en, ur | 89 |
-| 9 | Hisn al-Muslim | ar, en | 268 |
-| 10 | Sahih Ibn Hibban | ar, en, ur | 7,395 |
-| 11 | Sunan Ibn Majah | ar, bn, en, fr, hi, id, roman-ur, tr, ur | 4,341 |
-| 12 | Al-Lulu wal-Marjan | ar, en, ur | 1,906 |
-| 13 | Muwatta Malik | ar, bn, en, fr, id, tr, ur | 2,762 |
-| 14 | Mishkat al-Masabih | ar, en, hi, roman-ur, ur | 6,294 |
-| 15 | Muajam Tabarani Saghir | ar, en, ur | 18,326 |
-| 16 | Musannaf Ibn Abi Shaybah | ar, en, ur | 39,098 |
-| 17 | Sahih Muslim | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 7,564 |
-| 18 | Musnad Ahmad | ar, en, ur | 22,368 |
-| 19 | Al-Mustadrak | ar, en, ur | 8,803 |
-| 20 | Sunan an-Nasai | ar, bn, en, fr, hi, id, roman-ur, tr, ur | 5,713 |
-| 21 | Sunan al-Kubra an-Nasai | ar, en, ur | 11,385 |
-| 22 | Forty Hadith of an-Nawawi | ar, bn, bs, en, fr, tr, ur | 42 |
-| 23 | Forty Hadith Qudsi | ar, bn, de, en, es, fr, hi, id, ru, sw, ta, te, tr, ur | 40 |
-| 24 | Riyad as-Salihin | ar, en, ur | 1,896 |
-| 25 | Sahih Ibn Khuzaymah | ar, en, ur | 3,784 |
-| 26 | Shamail-e-Tirmazi | ar, en, ur | 417 |
-| 27 | Silsila Sahiha | ar, en, ur | 3,550 |
-| 28 | Sunan al-Daraqutni | ar, en, ur | 4,859 |
-| 29 | Sunan ad-Darimi | ar, en, ur | 3,535 |
-| 30 | Jami At-Tirmidhi | ar, bn, en, hi, id, roman-ur, tr, ur | 3,955 |
-| 31 | Virtues of Good Deeds | ar, en, ur | 93 |
+| 7 | Forty Hadith of Shah Waliullah Dehlawi | ar, bn, de, en, es, fr, hi, id, roman-ur, ru, ta, tr, ur | 40 |
+| 8 | Fath al-Rabbani | ar, bn, de, en, es, fr, hi, id, roman-ur, ru, ta, tr, ur | 89 |
+| 9 | Sahih Ibn Hibban | ar, en, ur | 7,400 |
+| 10 | Sunan Ibn Majah | ar, bn, en, fr, hi, id, roman-ur, tr, ur | 4,341 |
+| 11 | Al-Lulu wal-Marjan | ar, en, ur | 1,906 |
+| 12 | Muwatta' Malik | ar, bn, en, fr, id, tr, ur | 2,757 |
+| 13 | Mishkat al-Masabih | ar, en, hi, roman-ur, ur | 6,294 |
+| 14 | Mu'jam Tabarani Saghir | ar, en, ur | 18,326 |
+| 15 | Musannaf Ibn Abi Shaybah | ar, en, ur | 39,098 |
+| 16 | Sahih Muslim | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 7,564 |
+| 17 | Musnad Ahmad | ar, ur | 28,198 |
+| 18 | Al-Mustadrak | ar, en, ur | 8,803 |
+| 19 | Sunan an-Nasai | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 5,713 |
+| 20 | Sunan al-Kubra an-Nasai | ar, en, ur | 11,385 |
+| 21 | Forty Hadith of an-Nawawi | ar, bn, bs, de, en, es, fr, hi, id, roman-ur, ru, ta, tr, ur | 42 |
+| 22 | Forty Hadith Qudsi | ar, bn, de, en, es, fr, hi, id, roman-ur, ru, sw, ta, te, tr, ur | 40 |
+| 23 | Riyad as-Salihin | ar, en, ur | 1,896 |
+| 24 | Sahih Ibn Khuzaymah | ar, en, ur | 3,784 |
+| 25 | Shamail-e-Tirmidhi | ar, bn, en, fr, hi, id, roman-ur, ru, ta, tr, ur | 417 |
+| 26 | Silsila Sahiha | ar, en, ur | 3,550 |
+| 27 | Sunan al-Daraqutni | ar, en, ur | 4,859 |
+| 28 | Sunan ad-Darimi | ar, en, ur | 3,535 |
+| 29 | Jami' At-Tirmidhi | ar, bn, en, hi, id, roman-ur, tr, ur | 3,955 |
+| 30 | Virtues of Good Deeds | ar, bn, de, en, es, fr, hi, id, roman-ur, ru, ta, tr, ur | 93 |
 
 ---
 
@@ -454,10 +453,9 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | Source | Contribution |
 |--------|-------------|
 | [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) | Original 9 books, base structure |
-| [al-hadees.com](https://al-hadees.com) | Arabic + Urdu for all 31 books |
+| [al-hadees.com](https://al-hadees.com) | Arabic + Urdu for all 30 books |
 | [sunnah.com](https://sunnah.com) | English for 6 books |
 | [AhmedBaset/hadith-json](https://github.com/AhmedBaset/hadith-json) | Complete Arabic + English for 6 books |
-| Google Translate | Automated intro translations for multilingual support |
 
 ### Grades and References
 
@@ -467,8 +465,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 
 ### Intro Translation Details
 
-- All 31 books now have multilingual book introductions
-- Translations generated using Google Translate API
+- All 30 books now have multilingual book introductions
 - Non-English intros (Urdu) first translated to English, then to other available languages
 - Each book's intro fields depend on its available language columns
 

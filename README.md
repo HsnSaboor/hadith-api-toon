@@ -67,8 +67,8 @@ metadata:
   intro: "Book introduction"
   intro_ur: "Book introduction in Urdu"
 
-sections[97]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last}:
-  1,"Revelation","بدء الوحي",... ,1,7,1,7
+sections[97]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+  1,"Revelation","بدء الوحي",... ,1,7,1,7,...
 
 # editions/{book}/sections/1.toon (Arabic + metadata only)
 hadiths[7]{hadithnumber,arabic,grades,reference,international_number,narrator_chain,chapter_intro}:
@@ -169,14 +169,14 @@ console.log(books[0]); // { id: 'abdurrazzaq', name: 'Musannaf Abdur Razzaq', ..
 Fetch `editions/{book}/info.toon` to get:
 - Available translations index (language codes, section counts, paths)
 - Section index with hadith ranges
-- Translated section/chapter names in all available languages (name_ar, name_bn, name_en, name_fr, name_id, name_ru, name_tr, name_ur)
+- Translated section/chapter names in all available languages (name_ar, name_bn, name_en, name_fr, name_id, name_ru, name_tr, name_ur, name_hi, name_ta, name_roman-ur, name_de, name_es)
 - Book introduction in multiple languages
 
 ```js
 const bookInfo = await fetch(`https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/info.toon`);
 // Parse to get:
 // - translations table: language, sections, path
-// - sections table: id, name, name_ar, name_bn, name_en, name_fr, name_id, name_ru, name_tr, name_ur, hadith_first, hadith_last
+// - sections table: id, name, name_ar, name_bn, name_en, name_fr, name_id, name_ru, name_tr, name_ur, name_hi, name_ta, name_roman-ur, name_de, name_es, hadith_first, hadith_last
 ```
 
 **Step 3: Load hadiths**

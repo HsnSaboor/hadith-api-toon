@@ -32,6 +32,6 @@ translations[12]{language,sections,path}:
 "ur","3","translations/ur"
 
 sections[3]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
-"1","Faith and Islam","الإيمان والإسلام","","Faith and Islam","","","","","ایمان اور اسلام","104","140","104","140","ईमान और इस्लाम","நம்பிக்கை மற்றும் இஸ்லாம்","Iman aur Islam","Glaube und Islam","Fe e Islam"
-"2","Good Deeds","الأعمال الصالحة","","Good Deeds","","","","","نیک اعمال","141","165","141","165","नेक कार्य","நல்ல செயல்கள்","Neik Aamaal","Gute Taten","Buenas obras"
-"3","Various","متفرقات","","Various","","","","","متفرق","166","192","166","192","विविध","பலவகை","Mukhtalif","Verschiedenes","Varios"
+"1","Faith and Islam","الإيمان والإسلام","ঈমান ও ইসলাম","Faith and Islam","La foi et l'islam","Iman dan Islam","Вера и Ислам","İman ve İslam","ایمان اور اسلام","104","140","104","140","ईमान और इस्लाम","நம்பிக்கை மற்றும் இஸ்லாம்","Iman aur Islam","Glaube und Islam","Fe e Islam"
+"2","Good Deeds","الأعمال الصالحة","সৎকর্ম","Good Deeds","Les bonnes œuvres","Amal-amal Kebaikan","Добрые дела","Güzel Ameller","نیک اعمال","141","165","141","165","नेक कार्य","நல்ல செயல்கள்","Neik Aamaal","Gute Taten","Buenas obras"
+"3","Various","متفرقات","বিভিন্ন","Various","Divers","Berbagai-bagai","Разное","Çeşitli","متفرق","166","192","166","192","विविध","பலவகை","Mukhtalif","Verschiedenes","Varios"

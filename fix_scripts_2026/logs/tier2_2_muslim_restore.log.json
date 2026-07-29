@@ -1,0 +1,757 @@
+[
+  {
+    "file": "editions/muslim/translations/en/sections/1.toon",
+    "changes": [
+      {
+        "hn": "397",
+        "old_len": 62,
+        "new_len": 219
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/11.toon",
+    "changes": [
+      {
+        "hn": "2135",
+        "old_len": 68,
+        "new_len": 970
+      },
+      {
+        "hn": "2161",
+        "old_len": 78,
+        "new_len": 895
+      },
+      {
+        "hn": "2212",
+        "old_len": 67,
+        "new_len": 159
+      },
+      {
+        "hn": "2234",
+        "old_len": 74,
+        "new_len": 200
+      },
+      {
+        "hn": "2261",
+        "old_len": 67,
+        "new_len": 543
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/12.toon",
+    "changes": [
+      {
+        "hn": "2307",
+        "old_len": 76,
+        "new_len": 764
+      },
+      {
+        "hn": "2346",
+        "old_len": 61,
+        "new_len": 738
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/13.toon",
+    "changes": [
+      {
+        "hn": "2603",
+        "old_len": 62,
+        "new_len": 1144
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/14.toon",
+    "changes": [
+      {
+        "hn": "2786",
+        "old_len": 67,
+        "new_len": 185
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/15.toon",
+    "changes": [
+      {
+        "hn": "2997",
+        "old_len": 63,
+        "new_len": 553
+      },
+      {
+        "hn": "3148",
+        "old_len": 65,
+        "new_len": 584
+      },
+      {
+        "hn": "3233",
+        "old_len": 65,
+        "new_len": 441
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/16.toon",
+    "changes": [
+      {
+        "hn": "3398",
+        "old_len": 58,
+        "new_len": 592
+      },
+      {
+        "hn": "3407",
+        "old_len": 53,
+        "new_len": 365
+      },
+      {
+        "hn": "3463",
+        "old_len": 66,
+        "new_len": 813
+      },
+      {
+        "hn": "3489",
+        "old_len": 53,
+        "new_len": 378
+      },
+      {
+        "hn": "3544",
+        "old_len": 77,
+        "new_len": 823
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/17.toon",
+    "changes": [
+      {
+        "hn": "3573",
+        "old_len": 77,
+        "new_len": 897
+      },
+      {
+        "hn": "3584",
+        "old_len": 57,
+        "new_len": 116
+      },
+      {
+        "hn": "3601",
+        "old_len": 54,
+        "new_len": 667
+      },
+      {
+        "hn": "3604",
+        "old_len": 57,
+        "new_len": 793
+      },
+      {
+        "hn": "3616",
+        "old_len": 62,
+        "new_len": 1054
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/18.toon",
+    "changes": [
+      {
+        "hn": "3710",
+        "old_len": 75,
+        "new_len": 805
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/2.toon",
+    "changes": [
+      {
+        "hn": "542",
+        "old_len": 64,
+        "new_len": 567
+      },
+      {
+        "hn": "661",
+        "old_len": 77,
+        "new_len": 710
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/22.toon",
+    "changes": [
+      {
+        "hn": "4022",
+        "old_len": 51,
+        "new_len": 187
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/24.toon",
+    "changes": [
+      {
+        "hn": "4186",
+        "old_len": 60,
+        "new_len": 663
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/25.toon",
+    "changes": [
+      {
+        "hn": "4206",
+        "old_len": 63,
+        "new_len": 152
+      },
+      {
+        "hn": "4232",
+        "old_len": 54,
+        "new_len": 1063
+      },
+      {
+        "hn": "4233",
+        "old_len": 61,
+        "new_len": 468
+      },
+      {
+        "hn": "4234",
+        "old_len": 75,
+        "new_len": 986
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/27.toon",
+    "changes": [
+      {
+        "hn": "4261",
+        "old_len": 55,
+        "new_len": 344
+      },
+      {
+        "hn": "4286",
+        "old_len": 73,
+        "new_len": 603
+      },
+      {
+        "hn": "4308",
+        "old_len": 59,
+        "new_len": 420
+      },
+      {
+        "hn": "4315",
+        "old_len": 57,
+        "new_len": 735
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/30.toon",
+    "changes": [
+      {
+        "hn": "4475",
+        "old_len": 67,
+        "new_len": 406
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/32.toon",
+    "changes": [
+      {
+        "hn": "4630",
+        "old_len": 50,
+        "new_len": 382
+      },
+      {
+        "hn": "4642",
+        "old_len": 66,
+        "new_len": 734
+      },
+      {
+        "hn": "4652",
+        "old_len": 55,
+        "new_len": 424
+      },
+      {
+        "hn": "4680",
+        "old_len": 50,
+        "new_len": 867
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/33.toon",
+    "changes": [
+      {
+        "hn": "4725",
+        "old_len": 77,
+        "new_len": 842
+      },
+      {
+        "hn": "4727",
+        "old_len": 62,
+        "new_len": 303
+      },
+      {
+        "hn": "4785",
+        "old_len": 62,
+        "new_len": 954
+      },
+      {
+        "hn": "4911",
+        "old_len": 50,
+        "new_len": 688
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/34.toon",
+    "changes": [
+      {
+        "hn": "5043",
+        "old_len": 56,
+        "new_len": 675
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/35.toon",
+    "changes": [
+      {
+        "hn": "5092",
+        "old_len": 58,
+        "new_len": 912
+      },
+      {
+        "hn": "5124",
+        "old_len": 78,
+        "new_len": 641
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/36.toon",
+    "changes": [
+      {
+        "hn": "5135",
+        "old_len": 54,
+        "new_len": 452
+      },
+      {
+        "hn": "5239",
+        "old_len": 76,
+        "new_len": 579
+      },
+      {
+        "hn": "5246",
+        "old_len": 60,
+        "new_len": 425
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/39.toon",
+    "changes": [
+      {
+        "hn": "5680",
+        "old_len": 57,
+        "new_len": 566
+      },
+      {
+        "hn": "5707",
+        "old_len": 51,
+        "new_len": 713
+      },
+      {
+        "hn": "5765",
+        "old_len": 256,
+        "new_len": 891
+      },
+      {
+        "hn": "5787",
+        "old_len": 68,
+        "new_len": 547
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/4.toon",
+    "changes": [
+      {
+        "hn": "853",
+        "old_len": 63,
+        "new_len": 299
+      },
+      {
+        "hn": "868",
+        "old_len": 70,
+        "new_len": 796
+      },
+      {
+        "hn": "940",
+        "old_len": 64,
+        "new_len": 719
+      },
+      {
+        "hn": "970",
+        "old_len": 76,
+        "new_len": 525
+      },
+      {
+        "hn": "1040",
+        "old_len": 69,
+        "new_len": 1212
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/43.toon",
+    "changes": [
+      {
+        "hn": "5965",
+        "old_len": 60,
+        "new_len": 488
+      },
+      {
+        "hn": "6013",
+        "old_len": 55,
+        "new_len": 408
+      },
+      {
+        "hn": "6024",
+        "old_len": 57,
+        "new_len": 256
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/44.toon",
+    "changes": [
+      {
+        "hn": "6207",
+        "old_len": 76,
+        "new_len": 924
+      },
+      {
+        "hn": "6241",
+        "old_len": 67,
+        "new_len": 362
+      },
+      {
+        "hn": "6298",
+        "old_len": 68,
+        "new_len": 1062
+      },
+      {
+        "hn": "6307",
+        "old_len": 69,
+        "new_len": 575
+      },
+      {
+        "hn": "6324",
+        "old_len": 67,
+        "new_len": 486
+      },
+      {
+        "hn": "6334",
+        "old_len": 65,
+        "new_len": 433
+      },
+      {
+        "hn": "6361",
+        "old_len": 64,
+        "new_len": 1026
+      },
+      {
+        "hn": "6393",
+        "old_len": 50,
+        "new_len": 473
+      },
+      {
+        "hn": "6412",
+        "old_len": 52,
+        "new_len": 650
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/45.toon",
+    "changes": [
+      {
+        "hn": "6515",
+        "old_len": 72,
+        "new_len": 847
+      },
+      {
+        "hn": "6525",
+        "old_len": 57,
+        "new_len": 534
+      },
+      {
+        "hn": "6556",
+        "old_len": 59,
+        "new_len": 1168
+      },
+      {
+        "hn": "6705",
+        "old_len": 79,
+        "new_len": 826
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/48.toon",
+    "changes": [
+      {
+        "hn": "6805",
+        "old_len": 63,
+        "new_len": 580
+      },
+      {
+        "hn": "6822",
+        "old_len": 74,
+        "new_len": 725
+      },
+      {
+        "hn": "6826",
+        "old_len": 79,
+        "new_len": 1215
+      },
+      {
+        "hn": "6832",
+        "old_len": 63,
+        "new_len": 578
+      },
+      {
+        "hn": "6833",
+        "old_len": 61,
+        "new_len": 765
+      },
+      {
+        "hn": "6888",
+        "old_len": 59,
+        "new_len": 591
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/5.toon",
+    "changes": [
+      {
+        "hn": "1221",
+        "old_len": 65,
+        "new_len": 609
+      },
+      {
+        "hn": "1222",
+        "old_len": 65,
+        "new_len": 588
+      },
+      {
+        "hn": "1256",
+        "old_len": 73,
+        "new_len": 673
+      },
+      {
+        "hn": "1351",
+        "old_len": 65,
+        "new_len": 274
+      },
+      {
+        "hn": "1354",
+        "old_len": 63,
+        "new_len": 587
+      },
+      {
+        "hn": "1358",
+        "old_len": 71,
+        "new_len": 598
+      },
+      {
+        "hn": "1366",
+        "old_len": 65,
+        "new_len": 500
+      },
+      {
+        "hn": "1397",
+        "old_len": 74,
+        "new_len": 496
+      },
+      {
+        "hn": "1488",
+        "old_len": 75,
+        "new_len": 935
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/50.toon",
+    "changes": [
+      {
+        "hn": "6952",
+        "old_len": 58,
+        "new_len": 591
+      },
+      {
+        "hn": "6977",
+        "old_len": 54,
+        "new_len": 518
+      },
+      {
+        "hn": "6986",
+        "old_len": 61,
+        "new_len": 991
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/51.toon",
+    "changes": [
+      {
+        "hn": "7034",
+        "old_len": 67,
+        "new_len": 1013
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/52.toon",
+    "changes": [
+      {
+        "hn": "7083",
+        "old_len": 60,
+        "new_len": 556
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/53.toon",
+    "changes": [
+      {
+        "hn": "7134",
+        "old_len": 58,
+        "new_len": 361
+      },
+      {
+        "hn": "7163",
+        "old_len": 58,
+        "new_len": 694
+      },
+      {
+        "hn": "7179",
+        "old_len": 68,
+        "new_len": 735
+      },
+      {
+        "hn": "7202",
+        "old_len": 50,
+        "new_len": 429
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/54.toon",
+    "changes": [
+      {
+        "hn": "7240",
+        "old_len": 67,
+        "new_len": 778
+      },
+      {
+        "hn": "7259",
+        "old_len": 56,
+        "new_len": 226
+      },
+      {
+        "hn": "7371",
+        "old_len": 66,
+        "new_len": 234
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/56.toon",
+    "changes": [
+      {
+        "hn": "7525",
+        "old_len": 73,
+        "new_len": 623
+      },
+      {
+        "hn": "7549",
+        "old_len": 54,
+        "new_len": 387
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/6.toon",
+    "changes": [
+      {
+        "hn": "1668",
+        "old_len": 61,
+        "new_len": 898
+      },
+      {
+        "hn": "1791",
+        "old_len": 63,
+        "new_len": 711
+      },
+      {
+        "hn": "1793",
+        "old_len": 75,
+        "new_len": 868
+      },
+      {
+        "hn": "1794",
+        "old_len": 68,
+        "new_len": 1074
+      },
+      {
+        "hn": "1796",
+        "old_len": 70,
+        "new_len": 613
+      },
+      {
+        "hn": "1813",
+        "old_len": 74,
+        "new_len": 578
+      },
+      {
+        "hn": "1840",
+        "old_len": 74,
+        "new_len": 391
+      },
+      {
+        "hn": "1874",
+        "old_len": 67,
+        "new_len": 577
+      },
+      {
+        "hn": "1885",
+        "old_len": 64,
+        "new_len": 475
+      }
+    ]
+  },
+  {
+    "file": "editions/muslim/translations/en/sections/7.toon",
+    "changes": [
+      {
+        "hn": "1984",
+        "old_len": 70,
+        "new_len": 484
+      },
+      {
+        "hn": "2009",
+        "old_len": 90,
+        "new_len": 264
+      }
+    ]
+  }
+]

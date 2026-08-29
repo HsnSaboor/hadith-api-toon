@@ -1,4 +1,4 @@
-# Databases
+# Databases & Dumps
 db/
 *.sqlite
 *.sqlite3
@@ -49,12 +49,17 @@ Thumbs.db
 *chat*.md
 session-chat.md
 
-# Working Plans & Architecture Drafts
+# Working Plans, Audits & Architecture Drafts
 *_PLAN*.md
-*_ISSUES*.md
-DATASET_FIX_PLAN_2026.md
-DATASET_ISSUES_2026.md
-SEARCH_ARCHITECTURE_PLAN.md
+*_AUDIT*.md
+*_REPORT*.md
+*_VERDICT*.md
+*audit*.md
+*report*.md
+*.log
+*.log.json
+*.txt
+*.json
 
 # Scraped Data & Upstream Repos
 scraped_data/
@@ -72,42 +77,20 @@ sandbox/
 scratch/
 output/
 backfill_tasks/
-scripts/cache/
-fix_scripts_2026/logs/
+scripts/
+fix_scripts_2026/
 logs/
 
-# Logs & Audit Dumps
-*.log
-*.log.json
-audit_*.toon
-random_*.toon
-checksums.txt
-intro_en.txt
-*.gz
-*.br
+# Development & Scraping Scripts
+*.py
+*.js
 
-# One-off Scripts & Scrapers
-build_*.py
-check_*.py
-convert_*.py
-discover_languages.py
-format_*.py
-inject_*.py
-scrape_*.py
-translate_intro.py
-update_*.py
-test_*.py
-sunnah.js
-scripts/
-
-# Ensure dataset files and core repo files are never ignored
-!editions/**/*.toon
-!editions/**/info.toon
-!editions/**/metadata.toon
+# Explicitly whitelist core dataset and user-facing repo files
+!editions/**
+!Hadith Books Images/**
 !info.toon
 !KNOWN_ISSUES.md
 !README.md
 !USAGE.md
 !viewer.html
-
-
+!.gitignore

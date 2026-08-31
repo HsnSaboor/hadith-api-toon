@@ -10,7 +10,7 @@ books[30]{id,name,total_hadiths,available_languages,path}:
 "ibnhibban","Sahih Ibn Hibban","7400","ar,en,ur","editions/ibnhibban"
 "ibnmajah","Sunan Ibn Majah","4341","ar,bn,en,fr,hi,id,roman-ur,tr,ur","editions/ibnmajah"
 "lulu-wal-marjan","Al-Lulu wal-Marjan","1906","ar,en,ur","editions/lulu-wal-marjan"
-"malik","Muwatta' Malik","2757","ar,bn,en,fr,id,tr,ur","editions/malik"
+"malik","Muwatta' Malik","1858","ar,bn,en,fr,id,tr,ur","editions/malik"
 "mishkat","Mishkat al-Masabih","6294","ar,en,hi,roman-ur,ur","editions/mishkat"
 "muajam-tabarani-saghir","Mu'jam Tabarani Saghir","18326","ar,en,ur","editions/muajam-tabarani-saghir"
 "musannaf-ibn-abi-shaybah","Musannaf Ibn Abi Shaybah","39098","ar,en,ur","editions/musannaf-ibn-abi-shaybah"

@@ -1,6 +1,6 @@
-metadata:
-  language: ru
-  language_name: Russian
-  script: Cyrillic
-  total_hadiths: 5274
-  source: "hadith-new"
+hadiths[5]{hadithnumber,arabic,grades,reference,international_number,narrator_chain,chapter_intro}:
+"  language: ru"
+"  language_name: Russian"
+"  script: Cyrillic"
+"  total_hadiths: 5274"
+"  source: ""hadith-new"""

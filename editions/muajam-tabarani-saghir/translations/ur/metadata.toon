@@ -1,6 +1,6 @@
-metadata:
-  language: ur
-  language_name: "Urdu"
-  script: "Arabic"
-  total_hadiths: 18326
-  source: "Recovered from git history (56db4b8^)"
+hadiths[5]{hadithnumber,arabic,grades,reference,international_number,narrator_chain,chapter_intro}:
+"  language: ur"
+"  language_name: ""Urdu"""
+"  script: ""Arabic"""
+"  total_hadiths: 18326"
+"  source: ""Recovered from git history (56db4b8^)"""

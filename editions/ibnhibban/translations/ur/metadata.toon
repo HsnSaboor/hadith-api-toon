@@ -1,9 +1,9 @@
-metadata:
-  language: ur
-  language_name: Urdu
-  script: Arabic
-  total_hadiths: 7400
-  source: "https://www.al-hadees.com/sahih-ibn-habban"
-  source_name: "Al-Hadees.com"
-  total_hadiths_with_urdu: 7400
-  missing_hadiths: "0"
+hadiths[8]{hadithnumber,arabic,grades,reference,international_number,narrator_chain,chapter_intro}:
+"  language: ur"
+"  language_name: Urdu"
+"  script: Arabic"
+"  total_hadiths: 7400"
+"  source: ""https://www.al-hadees.com/sahih-ibn-habban"""
+"  source_name: ""Al-Hadees.com"""
+"  total_hadiths_with_urdu: 7400"
+"  missing_hadiths: ""0"""

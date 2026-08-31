@@ -1,6 +1,6 @@
-metadata:
-  language: hi
-  language_name: Hindi
-  script: Devanagari
-  total_hadiths: 6294
-  source: "hadith-new"
+hadiths[5]{hadithnumber,arabic,grades,reference,international_number,narrator_chain,chapter_intro}:
+"  language: hi"
+"  language_name: Hindi"
+"  script: Devanagari"
+"  total_hadiths: 6294"
+"  source: ""hadith-new"""

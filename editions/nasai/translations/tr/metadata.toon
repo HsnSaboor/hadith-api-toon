@@ -1,6 +1,6 @@
-metadata:
-  language: tr
-  language_name: Turkish
-  script: Latin
-  total_hadiths: 5713
-  source: "hadith-new"
+hadiths[5]{hadithnumber,arabic,grades,reference,international_number,narrator_chain,chapter_intro}:
+"  language: tr"
+"  language_name: Turkish"
+"  script: Latin"
+"  total_hadiths: 5713"
+"  source: ""hadith-new"""

@@ -1,6 +1,6 @@
-metadata:
-  language: bn
-  language_name: Bengali
-  script: Bengali
-  total_hadiths: 2757
-  source: "hadith-new"
+hadiths[5]{hadithnumber,arabic,grades,reference,international_number,narrator_chain,chapter_intro}:
+"  language: bn"
+"  language_name: Bengali"
+"  script: Bengali"
+"  total_hadiths: 2757"
+"  source: ""hadith-new"""

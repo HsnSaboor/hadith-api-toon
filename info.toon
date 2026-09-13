@@ -1,7 +1,8 @@
-books[30]{id,name,total_hadiths,available_languages,path}:
+books[31]{id,name,total_hadiths,available_languages,path}:
 "abdurrazzaq","Musannaf Abdur Razzaq","18777","ar,en,ur","editions/abdurrazzaq"
 "abudawud","Sunan Abu Dawud","5274","ar,bn,en,fr,hi,id,roman-ur,ru,tr,ur","editions/abudawud"
 "aladab-almufrad","Al-Adab Al-Mufrad","1333","ar,en,ur","editions/aladab-almufrad"
+"alzawaid","Majma al-Zawaid","18776","ar,en,ur","editions/alzawaid"
 "bayhaqi","Sunan al-Kubra Bayhaqi","21815","ar,en,ur","editions/bayhaqi"
 "bukhari","Sahih al-Bukhari","7277","ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur","editions/bukhari"
 "bulugh-al-maram","Bulugh al-Maram","1358","ar,en,ur","editions/bulugh-al-maram"

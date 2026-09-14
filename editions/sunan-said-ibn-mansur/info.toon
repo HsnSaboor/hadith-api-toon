@@ -1,0 +1,23 @@
+
+metadata:
+  book_id: "sunan-said-ibn-mansur"
+  book_name: "Sunan Sa'id ibn Mansur"
+  total_hadiths: "4154"
+  available_languages: "ar,en,ur"
+  intro: "The Sunan of Imam Sa'id ibn Mansur (d. 227 AH) is one of the earliest topical hadith collections, with over four thousand reports - many of them sayings of the Companions and Successors (mawquf) - arranged by chapters of law, exegesis, and history. Only fragments survive, chiefly the sections on tafsir, jihad, and virtues."
+  intro_ar: "سنن الإمام سعيد بن منصور (ت 227هـ) من أقدم المصنفات الحديثية المرتبة على الأبواب، تضم أكثر من أربعة آلاف رواية كثير منها موقوف على الصحابة والتابعين، مرتبة على أبواب الفقه والتفسير والتاريخ. ولم يبق منها إلا أجزاء أهمها التفسير والجهاد والفضائل."
+  intro_en: "The Sunan of Imam Sa'id ibn Mansur (d. 227 AH) is one of the earliest topical hadith collections, with over four thousand reports - many of them sayings of the Companions and Successors (mawquf) - arranged by chapters of law, exegesis, and history. Only fragments survive, chiefly the sections on tafsir, jihad, and virtues."
+  intro_ur: "سنن سعید بن منصور امام سعید بن منصور خراسانی (م 227ھ) کی فقہی ابواب پر مرتب کردہ قدیم ترین سنن میں سے ہے، جس میں تقریباً چار ہزار احادیث و آثار مرفوع، موقوف اور مقطوع کی صورت میں جمع ہیں۔ مصنف بلخ/خراسان سے تعلق رکھتے تھے، نیشاپور اور مکہ میں حدیث کا درس دیا اور امام احمد بن حنبل و امام مسلم سمیت کبار ائمہ کے استاد ہیں؛ یہ کتاب ابتدائی فقہی استدلال اور صحابہ و تابعین کے فتاویٰ کا قیمتی ذخیرہ ہے۔"
+
+translations[2]{language,sections,path}:
+"en","7","translations/en"
+"ur","7","translations/ur"
+
+sections[7]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","1","600","1","600","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur"
+"2","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","601","1200","601","1200","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur"
+"3","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","1201","1800","1201","1800","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur"
+"4","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","1801","2400","1801","2400","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur"
+"5","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","2401","3000","2401","3000","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur"
+"6","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","3001","3600","3001","3600","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur"
+"7","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","سنن سعيد بن منصور","3601","4154","3601","4154","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur","Sunan Sa'id ibn Mansur"

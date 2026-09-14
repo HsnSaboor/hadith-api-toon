@@ -1,0 +1,26 @@
+
+metadata:
+  book_id: "al-matalib-al-aliyah"
+  book_name: "Al-Matalib al-Aliyah"
+  total_hadiths: "5550"
+  available_languages: "ar,en,ur"
+  intro: "Al-Matalib al-Aliyah of Hafiz Ibn Hajar al-Asqalani (d. 852 AH) gathers the additional narrations (zawa'id) found in eight lesser-known musnads - including those of al-Tayalisi, al-Humaydi, and Abd ibn Humayd - beyond what appears in the Six Books and the Musnad of Ahmad. It arranges them by legal topic with brief rulings on authenticity."
+  intro_ar: "المطالب العالية للحافظ ابن حجر العسقلاني (ت 852هـ) يجمع زوائد ثمانية من المسانيد الأقل شهرة - منها مسانيد الطيالسي والحميدي وعبد بن حميد - على الكتب الستة ومسند أحمد. رتبه على الأبواب الفقهية مع أحكام موجزة على صحتها."
+  intro_en: "Al-Matalib al-Aliyah of Hafiz Ibn Hajar al-Asqalani (d. 852 AH) gathers the additional narrations (zawa'id) found in eight lesser-known musnads - including those of al-Tayalisi, al-Humaydi, and Abd ibn Humayd - beyond what appears in the Six Books and the Musnad of Ahmad. It arranges them by legal topic with brief rulings on authenticity."
+  intro_ur: "المطالب العالیہ حافظ ابن حجر عسقلانی (متوفی 852ھ) کی حدیثی تالیف ہے جس میں مسند ابی یعلی، مسدد، ابن ابی شیبہ، حارث اور دیگر مسانید کے زوائد تقریباً 5550 احادیث کی صورت میں فقہی ابواب پر جمع کیے گئے ہیں۔ یہ کتاب طہارت سے آغاز کر کے فقہ کے تمام ابواب کا احاطہ کرتی ہے اور ساتھ میں سند و مرتبے پر محدثانہ احکام بھی دیتی ہے۔"
+
+translations[2]{language,sections,path}:
+"en","10","translations/en"
+"ur","10","translations/ur"
+
+sections[10]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Al-Matalib al-Aliyah","المطالب العالية","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","المطالب العالية","1","600","1","600","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah"
+"2","Al-Matalib al-Aliyah","المطالب العالية","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","المطالب العالية","601","1200","601","1200","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah"
+"3","Al-Matalib al-Aliyah","المطالب العالية","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","المطالب العالية","1201","1800","1201","1800","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah"
+"4","Al-Matalib al-Aliyah","المطالب العالية","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","المطالب العالية","1801","2400","1801","2400","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah"
+"5","Al-Matalib al-Aliyah","المطالب العالية","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","المطالب العالية","2401","3000","2401","3000","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah"
+"6","Al-Matalib al-Aliyah","المطالب العالية","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","المطالب العالية","3001","3600","3001","3600","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah"
+"7","Al-Matalib al-Aliyah","المطالب العالية","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","المطالب العالية","3601","4200","3601","4200","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah"
+"8","Al-Matalib al-Aliyah","المطالب العالية","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","المطالب العالية","4201","4800","4201","4800","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah"
+"9","Al-Matalib al-Aliyah","المطالب العالية","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","المطالب العالية","4801","5400","4801","5400","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah"
+"10","Al-Matalib al-Aliyah","المطالب العالية","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","المطالب العالية","5401","5550","5401","5550","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah","Al-Matalib al-Aliyah"

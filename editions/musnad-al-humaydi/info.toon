@@ -1,0 +1,19 @@
+
+metadata:
+  book_id: "musnad-al-humaydi"
+  book_name: "Musnad al-Humaydi"
+  total_hadiths: "1333"
+  available_languages: "ar,en,ur"
+  intro: "The Musnad of Imam Abdullah ibn al-Zubayr al-Humaydi (d. 219 AH) - the principal teacher of al-Bukhari in Mecca - contains about thirteen hundred hadiths, mostly transmitted from Sufyan ibn Uyayna, arranged by Companion. Its short, elevated chains make it a prized source."
+  intro_ar: "مسند الإمام عبد الله بن الزبير الحميدي (ت 219هـ) - شيخ البخاري الأول بمكة - يضم نحو ألف وثلاثمائة حديث أكثرها عن سفيان بن عيينة، مرتبة على الصحابة. وتعد أسانيدها العالية القصيرة من نفائس هذا المسند."
+  intro_en: "The Musnad of Imam Abdullah ibn al-Zubayr al-Humaydi (d. 219 AH) - the principal teacher of al-Bukhari in Mecca - contains about thirteen hundred hadiths, mostly transmitted from Sufyan ibn Uyayna, arranged by Companion. Its short, elevated chains make it a prized source."
+  intro_ur: "امام عبداللہ بن زبیر حمیدی (متوفی 219ھ) — مکہ میں امام بخاری کے سب سے بڑے استاد — کی یہ مسند تقریباً تیرہ سو احادیث پر مشتمل ہے، جو اکثر سفیان بن عیینہ سے مروی ہیں اور صحابہ کی ترتیب پر جمع کی گئی ہیں۔ اس کی مختصر اور عالی سندیں اسے ایک قیمتی ماخذ بناتی ہیں۔"
+
+translations[2]{language,sections,path}:
+"en","3","translations/en"
+"ur","3","translations/ur"
+
+sections[3]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Musnad al-Humaydi","مسند الحميدي","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","مسند الحميدي","1","600","1","600","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi"
+"2","Musnad al-Humaydi","مسند الحميدي","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","مسند الحميدي","601","1200","601","1200","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi"
+"3","Musnad al-Humaydi","مسند الحميدي","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","مسند الحميدي","1201","1333","1201","1333","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi","Musnad al-Humaydi"

@@ -1,0 +1,21 @@
+
+metadata:
+  book_id: "musnad-al-tayalisi"
+  book_name: "Musnad al-Tayalisi"
+  total_hadiths: "2896"
+  available_languages: "ar,en,ur"
+  intro: "The Musnad of Imam Abu Dawud Sulayman ibn Dawud al-Tayalisi (d. 204 AH) is the oldest surviving musnad, preserving about two thousand nine hundred hadiths - mostly through the transmission of Shu'ba and Hammad ibn Salama - arranged by Companion. It is a precious witness to second-century Basran hadith."
+  intro_ar: "مسند الإمام أبي داود سليمان بن داود الطيالسي (ت 204هـ) هو أقدم مسند باق، يحفظ نحو ألفين وتسعمائة حديث - أكثرها من رواية شعبة وحماد بن سلمة - مرتبة على الصحابة. وهو شاهد ثمين على الحديث البصري في القرن الثاني."
+  intro_en: "The Musnad of Imam Abu Dawud Sulayman ibn Dawud al-Tayalisi (d. 204 AH) is the oldest surviving musnad, preserving about two thousand nine hundred hadiths - mostly through the transmission of Shu'ba and Hammad ibn Salama - arranged by Companion. It is a precious witness to second-century Basran hadith."
+  intro_ur: "امام ابو داؤد سلیمان بن داؤد الطیالسی (م 204ھ) کی مسند قدیم ترین محفوظ مسند ہے۔ یہ تقریباً دو ہزار نو سو احادیث کا ذخیرہ ہے، زیادہ تر شعبہ اور حماد بن سلمہ کی روایت سے مروی، اور صحابۂ کرام کے ناموں پر مرتب ہے۔ یہ دوسری صدی ہجری کے بصرہ کی علمی روایت کا قیمتی گواہ ہے۔"
+
+translations[2]{language,sections,path}:
+"en","5","translations/en"
+"ur","5","translations/ur"
+
+sections[5]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Musnad al-Tayalisi","مسند الطيالسي","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","مسند الطيالسي","1","600","1","600","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi"
+"2","Musnad al-Tayalisi","مسند الطيالسي","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","مسند الطيالسي","601","1200","601","1200","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi"
+"3","Musnad al-Tayalisi","مسند الطيالسي","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","مسند الطيالسي","1201","1800","1201","1800","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi"
+"4","Musnad al-Tayalisi","مسند الطيالسي","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","مسند الطيالسي","1801","2400","1801","2400","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi"
+"5","Musnad al-Tayalisi","مسند الطيالسي","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","مسند الطيالسي","2401","2896","2401","2896","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi","Musnad al-Tayalisi"

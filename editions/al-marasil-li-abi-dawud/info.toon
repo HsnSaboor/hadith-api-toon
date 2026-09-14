@@ -1,0 +1,17 @@
+
+metadata:
+  book_id: "al-marasil-li-abi-dawud"
+  book_name: "Al-Marasil li-Abi Dawud"
+  total_hadiths: "543"
+  available_languages: "ar,en,ur"
+  intro: "Kitab al-Marasil of Imam Abu Dawud al-Sijistani (d. 275 AH) collects about five hundred forty mursal reports - hadiths in which a Successor narrates directly from the Prophet - arranged by legal topic. It is the classic reference on the mursal genre and its probative value."
+  intro_ar: "كتاب المراسيل للإمام أبي داود السجستاني (ت 275هـ) يجمع نحو خمسمائة وأربعين مرسلا - وهي ما رواه التابعي عن النبي صلى الله عليه وسلم مباشرة - مرتبة على الأبواب الفقهية. وهو المرجع الكلاسيكي في فن المراسيل وحجيتها."
+  intro_en: "Kitab al-Marasil of Imam Abu Dawud al-Sijistani (d. 275 AH) collects about five hundred forty mursal reports - hadiths in which a Successor narrates directly from the Prophet - arranged by legal topic. It is the classic reference on the mursal genre and its probative value."
+  intro_ur: "امام ابو داؤد سجستانی (م 275ھ) کی کتاب المراسیل تقریباً پانچ سو چالیس مرسل روایات کا مجموعہ ہے، یعنی ایسی حدیثیں جن میں تابعی براہ راست نبی کریم صلی اللہ علیہ وسلم سے روایت کرے، اور یہ فقہی ابواب کی ترتیب پر مرتب ہے۔ یہ مرسل حدیث کی صنف اور اس کی حجیت کے باب میں بنیادی اور کلاسیکی مرجع ہے۔"
+
+translations[2]{language,sections,path}:
+"en","1","translations/en"
+"ur","1","translations/ur"
+
+sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Al-Marasil li-Abi Dawud","المراسيل لأبي داود","Al-Marasil li-Abi Dawud","Al-Marasil li-Abi Dawud","Al-Marasil li-Abi Dawud","Al-Marasil li-Abi Dawud","Al-Marasil li-Abi Dawud","Al-Marasil li-Abi Dawud","المراسيل لأبي داود","1","543","1","543","Al-Marasil li-Abi Dawud","Al-Marasil li-Abi Dawud","Al-Marasil li-Abi Dawud","Al-Marasil li-Abi Dawud","Al-Marasil li-Abi Dawud"

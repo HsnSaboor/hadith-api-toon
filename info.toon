@@ -24,7 +24,7 @@ books[45]{id,name,total_hadiths,available_languages,path}:
 "muslim","Sahih Muslim","7564","ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur","editions/muslim"
 "musnad-abd-ibn-humayd","Musnad Abd ibn Humayd","1594","ar,en,ur","editions/musnad-abd-ibn-humayd"
 "musnad-abi-yala-al-mawsili","Musnad Abi Ya'la al-Mawsili","7561","ar,en,ur","editions/musnad-abi-yala-al-mawsili"
-"musnad-ahmad","Musnad Ahmad","28198","ar,ur","editions/musnad-ahmad"
+"musnad-ahmad","Musnad Ahmad","28198","ar,en,ur","editions/musnad-ahmad"
 "musnad-al-bazzar","Musnad al-Bazzar","10415","ar,en,ur","editions/musnad-al-bazzar"
 "musnad-al-humaydi","Musnad al-Humaydi","1333","ar,en,ur","editions/musnad-al-humaydi"
 "musnad-al-tayalisi","Musnad al-Tayalisi","2896","ar,en,ur","editions/musnad-al-tayalisi"

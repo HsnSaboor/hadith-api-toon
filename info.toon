@@ -2,7 +2,7 @@ books[45]{id,name,total_hadiths,available_languages,path}:
 "abdurrazzaq","Musannaf Abdur Razzaq","18777","ar,en,ur","editions/abdurrazzaq"
 "abudawud","Sunan Abu Dawud","5274","ar,bn,en,fr,hi,id,roman-ur,ru,tr,ur","editions/abudawud"
 "al-ahadith-al-mukhtarah","Al-Ahadith al-Mukhtarah","4953","ar,en,ur","editions/al-ahadith-al-mukhtarah"
-"al-marasil-li-abi-dawud","Al-Marasil li-Abi Dawud","543","ar,en,ur","editions/al-marasil-li-abi-dawud"
+"al-marasil-li-abi-dawud","Al-Marasil li-Abi Dawud","543","ar,en,id,ur","editions/al-marasil-li-abi-dawud"
 "al-matalib-al-aliyah","Al-Matalib al-Aliyah","5550","ar,en,ur","editions/al-matalib-al-aliyah"
 "al-mujam-al-awsat","Al-Mu'jam al-Awsat","9497","ar,en,ur","editions/al-mujam-al-awsat"
 "al-mujam-al-kabir","Al-Mu'jam al-Kabir","23286","ar,en,ur","editions/al-mujam-al-kabir"

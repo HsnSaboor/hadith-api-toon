@@ -7,7 +7,7 @@ books[45]{id,name,total_hadiths,available_languages,path}:
 "al-mujam-al-awsat","Al-Mu'jam al-Awsat","9497","ar,en,ur","editions/al-mujam-al-awsat"
 "al-mujam-al-kabir","Al-Mu'jam al-Kabir","23286","ar,en,ur","editions/al-mujam-al-kabir"
 "al-muntaqa","Al-Muntaqa","1153","ar,en,id,ur","editions/al-muntaqa"
-"aladab-almufrad","Al-Adab Al-Mufrad","1333","ar,en,ur","editions/aladab-almufrad"
+"aladab-almufrad","Al-Adab Al-Mufrad","1333","ar,en,id,ur","editions/aladab-almufrad"
 "alzawaid","Majma al-Zawaid","18776","ar,en,ur","editions/alzawaid"
 "bayhaqi","Sunan al-Kubra Bayhaqi","21815","ar,en,ur","editions/bayhaqi"
 "bukhari","Sahih al-Bukhari","7277","ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur","editions/bukhari"

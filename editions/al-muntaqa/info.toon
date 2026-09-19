@@ -3,16 +3,30 @@ metadata:
   book_id: "al-muntaqa"
   book_name: "Al-Muntaqa"
   total_hadiths: "1153"
-  available_languages: "ar,en,id,ur"
+  available_languages: "ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur"
   intro: "Al-Muntaqa of Imam Ibn al-Jarud (d. 307 AH) is a choice selection of about eleven hundred hadiths judged authentic, arranged by chapters of jurisprudence from purification to manumission. Its brevity and rigor made it a favorite handbook of legal hadith."
   intro_ar: "المنتقى للإمام ابن الجارود (ت 307هـ) منتقى من نحو ألف ومائة حديث حكم بصحتها، مرتبة على أبواب الفقه من الطهارة إلى العتق. وقد جعل اختصاره ودقته منه كتابا مفضلا في أحاديث الأحكام."
   intro_en: "Al-Muntaqa of Imam Ibn al-Jarud (d. 307 AH) is a choice selection of about eleven hundred hadiths judged authentic, arranged by chapters of jurisprudence from purification to manumission. Its brevity and rigor made it a favorite handbook of legal hadith."
   intro_ur: "امام ابن الجارود (متوفی 307ھ) کی المنتقی تقریباً گیارہ سو احادیث کا چیدہ مجموعہ ہے جنہیں مؤلف نے صحیح سمجھا۔ یہ کتاب طہارت سے عتق تک فقہی ابواب پر مرتب ہے۔ اختصار اور صحت کی پابندی کے باعث یہ فقہی احادیث کی محبوب اور مستعمل کتاب بن گئی۔"
   intro_id: "Al-Muntaqa karya Imam Ibn al-Jarud (w. 307 H) adalah kumpulan pilihan sekitar seribu seratus hadis yang dinilai sahih, disusun berdasarkan bab-bab fikih dari taharah hingga pembebasan budak. Keringkasan dan ketelitiannya menjadikannya buku pegangan favorit untuk hadis-hadis hukum."
+  intro_bn: "আল-মুনতাকা ইমাম ইবনুল জারুদের (মৃত্যু ৩০৭ হিজরি) বাছাই করা প্রায় এগারোশত সহিহ হাদিসের সংকলন, যা পবিত্রতা থেকে দাসমুক্তি পর্যন্ত ফিকহি অধ্যায় অনুসারে সাজানো। সংক্ষিপ্ততা ও কঠোর যাচাইয়ের কারণে এটি ফিকহি হাদিসের প্রিয় পাঠ্যগ্রন্থে পরিণত হয়।"
+  intro_fr: "Al-Muntaqa de l'imam Ibn al-Jarud (m. 307 AH) est un choix d'environ mille cent cinquante-trois hadiths jugés authentiques, classés par chapitres de jurisprudence, de la purification à l'affranchissement. Sa brièveté et sa rigueur en ont fait un manuel apprécié du hadith juridique."
+  intro_hi: "अल-मुनतक़ा इमाम इब्न अल-जारूद (मृत्यु 307 हिजरी) द्वारा चयनित लगभग ग्यारह सौ सहीह हदीसों का संग्रह है, जो तहारत से लेकर ग़ुलामों की आज़ादी तक फ़िक़्ही अध्यायों के क्रम से व्यवस्थित है। संक्षिप्तता और कठोरता के कारण यह फ़िक़्ही हदीस की प्रिय पुस्तिका बन गई।"
+  intro_roman-ur: "Al-Muntaqa Imam Ibn al-Jarud (wafat 307 hijri) ki muntakhab taqreeban gyarah sau sahih ahadees ka majmua hai, jo taharat se itq tak fiqhi abwaab par murattab hai. Ikhtisar aur sakht jaanch ki wajah se yeh fiqhi ahadees ki mehboob darsi kitab ban gayi."
+  intro_ru: "Аль-Мунтака имама Ибн аль-Джаруда (ум. 307 г.х.) — избранное собрание из примерно тысячи ста пятидесяти трёх хадисов, признанных достоверными, расположенных по главам фикха от очищения до освобождения рабов. Краткость и строгость сделали его любимым пособием по правовому хадису."
+  intro_ta: "அல்-முன்தகா என்பது இமாம் இப்னு அல்-ஜாரூத் (மறைவு 307 ஹிஜ்ரி) அவர்கள் தேர்ந்தெடுத்த சுமார் ஆயிரத்து நூற்று ஐம்பத்து மூன்று ஆதாரபூர்வமான ஹதீஸ்களின் தொகுப்பாகும்; தூய்மை முதல் அடிமை விடுதலை வரையிலான ஃபிக்ஹ் அத்தியாயங்களின்படி வரிசைப்படுத்தப்பட்டுள்ளது. சுருக்கமும் கண்டிப்பான தேர்வும் இதனை சட்ட ஹதீஸ்களின் விருப்பமான கையேடாக ஆக்கியது."
+  intro_tr: "İmam İbnü'l-Cârûd'un (ö. 307 H) el-Müntekâ'sı, temizlikten köle âzat etmeye kadar fıkıh bâblarına göre düzenlenmiş, sahih görülen yaklaşık bin yüz elli üç hadisten seçilmiş bir derlemedir. Kısalığı ve titizliği onu fıkhî hadislerin sevilen bir el kitabı yapmıştır."
 
-translations[3]{language,sections,path}:
+translations[10]{language,sections,path}:
+"bn","2","translations/bn"
 "en","2","translations/en"
+"fr","2","translations/fr"
+"hi","2","translations/hi"
 "id","2","translations/id"
+"roman-ur","2","translations/roman-ur"
+"ru","2","translations/ru"
+"ta","2","translations/ta"
+"tr","2","translations/tr"
 "ur","2","translations/ur"
 
 sections[2]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:

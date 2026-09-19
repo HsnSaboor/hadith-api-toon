@@ -16,6 +16,8 @@ metadata:
   intro_ru: "Китаб аль-Марасиль имама Абу Дауда ас-Сиджистани (ум. 275 г.х.) объединяет около пятисот сорока мурсаль-сообщений — хадисов, в которых последователь (табиин) передаёт напрямую от Пророка — расположенных по главам фикха. Это классический основополагающий труд о жанре мурсаль и его доказательной силе."
   intro_ta: "இமாம் அபூதாவூத் அஸ்-ஸிஜிஸ்தானி (மறைவு ஹிஜ்ரி 275) அவர்களின் கிதாப் அல்-மராஸீல் சுமார் ஐந்நூற்று நாற்பது முர்ஸல் அறிவிப்புகளின் தொகுப்பாகும் — அதாவது ஒரு தாபிஈ நபி (ஸல்லல்லாஹு அலைஹி வஸல்லம்) அவர்களிடமிருந்து நேரடியாக அறிவிக்கும் ஹதீஸ்கள் — ஃபிக்ஹு தலைப்புகளின் அடிப்படையில் அத்தியாயங்களாக ஒழுங்கமைக்கப்பட்டது. இது முர்ஸல் ஹதீஸ் வகை மற்றும் அதன் ஆதாரத் தகுதி குறித்த அடிப்படைச் செவ்வியல் நூலாகும்."
   intro_tr: "İmam Ebû Dâvûd es-Sicistânî'nin (ö. 275 H) Kitâbü'l-Merâsîl'i, bir tâbiînin doğrudan Hz. Peygamber'den rivayet ettiği yaklaşık beş yüz kırk mürsel rivayetin fıkhî konulara göre bablar hâlinde düzenlendiği bir derlemedir. Eser, mürsel hadis türü ve onun hüccet değeri konusunda temel klasik kaynaktır."
+  intro_de: "Kitab al-Marasil von Imam Abu Dawud al-Sidschistani (st. 275 n. H.) versammelt etwa fuenfhundertvierzig Mursal-Berichte – Hadithe, in denen ein Nachfolger (Tabi'i) direkt vom Propheten ueberliefert –, geordnet nach rechtlichen Themen. Es gilt als das klassische Referenzwerk zum Mursal-Genre und dessen Beweiskraft."
+  intro_es: "Kitab al-Marasil del imam Abu Dawud al-Siyistani (m. 275 H) reune unos quinientos cuarenta relatos mursal —hadices en los que un Sucesor narra directamente del Profeta— organizados por temas juridicos. Constituye la obra de referencia clasica sobre el genero mursal y su valor probatorio."
 
 translations[10]{language,sections,path}:
 "bn","1","translations/bn"

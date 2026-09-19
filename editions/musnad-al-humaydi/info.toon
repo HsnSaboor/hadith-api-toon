@@ -16,6 +16,8 @@ metadata:
   intro_ru: "Муснад имама Абдуллаха ибн аз-Зубайра аль-Хумайди (ум. 219 г. по хиджре) — главного учителя аль-Бухари в Мекке — содержит около тысячи трёхсот хадисов, большей частью переданных от Суфьяна ибн Уяйны и расположенных по сподвижникам. Его короткие, высокие цепочки передатчиков делают его ценным источником."
   intro_ta: "மக்காவில் இமாம் புகாரியின் முதன்மை ஆசிரியரான இமாம் அப்துல்லாஹ் இப்னு அஸ்-ஸுபைர் அல்-ஹுமைதி (மறைவு ஹிஜ்ரி 219) அவர்களின் இந்த முஸ்னது, நபித்தோழர்கள் வரிசையில் தொகுக்கப்பட்ட சுமார் ஆயிரத்து முந்நூறு ஹதீஸ்களைக் கொண்டுள்ளது; இவற்றில் பெரும்பாலானவை ஸுஃப்யான் இப்னு உயைனாவிடமிருந்து அறிவிக்கப்பட்டவை. இதன் சுருக்கமான உயர்ந்த அறிவிப்புச் சங்கிலிகள் இதனை ஒரு மதிப்புமிக்க ஆதாரமாக்குகின்றன."
   intro_tr: "Mekke'de İmam Buhârî'nin başlıca hocası olan İmam Abdullah bin ez-Zübeyr el-Hümeydî'nin (ö. 219 H) bu Müsned'i, çoğu Süfyan bin Uyeyne'den rivayet edilen ve sahâbîlere göre tertip edilmiş yaklaşık bin üç yüz hadis ihtiva eder. Kısa ve âlî senetleri onu kıymetli bir kaynak kılar."
+  intro_de: "Der Musnad von Imam Abdullah ibn al-Zubayr al-Humaydi (st. 219 n. H.) – dem wichtigsten Lehrer von al-Bukhari in Mekka – enthaelt etwa dreizehnhundert Hadithe, vorwiegend ueberliefert von Sufyan ibn Uyaynah und geordnet nach Gefaehrten. Seine kurzen, erhabenen Ueberlieferungsketten machen ihn zu einer hochgeschaetzten Quelle."
+  intro_es: "El Musnad del imam Abdullah ibn al-Zubayr al-Humaydi (m. 219 H) —el principal maestro de al-Bujari en La Meca— contiene alrededor de mil trescientos hadices, transmitidos mayoritariamente de Sufyan ibn Uyaynah y ordenados por Companeros. Sus cadenas cortas y elevadas lo convierten en una fuente muy valorada."
 
 translations[10]{language,sections,path}:
 "bn","3","translations/bn"

@@ -16,6 +16,8 @@ metadata:
   intro_ru: "Аль-Мунтака имама Ибн аль-Джаруда (ум. 307 г.х.) — избранное собрание из примерно тысячи ста пятидесяти трёх хадисов, признанных достоверными, расположенных по главам фикха от очищения до освобождения рабов. Краткость и строгость сделали его любимым пособием по правовому хадису."
   intro_ta: "அல்-முன்தகா என்பது இமாம் இப்னு அல்-ஜாரூத் (மறைவு 307 ஹிஜ்ரி) அவர்கள் தேர்ந்தெடுத்த சுமார் ஆயிரத்து நூற்று ஐம்பத்து மூன்று ஆதாரபூர்வமான ஹதீஸ்களின் தொகுப்பாகும்; தூய்மை முதல் அடிமை விடுதலை வரையிலான ஃபிக்ஹ் அத்தியாயங்களின்படி வரிசைப்படுத்தப்பட்டுள்ளது. சுருக்கமும் கண்டிப்பான தேர்வும் இதனை சட்ட ஹதீஸ்களின் விருப்பமான கையேடாக ஆக்கியது."
   intro_tr: "İmam İbnü'l-Cârûd'un (ö. 307 H) el-Müntekâ'sı, temizlikten köle âzat etmeye kadar fıkıh bâblarına göre düzenlenmiş, sahih görülen yaklaşık bin yüz elli üç hadisten seçilmiş bir derlemedir. Kısalığı ve titizliği onu fıkhî hadislerin sevilen bir el kitabı yapmıştır."
+  intro_de: "Al-Muntaqa von Imam Ibn al-Dscharud (st. 307 n. H.) ist eine erlesene Auswahl von etwa elfhundert als authentisch bewerteten Hadithen, geordnet nach Kapiteln der Rechtswissenschaft von der rituellen Reinheit bis zur Sklavenbefreiung. Seine Praegnanz und Strenge machten es zu einem bevorzugten Handbuch fuer rechtliche Hadithe."
+  intro_es: "Al-Muntaqa del imam Ibn al-Yarud (m. 307 H) es una selecta coleccion de unos mil cien hadices considerados autenticos, dispuestos segun capitulos de jurisprudencia desde la purificacion hasta la manumision. Su brevedad y rigor lo convirtieron en un manual predilecto de hadices juridicos."
 
 translations[10]{language,sections,path}:
 "bn","2","translations/bn"

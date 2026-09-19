@@ -16,6 +16,8 @@ metadata:
   intro_ru: "Муснад имама Абда ибн Хумайда аль-Кисси (ум. 249 г.х.) — учителя аль-Бухари, Муслима и ат-Тирмизи — собирает около тысячи шестисот хадисов, расположенных по сподвижникам; его известные тафсирные предания часто цитируются позднейшими толкователями. До нас дошла лишь часть этого труда."
   intro_ta: "இமாம் அப்த் இப்னு ஹுமைத் அல்-கிஸ்ஸீ (மறைவு ஹிஜ்ரி 249) — இமாம் புகாரி, முஸ்லிம், திர்மிதீ ஆகியோரின் ஆசிரியர் — அவர்களின் இந்த முஸ்னத், ஸஹாபாக்கள் வரிசைப்படி தொகுக்கப்பட்ட சுமார் ஆயிரத்து அறுநூறு ஹதீஸ்களின் தொகுப்பாகும்; இவரது புகழ்பெற்ற தஃப்ஸீர் தொடர்பான அறிவிப்புகளைப் பிற்கால விரிவுரையாளர்கள் அடிக்கடி மேற்கோள் காட்டியுள்ளனர். இந்நூலின் ஒரு பகுதி மட்டுமே எஞ்சியுள்ளது."
   intro_tr: "İmam Abd ibn Humayd el-Kissî'nin (ö. 249 H) — Buhârî, Müslim ve Tirmizî'nin hocası — bu Müsned'i, sahâbîlere göre tertip edilmiş yaklaşık bin altı yüz hadisi bir araya getirir; meşhur tefsir rivayetlerine sonraki müfessirler sıkça atıf yapmıştır. Eserin yalnızca bir bölümü günümüze ulaşmıştır."
+  intro_de: "Der Musnad von Imam Abd ibn Humayd al-Kissi (st. 249 n. H.) – einem Lehrer von al-Bukhari, Muslim und al-Tirmidhi – umfasst etwa sechzehnhundert Hadithe, geordnet nach Gefaehrten, wobei seine beruehmten Koranexegese-Ueberlieferungen von spaeteren Kommentatoren haeufig zitiert werden. Nur ein Teil des Werkes ist erhalten geblieben."
+  intro_es: "El Musnad del imam Abd ibn Humayd al-Kissi (m. 249 H) —maestro de al-Bujari, Muslim y al-Tirmidhi— reune unos mil seiscientos hadices ordenados por Companeros, con sus celebres tradiciones de tafsir citadas con frecuencia por exegetas posteriores. Solo se conserva una parte de la obra."
 
 translations[10]{language,sections,path}:
 "bn","3","translations/bn"

@@ -3,16 +3,30 @@ metadata:
   book_id: "al-marasil-li-abi-dawud"
   book_name: "Al-Marasil li-Abi Dawud"
   total_hadiths: "543"
-  available_languages: "ar,en,id,ur"
+  available_languages: "ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur"
   intro: "Kitab al-Marasil of Imam Abu Dawud al-Sijistani (d. 275 AH) collects about five hundred forty mursal reports - hadiths in which a Successor narrates directly from the Prophet - arranged by legal topic. It is the classic reference on the mursal genre and its probative value."
   intro_ar: "كتاب المراسيل للإمام أبي داود السجستاني (ت 275هـ) يجمع نحو خمسمائة وأربعين مرسلا - وهي ما رواه التابعي عن النبي صلى الله عليه وسلم مباشرة - مرتبة على الأبواب الفقهية. وهو المرجع الكلاسيكي في فن المراسيل وحجيتها."
   intro_en: "Kitab al-Marasil of Imam Abu Dawud al-Sijistani (d. 275 AH) collects about five hundred forty mursal reports - hadiths in which a Successor narrates directly from the Prophet - arranged by legal topic. It is the classic reference on the mursal genre and its probative value."
   intro_ur: "امام ابو داؤد سجستانی (م 275ھ) کی کتاب المراسیل تقریباً پانچ سو چالیس مرسل روایات کا مجموعہ ہے، یعنی ایسی حدیثیں جن میں تابعی براہ راست نبی کریم صلی اللہ علیہ وسلم سے روایت کرے، اور یہ فقہی ابواب کی ترتیب پر مرتب ہے۔ یہ مرسل حدیث کی صنف اور اس کی حجیت کے باب میں بنیادی اور کلاسیکی مرجع ہے۔"
   intro_id: "Kitab al-Marasil karya Imam Abu Dawud as-Sijistani (w. 275 H) menghimpun sekitar lima ratus empat puluh riwayat mursal — hadis di mana seorang Tabi'in meriwayatkan langsung dari Nabi — yang disusun berdasarkan topik hukum. Kitab ini merupakan rujukan klasik tentang jenis hadis mursal beserta nilai kehujahannya."
+  intro_bn: "ইমাম আবু দাউদ আস-সিজিস্তানী (মৃ. ২৭৫ হিজরি)-এর কিতাব আল-মারাসীল প্রায় পাঁচশত চল্লিশটি মুরসাল বর্ণনার সংকলন — অর্থাৎ এমন হাদিস যেখানে একজন তাবিঈ সরাসরি নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) থেকে বর্ণনা করেন — যা ফিকহি বিষয়ভিত্তিক অধ্যায়ে সাজানো। এটি মুরসাল হাদিসের ধারা ও তার প্রামাণিক মূল্য বিষয়ে ধ্রুপদি ও মৌলিক গ্রন্থ।"
+  intro_fr: "Le Kitab al-Marasil de l'imam Abou Dawoud as-Sijistani (m. 275 H) rassemble environ cinq cent quarante récits mursal — des hadiths dans lesquels un Successeur (Tabi'i) rapporte directement du Prophète — classés par chapitres juridiques. C'est l'ouvrage classique de référence sur le genre mursal et sa valeur probante."
+  intro_hi: "इमाम अबू दाऊद अस-सिजिस्तानी (मृ. 275 हिजरी) की किताब अल-मरासील लगभग पाँच सौ चालीस मुरसल रिवायतों का संग्रह है — अर्थात ऐसी हदीसें जिनमें कोई ताबिई सीधे नबी (सल्लल्लाहु अलैहि व सल्लम) से रिवायत करे — जो फ़िक़्ही विषयों के अनुसार अध्यायों में व्यवस्थित हैं। यह मुरसल हदीस की विधा और उसकी हुज्जियत के विषय में ध्रुपद एवं बुनियादी ग्रंथ है।"
+  intro_roman-ur: "Imam Abu Dawud as-Sijistani (wafat 275 hijri) ki Kitab al-Marasil taqreeban paanch sau chalees mursal riwayaat ka majmua hai, yani aisi ahadees jin mein koi Tabi'i barah-e-raast Hazrat Nabi (Sallallahu Alehi w Aalehi Wasallam) se riwayat kare, aur yeh fiqhi abwab ki tarteeb par murattab hai. Yeh mursal hadees ki sinf aur uski hujjiyat ke baab mein bunyadi aur classical marja hai."
+  intro_ru: "Китаб аль-Марасиль имама Абу Дауда ас-Сиджистани (ум. 275 г.х.) объединяет около пятисот сорока мурсаль-сообщений — хадисов, в которых последователь (табиин) передаёт напрямую от Пророка — расположенных по главам фикха. Это классический основополагающий труд о жанре мурсаль и его доказательной силе."
+  intro_ta: "இமாம் அபூதாவூத் அஸ்-ஸிஜிஸ்தானி (மறைவு ஹிஜ்ரி 275) அவர்களின் கிதாப் அல்-மராஸீல் சுமார் ஐந்நூற்று நாற்பது முர்ஸல் அறிவிப்புகளின் தொகுப்பாகும் — அதாவது ஒரு தாபிஈ நபி (ஸல்லல்லாஹு அலைஹி வஸல்லம்) அவர்களிடமிருந்து நேரடியாக அறிவிக்கும் ஹதீஸ்கள் — ஃபிக்ஹு தலைப்புகளின் அடிப்படையில் அத்தியாயங்களாக ஒழுங்கமைக்கப்பட்டது. இது முர்ஸல் ஹதீஸ் வகை மற்றும் அதன் ஆதாரத் தகுதி குறித்த அடிப்படைச் செவ்வியல் நூலாகும்."
+  intro_tr: "İmam Ebû Dâvûd es-Sicistânî'nin (ö. 275 H) Kitâbü'l-Merâsîl'i, bir tâbiînin doğrudan Hz. Peygamber'den rivayet ettiği yaklaşık beş yüz kırk mürsel rivayetin fıkhî konulara göre bablar hâlinde düzenlendiği bir derlemedir. Eser, mürsel hadis türü ve onun hüccet değeri konusunda temel klasik kaynaktır."
 
-translations[3]{language,sections,path}:
+translations[10]{language,sections,path}:
+"bn","1","translations/bn"
 "en","1","translations/en"
+"fr","1","translations/fr"
+"hi","1","translations/hi"
 "id","1","translations/id"
+"roman-ur","1","translations/roman-ur"
+"ru","1","translations/ru"
+"ta","1","translations/ta"
+"tr","1","translations/tr"
 "ur","1","translations/ur"
 
 sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:

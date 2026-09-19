@@ -3,14 +3,30 @@ metadata:
   book_id: "musnad-abd-ibn-humayd"
   book_name: "Musnad Abd ibn Humayd"
   total_hadiths: "1594"
-  available_languages: "ar,en,ur"
+  available_languages: "ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur"
   intro: "The Musnad of Imam Abd ibn Humayd al-Kissi (d. 249 AH) - a teacher of al-Bukhari, Muslim, and al-Tirmidhi - collects about sixteen hundred hadiths arranged by Companion, with his famous tafsir traditions often cited by later exegetes. Only part of the work survives."
   intro_ar: "مسند الإمام عبد بن حميد الكسي (ت 249هـ) - شيخ البخاري ومسلم والترمذي - يجمع نحو ألف وستمائة حديث مرتبة على الصحابة، وتكثر الإحالة إلى رواياته التفسيرية عند المفسرين المتأخرين. ولم يبق من الكتاب إلا جزء منه."
   intro_en: "The Musnad of Imam Abd ibn Humayd al-Kissi (d. 249 AH) - a teacher of al-Bukhari, Muslim, and al-Tirmidhi - collects about sixteen hundred hadiths arranged by Companion, with his famous tafsir traditions often cited by later exegetes. Only part of the work survives."
   intro_ur: "امام عبد بن حمید الکِسّی (م 249ھ) — جو امام بخاری، مسلم اور ترمذی کے استاد ہیں — کی یہ مسند صحابہ کرام کی ترتیب پر تقریباً سولہ سو احادیث کا مجموعہ ہے، اور ان کی مشہور تفسیری روایات کو بعد کے مفسرین نے کثرت سے نقل کیا ہے۔ اس کا صرف ایک حصہ باقی بچا ہے۔"
+  intro_bn: "ইমাম আবদ ইবনে হুমাইদ আল-কিস্সী (মৃত্যু ২৪৯ হিজরি) — যিনি ইমাম বুখারী, মুসলিম ও তিরমিযীর উস্তাদ ছিলেন — এর এই মুসনাদ সাহাবীগণের ক্রমানুসারে সাজানো প্রায় ষোলশ হাদিসের সংকলন; তাঁর প্রসিদ্ধ তাফসীর-বিষয়ক বর্ণনাগুলো পরবর্তী মুফাসসিরগণ প্রায়ই উদ্ধৃত করেছেন। গ্রন্থটির কেবল একটি অংশই অবশিষ্ট রয়েছে।"
+  intro_fr: "Le Musnad de l'imam Abd ibn Humayd al-Kissi (m. 249 H) — maître d'al-Bukhari, de Muslim et d'al-Tirmidhi — rassemble environ seize cents hadiths classés par Compagnon; ses célèbres traditions exégétiques sont souvent citées par les exégètes postérieurs. Seule une partie de l'ouvrage subsiste."
+  intro_hi: "इमाम अब्द इब्न हुमैद अल-किस्सी (निधन 249 हिजरी) — जो इमाम बुख़ारी, मुस्लिम और तिरमिज़ी के उस्ताद थे — की यह मुसनद सहाबा के क्रम से व्यवस्थित लगभग सोलह सौ हदीसों का संग्रह है; उनकी प्रसिद्ध तफ़सीर-संबंधी रिवायतों को बाद के मुफ़स्सिरों ने प्रायः उद्धृत किया है। इस ग्रंथ का केवल एक भाग ही शेष बचा है।"
+  intro_id: "Musnad karya Imam Abd ibn Humayd al-Kissi (w. 249 H) — guru al-Bukhari, Muslim, dan al-Tirmidzi — menghimpun sekitar seribu enam ratus hadis yang disusun berdasarkan Sahabat; riwayat-riwayat tafsirnya yang terkenal sering dikutip oleh para mufasir belakangan. Hanya sebagian dari karya ini yang lestari."
+  intro_roman-ur: "Imam Abd ibn Humayd al-Kissi (wafat 249 hijri) — jo Imam Bukhari, Muslim aur Tirmizi ke ustad thay — ki yeh Musnad Sahaba ki tarteeb par taqreeban solah sau ahadees ka majmua hai; un ki mashhoor tafseeri riwayaat ko baad ke mufassireen ne kasrat se naql kiya hai. Is kitab ka sirf ek hissa baqi bacha hai."
+  intro_ru: "Муснад имама Абда ибн Хумайда аль-Кисси (ум. 249 г.х.) — учителя аль-Бухари, Муслима и ат-Тирмизи — собирает около тысячи шестисот хадисов, расположенных по сподвижникам; его известные тафсирные предания часто цитируются позднейшими толкователями. До нас дошла лишь часть этого труда."
+  intro_ta: "இமாம் அப்த் இப்னு ஹுமைத் அல்-கிஸ்ஸீ (மறைவு ஹிஜ்ரி 249) — இமாம் புகாரி, முஸ்லிம், திர்மிதீ ஆகியோரின் ஆசிரியர் — அவர்களின் இந்த முஸ்னத், ஸஹாபாக்கள் வரிசைப்படி தொகுக்கப்பட்ட சுமார் ஆயிரத்து அறுநூறு ஹதீஸ்களின் தொகுப்பாகும்; இவரது புகழ்பெற்ற தஃப்ஸீர் தொடர்பான அறிவிப்புகளைப் பிற்கால விரிவுரையாளர்கள் அடிக்கடி மேற்கோள் காட்டியுள்ளனர். இந்நூலின் ஒரு பகுதி மட்டுமே எஞ்சியுள்ளது."
+  intro_tr: "İmam Abd ibn Humayd el-Kissî'nin (ö. 249 H) — Buhârî, Müslim ve Tirmizî'nin hocası — bu Müsned'i, sahâbîlere göre tertip edilmiş yaklaşık bin altı yüz hadisi bir araya getirir; meşhur tefsir rivayetlerine sonraki müfessirler sıkça atıf yapmıştır. Eserin yalnızca bir bölümü günümüze ulaşmıştır."
 
-translations[2]{language,sections,path}:
+translations[10]{language,sections,path}:
+"bn","3","translations/bn"
 "en","3","translations/en"
+"fr","3","translations/fr"
+"hi","3","translations/hi"
+"id","3","translations/id"
+"roman-ur","3","translations/roman-ur"
+"ru","3","translations/ru"
+"ta","3","translations/ta"
+"tr","3","translations/tr"
 "ur","3","translations/ur"
 
 sections[3]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:

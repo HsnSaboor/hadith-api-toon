@@ -14,7 +14,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/
 ```
 
 ### Endpoints:
-1. **API Registry / Book Directory**: Get a listing of all 31 available books, their hadith counts, supported translation languages, and subfolder paths:
+1. **API Registry / Book Directory**: Get a listing of all 45 available books, their hadith counts, supported translation languages, and subfolder paths:
    ```
    https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
    ```

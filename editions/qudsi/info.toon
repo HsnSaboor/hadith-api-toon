@@ -22,7 +22,7 @@ metadata:
   intro_sw: "Hadithi Qudsi, au \"hadithi takatifu,\" ni aina maalum ndani ya elimu ya hadithi: ni maneno ambayo Mtume Muhammad ﷺ huyaeleza kama maneno ya Mwenyezi Mungu Mwenyewe kwa nafsi ya kwanza, tofauti na hadithi za kawaida za Mtume ambapo yeye huelezea tukio, hutoa hukumu, au hutaja maneno na matendo yake mwenyewe. Mkusanyo huu wa Hadithi Qudsi Arobaini uliteuliwa na kutafsiriwa na Ezzeddin Ibrahim na Denys Johnson-Davies, wataalamu wale wale wanaojulikana kwa tafsiri yao ya Hadithi Arobaini za An-Nawawi maarufu, na kazi hii inachukuliwa kuwa kitabu shirikishi cha kile kingine. Kwa kuchota kutoka vitabu vikuu vya kihistoria vya hadithi, wakusanyaji walichagua hadithi arobaini zenye uthibitisho thabiti zinazoonyesha utajiri wa kiitikadi, kiibada, na kimaadili wa aina hii ya hadithi, wakiwasilisha maandishi ya Kiarabu pamoja na tafsiri makini ya Kiingereza. Maneno haya ya kiungu yanaelezea rehema kubwa ya Mwenyezi Mungu, utayari Wake wa kuwasamehe watubu, upendo Wake kwa wale wanaomkaribia, na ukaribu wa upendo kati ya Muumba na waja Wake. Kwa karne nyingi, maneno haya yamekuwa chakula cha nyoyo za waumini, yakitoa fursa nadra ya kumsikia Mwenyezi Mungu akizungumza moja kwa moja na wanadamu, na mkusanyo huu unabaki kuwa chemchemi ya tafakuri ya kiimani na hamasa ya kiibada kwa wasomaji wanaotaka ukaribu na Mola wao."
   intro_te: "హదీసె ఖుద్సీ, అంటే \"పవిత్ర హదీసు\", హదీసు సాహిత్యంలో ఒక ప్రత్యేకమైన వర్గం: వీటిలో ప్రవక్త ముహమ్మద్ ﷺ అల్లాహ్ స్వయంగా మొదటి పురుషలో పలికిన మాటలను నేరుగా తెలియజేస్తారు, ఇది ప్రవక్త ఒక సంఘటనను వివరించే, ఒక తీర్పు ఇచ్చే, లేదా తన మాటలు మరియు చర్యలను తెలియజేసే సాధారణ ప్రవక్త హదీసుకు భిన్నంగా ఉంటుంది. ఈ నలభై హదీసె ఖుద్సీ సంకలనాన్ని ఇజ్జుద్దీన్ ఇబ్రాహీం మరియు డెనిస్ జాన్సన్-డేవిస్ ఎంపిక చేసి అనువదించారు, వీరే ఇమామ్ నవవీ ప్రసిద్ధ నలభై హదీసులను అనువదించిన పండితులు కూడా, మరియు ఈ రచనను ఆ పనికి తోడు సంపుటిగా భావిస్తారు. ప్రధాన సాంప్రదాయ హదీసు సంకలనాల నుండి సేకరించి, సంకలనకర్తలు ఈ శైలి యొక్క సిద్ధాంత, భక్తి మరియు నైతిక సంపదను ప్రతిబింబించే నలభై విశ్వసనీయమైన హదీసులను ఎంపిక చేశారు, అరబిక్ మూలపాఠంతో పాటు జాగ్రత్తగా చేసిన ఆంగ్ల అనువాదాన్ని అందించారు. ఈ దైవిక వాక్యాలు అల్లాహ్ యొక్క విస్తారమైన కరుణ, పశ్చాత్తాపపడిన వారిని క్షమించడానికి ఆయన సిద్ధత, ఆయనకు దగ్గరవుతున్న వారిపై ఆయన ప్రేమ, మరియు సృష్టికర్తకు ఆయన భక్తులకు మధ్య గల సాన్నిహిత్యం గురించి తెలియజేస్తాయి. శతాబ్దాలుగా ఈ వాక్యాలు విశ్వాసుల హృదయాలను పోషించాయి, అల్లాహ్ మానవాళిని నేరుగా సంబోధించే అరుదైన అవకాశాలను అందిస్తూ, మరియు ఈ సంకలనం తన ప్రభువుకు సాన్నిహిత్యం కోరుకునే పాఠకులకు ఇప్పటికీ సైద్ధాంతిక ఆలోచన మరియు భక్తి ప్రేరణకు మూలంగా ఉంది."
 
-translations[13]{language,sections,path}:
+translations[14]{language,sections,path}:
 "bn","1","translations/bn"
 "de","1","translations/de"
 "en","1","translations/en"
@@ -30,6 +30,7 @@ translations[13]{language,sections,path}:
 "fr","1","translations/fr"
 "hi","1","translations/hi"
 "id","1","translations/id"
+"roman-ur","1","translations/roman-ur"
 "ru","1","translations/ru"
 "sw","1","translations/sw"
 "ta","1","translations/ta"

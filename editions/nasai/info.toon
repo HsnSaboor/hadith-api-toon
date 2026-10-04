@@ -20,14 +20,14 @@ metadata:
   intro_es: "Abu Abd al-Rahman Ahmad ibn Shu'ayb al-Nasa'i (214-303 H / 829-915 d.C.) nació en la ciudad de Nasa, en Jorasán, y desde los quince años emprendió incansables viajes por Jorasán, Irak, el Hiyaz, Siria y Egipto en busca de hadices, estudiando con maestros eminentes como Ishaq ibn Rahwayh y Qutaybah ibn Sa'id, hasta que finalmente se estableció en Egipto, donde los estudiosos acudían a él desde todas partes. Compiló primero una vasta colección conocida como al-Sunan al-Kubra, que contenía tanto narraciones auténticas como otras más débiles. Cuando la presentó al gobernador de Ramla, este le preguntó: \"¿Es todo esto auténtico?\" Al enterarse de que no lo era, le pidió que extrajera únicamente el material fiable, y de esta petición surgió al-Sunan al-Sughra, también llamado al-Mujtaba, la selección depurada que se cuenta entre los Seis Libros canónicos. Los críticos de hadices consideraban a al-Nasa'i incluso más riguroso en el examen de los transmisores que el propio Muslim ibn al-Hajjaj, y su Sunan se distingue por su incesante recopilación de cadenas de transmisión variantes (turuq) y su atención a los defectos ocultos (ilal), revelando a menudo, dentro de una misma entrada, el error de un transmisor, una palabra añadida o una cadena confundida, un rigor que lo acerca en espíritu más a Sahih Muslim que a las demás obras de Sunan. Por esta razón, muchos eruditos clasifican su colección en tercer lugar entre los Seis Libros, después de Bujari y Muslim. Su vida terminó en tragedia: en Damasco se enfrentó a la hostilidad de partidarios opuestos a su aprecio por Ali, fue golpeado y herido, y murió a causa de sus heridas hacia el año 303 H, ya fuera en Ramla o cerca de La Meca, según la fuente histórica que se consulte."
 
 translations[8]{language,sections,path}:
-"bn","51","translations/bn"
-"en","51","translations/en"
-"fr","51","translations/fr"
-"hi","51","translations/hi"
-"id","51","translations/id"
-"roman-ur","51","translations/roman-ur"
-"tr","51","translations/tr"
-"ur","51","translations/ur"
+"bn","52","translations/bn"
+"en","52","translations/en"
+"fr","52","translations/fr"
+"hi","52","translations/hi"
+"id","52","translations/id"
+"roman-ur","52","translations/roman-ur"
+"tr","52","translations/tr"
+"ur","52","translations/ur"
 
 sections[52]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
 "0","Uncategorized","غير مصنف","অশ্রেণীবদ্ধ","Uncategorized","Non classé","Tidak Dikategorikan","Без категории","Kategorize Edilmemiş","غیر زمرہ بند","3857","3938","3857","3938","अवर्गीकृत","வகைப்படுத்தப்படாதவை","Ghair Mahfooz","Unkategorisiert","Sin categoría"

@@ -3,7 +3,9 @@ metadata:
   book_id: "musnad-al-humaydi"
   book_name: "Musnad al-Humaydi"
   total_hadiths: "1333"
-  available_languages: "ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur"
+  available_languages: "ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur"
+  ai_translated_languages: "bs,de,es,sw,te"
+  ai_translation_note: "The following languages are machine-assisted translations from the Arabic via LLM, disclosed per-row with an [AI-translation] prefix: bs,de,es,sw,te. All other languages are human/scholarly translations."
   intro: "The Musnad of Imam Abdullah ibn al-Zubayr al-Humaydi (d. 219 AH) - the principal teacher of al-Bukhari in Mecca - contains about thirteen hundred hadiths, mostly transmitted from Sufyan ibn Uyayna, arranged by Companion. Its short, elevated chains make it a prized source."
   intro_ar: "مسند الإمام عبد الله بن الزبير الحميدي (ت 219هـ) - شيخ البخاري الأول بمكة - يضم نحو ألف وثلاثمائة حديث أكثرها عن سفيان بن عيينة، مرتبة على الصحابة. وتعد أسانيدها العالية القصيرة من نفائس هذا المسند."
   intro_en: "The Musnad of Imam Abdullah ibn al-Zubayr al-Humaydi (d. 219 AH) - the principal teacher of al-Bukhari in Mecca - contains about thirteen hundred hadiths, mostly transmitted from Sufyan ibn Uyayna, arranged by Companion. Its short, elevated chains make it a prized source."
@@ -19,15 +21,20 @@ metadata:
   intro_de: "Der Musnad von Imam Abdullah ibn al-Zubayr al-Humaydi (st. 219 n. H.) – dem wichtigsten Lehrer von al-Bukhari in Mekka – enthaelt etwa dreizehnhundert Hadithe, vorwiegend ueberliefert von Sufyan ibn Uyaynah und geordnet nach Gefaehrten. Seine kurzen, erhabenen Ueberlieferungsketten machen ihn zu einer hochgeschaetzten Quelle."
   intro_es: "El Musnad del imam Abdullah ibn al-Zubayr al-Humaydi (m. 219 H) —el principal maestro de al-Bujari en La Meca— contiene alrededor de mil trescientos hadices, transmitidos mayoritariamente de Sufyan ibn Uyaynah y ordenados por Companeros. Sus cadenas cortas y elevadas lo convierten en una fuente muy valorada."
 
-translations[10]{language,sections,path}:
+translations[15]{language,sections,path}:
 "bn","3","translations/bn"
+"bs","3","translations/bs"
+"de","3","translations/de"
 "en","3","translations/en"
+"es","3","translations/es"
 "fr","3","translations/fr"
 "hi","3","translations/hi"
 "id","3","translations/id"
 "roman-ur","3","translations/roman-ur"
 "ru","3","translations/ru"
+"sw","3","translations/sw"
 "ta","3","translations/ta"
+"te","3","translations/te"
 "tr","3","translations/tr"
 "ur","3","translations/ur"
 

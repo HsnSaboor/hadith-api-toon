@@ -418,40 +418,40 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | 1 | Musannaf Abdur Razzaq | ar,en,ur | 18,777 |
 | 2 | Sunan Abu Dawud | ar,bn,en,fr,hi,id,roman-ur,ru,tr,ur | 5,274 |
 | 3 | Al-Ahadith al-Mukhtarah | ar,en,ur | 4,953 |
-| 4 | Al-Marasil li-Abi Dawud | ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur | 543 |
+| 4 | Al-Marasil li-Abi Dawud | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 543 |
 | 5 | Al-Matalib al-Aliyah | ar,en,ur | 5,550 |
 | 6 | Al-Mu'jam al-Awsat | ar,en,ur | 9,497 |
 | 7 | Al-Mu'jam al-Kabir | ar,en,ur | 23,286 |
-| 8 | Al-Muntaqa | ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur | 1,153 |
-| 9 | Al-Adab Al-Mufrad | ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur | 1,333 |
+| 8 | Al-Muntaqa | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,153 |
+| 9 | Al-Adab Al-Mufrad | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,333 |
 | 10 | Majma al-Zawaid | ar,en,ur | 18,776 |
 | 11 | Sunan al-Kubra Bayhaqi | ar,en,ur | 21,815 |
 | 12 | Sahih al-Bukhari | ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur | 7,277 |
 | 13 | Bulugh al-Maram | ar,en,ur | 1,358 |
-| 14 | Forty Hadith of Shah Waliullah Dehlawi | ar,bn,de,en,es,fr,hi,id,roman-ur,ru,ta,tr,ur | 40 |
-| 15 | Fath al-Rabbani | ar,bn,de,en,es,fr,hi,id,roman-ur,ru,ta,tr,ur | 86 |
+| 14 | Forty Hadith of Shah Waliullah Dehlawi | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 40 |
+| 15 | Fath al-Rabbani | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 86 |
 | 16 | Sahih Ibn Hibban | ar,en,ur | 7,466 |
 | 17 | Sunan Ibn Majah | ar,bn,en,fr,hi,id,roman-ur,tr,ur | 4,341 |
 | 18 | Al-Lulu wal-Marjan | ar,en,ur | 1,906 |
-| 19 | Muwatta' Malik | ar,bn,en,fr,id,roman-ur,ru,ta,tr,ur | 1,858 |
+| 19 | Muwatta' Malik | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,858 |
 | 20 | Mishkat al-Masabih | ar,en,hi,roman-ur,ur | 6,294 |
 | 21 | Mu'jam Tabarani Saghir | ar,en,ur | 18,326 |
 | 22 | Musannaf Ibn Abi Shaybah | ar,en,ur | 39,098 |
 | 23 | Sahih Muslim | ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur | 7,564 |
-| 24 | Musnad Abd ibn Humayd | ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur | 1,594 |
+| 24 | Musnad Abd ibn Humayd | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,594 |
 | 25 | Musnad Abi Ya'la al-Mawsili | ar,en,ur | 7,561 |
 | 26 | Musnad Ahmad | ar,en,ur | 28,198 |
 | 27 | Musnad al-Bazzar | ar,en,ur | 10,415 |
-| 28 | Musnad al-Humaydi | ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur | 1,333 |
+| 28 | Musnad al-Humaydi | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,333 |
 | 29 | Musnad al-Tayalisi | ar,en,ur | 2,896 |
 | 30 | Al-Mustadrak | ar,en,ur | 8,803 |
 | 31 | Sunan an-Nasai | ar,bn,en,fr,hi,id,roman-ur,tr,ur | 5,740 |
 | 32 | Sunan al-Kubra an-Nasai | ar,en,ur | 11,385 |
-| 33 | Forty Hadith of an-Nawawi | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,ta,tr,ur | 42 |
-| 34 | Forty Hadith Qudsi | ar,bn,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 40 |
-| 35 | Riyad as-Salihin | ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur | 1,896 |
+| 33 | Forty Hadith of an-Nawawi | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 42 |
+| 34 | Forty Hadith Qudsi | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 40 |
+| 35 | Riyad as-Salihin | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,896 |
 | 36 | Sahih Ibn Khuzaymah | ar,en,ur | 3,784 |
-| 37 | Shamail-e-Tirmidhi | ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur | 417 |
+| 37 | Shamail-e-Tirmidhi | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 417 |
 | 38 | Sharh Ma'ani al-Athar | ar,en,ur | 7,029 |
 | 39 | Sharh Mushkil al-Athar | ar,en,ur | 7,249 |
 | 40 | Silsila Sahiha | ar,en,ur | 3,550 |
@@ -459,7 +459,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | 42 | Sunan ad-Darimi | ar,en,ur | 3,535 |
 | 43 | Sunan Sa'id ibn Mansur | ar,en,ur | 4,154 |
 | 44 | Jami' At-Tirmidhi | ar,bn,en,hi,id,roman-ur,tr,ur | 3,955 |
-| 45 | Virtues of Good Deeds | ar,bn,de,en,es,fr,hi,id,roman-ur,ru,ta,tr,ur | 93 |
+| 45 | Virtues of Good Deeds | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 93 |
 
 ---
 

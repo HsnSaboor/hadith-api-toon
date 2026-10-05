@@ -3,7 +3,9 @@ metadata:
   book_id: "al-marasil-li-abi-dawud"
   book_name: "Al-Marasil li-Abi Dawud"
   total_hadiths: "543"
-  available_languages: "ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur"
+  available_languages: "ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur"
+  ai_translated_languages: "bs,de,es,sw,te"
+  ai_translation_note: "The following languages are machine-assisted translations from the Arabic via LLM, disclosed per-row with an [AI-translation] prefix: bs,de,es,sw,te. All other languages are human/scholarly translations."
   intro: "Kitab al-Marasil of Imam Abu Dawud al-Sijistani (d. 275 AH) collects about five hundred forty mursal reports - hadiths in which a Successor narrates directly from the Prophet - arranged by legal topic. It is the classic reference on the mursal genre and its probative value."
   intro_ar: "كتاب المراسيل للإمام أبي داود السجستاني (ت 275هـ) يجمع نحو خمسمائة وأربعين مرسلا - وهي ما رواه التابعي عن النبي صلى الله عليه وسلم مباشرة - مرتبة على الأبواب الفقهية. وهو المرجع الكلاسيكي في فن المراسيل وحجيتها."
   intro_en: "Kitab al-Marasil of Imam Abu Dawud al-Sijistani (d. 275 AH) collects about five hundred forty mursal reports - hadiths in which a Successor narrates directly from the Prophet - arranged by legal topic. It is the classic reference on the mursal genre and its probative value."
@@ -19,15 +21,20 @@ metadata:
   intro_de: "Kitab al-Marasil von Imam Abu Dawud al-Sidschistani (st. 275 n. H.) versammelt etwa fuenfhundertvierzig Mursal-Berichte – Hadithe, in denen ein Nachfolger (Tabi'i) direkt vom Propheten ueberliefert –, geordnet nach rechtlichen Themen. Es gilt als das klassische Referenzwerk zum Mursal-Genre und dessen Beweiskraft."
   intro_es: "Kitab al-Marasil del imam Abu Dawud al-Siyistani (m. 275 H) reune unos quinientos cuarenta relatos mursal —hadices en los que un Sucesor narra directamente del Profeta— organizados por temas juridicos. Constituye la obra de referencia clasica sobre el genero mursal y su valor probatorio."
 
-translations[10]{language,sections,path}:
+translations[15]{language,sections,path}:
 "bn","1","translations/bn"
+"bs","1","translations/bs"
+"de","1","translations/de"
 "en","1","translations/en"
+"es","1","translations/es"
 "fr","1","translations/fr"
 "hi","1","translations/hi"
 "id","1","translations/id"
 "roman-ur","1","translations/roman-ur"
 "ru","1","translations/ru"
+"sw","1","translations/sw"
 "ta","1","translations/ta"
+"te","1","translations/te"
 "tr","1","translations/tr"
 "ur","1","translations/ur"
 

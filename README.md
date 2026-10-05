@@ -17,7 +17,7 @@ The most comprehensive multilingual Hadith database on the internet. **45 books,
 | **Total Hadiths** | 325,099 |
 | **Languages** | Arabic, Bengali, Bosnian, German, English, Spanish, French, Hindi, Indonesian, Roman Urdu, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
 | **Collections** | 45 unified books |
-| **Database Files** | 14,752 `.toon` files |
+| **Database Files** | 15,893 `.toon` files |
 
 Arabic text and metadata stored in `editions/{book}/sections/{N}.toon`. Translations stored separately in `editions/{book}/translations/{lang}/sections/{N}.toon` for efficient loading.
 

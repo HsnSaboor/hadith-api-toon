@@ -427,12 +427,12 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | 10 | Majma al-Zawaid | ar,en,ur | 18,776 |
 | 11 | Sunan al-Kubra Bayhaqi | ar,en,ur | 21,815 |
 | 12 | Sahih al-Bukhari | ar,bn,en,fr,hi,id,roman-ur,ru,ta,tr,ur | 7,277 |
-| 13 | Bulugh al-Maram | ar,en,ur | 1,358 |
+| 13 | Bulugh al-Maram | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,358 |
 | 14 | Forty Hadith of Shah Waliullah Dehlawi | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 40 |
 | 15 | Fath al-Rabbani | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 86 |
 | 16 | Sahih Ibn Hibban | ar,en,ur | 7,466 |
-| 17 | Sunan Ibn Majah | ar,bn,en,fr,hi,id,roman-ur,tr,ur | 4,341 |
-| 18 | Al-Lulu wal-Marjan | ar,en,ur | 1,906 |
+| 17 | Sunan Ibn Majah | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,tr,ur | 4,341 |
+| 18 | Al-Lulu wal-Marjan | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,906 |
 | 19 | Muwatta' Malik | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,858 |
 | 20 | Mishkat al-Masabih | ar,en,hi,roman-ur,ur | 6,294 |
 | 21 | Mu'jam Tabarani Saghir | ar,en,ur | 18,326 |

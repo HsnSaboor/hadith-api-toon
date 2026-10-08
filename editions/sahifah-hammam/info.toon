@@ -1,0 +1,29 @@
+
+metadata:
+  book_id: "sahifah-hammam"
+  book_name: "Sahifah Hammam ibn Munabbih"
+  total_hadiths: "139"
+  available_languages: "ar,en,ur"
+  intro: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_ar: "صحيفة همام بن منبه (ت نحو 101هـ) هي أقدم وثيقة حديثية مكتوبة باقية: 138 رواية رواها التابعي اليمني همام بن منبه عن شيخه أبي هريرة، محفوظة برواية معمر بن راشد وعبد الرزاق الصنعاني. تُعرض هنا في 139 حديثا بالعربية والإنجليزية والأردية."
+  intro_en: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_ur: "صحیفہ ہمام بن منبہ (م تقریباً 101ھ) قدیم ترین محفوظ تحریری حدیثی دستاویز ہے: یمنی تابعی ہمام بن منبہ کی اپنے استاد ابوہریرہ رضی اللہ عنہ سے مروی 138 روایات، معمر بن راشد اور عبدالرزاق الصنعانی کی روایت سے محفوظ۔ یہاں 139 احادیث عربی، انگریزی اور اردو کے ساتھ پیش ہیں۔"
+  intro_bn: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_fr: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_hi: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_id: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_roman-ur: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_ru: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_ta: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_tr: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_de: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+  intro_es: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
+
+translations[2]{language,sections,path}:
+
+"en","1","translations/en"
+
+"ur","1","translations/ur"
+
+sections[1]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","1","139","1","139","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous"

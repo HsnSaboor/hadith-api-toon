@@ -1,0 +1,36 @@
+
+metadata:
+  book_id: "musnad-shihab"
+  book_name: "Musnad al-Shihab"
+  total_hadiths: "1499"
+  available_languages: "ar,en,ur"
+  intro: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_ar: "مسند الشهاب للقضاعي (ت 454هـ) يجمع الأحاديث القصار والحكم المروية عن النبي صلى الله عليه وسلم. يُعرض هنا في 1499 حديثا بالعربية والإنجليزية والأردية."
+  intro_en: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_ur: "مسند الشہاب للقضاعی (م 454ھ) نبی کریم صلی اللہ علیہ وسلم سے مروی مختصر حکمتی روایات کا مجموعہ ہے۔ یہاں 1499 احادیث عربی، انگریزی اور اردو کے ساتھ پیش ہیں۔"
+  intro_bn: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_fr: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_hi: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_id: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_roman-ur: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_ru: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_ta: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_tr: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_de: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+  intro_es: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
+
+translations[2]{language,sections,path}:
+
+"en","8","translations/en"
+
+"ur","8","translations/ur"
+
+sections[8]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","1","200","1","200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200"
+"2","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","201","400","201","400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400"
+"3","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","401","600","401","600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600"
+"4","Hadiths 601 to 800","Hadiths 601 to 800","Hadiths 601 to 800","Hadiths 601 to 800","Hadiths 601 to 800","Hadiths 601 to 800","Hadiths 601 to 800","Hadiths 601 to 800","Hadiths 601 to 800","601","800","601","800","Hadiths 601 to 800","Hadiths 601 to 800","Hadiths 601 to 800","Hadiths 601 to 800","Hadiths 601 to 800"
+"5","Hadiths 801 to 1000","Hadiths 801 to 1000","Hadiths 801 to 1000","Hadiths 801 to 1000","Hadiths 801 to 1000","Hadiths 801 to 1000","Hadiths 801 to 1000","Hadiths 801 to 1000","Hadiths 801 to 1000","801","1000","801","1000","Hadiths 801 to 1000","Hadiths 801 to 1000","Hadiths 801 to 1000","Hadiths 801 to 1000","Hadiths 801 to 1000"
+"6","Hadiths 1001 to 1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200","1001","1200","1001","1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200","Hadiths 1001 to 1200"
+"7","Hadiths 1201 to 1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400","1201","1400","1201","1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400","Hadiths 1201 to 1400"
+"8","Hadiths 1401 to 1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499","1401","1499","1401","1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499","Hadiths 1401 to 1499"

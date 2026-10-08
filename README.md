@@ -2,7 +2,7 @@
 
 > In the name of God, who has guided me to do this work
 
-The most comprehensive multilingual Hadith database on the internet. **45 books, 325,099 hadiths, 16 languages** — all in unified, CDN-optimized `.toon` format.
+The most comprehensive multilingual Hadith database on the internet. **60 books, 346,114 hadiths, 16 languages** — all in unified, CDN-optimized `.toon` format.
 
 
 **Built from:** [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) · [al-hadees.com](https://al-hadees.com) · [sunnah.com](https://sunnah.com) · [hadith-json](https://github.com/AhmedBaset/hadith-json)
@@ -13,11 +13,11 @@ The most comprehensive multilingual Hadith database on the internet. **45 books,
 
 | Metric | Value |
 |--------|-------|
-| **Books** | 45 |
-| **Total Hadiths** | 325,099 |
+| **Books** | 60 |
+| **Total Hadiths** | 346,114 |
 | **Languages** | Arabic, Bengali, Bosnian, German, English, Spanish, French, Hindi, Indonesian, Roman Urdu, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
 | **Collections** | 45 unified books |
-| **Database Files** | 16,940 `.toon` files |
+| **Database Files** | 18,226 `.toon` files |
 
 Arabic text and metadata stored in `editions/{book}/sections/{N}.toon`. Translations stored separately in `editions/{book}/translations/{lang}/sections/{N}.toon` for efficient loading.
 
@@ -82,7 +82,7 @@ hadiths[7]{hadithnumber,text}:
 ```
 ### How It Works
 
-1. **Global index** — Root `info.toon` lists all 45 books with metadata.
+1. **Global index** — Root `info.toon` lists all 60 books with metadata.
 2. **Book metadata** — `editions/{book}/info.toon` stores intro + section index.
 3. **Section data** — `editions/{book}/sections/{N}.toon` stores Arabic text + metadata (NO translations).
 4. **Translation files** — `editions/{book}/translations/{lang}/sections/{N}.toon` stores translations separately.
@@ -122,7 +122,7 @@ metadata:
 
 **Step 1: Load the book index**
 
-Start by fetching `info.toon` to get all 45 books with their metadata:
+Start by fetching `info.toon` to get all 60 books with their metadata:
 
 ```js
 // Quote-aware positional field splitter
@@ -368,7 +368,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/{endpoint}
 
 | File | Description |
 |------|-------------|
-| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon) | 45 books index (`id,name,total_hadiths,available_languages,path`) |
+| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon) | 60 books index (`id,name,total_hadiths,available_languages,path`) |
 
 ### Per-Book Metadata
 
@@ -390,7 +390,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/sect
 ### Index Files
 
 ```
-info.toon        # All 45 books with section metadata (hadith ranges, section names)
+info.toon        # All 60 books with section metadata (hadith ranges, section names)
 ```
 
 ### Translation Files
@@ -460,6 +460,21 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | 43 | Sunan Sa'id ibn Mansur | ar,en,ur | 4,154 |
 | 44 | Jami' At-Tirmidhi | ar,bn,en,hi,id,roman-ur,tr,ur | 3,955 |
 | 45 | Virtues of Good Deeds | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 93 |
+| 46 | Majmu'a Da'eef Ahadith | ar,en,ur | 1,508 |
+| 47 | Hisn al-Muslim | ar,en,ur | 276 |
+| 48 | Sahih al-Jami' al-Saghir | ar,en,ur | 8,202 |
+| 49 | Mukhtasar Sahih al-Bukhari | ar,en,ur | 2,230 |
+| 50 | Mukhtasar Sahih Muslim | ar,en,ur | 2,179 |
+| 51 | Musnad Abdur Rahman ibn Awf | ar,en,ur | 52 |
+| 52 | Musnad Abdullah ibn al-Mubarak | ar,en,ur | 289 |
+| 53 | Musnad Abdullah ibn Umar | ar,en,ur | 97 |
+| 54 | Musnad Imam al-Shafi'i | ar,en,ur | 1,819 |
+| 55 | Musnad Ishaq ibn Rahwayh | ar,en,ur | 981 |
+| 56 | Musnad al-Shihab | ar,en,ur | 1,499 |
+| 57 | Musnad Umar ibn Abd al-Aziz | ar,en,ur | 97 |
+| 58 | Sahifah Hammam ibn Munabbih | ar,en,ur | 139 |
+| 59 | Sahih al-Adab al-Mufrad | ar,en,ur | 999 |
+| 60 | Sunan al-Shafi'i | ar,en,ur | 648 |
 
 ---
 
@@ -471,6 +486,8 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | [al-hadees.com](https://al-hadees.com) | Arabic + Urdu base for the corpus |
 | [sunnah.com](https://sunnah.com) | English for 6 books |
 | [AhmedBaset/hadith-json](https://github.com/AhmedBaset/hadith-json) | Complete Arabic + English for 6 books |
+| [Tohed (en.tohed.com / tohed.com)](https://en.tohed.com/hadith/) | English + Urdu for 15 new books (ar also, except the 2 Mukhtasars) |
+| [Turath (api.turath.io)](https://turath.io) | Arabic print text for the 2 Mukhtasars (Tajrid al-Sarih 96283, Mukhtasar Muslim 17616) |
 
 ### Grades and References
 
@@ -480,7 +497,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 
 ### Intro Translation Details
 
-- All 45 books now have multilingual book introductions
+- All 60 books now have multilingual book introductions
 - Non-English intros (Urdu) first translated to English, then to other available languages
 - Each book's intro fields depend on its available language columns
 

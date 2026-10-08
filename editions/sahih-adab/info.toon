@@ -1,0 +1,32 @@
+
+metadata:
+  book_id: "sahih-adab"
+  book_name: "Sahih al-Adab al-Mufrad"
+  total_hadiths: "999"
+  available_languages: "ar,en,ur"
+  intro: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_ar: "صحيح الأدب المفرد: ما صححه الألباني من كتاب الأدب المفرد للبخاري في الآداب والأخلاق. يُعرض هنا في 999 حديثا بالعربية والإنجليزية والأردية."
+  intro_en: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_ur: "صحیح الادب المفرد: امام بخاری کی الادب المفرد میں سے علامہ البانی کی تصحیح کردہ صحیح روایات کا مجموعہ۔ یہاں 999 احادیث عربی، انگریزی اور اردو کے ساتھ پیش ہیں۔"
+  intro_bn: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_fr: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_hi: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_id: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_roman-ur: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_ru: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_ta: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_tr: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_de: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+  intro_es: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
+
+translations[2]{language,sections,path}:
+
+"en","4","translations/en"
+
+"ur","4","translations/ur"
+
+sections[4]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"1","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","1","249","1","249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249","Part One: Ahadith 1 to 249"
+"2","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","250","499","250","499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499","Part Two: Ahadith 250 to 499"
+"3","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","500","750","500","750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750","Part Three: Ahadith 500 to 750"
+"4","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","751","999","751","999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999","Part Four: Ahadith 751 to 999"

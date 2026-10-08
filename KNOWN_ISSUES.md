@@ -20,6 +20,15 @@ A recovery pass landed content fixes for many items above. Items are marked inli
 
 Still outstanding: **lulu-wal-marjan EN** (task C1) — LLM translation job was still running at recovery time; re-audit confirms 0 `[AI-translation]` markers landed, so the EN gap of 281 HNs remains unrecovered. **silsila-sahih EN** (task A6) — LLM translation background job had not yet written toon files at recovery time. Both welcome scholarly replacement.
 
+### 15 new books (2026 Tohed+Turath build) — known gaps
+
+All 15 new editions (`daeef`, `hisn-muslim`, `jami-saghir`, `mukhtasar-bukhari`, `mukhtasar-muslim`, `musnad-abdur-rahman`, `musnad-ibn-mubarak`, `musnad-ibn-umar`, `musnad-imam-shafii`, `musnad-ishaq`, `musnad-shihab`, `musnad-umar-abdul-aziz`, `sahifah-hammam`, `sahih-adab`, `sunan-shafii`) are CSV-validated with full ar/en/ur HN parity. Intentional, documented gaps:
+
+1. **[low] intentional — withdrawn upstream entries, numbering preserved** — `daeef` skips HN 11, 305, 1426–1432 (9 absent on source site; 1499/1508 rows). `jami-saghir` skips HN 3832 (absent on source site EN+UR; 8201/8202 rows).
+2. **[low] intentional — Tohed-only entries with no print counterpart** — `mukhtasar-muslim` HN 136 (Jarir khuff-wiping) and HN 1154 (Umar expel-from-Arabia) have no counterpart in the Mundhiri/Albani print; their `arabic` field is empty with a `[Tohed-only entry]` chapter_intro flag rather than fabricated text.
+3. **[low] intentional — shared print entries** — `mukhtasar-bukhari` reuses one Tajrid print entry for two Tohed numbers where Tohed splits a combined narration (T231+T232→P232, T961+T962→P969, T1582+T1584→P1597, T1774+T1775→P1789) or attaches an editorial note (T430→P431, T126MM→P127+P128 in `mukhtasar-muslim`); `mukhtasar-muslim` print extras P112/P128 have no Tohed counterpart. All verified by matn comparison.
+4. **[medium] provenance note** — new books' EN/UR come from Tohed (translator credited per-row upstream, e.g. `trbox` field) and AR from Tohed or Turath print editions (Tajrid al-Sarih 96283, Mukhtasar Muslim 17616); per-language `metadata.toon` records `source: "hadith-new"`. `jami-saghir` grades are al-Albani's from the UR ingest metadata. No `[AI-translation]` content was introduced by this build.
+
 ---
 
 ## Unrecoverable data-loss items (explicit hadith-number ranges)

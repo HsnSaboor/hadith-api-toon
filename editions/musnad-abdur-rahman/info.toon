@@ -3,7 +3,9 @@ metadata:
   book_id: "musnad-abdur-rahman"
   book_name: "Musnad Abdur Rahman ibn Awf"
   total_hadiths: "52"
-  available_languages: "ar,en,ur"
+  available_languages: "ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur"
+  ai_translated_languages: "bn,bs,de,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr"
+  ai_translation_note: "The following languages are machine-assisted translations from the Arabic via LLM, disclosed per-row with an [AI-translation] prefix: bn,bs,de,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr. All other languages are human/scholarly translations."
   intro: "The Musnad of Abdur Rahman ibn Awf (d. 32 AH), one of the ten promised Paradise, gathers his narrations from the Prophet (peace be upon him). Presented here in 52 hadith with Arabic, English and Urdu."
   intro_ar: "مسند عبد الرحمن بن عوف (ت 32هـ)، أحد العشرة المبشرين بالجنة، يجمع مروياته عن النبي صلى الله عليه وسلم. يُعرض هنا في 52 حديثا بالعربية والإنجليزية والأردية."
   intro_en: "The Musnad of Abdur Rahman ibn Awf (d. 32 AH), one of the ten promised Paradise, gathers his narrations from the Prophet (peace be upon him). Presented here in 52 hadith with Arabic, English and Urdu."
@@ -19,9 +21,35 @@ metadata:
   intro_de: "The Musnad of Abdur Rahman ibn Awf (d. 32 AH), one of the ten promised Paradise, gathers his narrations from the Prophet (peace be upon him). Presented here in 52 hadith with Arabic, English and Urdu."
   intro_es: "The Musnad of Abdur Rahman ibn Awf (d. 32 AH), one of the ten promised Paradise, gathers his narrations from the Prophet (peace be upon him). Presented here in 52 hadith with Arabic, English and Urdu."
 
-translations[2]{language,sections,path}:
+translations[15]{language,sections,path}:
+
+"bn","1","translations/bn"
+
+"bs","1","translations/bs"
+
+"de","1","translations/de"
 
 "en","1","translations/en"
+
+"es","1","translations/es"
+
+"fr","1","translations/fr"
+
+"hi","1","translations/hi"
+
+"id","1","translations/id"
+
+"roman-ur","1","translations/roman-ur"
+
+"ru","1","translations/ru"
+
+"sw","1","translations/sw"
+
+"ta","1","translations/ta"
+
+"te","1","translations/te"
+
+"tr","1","translations/tr"
 
 "ur","1","translations/ur"
 

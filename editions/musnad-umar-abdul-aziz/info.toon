@@ -3,7 +3,9 @@ metadata:
   book_id: "musnad-umar-abdul-aziz"
   book_name: "Musnad Umar ibn Abd al-Aziz"
   total_hadiths: "97"
-  available_languages: "ar,en,ur"
+  available_languages: "ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur"
+  ai_translated_languages: "bn,bs,de,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr"
+  ai_translation_note: "The following languages are machine-assisted translations from the Arabic via LLM, disclosed per-row with an [AI-translation] prefix: bn,bs,de,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr. All other languages are human/scholarly translations."
   intro: "The Musnad of Umar ibn Abd al-Aziz (d. 101 AH), the Umayyad caliph renowned for his justice and piety, gathers his narrations from the Prophet (peace be upon him). Presented here in 97 hadith with Arabic, English and Urdu."
   intro_ar: "مسند عمر بن عبد العزيز (ت 101هـ)، الخليفة الأموي المشهور بعدله وتقواه، يجمع مروياته عن النبي صلى الله عليه وسلم. يُعرض هنا في 97 حديثا بالعربية والإنجليزية والأردية."
   intro_en: "The Musnad of Umar ibn Abd al-Aziz (d. 101 AH), the Umayyad caliph renowned for his justice and piety, gathers his narrations from the Prophet (peace be upon him). Presented here in 97 hadith with Arabic, English and Urdu."
@@ -19,9 +21,35 @@ metadata:
   intro_de: "The Musnad of Umar ibn Abd al-Aziz (d. 101 AH), the Umayyad caliph renowned for his justice and piety, gathers his narrations from the Prophet (peace be upon him). Presented here in 97 hadith with Arabic, English and Urdu."
   intro_es: "The Musnad of Umar ibn Abd al-Aziz (d. 101 AH), the Umayyad caliph renowned for his justice and piety, gathers his narrations from the Prophet (peace be upon him). Presented here in 97 hadith with Arabic, English and Urdu."
 
-translations[2]{language,sections,path}:
+translations[15]{language,sections,path}:
+
+"bn","34","translations/bn"
+
+"bs","34","translations/bs"
+
+"de","34","translations/de"
 
 "en","34","translations/en"
+
+"es","34","translations/es"
+
+"fr","34","translations/fr"
+
+"hi","34","translations/hi"
+
+"id","34","translations/id"
+
+"roman-ur","34","translations/roman-ur"
+
+"ru","34","translations/ru"
+
+"sw","34","translations/sw"
+
+"ta","34","translations/ta"
+
+"te","34","translations/te"
+
+"tr","34","translations/tr"
 
 "ur","34","translations/ur"
 

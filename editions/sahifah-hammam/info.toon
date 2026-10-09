@@ -3,7 +3,9 @@ metadata:
   book_id: "sahifah-hammam"
   book_name: "Sahifah Hammam ibn Munabbih"
   total_hadiths: "139"
-  available_languages: "ar,en,ur"
+  available_languages: "ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur"
+  ai_translated_languages: "bn,bs,de,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr"
+  ai_translation_note: "The following languages are machine-assisted translations from the Arabic via LLM, disclosed per-row with an [AI-translation] prefix: bn,bs,de,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr. All other languages are human/scholarly translations."
   intro: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
   intro_ar: "صحيفة همام بن منبه (ت نحو 101هـ) هي أقدم وثيقة حديثية مكتوبة باقية: 138 رواية رواها التابعي اليمني همام بن منبه عن شيخه أبي هريرة، محفوظة برواية معمر بن راشد وعبد الرزاق الصنعاني. تُعرض هنا في 139 حديثا بالعربية والإنجليزية والأردية."
   intro_en: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
@@ -19,9 +21,35 @@ metadata:
   intro_de: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
   intro_es: "The Sahifah of Hammam ibn Munabbih (d. ca. 101 AH) is the oldest surviving written hadith document: 138 narrations transmitted by the Yemeni Tabi'i Hammam ibn Munabbih from his teacher Abu Hurayrah, preserved through the transmission of Ma'mar ibn Rashid and Abd al-Razzaq al-San'ani. Presented here in 139 hadith with Arabic, English and Urdu."
 
-translations[2]{language,sections,path}:
+translations[15]{language,sections,path}:
+
+"bn","1","translations/bn"
+
+"bs","1","translations/bs"
+
+"de","1","translations/de"
 
 "en","1","translations/en"
+
+"es","1","translations/es"
+
+"fr","1","translations/fr"
+
+"hi","1","translations/hi"
+
+"id","1","translations/id"
+
+"roman-ur","1","translations/roman-ur"
+
+"ru","1","translations/ru"
+
+"sw","1","translations/sw"
+
+"ta","1","translations/ta"
+
+"te","1","translations/te"
+
+"tr","1","translations/tr"
 
 "ur","1","translations/ur"
 

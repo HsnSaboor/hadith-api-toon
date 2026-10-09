@@ -3,7 +3,9 @@ metadata:
   book_id: "musnad-ishaq"
   book_name: "Musnad Ishaq ibn Rahwayh"
   total_hadiths: "981"
-  available_languages: "ar,en,ur"
+  available_languages: "ar,en,es,fr,hi,ur"
+  ai_translated_languages: "es,fr,hi"
+  ai_translation_note: "The following languages are machine-assisted translations from the English via LLM, disclosed per-row with an [AI-translation] prefix: es,fr,hi. All other languages are human/scholarly translations."
   intro: "The surviving portion of the Musnad of Ishaq ibn Rahwayh (d. 238 AH), teacher of al-Bukhari and Muslim, arranged by Companion and subject. Presented here in 981 hadith with Arabic, English and Urdu."
   intro_ar: "الجزء الباقي من مسند إسحاق بن راهويه (ت 238هـ)، شيخ البخاري ومسلم، مرتب على الصحابة والأبواب. يُعرض هنا في 981 حديثا بالعربية والإنجليزية والأردية."
   intro_en: "The surviving portion of the Musnad of Ishaq ibn Rahwayh (d. 238 AH), teacher of al-Bukhari and Muslim, arranged by Companion and subject. Presented here in 981 hadith with Arabic, English and Urdu."
@@ -19,9 +21,15 @@ metadata:
   intro_de: "The surviving portion of the Musnad of Ishaq ibn Rahwayh (d. 238 AH), teacher of al-Bukhari and Muslim, arranged by Companion and subject. Presented here in 981 hadith with Arabic, English and Urdu."
   intro_es: "The surviving portion of the Musnad of Ishaq ibn Rahwayh (d. 238 AH), teacher of al-Bukhari and Muslim, arranged by Companion and subject. Presented here in 981 hadith with Arabic, English and Urdu."
 
-translations[2]{language,sections,path}:
+translations[5]{language,sections,path}:
 
 "en","39","translations/en"
+
+"es","39","translations/es"
+
+"fr","39","translations/fr"
+
+"hi","39","translations/hi"
 
 "ur","39","translations/ur"
 

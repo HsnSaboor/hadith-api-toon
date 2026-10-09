@@ -3,7 +3,9 @@ metadata:
   book_id: "musnad-shihab"
   book_name: "Musnad al-Shihab"
   total_hadiths: "1499"
-  available_languages: "ar,en,ur"
+  available_languages: "ar,en,es,fr,hi,ur"
+  ai_translated_languages: "es,fr,hi"
+  ai_translation_note: "The following languages are machine-assisted translations from the English via LLM, disclosed per-row with an [AI-translation] prefix: es,fr,hi. All other languages are human/scholarly translations."
   intro: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
   intro_ar: "مسند الشهاب للقضاعي (ت 454هـ) يجمع الأحاديث القصار والحكم المروية عن النبي صلى الله عليه وسلم. يُعرض هنا في 1499 حديثا بالعربية والإنجليزية والأردية."
   intro_en: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
@@ -19,9 +21,15 @@ metadata:
   intro_de: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
   intro_es: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
 
-translations[2]{language,sections,path}:
+translations[5]{language,sections,path}:
 
 "en","8","translations/en"
+
+"es","8","translations/es"
+
+"fr","8","translations/fr"
+
+"hi","8","translations/hi"
 
 "ur","8","translations/ur"
 

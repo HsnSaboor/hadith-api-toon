@@ -47,7 +47,7 @@ books[60]{id,name,total_hadiths,available_languages,path}:
 "qudsi","Forty Hadith Qudsi","40","ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur","editions/qudsi"
 "riyadussalihin","Riyad as-Salihin","1896","ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur","editions/riyadussalihin"
 "sahifah-hammam","Sahifah Hammam ibn Munabbih","139","ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur","editions/sahifah-hammam"
-"sahih-adab","Sahih al-Adab al-Mufrad","999","ar,en,ur","editions/sahih-adab"
+"sahih-adab","Sahih al-Adab al-Mufrad","999","ar,en,id,roman-ur,ur","editions/sahih-adab"
 "sahih-ibn-khuzaymah","Sahih Ibn Khuzaymah","3784","ar,en,ur","editions/sahih-ibn-khuzaymah"
 "shamail-tirmidhi","Shamail-e-Tirmidhi","417","ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur","editions/shamail-tirmidhi"
 "sharh-maani-al-athar","Sharh Ma'ani al-Athar","7029","ar,en,ur","editions/sharh-maani-al-athar"

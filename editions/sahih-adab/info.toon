@@ -3,7 +3,9 @@ metadata:
   book_id: "sahih-adab"
   book_name: "Sahih al-Adab al-Mufrad"
   total_hadiths: "999"
-  available_languages: "ar,en,ur"
+  available_languages: "ar,en,id,roman-ur,ur"
+  ai_translated_languages: "id,roman-ur"
+  ai_translation_note: "The following languages are machine-assisted translations from the Arabic via LLM, disclosed per-row with an [AI-translation] prefix: id,roman-ur. All other languages are human/scholarly translations."
   intro: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
   intro_ar: "صحيح الأدب المفرد: ما صححه الألباني من كتاب الأدب المفرد للبخاري في الآداب والأخلاق. يُعرض هنا في 999 حديثا بالعربية والإنجليزية والأردية."
   intro_en: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
@@ -19,9 +21,13 @@ metadata:
   intro_de: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
   intro_es: "Al-Albani's authentication of al-Bukhari's al-Adab al-Mufrad: the narrations on manners and conduct judged authentic, with weak reports removed. Presented here in 999 hadith with Arabic, English and Urdu."
 
-translations[2]{language,sections,path}:
+translations[4]{language,sections,path}:
 
 "en","4","translations/en"
+
+"id","4","translations/id"
+
+"roman-ur","4","translations/roman-ur"
 
 "ur","4","translations/ur"
 

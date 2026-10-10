@@ -431,7 +431,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | 14 | Forty Hadith of Shah Waliullah Dehlawi | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 40 |
 | 15 | Fath al-Rabbani | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 86 |
 | 16 | Sahih Ibn Hibban | ar,en,ur | 7,466 |
-| 17 | Sunan Ibn Majah | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,tr,ur | 4,341 |
+| 17 | Sunan Ibn Majah | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 4,341 |
 | 18 | Al-Lulu wal-Marjan | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,906 |
 | 19 | Muwatta' Malik | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,858 |
 | 20 | Mishkat al-Masabih | ar,en,hi,roman-ur,ur | 6,294 |

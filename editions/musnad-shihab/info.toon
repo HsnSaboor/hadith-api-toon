@@ -3,9 +3,9 @@ metadata:
   book_id: "musnad-shihab"
   book_name: "Musnad al-Shihab"
   total_hadiths: "1499"
-  available_languages: "ar,en,es,fr,hi,ur"
-  ai_translated_languages: "es,fr,hi"
-  ai_translation_note: "The following languages are machine-assisted translations from the English via LLM, disclosed per-row with an [AI-translation] prefix: es,fr,hi. All other languages are human/scholarly translations."
+  available_languages: "ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur"
+  ai_translated_languages: "bn,bs,de,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr"
+  ai_translation_note: "The following languages are machine-assisted translations from the Arabic via LLM, disclosed per-row with an [AI-translation] prefix: bn,bs,de,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr. All other languages are human/scholarly translations."
   intro: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
   intro_ar: "مسند الشهاب للقضاعي (ت 454هـ) يجمع الأحاديث القصار والحكم المروية عن النبي صلى الله عليه وسلم. يُعرض هنا في 1499 حديثا بالعربية والإنجليزية والأردية."
   intro_en: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
@@ -21,7 +21,13 @@ metadata:
   intro_de: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
   intro_es: "Musnad al-Shihab of al-Quda'i (d. 454 AH) gathers short wisdom narrations from the Prophet (peace be upon him), arranged for memorization. Presented here in 1,499 hadith with Arabic, English and Urdu."
 
-translations[5]{language,sections,path}:
+translations[15]{language,sections,path}:
+
+"bn","8","translations/bn"
+
+"bs","8","translations/bs"
+
+"de","8","translations/de"
 
 "en","8","translations/en"
 
@@ -31,9 +37,21 @@ translations[5]{language,sections,path}:
 
 "hi","8","translations/hi"
 
-"ur","8","translations/ur"
+"id","8","translations/id"
 
-sections[8]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"roman-ur","8","translations/roman-ur"
+
+"ru","8","translations/ru"
+
+"sw","8","translations/sw"
+
+"ta","8","translations/ta"
+
+"te","8","translations/te"
+
+"tr","8","translations/tr"
+
+"ur","8","translations/ur"sections[8]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
 "1","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","1","200","1","200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200"
 "2","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","201","400","201","400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400"
 "3","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","401","600","401","600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600"

@@ -460,7 +460,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | 43 | Sunan Sa'id ibn Mansur | ar,en,ur | 4,154 |
 | 44 | Jami' At-Tirmidhi | ar,bn,en,hi,id,roman-ur,tr,ur | 3,955 |
 | 45 | Virtues of Good Deeds | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 93 |
-| 46 | Majmu'a Da'eef Ahadith | ar,en,ur | 1,508 |
+| 46 | Majmu'a Da'eef Ahadith | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,508 |
 | 47 | Hisn al-Muslim | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 276 |
 | 48 | Sahih al-Jami' al-Saghir | ar,en,ur | 8,202 |
 | 49 | Mukhtasar Sahih al-Bukhari | ar,en,ur | 2,230 |
@@ -469,12 +469,12 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | 52 | Musnad Abdullah ibn al-Mubarak | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 289 |
 | 53 | Musnad Abdullah ibn Umar | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 97 |
 | 54 | Musnad Imam al-Shafi'i | ar,en,ur | 1,819 |
-| 55 | Musnad Ishaq ibn Rahwayh | ar,en,ur | 981 |
-| 56 | Musnad al-Shihab | ar,en,ur | 1,499 |
+| 55 | Musnad Ishaq ibn Rahwayh | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 981 |
+| 56 | Musnad al-Shihab | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,499 |
 | 57 | Musnad Umar ibn Abd al-Aziz | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 97 |
 | 58 | Sahifah Hammam ibn Munabbih | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 139 |
-| 59 | Sahih al-Adab al-Mufrad | ar,en,ur | 999 |
-| 60 | Sunan al-Shafi'i | ar,en,ur | 648 |
+| 59 | Sahih al-Adab al-Mufrad | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 999 |
+| 60 | Sunan al-Shafi'i | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 648 |
 
 ---
 

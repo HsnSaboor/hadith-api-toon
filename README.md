@@ -468,7 +468,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | 51 | Musnad Abdur Rahman ibn Awf | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 52 |
 | 52 | Musnad Abdullah ibn al-Mubarak | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 289 |
 | 53 | Musnad Abdullah ibn Umar | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 97 |
-| 54 | Musnad Imam al-Shafi'i | ar,en,ur | 1,819 |
+| 54 | Musnad Imam al-Shafi'i | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,819 |
 | 55 | Musnad Ishaq ibn Rahwayh | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 981 |
 | 56 | Musnad al-Shihab | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,499 |
 | 57 | Musnad Umar ibn Abd al-Aziz | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 97 |

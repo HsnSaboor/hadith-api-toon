@@ -2,7 +2,7 @@
 
 > In the name of God, who has guided me to do this work
 
-The most comprehensive multilingual Hadith database on the internet. **60 books, 346,114 hadiths, 16 languages** — all in unified, CDN-optimized `.toon` format.
+The most comprehensive multilingual Hadith database on the internet. **61 books, 346,213 hadiths, 16 languages** — all in unified, CDN-optimized `.toon` format.
 
 
 **Built from:** [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) · [al-hadees.com](https://al-hadees.com) · [sunnah.com](https://sunnah.com) · [hadith-json](https://github.com/AhmedBaset/hadith-json)
@@ -13,8 +13,8 @@ The most comprehensive multilingual Hadith database on the internet. **60 books,
 
 | Metric | Value |
 |--------|-------|
-| **Books** | 60 |
-| **Total Hadiths** | 346,114 |
+| **Books** | 61 |
+| **Total Hadiths** | 346,213 |
 | **Languages** | Arabic, Bengali, Bosnian, German, English, Spanish, French, Hindi, Indonesian, Roman Urdu, Russian, Swahili, Tamil, Telugu, Turkish, Urdu |
 | **Collections** | 45 unified books |
 | **Database Files** | 18,226 `.toon` files |
@@ -82,7 +82,7 @@ hadiths[7]{hadithnumber,text}:
 ```
 ### How It Works
 
-1. **Global index** — Root `info.toon` lists all 60 books with metadata.
+1. **Global index** — Root `info.toon` lists all 61 books with metadata.
 2. **Book metadata** — `editions/{book}/info.toon` stores intro + section index.
 3. **Section data** — `editions/{book}/sections/{N}.toon` stores Arabic text + metadata (NO translations).
 4. **Translation files** — `editions/{book}/translations/{lang}/sections/{N}.toon` stores translations separately.
@@ -122,7 +122,7 @@ metadata:
 
 **Step 1: Load the book index**
 
-Start by fetching `info.toon` to get all 60 books with their metadata:
+Start by fetching `info.toon` to get all 61 books with their metadata:
 
 ```js
 // Quote-aware positional field splitter
@@ -368,7 +368,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/{endpoint}
 
 | File | Description |
 |------|-------------|
-| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon) | 60 books index (`id,name,total_hadiths,available_languages,path`) |
+| [`info.toon`](https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon) | 61 books index (`id,name,total_hadiths,available_languages,path`) |
 
 ### Per-Book Metadata
 
@@ -390,7 +390,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/editions/bukhari/sect
 ### Index Files
 
 ```
-info.toon        # All 60 books with section metadata (hadith ranges, section names)
+info.toon        # All 61 books with section metadata (hadith ranges, section names)
 ```
 
 ### Translation Files
@@ -497,7 +497,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 
 ### Intro Translation Details
 
-- All 60 books now have multilingual book introductions
+- All 61 books now have multilingual book introductions
 - Non-English intros (Urdu) first translated to English, then to other available languages
 - Each book's intro fields depend on its available language columns
 

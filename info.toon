@@ -1,4 +1,4 @@
-books[60]{id,name,total_hadiths,available_languages,path}:
+books[61]{id,name,total_hadiths,available_languages,path}:
 "abdurrazzaq","Musannaf Abdur Razzaq","18777","ar,en,ur","editions/abdurrazzaq"
 "abudawud","Sunan Abu Dawud","5274","ar,bn,en,fr,hi,id,roman-ur,ru,tr,ur","editions/abudawud"
 "al-ahadith-al-mukhtarah","Al-Ahadith al-Mukhtarah","4953","ar,en,ur","editions/al-ahadith-al-mukhtarah"
@@ -59,3 +59,4 @@ books[60]{id,name,total_hadiths,available_languages,path}:
 "sunan-shafii","Sunan al-Shafi'i","648","ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur","editions/sunan-shafii"
 "tirmidhi","Jami' At-Tirmidhi","3955","ar,bn,en,hi,id,roman-ur,tr,ur","editions/tirmidhi"
 "virtues","Virtues of Good Deeds","93","ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur","editions/virtues"
+"bahjat-al-sadi","Bahjat Qulub al-Abrar","99","ar","editions/bahjat-al-sadi"

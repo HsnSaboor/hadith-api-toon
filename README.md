@@ -443,7 +443,7 @@ https://cdn.jsdelivr.net/gh/HsnSaboor/hadith-api-toon@main/info.toon
 | 26 | Musnad Ahmad | ar,en,ur | 28,198 |
 | 27 | Musnad al-Bazzar | ar,en,ur | 10,415 |
 | 28 | Musnad al-Humaydi | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 1,333 |
-| 29 | Musnad al-Tayalisi | ar,en,ur | 2,896 |
+| 29 | Musnad al-Tayalisi | ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur | 2,896 |
 | 30 | Al-Mustadrak | ar,en,ur | 8,803 |
 | 31 | Sunan an-Nasai | ar,bn,en,fr,hi,id,roman-ur,tr,ur | 5,740 |
 | 32 | Sunan al-Kubra an-Nasai | ar,en,ur | 11,385 |

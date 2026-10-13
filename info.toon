@@ -59,4 +59,4 @@ books[61]{id,name,total_hadiths,available_languages,path}:
 "sunan-shafii","Sunan al-Shafi'i","648","ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur","editions/sunan-shafii"
 "tirmidhi","Jami' At-Tirmidhi","3955","ar,bn,en,hi,id,roman-ur,tr,ur","editions/tirmidhi"
 "virtues","Virtues of Good Deeds","93","ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur","editions/virtues"
-"bahjat-al-sadi","Bahjat Qulub al-Abrar","99","ar","editions/bahjat-al-sadi"
+"bahjat-al-sadi","Bahjat Qulub al-Abrar","99","ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur","editions/bahjat-al-sadi"

@@ -2,12 +2,44 @@ metadata:
   book_id: "bahjat-al-sadi"
   book_name: "Bahjat Qulub al-Abrar"
   total_hadiths: "99"
-  available_languages: "ar"
-  intro: "Bahjat Qulub al-Abrar wa Qurrat 'Uyun al-Akhyar fi Sharh Jawami' al-Akhbar (""The Joy of the Hearts of the Righteous""), by Shaykh 'Abd al-Rahman ibn Nasir al-Sa'di (1307-1376 AH / 1889-1956 CE), is a concise commentary on 99 hand-picked jawami' al-kalim narrations drawn chiefly from Sahih al-Bukhari and Sahih Muslim, each followed by the author's brief explanation of its meanings and rulings. Al-Sa'di - the great Hanbali exegete of 'Unayzah, teacher of Ibn 'Uthaymin, and author of the celebrated Tafsir al-Sa'di (Taysir al-Karim al-Rahman) - selected narrations spanning creed, worship, ethics, transactions, and the heart's deeds, making the book a beloved primer for students and new Muslims. Presented here in 99 hadith with the Arabic matn and takhrij (Ministry of Islamic Affairs, 4th edition, 1423 AH). Sa'di's commentary is not included in this edition."
-  intro_ar: "كتاب بهجة قلوب الأبرار وقرة عيون الأخيار في شرح جوامع الأخبار للشيخ عبد الرحمن بن ناصر السعدي (1307-1376هـ / 1889-1956م) شرح مختصر لتسعة وتسعين حديثا منتقاة من جوامع الكلم، مأخوذة في الغالب من صحيحي البخاري ومسلم، يذكر المؤلف بعد كل حديث معناه وما يستفاد منه من الأحكام. والسعدي - المفسر الحنبلي الكبير من عنيزة، وشيخ ابن عثيمين، وصاحب التفسير المشهور تيسير الكريم الرحمن - اختار أحاديث تشمل العقيدة والعبادة والأخلاق والمعاملات وأعمال القلوب، فصار الكتاب متنا محبوبا لطلاب العلم والمسلمين الجدد. يُعرض هنا في 99 حديثا بالمتن العربي مع التخريج (طبعة وزارة الشؤون الإسلامية، الطبعة الرابعة 1423هـ). شرح السعدي غير مشمول في هذه النسخة."
-  intro_en: "Bahjat Qulub al-Abrar wa Qurrat 'Uyun al-Akhyar fi Sharh Jawami' al-Akhbar (""The Joy of the Hearts of the Righteous""), by Shaykh 'Abd al-Rahman ibn Nasir al-Sa'di (1307-1376 AH / 1889-1956 CE), is a concise commentary on 99 hand-picked jawami' al-kalim narrations drawn chiefly from Sahih al-Bukhari and Sahih Muslim, each followed by the author's brief explanation of its meanings and rulings. Al-Sa'di - the great Hanbali exegete of 'Unayzah, teacher of Ibn 'Uthaymin, and author of the celebrated Tafsir al-Sa'di (Taysir al-Karim al-Rahman) - selected narrations spanning creed, worship, ethics, transactions, and the heart's deeds, making the book a beloved primer for students and new Muslims. Presented here in 99 hadith with the Arabic matn and takhrij (Ministry of Islamic Affairs, 4th edition, 1423 AH). Sa'di's commentary is not included in this edition."
+  available_languages: "ar,bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur"
+  ai_translated_languages: "bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur"
+  ai_translation_note: "The following languages are machine-assisted translations from the Arabic via LLM, disclosed per-row with an [AI-translation] prefix: bn,bs,de,en,es,fr,hi,id,roman-ur,ru,sw,ta,te,tr,ur. All other languages are human/scholarly translations."
+  intro: "Bahjat Qulub al-Abrar wa Qurrat 'Uyun al-Akhyar fi Sharh Jawami' al-Akhbar (""The Joy of the Hearts of the Righteous""), by Shaykh 'Abd al-Rahman ibn Nasir al-Sa'di (1307-1376 AH / 1889-1956 CE), is a concise commentary on 99 hand-picked jawami' al-kalim narrations drawn chiefly from Sahih al-Bukhari and Sahih Muslim, each followed by the author's brief explanation of its meanings and rulings. Al-Sa'di - the great Hanbali exegete of 'Unayzah, teacher of Ibn 'Uthaymin, and author of the celebrated Tafsir al-Sa'di (Taysir al-Karim al-Rahman) - selected narrations spanning creed, worship, ethics, transactions, and the heart's deeds, making the book a beloved primer for students and new Muslims. Presented here in 99 hadith with the Arabic matn and takhrij (Ministry of Islamic Affairs, 4th edition, 1423 AH); the translated editions bundle each matn with Sa'di's commentary."
+  intro_ar: "كتاب بهجة قلوب الأبرار وقرة عيون الأخيار في شرح جوامع الأخبار للشيخ عبد الرحمن بن ناصر السعدي (1307-1376هـ / 1889-1956م) شرح مختصر لتسعة وتسعين حديثا منتقاة من جوامع الكلم، مأخوذة في الغالب من صحيحي البخاري ومسلم، يذكر المؤلف بعد كل حديث معناه وما يستفاد منه من الأحكام. والسعدي - المفسر الحنبلي الكبير من عنيزة، وشيخ ابن عثيمين، وصاحب التفسير المشهور تيسير الكريم الرحمن - اختار أحاديث تشمل العقيدة والعبادة والأخلاق والمعاملات وأعمال القلوب، فصار الكتاب متنا محبوبا لطلاب العلم والمسلمين الجدد. يُعرض هنا في 99 حديثا بالمتن العربي مع التخريج (طبعة وزارة الشؤون الإسلامية، الطبعة الرابعة 1423هـ)، وتشمل الترجماتُ متنَ كل حديث مع شرح السعدي."
+  intro_en: "Bahjat Qulub al-Abrar wa Qurrat 'Uyun al-Akhyar fi Sharh Jawami' al-Akhbar (""The Joy of the Hearts of the Righteous""), by Shaykh 'Abd al-Rahman ibn Nasir al-Sa'di (1307-1376 AH / 1889-1956 CE), is a concise commentary on 99 hand-picked jawami' al-kalim narrations drawn chiefly from Sahih al-Bukhari and Sahih Muslim, each followed by the author's brief explanation of its meanings and rulings. Al-Sa'di - the great Hanbali exegete of 'Unayzah, teacher of Ibn 'Uthaymin, and author of the celebrated Tafsir al-Sa'di (Taysir al-Karim al-Rahman) - selected narrations spanning creed, worship, ethics, transactions, and the heart's deeds, making the book a beloved primer for students and new Muslims. Presented here in 99 hadith with the Arabic matn and takhrij (Ministry of Islamic Affairs, 4th edition, 1423 AH); the translated editions bundle each matn with Sa'di's commentary."
 
-translations[0]{language,sections,path}:
+translations[15]{language,sections,path}:
+
+"bn","1","translations/bn"
+
+"bs","1","translations/bs"
+
+"de","1","translations/de"
+
+"en","1","translations/en"
+
+"es","1","translations/es"
+
+"fr","1","translations/fr"
+
+"hi","1","translations/hi"
+
+"id","1","translations/id"
+
+"roman-ur","1","translations/roman-ur"
+
+"ru","1","translations/ru"
+
+"sw","1","translations/sw"
+
+"ta","1","translations/ta"
+
+"te","1","translations/te"
+
+"tr","1","translations/tr"
+
+"ur","1","translations/ur"
 
 sections[1]{id,name,name_ar,hadith_first,hadith_last,arabic_first,arabic_last}:
 "1","Bahjat Qulub al-Abrar","بهجة قلوب الأبرار وقرة عيون الأخيار في شرح جوامع الأخبار","1","99","1","99"

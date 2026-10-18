@@ -54,7 +54,9 @@ translations[15]{language,sections,path}:
 
 "tr","5","translations/tr"
 
-"ur","5","translations/ur"sections[5]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"ur","5","translations/ur"
+
+sections[5]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
 "1","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","1","108","1","108","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous"
 "2","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","109","308","109","308","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous"
 "3","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","309","608","309","608","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous","Miscellaneous"

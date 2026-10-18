@@ -54,7 +54,9 @@ translations[15]{language,sections,path}:
 
 "tr","8","translations/tr"
 
-"ur","8","translations/ur"sections[8]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
+"ur","8","translations/ur"
+
+sections[8]{id,name,name_ar,name_bn,name_en,name_fr,name_id,name_ru,name_tr,name_ur,hadith_first,hadith_last,arabic_first,arabic_last,name_hi,name_ta,name_roman-ur,name_de,name_es}:
 "1","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","1","200","1","200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200","Hadiths 1 to 200"
 "2","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","201","400","201","400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400","Hadiths 201 to 400"
 "3","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","401","600","401","600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600","Hadiths 401 to 600"
